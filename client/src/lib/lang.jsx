@@ -51,8 +51,9 @@ const UI = {
     literally: 'lit.', bookForm: 'kirjakieli:',
     langTitle: 'Explanation language',
     namePromptTitle: 'What should we call you?',
-    namePromptBody: 'The dialogues were written around one learner. Put your name in and the '
-      + 'conversations are about you — in the Finnish too, so you hear your own name spoken.',
+    namePromptBody: 'Put your name in and the conversations are about you — in the Finnish too, '
+      + 'so you hear your own name spoken. Skip it and you are "You", with the dialogues using a '
+      + 'stand-in name.',
     nameSave: 'Use this name', nameSkip: 'Skip',
     nameChange: 'Change the name used in the dialogues',
     saveAudio: '⤓ Save audio offline', savingAudio: 'Saving…',
@@ -96,8 +97,9 @@ const UI = {
     literally: 'nghĩa đen:', bookForm: 'tiếng viết:',
     langTitle: 'Ngôn ngữ giải thích',
     namePromptTitle: 'Bạn muốn được gọi là gì?',
-    namePromptBody: 'Các đoạn hội thoại được viết quanh một người học. Hãy nhập tên bạn để các '
-      + 'cuộc trò chuyện nói về chính bạn — kể cả phần tiếng Phần Lan, nên bạn sẽ nghe thấy tên mình.',
+    namePromptBody: 'Hãy nhập tên bạn để các cuộc trò chuyện nói về chính bạn — kể cả phần tiếng '
+      + 'Phần Lan, nên bạn sẽ nghe thấy tên mình. Bỏ qua thì bạn là «Bạn», và hội thoại sẽ dùng '
+      + 'một cái tên thay thế.',
     nameSave: 'Dùng tên này', nameSkip: 'Bỏ qua',
     nameChange: 'Đổi tên dùng trong hội thoại',
     saveAudio: '⤓ Lưu âm thanh ngoại tuyến', savingAudio: 'Đang lưu…',

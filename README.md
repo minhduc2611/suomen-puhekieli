@@ -121,15 +121,17 @@ behind a "Show the Finnish" button and only the `hint` shows first.
 
 ## The learner's name
 
-The dialogues were written around one learner, called `Duc` in the content files. The app asks for a
-name on first visit and substitutes it at render time — speaker labels, English, Vietnamese and the
-Finnish itself, so you hear your own name spoken. Finnish genitive is handled (`Ducin isä` →
-`Minhin isä`, or `Annan isä` for a name ending in a vowel).
+The dialogues were written around one learner, `Duc` in the content files. That name never reaches
+the screen. The app asks for one on first visit and substitutes it at render time — speaker labels,
+English, Vietnamese and the Finnish itself, so you hear your own name spoken. Finnish genitive is
+handled (`Ducin isä` → `Minhin isä`, or `Annan isä` for a name ending in a vowel).
+
+Skip the prompt and you are labelled **You**, with the sentences using a neutral stand-in (`Alex`).
+The two differ on purpose: a sentence needs a name, and `Mä oon You` is not Finnish worth learning.
 
 The content files stay canonical; nothing is rewritten on disk. A Finnish line whose name changed no
 longer matches its pre-generated clip, so that line drops its audio id and is spoken by the
-on-demand endpoint instead. Skipping the prompt keeps the authored name, and the chip in the header
-changes it later.
+on-demand endpoint instead. The chip in the header changes the name later.
 
 ## Bilingual content
 

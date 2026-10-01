@@ -44,7 +44,7 @@ function App() {
               {ui.allModules}
             </a>
           )}
-          <button className="name-chip" onClick={ask} title={ui.nameChange}>{name}</button>
+          <button className="name-chip" onClick={ask} title={ui.nameChange}>{name || ui.you}</button>
           <LangSwitch />
         </div>
       </header>

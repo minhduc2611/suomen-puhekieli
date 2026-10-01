@@ -5,7 +5,15 @@ import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 // is using the app. The content files stay canonical.
 
 const KEY = 'puhu-suomee:name';
+
+// The name the dialogues were written with. It never reaches the screen: either the
+// learner gives a name, or STAND_IN is used instead.
 export const AUTHORED_NAME = 'Duc';
+
+// Used in sentences when no name has been given. A sentence like "Mä oon Duc" needs
+// *a* name — "Mä oon You" is not Finnish anyone should learn — so the learner is
+// labelled "You" in the margin while the dialogue uses a neutral stand-in.
+export const STAND_IN = 'Alex';
 
 /**
  * Finnish genitive, which is all the inflection the content needs ("Ducin isä").
@@ -24,21 +32,30 @@ export function personaliseText(text, name) {
 }
 
 /**
- * Walk a lesson and rename the learner throughout — speaker labels, Finnish,
- * English and Vietnamese alike. A Finnish line that changed no longer matches its
- * pre-generated clip, so its audio id is dropped and that line is spoken from the
- * on-demand endpoint (or the device) instead of playing the wrong name.
+ * Walk a lesson and put the learner in it. The authored name never survives this.
+ *
+ * With a name given, it is used throughout — speaker labels, Finnish, English and
+ * Vietnamese alike, so the learner hears their own name spoken. With no name, the
+ * sentences use the stand-in and the speaker label becomes "You".
+ *
+ * A Finnish line that changed no longer matches its pre-generated clip, so its
+ * audio id is dropped and that line is spoken on demand instead of playing the
+ * wrong name.
  */
-export function personaliseLesson(lesson, name) {
-  if (!lesson || !name || name === AUTHORED_NAME) return lesson;
-  const rename = (text) => personaliseText(text, name);
+export function personaliseLesson(lesson, name, speakerLabel) {
+  if (!lesson) return lesson;
+  const inSentences = name || STAND_IN;
+  const label = name || speakerLabel || STAND_IN;
+  const rename = (text) => personaliseText(text, inSentences);
 
   const walk = (node) => {
     if (Array.isArray(node)) return node.map(walk);
     if (node && typeof node === 'object') {
       const out = {};
       for (const [key, value] of Object.entries(node)) {
-        out[key] = typeof value === 'string' ? rename(value) : walk(value);
+        out[key] = key === 'speaker' && value === AUTHORED_NAME ? label
+          : typeof value === 'string' ? rename(value)
+          : walk(value);
       }
       if (typeof node.fi === 'string' && out.fi !== node.fi) out.aid = null;
       if (typeof node.rescue_fi === 'string' && out.rescue_fi !== node.rescue_fi) out.rescue_aid = null;
@@ -68,7 +85,8 @@ export function NameProvider({ children }) {
   }, [stored]);
 
   const value = useMemo(() => ({
-    name: stored || AUTHORED_NAME,
+    // '' when unset: the UI shows "You" and the dialogues keep the authored name.
+    name: stored || '',
     isSet: !!stored,
     asking,
     ask: () => setAsking(true),

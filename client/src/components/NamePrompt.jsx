@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { useName, AUTHORED_NAME } from '../lib/name';
+import { useName } from '../lib/name';
 import { useLang } from '../lib/lang';
 
 /**
@@ -8,16 +8,16 @@ import { useLang } from '../lib/lang';
  */
 export default function NamePrompt() {
   const { ui } = useLang();
-  const { asking, name, isSet, save, dismiss } = useName();
-  const [draft, setDraft] = useState(isSet ? name : '');
+  const { asking, name, save, dismiss } = useName();
+  const [draft, setDraft] = useState(name);
   const input = useRef(null);
 
   useEffect(() => {
     if (asking) {
-      setDraft(isSet ? name : '');
+      setDraft(name);
       input.current?.focus();
     }
-  }, [asking, isSet, name]);
+  }, [asking, name]);
 
   if (!asking) return null;
 
@@ -35,7 +35,7 @@ export default function NamePrompt() {
           type="text"
           value={draft}
           maxLength={24}
-          placeholder={AUTHORED_NAME}
+          placeholder={ui.you}
           onChange={(e) => setDraft(e.target.value)}
           aria-label={ui.namePromptTitle}
         />

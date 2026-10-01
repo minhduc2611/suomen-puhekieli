@@ -26,7 +26,7 @@ export default function Lesson({ slug, navigate }) {
   const [raw, setRaw] = useState(null);
   const [error, setError] = useState(null);
   // Re-renames without refetching when the learner changes their name.
-  const lesson = useMemo(() => personaliseLesson(raw, name), [raw, name]);
+  const lesson = useMemo(() => personaliseLesson(raw, name, ui.you), [raw, name, ui.you]);
 
   useEffect(() => {
     audio.stop();
