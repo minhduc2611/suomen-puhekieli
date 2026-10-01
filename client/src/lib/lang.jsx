@@ -55,10 +55,12 @@ const UI = {
     audioMissing: 'No audio files — using the device voice',
     noFinnishVoice: '⚠ No Finnish voice on this device — tap for how to add one',
     speechFailed: '⚠ Audio did not play — tap for why',
+    voiceLabel: 'Voice:',
     speechUnsupported: 'This browser has no speech support, so it cannot read the Finnish aloud. '
       + 'Try Safari or Chrome.',
-    speechSilent: 'The speech engine accepted the line but played nothing. Tap play once more — '
-      + 'if it keeps happening, the installed Finnish voice may need re-downloading.',
+    speechSilent: 'The speech engine accepted the line but played nothing. Try another Finnish '
+      + 'voice below — macOS and iOS list novelty voices (Eddy, Flo, Rocko…) that are often not '
+      + 'downloaded and stay silent. Satu is the dependable one.',
     voicesSeen: (n, name) => `This device reports ${n} voice${n === 1 ? '' : 's'}`
       + (name ? `, Finnish: ${name}.` : ', none of them Finnish.'),
     installVoice: 'iOS: Settings → Accessibility → Spoken Content → Voices → Finnish. '
@@ -93,10 +95,12 @@ const UI = {
     audioMissing: 'Chưa có tệp âm thanh — đang dùng giọng của máy',
     noFinnishVoice: '⚠ Máy chưa có giọng tiếng Phần Lan — bấm để xem cách cài',
     speechFailed: '⚠ Không phát được âm thanh — bấm để xem vì sao',
+    voiceLabel: 'Giọng:',
     speechUnsupported: 'Trình duyệt này không hỗ trợ đọc thành tiếng nên không đọc được tiếng Phần Lan. '
       + 'Hãy thử Safari hoặc Chrome.',
-    speechSilent: 'Bộ đọc đã nhận câu nhưng không phát ra gì. Hãy bấm phát thêm một lần — '
-      + 'nếu vẫn vậy thì có thể cần tải lại giọng tiếng Phần Lan đã cài.',
+    speechSilent: 'Bộ đọc đã nhận câu nhưng không phát ra gì. Hãy thử một giọng tiếng Phần Lan khác '
+      + 'ở bên dưới — macOS và iOS có những giọng vui (Eddy, Flo, Rocko…) thường chưa được tải về '
+      + 'nên không phát ra tiếng. Satu là giọng đáng tin cậy.',
     voicesSeen: (n, name) => `Máy này báo có ${n} giọng`
       + (name ? `, tiếng Phần Lan: ${name}.` : ', không có giọng tiếng Phần Lan nào.'),
     installVoice: 'iOS: Cài đặt → Trợ năng → Nội dung đọc → Giọng nói → Tiếng Phần Lan. '

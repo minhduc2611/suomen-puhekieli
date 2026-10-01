@@ -1,5 +1,8 @@
 import { useEffect, useState } from 'react';
-import { audioPackAvailable, hasFinnishVoice, getSpeechProblem, subscribe, voiceInfo } from '../lib/audio';
+import {
+  audioPackAvailable, hasFinnishVoice, getSpeechProblem, subscribe, voiceInfo,
+  finnishVoices, setVoiceByName, play,
+} from '../lib/audio';
 import { isSaved, saveLessonAudio, lessonClips } from '../lib/offline';
 import { useLang } from '../lib/lang';
 
@@ -21,6 +24,8 @@ export default function AudioSource({ lesson }) {
   const [saved, setSaved] = useState(() => isSaved(lesson.slug));
   const [progress, setProgress] = useState(null);
   const [failed, setFailed] = useState(false);
+  const [voices, setVoices] = useState(finnishVoices);
+  const [chosen, setChosen] = useState(() => voiceInfo().finnish);
 
   // Speech problems are reported through the shared audio state.
   useEffect(() => subscribe(() => setProblem(getSpeechProblem())), []);
@@ -29,7 +34,11 @@ export default function AudioSource({ lesson }) {
   useEffect(() => {
     const synth = window.speechSynthesis;
     if (!synth) return;
-    const update = () => setVoice(hasFinnishVoice());
+    const update = () => {
+      setVoice(hasFinnishVoice());
+      setVoices(finnishVoices());
+      setChosen(voiceInfo().finnish);
+    };
     synth.addEventListener?.('voiceschanged', update);
     const timer = setTimeout(update, 1000);
     return () => {
@@ -63,10 +72,28 @@ export default function AudioSource({ lesson }) {
     );
   }
 
-  const noVoice = voice === false || problem === 'no-voice';
-  if (!noVoice && !problem) return null;
+  // More than one Finnish voice, or one that failed: let the learner switch. macOS
+  // in particular lists novelty voices that accept a line and then play nothing.
+  const picker = voices.length > 1 || (problem && voices.length > 0) ? (
+    <label className="voice-pick">
+      {ui.voiceLabel}
+      <select
+        value={chosen ?? ''}
+        onChange={(e) => {
+          setVoiceByName(e.target.value);
+          setChosen(e.target.value);
+          play('Moi! Mitä kuuluu?', { key: 'voice-test' }).catch(() => {});
+        }}
+      >
+        {voices.map((v) => <option key={v.name} value={v.name}>{v.name}</option>)}
+      </select>
+    </label>
+  ) : null;
 
-  const { voices, finnish } = voiceInfo();
+  const noVoice = voice === false || problem === 'no-voice';
+  if (!noVoice && !problem) return picker;
+
+  const info = voiceInfo();
   const explanation = problem === 'unsupported' ? ui.speechUnsupported
     : noVoice ? ui.installVoice
     : ui.speechSilent;
@@ -76,11 +103,12 @@ export default function AudioSource({ lesson }) {
       <button className="save-audio warn" onClick={() => setHelp((h) => !h)}>
         {noVoice ? ui.noFinnishVoice : ui.speechFailed}
       </button>
+      {picker}
       {help && (
         <p>
           {explanation}
           {' '}
-          <span className="diag">{ui.voicesSeen(voices, finnish)}</span>
+          <span className="diag">{ui.voicesSeen(info.voices, info.finnish)}</span>
         </p>
       )}
     </div>

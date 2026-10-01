@@ -26,12 +26,22 @@ export function snapshot() {
   };
 }
 
-/** Speak a fixed line with no app logic involved, to isolate the engine itself. */
-export function testSpeak(text = 'Moi, mitä kuuluu?') {
+/**
+ * Speak a fixed line with no app logic involved, to isolate the engine itself.
+ * Pass a voice name to try one specific voice: puhuTestSpeak('Moi', 'Satu')
+ */
+export function testSpeak(text = 'Moi, mitä kuuluu?', voiceName = null) {
   const synth = window.speechSynthesis;
   if (!synth) return warn('no speechSynthesis in this browser');
   synth.cancel();
   const u = new SpeechSynthesisUtterance(text);
+  if (voiceName) {
+    const v = synth.getVoices().find((x) => x.name === voiceName);
+    if (!v) return warn(`no voice called "${voiceName}"`);
+    u.voice = v;
+    u.lang = v.lang;
+    log('test: using', v.name, v.lang, v.localService ? '(local)' : '(network)');
+  }
   u.onstart = () => log('test: started');
   u.onend = () => log('test: ended');
   u.onerror = (e) => warn('test: error', e.error);
@@ -51,4 +61,6 @@ if (typeof window !== 'undefined') {
   window.puhuTestSpeak = testSpeak;
   log(`build ${__BUILD_ID__} · audio pack: ${__AUDIO_PACK__ ? 'yes' : 'no (device voice)'}`);
   log('run puhuDebug() for a full snapshot, puhuTestSpeak() to test the engine directly');
+  const fi = snapshot().finnishVoices;
+  log('Finnish voices installed:', fi.length ? fi.join(', ') : '(none)');
 }

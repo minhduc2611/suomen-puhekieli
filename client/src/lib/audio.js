@@ -57,12 +57,52 @@ export function stop() {
   set({ key: null, playing: false, loading: false });
 }
 
+const VOICE_KEY = 'puhu-suomee:voice';
+
+// macOS ships a pile of novelty voices (Eddy, Flo, Rocko, Grandma…) in every
+// language. They are listed like any other voice but are often not downloaded, and
+// then they accept an utterance and play nothing. Rank them last; prefer the plain
+// system voice (Satu on macOS/iOS) or a Google one.
+const PREFERRED = /satu|google|microsoft/i;
+const NOVELTY = /eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley|bubbles|bells|boing|jester|organ|superstar|trinoids|whisper|wobble|zarvox|cellos|bad news|good news/i;
+
+export function finnishVoices() {
+  const voices = window.speechSynthesis?.getVoices?.() ?? [];
+  return voices
+    .filter((v) => v.lang?.toLowerCase().startsWith('fi'))
+    .sort((a, b) => rank(a) - rank(b));
+}
+
+function rank(v) {
+  if (PREFERRED.test(v.name)) return 0;
+  if (NOVELTY.test(v.name)) return 3;
+  return v.localService ? 1 : 2;
+}
+
+/** The voice the learner picked, if it is still installed. */
+function chosenVoice() {
+  try {
+    const name = localStorage.getItem(VOICE_KEY);
+    return name ? finnishVoices().find((v) => v.name === name) ?? null : null;
+  } catch {
+    return null;
+  }
+}
+
+export function setVoiceByName(name) {
+  try {
+    if (name) localStorage.setItem(VOICE_KEY, name);
+    else localStorage.removeItem(VOICE_KEY);
+  } catch { /* storage blocked — the choice just won't persist */ }
+  voice = undefined;
+}
+
 let voice;
 function finnishVoice() {
   if (voice !== undefined) return voice;
   const voices = window.speechSynthesis?.getVoices?.() ?? [];
   if (voices.length === 0) return undefined; // not loaded yet; try again next time
-  voice = voices.find((v) => v.lang?.toLowerCase().startsWith('fi')) ?? null;
+  voice = chosenVoice() ?? finnishVoices()[0] ?? null;
   return voice;
 }
 window.speechSynthesis?.addEventListener?.('voiceschanged', () => { voice = undefined; });
@@ -70,8 +110,7 @@ window.speechSynthesis?.addEventListener?.('voiceschanged', () => { voice = unde
 /** What the speech engine looks like from here — shown in the UI when speech fails. */
 export function voiceInfo() {
   const voices = window.speechSynthesis?.getVoices?.() ?? [];
-  const fi = voices.find((v) => v.lang?.toLowerCase().startsWith('fi'));
-  return { voices: voices.length, finnish: fi?.name ?? null };
+  return { voices: voices.length, finnish: finnishVoice()?.name ?? null };
 }
 
 /**
@@ -136,8 +175,9 @@ function speak(text, speed) {
     // (badly — the UI warns about that) instead of the engine staying silent.
 
     let started = false;
+    let waited = 0;
     const finish = (fn, arg) => {
-      clearTimeout(watchdog);
+      clearInterval(watchdog);
       fn(arg);
     };
     utterance.onstart = () => { started = true; setProblem(null); log('speech started'); };
@@ -149,13 +189,23 @@ function speak(text, speed) {
       finish(reject, new Error(`Speech ${reason}`));
     };
 
-    const watchdog = setTimeout(() => {
+    // Some engines are slow to spin a voice up, and some never fire `onstart` at
+    // all. So this waits while the engine says it is busy and only gives up once it
+    // claims to be idle with nothing having happened. It must never cancel speech in
+    // progress — doing that was itself silencing real playback.
+    const watchdog = setInterval(() => {
+      waited += 2000;
       if (started) return;
-      warn('speech never started after 2s —', fi ? `voice ${fi.name}` : 'no Finnish voice',
-        '· speaking:', synth.speaking, 'pending:', synth.pending, 'paused:', synth.paused);
-      synth.cancel();
+      if (synth.speaking || synth.pending) {
+        if (waited <= 2000) log('no onstart event yet, but the engine reports it is busy — waiting');
+        if (waited < 60000) return;
+        warn('engine has claimed to be speaking for a minute with no end event — giving up');
+      } else {
+        warn('speech never started —', fi ? `voice ${fi.name}` : 'no Finnish voice',
+          '· speaking:', synth.speaking, 'pending:', synth.pending, 'paused:', synth.paused);
+      }
       setProblem(fi ? 'silent' : 'no-voice');
-      reject(new Error('Speech did not start'));
+      finish(reject, new Error('Speech did not start'));
     }, 2000);
 
     const start = () => {
