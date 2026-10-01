@@ -1,0 +1,46 @@
+# Netlify deploys the static `dist/` folder. Nothing runs server-side.
+#
+# Note the audio: client/public/audio is gitignored (it is ~280 MB of generated
+# MP3s), so a git-driven build must regenerate it, which is what the build command
+# below does. It adds ~7 minutes to each deploy and spends build minutes. If that
+# becomes annoying, build locally and upload the folder instead:
+#
+#   npm run build && npx netlify-cli deploy --prod --dir=dist
+#
+# and set the build command here to `npm run content && npm run build`.
+[build]
+  command = "npm run content && npm run audio && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# A clip's filename is the hash of the Finnish text it speaks, so a given file
+# never changes. Cache it for a year.
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Hashed JS/CSS filenames change on every content change, so they are immutable too.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# The service worker and the content it precaches must always be revalidated, or an
+# installed copy can never learn that a new version exists.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/content/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

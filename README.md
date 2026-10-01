@@ -28,13 +28,39 @@ the phone's own Finnish voice, which is lower quality and not guaranteed to be i
 | `npm run build` | Compile content, then build `dist/` |
 | `npm run preview` | Serve the built `dist/` — the only way to exercise the service worker |
 | `npm run verify` | Check every spoken line has an audio id and a file, and that prev/next is intact |
+| `npm run deploy` | Build and upload `dist/` to Netlify |
 
-`dist/` is plain static files: copy it to any static host (GitHub Pages, Netlify, a folder behind
+`dist/` is plain static files: copy it to any static host (Netlify, GitHub Pages, a folder behind
 nginx). Nothing server-side runs.
 
-Because the audio is gitignored, a deploy that goes through git won't carry it — either run
-`npm run audio` in CI before building, or upload the built `dist/` directly (Netlify drop, rsync,
-`gh-pages -d dist`). Without the MP3s the app still works, on the device voice.
+### Deploying
+
+The audio is gitignored, so **a deploy driven from git has no MP3s unless the build regenerates
+them** — every `/audio/*.mp3` 404s and playback falls back to the device voice. Two ways round it:
+
+**Build on the host.** `netlify.toml` already does this: its build command is
+`npm run content && npm run audio && npm run build`. Self-contained, but it adds ~7 minutes and the
+build minutes that go with it to every deploy.
+
+**Build locally, upload the folder.** Faster, and no TTS traffic from a build server:
+
+```bash
+npm run deploy      # npm run build && netlify deploy --prod --dir=dist
+```
+
+Then change the build command in `netlify.toml` to `npm run content && npm run build` so a git push
+doesn't spend seven minutes regenerating audio you already uploaded.
+
+**Audio somewhere else.** Set `VITE_AUDIO_BASE` at build time to serve the clips from another host,
+leaving the app deploy small:
+
+```bash
+VITE_AUDIO_BASE=https://audio.example.com/ npm run build
+```
+
+`netlify.toml` also sets cache headers: a year for `/audio/*` and `/assets/*` (both are
+content-addressed and never change), and no-cache for `sw.js`, `index.html` and `/content/*`, so an
+installed copy can always discover a new version.
 
 ### Installing it on a phone
 

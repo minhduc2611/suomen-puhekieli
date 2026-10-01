@@ -11,7 +11,8 @@
     "verify": "node tools/verify.mjs",
     "dev": "npm run content && vite",
     "build": "npm run content && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && npx netlify-cli deploy --prod --dir=dist"
   },
   "dependencies": {},
   "devDependencies": {
