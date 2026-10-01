@@ -330,3 +330,64 @@ section.block:last-of-type { border-bottom: 0; }
   background: var(--surface);
   color: var(--text);
 }
+
+/* --- Name: the chip in the header and the first-run prompt --- */
+.name-chip {
+  font: inherit;
+  font-size: 12.5px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+  max-width: 10ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.name-chip:hover { border-color: var(--accent); color: var(--accent); }
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.45);
+}
+.modal {
+  width: min(420px, 100%);
+  padding: 24px;
+  border-radius: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.25);
+}
+.modal h2 { margin: 0 0 8px; font-size: 18px; }
+.modal p { margin: 0 0 16px; font-size: 13.5px; line-height: 1.6; color: var(--muted); }
+.modal input {
+  width: 100%;
+  font: inherit;
+  font-size: 16px; /* 16px stops iOS zooming the page on focus */
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+}
+.modal-buttons { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
+.modal-buttons button {
+  font: inherit;
+  font-size: 13px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+.modal-buttons button:disabled { opacity: 0.5; cursor: not-allowed; }
+.modal-buttons .ghost { background: transparent; color: var(--muted); border-color: var(--border); }

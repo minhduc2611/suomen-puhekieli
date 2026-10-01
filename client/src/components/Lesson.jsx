@@ -1,10 +1,11 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import Play from './Play';
 import Dialogue from './Dialogue';
 import Roleplay from './Roleplay';
 import * as audio from '../lib/audio';
 import { loadLesson } from '../lib/content';
 import { useLang } from '../lib/lang';
+import { useName, personaliseLesson } from '../lib/name';
 import AudioSource from './AudioSource';
 
 function Block({ title, count, children }) {
@@ -21,15 +22,18 @@ function Block({ title, count, children }) {
 
 export default function Lesson({ slug, navigate }) {
   const { t, ui } = useLang();
-  const [lesson, setLesson] = useState(null);
+  const { name } = useName();
+  const [raw, setRaw] = useState(null);
   const [error, setError] = useState(null);
+  // Re-renames without refetching when the learner changes their name.
+  const lesson = useMemo(() => personaliseLesson(raw, name), [raw, name]);
 
   useEffect(() => {
     audio.stop();
-    setLesson(null);
+    setRaw(null);
     setError(null);
     window.scrollTo(0, 0);
-    loadLesson(slug).then(setLesson).catch(() => setError(true));
+    loadLesson(slug).then(setRaw).catch(() => setError(true));
   }, [slug]);
 
   if (error) return <div className="state">{ui.notFound}</div>;

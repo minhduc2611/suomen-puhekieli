@@ -50,6 +50,11 @@ const UI = {
     notFound: 'Lesson not found.',
     literally: 'lit.', bookForm: 'kirjakieli:',
     langTitle: 'Explanation language',
+    namePromptTitle: 'What should we call you?',
+    namePromptBody: 'The dialogues were written around one learner. Put your name in and the '
+      + 'conversations are about you — in the Finnish too, so you hear your own name spoken.',
+    nameSave: 'Use this name', nameSkip: 'Skip',
+    nameChange: 'Change the name used in the dialogues',
     saveAudio: '⤓ Save audio offline', savingAudio: 'Saving…',
     audioSaved: '✓ Available offline',
     audioMissing: 'No audio files — using the device voice',
@@ -90,6 +95,11 @@ const UI = {
     notFound: 'Không tìm thấy bài học.',
     literally: 'nghĩa đen:', bookForm: 'tiếng viết:',
     langTitle: 'Ngôn ngữ giải thích',
+    namePromptTitle: 'Bạn muốn được gọi là gì?',
+    namePromptBody: 'Các đoạn hội thoại được viết quanh một người học. Hãy nhập tên bạn để các '
+      + 'cuộc trò chuyện nói về chính bạn — kể cả phần tiếng Phần Lan, nên bạn sẽ nghe thấy tên mình.',
+    nameSave: 'Dùng tên này', nameSkip: 'Bỏ qua',
+    nameChange: 'Đổi tên dùng trong hội thoại',
     saveAudio: '⤓ Lưu âm thanh ngoại tuyến', savingAudio: 'Đang lưu…',
     audioSaved: '✓ Dùng được ngoại tuyến',
     audioMissing: 'Chưa có tệp âm thanh — đang dùng giọng của máy',

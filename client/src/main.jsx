@@ -4,8 +4,10 @@ import './lib/debug';
 import ModuleList from './components/ModuleList';
 import Lesson from './components/Lesson';
 import AppStatus from './components/AppStatus';
+import NamePrompt from './components/NamePrompt';
 import * as audio from './lib/audio';
 import { LangProvider, LangSwitch, useLang } from './lib/lang';
+import { NameProvider, useName } from './lib/name';
 import './styles.css';
 
 function currentPath() {
@@ -14,6 +16,7 @@ function currentPath() {
 
 function App() {
   const { ui } = useLang();
+  const { name, ask } = useName();
   const [path, setPath] = useState(currentPath);
 
   useEffect(() => {
@@ -41,6 +44,7 @@ function App() {
               {ui.allModules}
             </a>
           )}
+          <button className="name-chip" onClick={ask} title={ui.nameChange}>{name}</button>
           <LangSwitch />
         </div>
       </header>
@@ -48,12 +52,13 @@ function App() {
         ? <Lesson slug={lessonMatch[1]} navigate={navigate} />
         : <ModuleList navigate={navigate} />}
       <AppStatus />
+      <NamePrompt />
     </>
   );
 }
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <LangProvider><App /></LangProvider>
+    <LangProvider><NameProvider><App /></NameProvider></LangProvider>
   </StrictMode>,
 );
