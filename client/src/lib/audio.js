@@ -125,6 +125,10 @@ export function hasFinnishVoice() {
   return found === undefined ? undefined : found !== null;
 }
 
+// How often to ask the engine what it is doing, for the voices that report nothing.
+// Short enough that the gap between lines in "play all" stays natural.
+const POLL_MS = 400;
+
 /** The last reason speech failed, for the UI to explain rather than just go quiet. */
 let speechProblem = null;
 export const getSpeechProblem = () => speechProblem;
@@ -175,6 +179,7 @@ function speak(text, speed) {
     // (badly — the UI warns about that) instead of the engine staying silent.
 
     let started = false;
+    let sawBusy = false; // the engine said it was speaking, even if no event arrived
     let waited = 0;
     const finish = (fn, arg) => {
       clearInterval(watchdog);
@@ -194,19 +199,36 @@ function speak(text, speed) {
     // claims to be idle with nothing having happened. It must never cancel speech in
     // progress — doing that was itself silencing real playback.
     const watchdog = setInterval(() => {
-      waited += 2000;
+      waited += POLL_MS;
       if (started) return;
+
       if (synth.speaking || synth.pending) {
-        if (waited <= 2000) log('no onstart event yet, but the engine reports it is busy — waiting');
+        // Chrome on macOS often fires no events at all for local system voices.
+        // The engine is the only witness that anything is happening, so believe it.
+        if (!sawBusy) log('no onstart event, but the engine reports it is busy — tracking it directly');
+        sawBusy = true;
         if (waited < 60000) return;
         warn('engine has claimed to be speaking for a minute with no end event — giving up');
-      } else {
-        warn('speech never started —', fi ? `voice ${fi.name}` : 'no Finnish voice',
-          '· speaking:', synth.speaking, 'pending:', synth.pending, 'paused:', synth.paused);
+        setProblem('silent');
+        return finish(reject, new Error('Speech stuck'));
       }
+
+      if (sawBusy) {
+        // It spoke and is now done; the events simply never arrived.
+        log('speech finished (no events from this voice)');
+        setProblem(null);
+        return finish(resolve);
+      }
+
+      // Engines can take a moment to pick a voice up before they report anything,
+      // so don't call it dead on the first poll.
+      if (waited < 2000) return;
+
+      warn('speech never started —', fi ? `voice ${fi.name}` : 'no Finnish voice',
+        '· speaking:', synth.speaking, 'pending:', synth.pending, 'paused:', synth.paused);
       setProblem(fi ? 'silent' : 'no-voice');
       finish(reject, new Error('Speech did not start'));
-    }, 2000);
+    }, POLL_MS);
 
     const start = () => {
       if (synth.paused) synth.resume();
