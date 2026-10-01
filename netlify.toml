@@ -11,6 +11,12 @@
 [build.environment]
   NODE_VERSION = "22"
 
+# /api/tts generates a clip on demand, so no audio has to be deployed. The path is
+# declared by the function itself (`export const config`).
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # Only relevant when an MP3 pack is uploaded: a clip's filename is the hash of the
 # Finnish text it speaks, so a given file never changes. Cache it for a year.
 [[headers]]

@@ -45,6 +45,18 @@ export default defineConfig({
         cleanupOutdatedCaches: true,
         runtimeCaching: [
           {
+            // On-demand clips are stable for a given text+speed, so keep them:
+            // a lesson you have played once then works with no network.
+            urlPattern: ({ url }) => url.pathname.endsWith('/api/tts'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'finnish-tts',
+              rangeRequests: true,
+              cacheableResponse: { statuses: [200] },
+              expiration: { maxEntries: 8000, maxAgeSeconds: 60 * 60 * 24 * 365 },
+            },
+          },
+          {
             urlPattern: ({ url }) => url.pathname.includes('/audio/'),
             handler: 'CacheFirst',
             options: {
@@ -61,6 +73,10 @@ export default defineConfig({
   ],
   define: {
     __AUDIO_PACK__: JSON.stringify(audioPack),
+    // The deployment ships a /api/tts function (netlify/functions/tts.mjs). Builds
+    // for a host without functions can turn it off with VITE_NO_TTS_API=1; the app
+    // then goes straight to the device voice.
+    __TTS_API__: JSON.stringify(!process.env.VITE_NO_TTS_API),
     // Logged at startup: tells a stale service worker apart from a real bug.
     __BUILD_ID__: JSON.stringify(new Date().toISOString().slice(0, 19).replace('T', ' ')),
   },

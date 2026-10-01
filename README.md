@@ -2,8 +2,8 @@
 
 Spoken Finnish (*puhekieli*), the way people actually talk: `mä`, `sä`, `onks`, `mennään`.
 Not academic Finnish. A **static, installable PWA** — React + Vite, no server and no database:
-content is JSON generated from `content/*.json`, and every Finnish line is spoken by the device's
-own Finnish voice. Install it on a phone and it works with no network.
+content is JSON generated from `content/*.json`, and audio is generated on demand by a small
+function rather than shipped. Install it on a phone and it works with no network.
 
 Explanations are **bilingual — English and Tiếng Việt** — switched with the EN/VI toggle in the
 header. Finnish itself never changes; only the language it is explained in does.
@@ -36,9 +36,12 @@ nginx). Nothing server-side runs.
 
 ### Deploying
 
-`npm run build` produces a **2.4 MB** `dist/` — app, icons and the whole course text. No audio is
-involved, so any static host works and a git-driven build needs nothing special; `netlify.toml`
-builds with `npm run content && npm run build`.
+`npm run build` produces a **2.4 MB** `dist/` — app, icons and the whole course text — plus the
+`/api/tts` function, which generates audio on demand. `netlify.toml` builds with
+`npm run content && npm run build`; a git push is all a deploy needs.
+
+On a host that doesn't run functions, build with `VITE_NO_TTS_API=1` and the app uses the device
+voice instead.
 
 ```bash
 npm run deploy             # build without the MP3 pack, then netlify deploy --prod
@@ -165,19 +168,28 @@ Patches live in `tools/translations/` and are kept after merging, as a record of
 
 ## Audio
 
-**By default the app speaks with the device's own Finnish voice** (`speechSynthesis`, `fi-FI`).
-Nothing is shipped, nothing is fetched, and it works offline. Google's TTS can't be used directly —
-browsers can't call that endpoint (no CORS headers) — so runtime speech means the device's engine.
+Audio comes from the best source a given deployment has, falling through when one fails:
 
-The catch is that the voice has to be installed, and quality varies by platform. If it isn't there,
-the lesson header says so and explains where to get it:
+| | Source | Voice | Needs |
+|---|---|---|---|
+| 1 | The generated MP3 pack | Google Finnish | A build that includes it (~280 MB) |
+| 2 | **`/api/tts`** — generated on demand | Google Finnish | A host that runs functions |
+| 3 | The device's own voice | Whatever is installed | A Finnish voice on the device |
 
-- **iOS** — Settings → Accessibility → Spoken Content → Voices → Finnish
-- **Android** — Settings → System → Languages → Text-to-speech output → install Finnish
-- **macOS** — System Settings → Accessibility → Spoken Content → System Voice → Manage Voices
+**2 is the default**, and it exists because the other two each have a catch: the pack is far too big
+to deploy casually, and the device route is a lottery — macOS and iOS list novelty voices (Eddy,
+Flo, Rocko) in every language that are usually not downloaded and play nothing at all, and Chrome on
+macOS fires no speech events for local voices even while speaking.
 
-Without a Finnish voice the text is read by some other language's voice and comes out wrong, which
-is worse than useless for learning, hence the warning rather than silent degradation.
+[`netlify/functions/tts.mjs`](netlify/functions/tts.mjs) takes `?text=&speed=`, calls Google
+Translate's Finnish TTS server-side (the browser can't — no CORS headers), and returns the MP3 with
+a year of cache headers, so each distinct line costs one synthesis for the whole site. Nothing is
+stored by the function itself. The service worker keeps what you've played, so a lesson you have
+been through works offline afterwards, and **Save audio offline** pulls a whole lesson at once.
+
+If the function is missing or the upstream refuses, the app steps down to the device voice for the
+rest of the session, and the lesson header explains what happened and offers a picker of the Finnish
+voices that are installed.
 
 ### The optional MP3 pack
 

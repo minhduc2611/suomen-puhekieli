@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import {
-  audioPackAvailable, hasFinnishVoice, getSpeechProblem, subscribe, voiceInfo,
-  finnishVoices, setVoiceByName, play,
+  audioPackAvailable, ttsApiAvailable, hasFinnishVoice, getSpeechProblem, subscribe,
+  voiceInfo, finnishVoices, setVoiceByName, play,
 } from '../lib/audio';
 import { isSaved, saveLessonAudio, lessonClips } from '../lib/offline';
 import { useLang } from '../lib/lang';
@@ -17,7 +17,8 @@ import { useLang } from '../lib/lang';
  */
 export default function AudioSource({ lesson }) {
   const { ui } = useLang();
-  const pack = audioPackAvailable();
+  // Both real-audio sources can be saved for offline use; only the device voice can't.
+  const pack = audioPackAvailable() || ttsApiAvailable();
   const [voice, setVoice] = useState(hasFinnishVoice);
   const [problem, setProblem] = useState(getSpeechProblem);
   const [help, setHelp] = useState(false);

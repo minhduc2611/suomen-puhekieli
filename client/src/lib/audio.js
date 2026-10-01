@@ -1,15 +1,16 @@
-// Speech, from whichever source this deployment has.
+// Speech, from the best source this deployment has, in order:
 //
-// By default the app speaks with the **device's own Finnish voice** — nothing is
-// shipped, nothing is fetched, and it works offline. If someone has generated the
-// MP3 pack (`npm run audio`) and it is actually being served, the app uses that
-// instead: same voice everywhere, and better than most device voices.
+//   1. the generated MP3 pack, when a build includes it (`__AUDIO_PACK__`)
+//   2. /api/tts, which generates the clip on demand and lets the CDN keep it
+//   3. the device's own Finnish voice
 //
-// Which one is in play is decided at build time (`__AUDIO_PACK__`, set in
-// vite.config.js), so a deployment without the pack never requests an audio file.
+// 1 and 2 are the same Google voice and sound identical; 3 depends entirely on
+// what the learner's device has installed, which on macOS and iOS is a lottery —
+// hence the order. Each step falls through to the next when it fails, so the app
+// is never silent for a reason it could have worked around.
 //
 // One <audio> element is shared for the whole app, so starting a clip stops the old one.
-import { audioUrl } from './content';
+import { audioUrl, ttsUrl } from './content';
 import { log, warn } from './debug';
 
 let el = null;
@@ -21,6 +22,12 @@ let state = { key: null, playing: false, loading: false };
 
 /** Is a generated MP3 pack served alongside this build? Decided at build time. */
 export const audioPackAvailable = () => __AUDIO_PACK__;
+
+// The on-demand endpoint, until it proves unavailable (no function deployed, or
+// the upstream refused). One failure is enough: the device voice takes over for
+// the rest of the session rather than making every line wait for a timeout.
+let apiBroken = false;
+export const ttsApiAvailable = () => __TTS_API__ && !apiBroken;
 
 function element() {
   if (!el) {
@@ -264,12 +271,16 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
     );
   };
 
-  // No pack served, no id, or a clip already known to be missing: the device speaks.
-  if (!audioPackAvailable() || !aid || missing.has(aid)) {
-    log('play →', audioPackAvailable() ? 'device voice (no file for this line)' : 'device voice (no pack in this build)');
+  const usePack = audioPackAvailable() && aid && !missing.has(aid);
+  const src = usePack ? audioUrl(aid, speed)
+    : ttsApiAvailable() ? ttsUrl(text, speed)
+    : null;
+
+  if (!src) {
+    log('play → device voice');
     return fallback();
   }
-  log('play → file', audioUrl(aid, speed));
+  log(`play → ${usePack ? 'file' : 'on-demand'}`, src);
 
   // Drop the previous clip's listeners first: the element is shared, so otherwise
   // this clip's 'ended' would also resolve the last clip's promise, and its 'error'
@@ -279,7 +290,14 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
   const audio = element();
   audio.pause();
   audio.currentTime = 0;
-  audio.src = audioUrl(aid, speed);
+  audio.src = src;
+
+  // Whichever source just failed, step down to the next one.
+  const noteFailure = () => {
+    warn(`${usePack ? 'audio file' : 'on-demand audio'} failed, falling back:`, src);
+    if (usePack) missing.add(aid);
+    else apiBroken = true;
+  };
 
   return new Promise((resolve, reject) => {
     const cleanup = () => {
@@ -295,11 +313,9 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
       resolve();
     };
     const onErr = () => {
-      // No file for this clip: remember it and let the device voice take over.
-      warn('audio file failed, falling back to the device voice:', audioUrl(aid, speed));
       cleanup();
       if (superseded()) return reject(new Error('Superseded'));
-      missing.add(aid);
+      noteFailure();
       fallback().then(resolve, reject);
     };
     audio.addEventListener('ended', onEnd);
@@ -311,7 +327,7 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
       () => {
         cleanup();
         if (superseded()) return reject(new Error('Superseded'));
-        missing.add(aid);
+        noteFailure();
         fallback().then(resolve, reject);
       },
     );
