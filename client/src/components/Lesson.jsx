@@ -5,7 +5,7 @@ import Roleplay from './Roleplay';
 import * as audio from '../lib/audio';
 import { loadLesson } from '../lib/content';
 import { useLang } from '../lib/lang';
-import SaveAudio from './SaveAudio';
+import AudioSource from './AudioSource';
 
 function Block({ title, count, children }) {
   return (
@@ -43,7 +43,7 @@ export default function Lesson({ slug, navigate }) {
         </div>
         <h1>{t(lesson, 'title')}</h1>
         {t(lesson, 'subtitle') && <div className="sub">{t(lesson, 'subtitle')}</div>}
-        <SaveAudio lesson={lesson} />
+        <AudioSource lesson={lesson} />
       </div>
 
       {(t(lesson, 'warmup_situation') || t(lesson, 'warmup_question')) && (

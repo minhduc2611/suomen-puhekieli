@@ -2,8 +2,8 @@
 
 Spoken Finnish (*puhekieli*), the way people actually talk: `mä`, `sä`, `onks`, `mennään`.
 Not academic Finnish. A **static, installable PWA** — React + Vite, no server and no database:
-content is JSON generated from `content/*.json`, and every Finnish line is a pre-generated MP3.
-Install it on a phone and it works with no network.
+content is JSON generated from `content/*.json`, and every Finnish line is spoken by the device's
+own Finnish voice. Install it on a phone and it works with no network.
 
 Explanations are **bilingual — English and Tiếng Việt** — switched with the EN/VI toggle in the
 header. Finnish itself never changes; only the language it is explained in does.
@@ -12,17 +12,17 @@ header. Finnish itself never changes; only the language it is explained in does.
 
 ```bash
 npm install
-npm run audio        # generate the MP3s (~8 min, ~320 MB) — once
 npm run dev          # compile content, then start the web app
 ```
 
-Open the address Vite prints. Without `npm run audio` the app still runs: playback falls back to
-the phone's own Finnish voice, which is lower quality and not guaranteed to be installed.
+Open the address Vite prints. Speech comes from the device — nothing to generate and nothing to
+download. Optionally, `npm run audio` builds a pack of MP3s in a consistent voice for local use;
+see [Audio](#audio).
 
 | Command | What it does |
 |---|---|
 | `npm run content` | `content/*.json` → `client/public/content/`, with validation and translation coverage |
-| `npm run audio` | Generate the MP3s into `client/public/audio/` |
+| `npm run audio` | Optional: generate an MP3 pack into `client/public/audio/` |
 | `npm run icons` | Redraw the PWA icons |
 | `npm run dev` | Compile content, then Vite on :5173 |
 | `npm run build` | Compile content, then build `dist/` |
@@ -35,40 +35,33 @@ nginx). Nothing server-side runs.
 
 ### Deploying
 
-The audio is gitignored, so **a deploy driven from git has no MP3s unless the build regenerates
-them** — every `/audio/*.mp3` 404s and playback falls back to the device voice. Two ways round it:
-
-**Build on the host.** `netlify.toml` already does this: its build command is
-`npm run content && npm run audio && npm run build`. Self-contained, but it adds ~7 minutes and the
-build minutes that go with it to every deploy.
-
-**Build locally, upload the folder.** Faster, and no TTS traffic from a build server:
+`npm run build` produces a **2.4 MB** `dist/` — app, icons and the whole course text. No audio is
+involved, so any static host works and a git-driven build needs nothing special; `netlify.toml`
+builds with `npm run content && npm run build`.
 
 ```bash
-npm run deploy      # npm run build && netlify deploy --prod --dir=dist
+npm run deploy      # build without the MP3 pack, then netlify deploy --prod
 ```
 
-Then change the build command in `netlify.toml` to `npm run content && npm run build` so a git push
-doesn't spend seven minutes regenerating audio you already uploaded.
-
-**Audio somewhere else.** Set `VITE_AUDIO_BASE` at build time to serve the clips from another host,
-leaving the app deploy small:
+If you ever *do* want to serve the pre-generated pack, build with it present (`npm run audio` first,
+then `npm run build`) and upload the result — it's ~290 MB — or host the clips separately and point
+the app at them:
 
 ```bash
 VITE_AUDIO_BASE=https://audio.example.com/ npm run build
 ```
 
-`netlify.toml` also sets cache headers: a year for `/audio/*` and `/assets/*` (both are
-content-addressed and never change), and no-cache for `sw.js`, `index.html` and `/content/*`, so an
-installed copy can always discover a new version.
+Either way the app is told at build time whether a pack exists; when it doesn't, the file-playing
+code is tree-shaken out and no audio request is ever made.
 
 ### Installing it on a phone
 
 Serve `dist/` over **https** (a service worker will not register otherwise, `localhost` excepted),
 open it, and use *Add to Home Screen* (iOS Safari) or *Install app* (Android Chrome). The app shell
 and **all 97 lessons of text** are precached on first load, so the whole course reads offline
-immediately. Audio is cached per clip as you play it; the **Save audio offline** button on a lesson
-downloads that lesson's clips in one go.
+immediately, and speech comes from the device, so that works offline too — check you have a Finnish
+voice installed (see [Audio](#audio)). When a build serves the optional MP3 pack, clips are cached
+as you play them and the **Save audio offline** button fetches a whole lesson at once.
 
 If you host under a subpath, set `base` in `vite.config.js` — every content and audio URL is built
 from `import.meta.env.BASE_URL`, so that one setting is enough.
@@ -167,30 +160,45 @@ Patches live in `tools/translations/` and are kept after merging, as a record of
 
 ## Audio
 
-Audio is generated **ahead of time**, not at runtime: Google Translate's Finnish TTS can't be called
-from a browser, and a shipped app shouldn't depend on it anyway.
+**By default the app speaks with the device's own Finnish voice** (`speechSynthesis`, `fi-FI`).
+Nothing is shipped, nothing is fetched, and it works offline. Google's TTS can't be used directly —
+browsers can't call that endpoint (no CORS headers) — so runtime speech means the device's engine.
 
-`npm run content` gives every distinct Finnish string an **audio id** — the first 16 hex of its
-SHA-1 — and stamps it into the lesson JSON as `aid`. `npm run audio` turns each one into
-`client/public/audio/<aid>.mp3` and `<aid>-s.mp3` (the 0.7× slow variant). The app plays
-`audio/<aid>.mp3` directly; no lookup table and nothing to keep in sync.
+The catch is that the voice has to be installed, and quality varies by platform. If it isn't there,
+the lesson header says so and explains where to get it:
+
+- **iOS** — Settings → Accessibility → Spoken Content → Voices → Finnish
+- **Android** — Settings → System → Languages → Text-to-speech output → install Finnish
+- **macOS** — System Settings → Accessibility → Spoken Content → System Voice → Manage Voices
+
+Without a Finnish voice the text is read by some other language's voice and comes out wrong, which
+is worse than useless for learning, hence the warning rather than silent degradation.
+
+### The optional MP3 pack
+
+For one consistent, good-quality voice, `npm run audio` pre-generates every line through Google
+Translate's Finnish TTS:
 
 ```bash
-npm run audio                        # everything, both speeds (~12,000 files, ~320 MB)
+npm run audio                        # everything, both speeds (~12,000 files, ~280 MB)
 npm run audio -- --module=12         # one module
 npm run audio -- --lesson=job-interview
 npm run audio -- --speed=normal      # skip the slow variants
 npm run audio -- --limit=50          # try a handful first
 ```
 
-Existing files are skipped, so adding a lesson only generates that lesson's clips. Responses are
-also cached under `data/tts-cache/` keyed by SHA-1 of speed + text, so regenerating after an edit
-costs nothing for unchanged lines. Text longer than ~190 characters is split on punctuation and the
-MP3 frames concatenated, since the upstream endpoint rejects long strings.
+`npm run content` gives every distinct Finnish string an **audio id** — the first 16 hex of its
+SHA-1 — and stamps it into the lesson JSON as `aid`. The pack is `<aid>.mp3` and `<aid>-s.mp3` (the
+0.7× slow variant), so the app plays a URL it can compute, with no lookup table to keep in sync.
+Existing files are skipped on a rerun, and responses are cached under `data/tts-cache/` keyed by
+SHA-1 of speed + text, so regenerating after a content edit costs nothing for unchanged lines. Text
+over ~190 characters is split on punctuation and the MP3 frames concatenated, since the upstream
+endpoint rejects long strings.
 
-The audio is **gitignored** — it's 320 MB of derived files. Regenerate it with `npm run audio`
-rather than committing it. If a clip is missing, that one line falls back to the device's own
-Finnish voice instead of failing silently.
+A build that can see `client/public/audio/manifest.json` uses the pack and shows a **Save audio
+offline** button per lesson; a build without it uses the device voice. The pack is **gitignored** —
+regenerate it rather than committing it, and if a single clip is missing at runtime, that one line
+falls back to the device voice.
 
 ## Layout
 
@@ -209,10 +217,10 @@ client/
   index.html
   public/        generated content/ and audio/ (gitignored), committed icons/
   src/lib/content.js  the only place that knows where content and audio live
-  src/lib/audio.js    one shared <audio>; play, stop, playSequence, device-voice fallback
+  src/lib/audio.js    device speech + optional MP3 pack; play, stop, playSequence
   src/lib/offline.js  "save this lesson for offline"
   src/lib/lang.jsx    EN/VI context, field picker, interface strings
-  src/components/     ModuleList, Lesson, Dialogue, Roleplay, Play, SaveAudio, AppStatus
+  src/components/     ModuleList, Lesson, Dialogue, Roleplay, Play, AudioSource, AppStatus
 data/          generated — tts-cache/ and audio-index.json (gitignored)
 ```
 
@@ -225,4 +233,4 @@ See [CURRICULUM.md](CURRICULUM.md) — 14 modules, 97 lessons, A1 to B1.
 
 The course currently holds 2,710 vocabulary items, 1,162 key phrases, 194 dialogues (2,134 lines)
 and 97 role-plays (972 turns), fully bilingual English/Vietnamese — 6,023 distinct Finnish strings
-to speak.
+to speak, 7,075 playable lines in all.

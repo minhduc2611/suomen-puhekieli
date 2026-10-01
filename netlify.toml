@@ -1,22 +1,18 @@
-# Netlify deploys the static `dist/` folder. Nothing runs server-side.
+# Netlify deploys the static `dist/` folder. Nothing runs server-side, and no audio
+# is shipped: the app speaks with the device's own Finnish voice.
 #
-# Note the audio: client/public/audio is gitignored (it is ~280 MB of generated
-# MP3s), so a git-driven build must regenerate it, which is what the build command
-# below does. It adds ~7 minutes to each deploy and spends build minutes. If that
-# becomes annoying, build locally and upload the folder instead:
-#
-#   npm run build && npx netlify-cli deploy --prod --dir=dist
-#
-# and set the build command here to `npm run content && npm run build`.
+# To serve the pre-generated MP3s instead, run `npm run audio` locally and upload the
+# built folder yourself (`npm run deploy`) — ~280 MB, so it does not belong in git or
+# in a build that runs on every push.
 [build]
-  command = "npm run content && npm run audio && npm run build"
+  command = "npm run content && npm run build"
   publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
 
-# A clip's filename is the hash of the Finnish text it speaks, so a given file
-# never changes. Cache it for a year.
+# Only relevant when an MP3 pack is uploaded: a clip's filename is the hash of the
+# Finnish text it speaks, so a given file never changes. Cache it for a year.
 [[headers]]
   for = "/audio/*"
   [headers.values]

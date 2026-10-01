@@ -303,3 +303,12 @@ section.block:last-of-type { border-bottom: 0; }
   color: #fff;
   cursor: pointer;
 }
+
+.voice-note { margin-top: 12px; }
+.voice-note p {
+  margin: 8px 0 0;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--muted);
+  max-width: 60ch;
+}

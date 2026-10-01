@@ -3,9 +3,9 @@
 // opened once stays available with no network.
 const base = import.meta.env.BASE_URL;
 
-// The audio is ~280 MB, which a deploy may not want to carry. Point
-// VITE_AUDIO_BASE at another host (a CDN, a second Netlify site, object storage)
-// to serve the clips from there; by default they sit next to the app.
+// The optional MP3 pack is ~280 MB, so a deploy usually doesn't carry it — see
+// audio.js. If it is hosted somewhere separate (a CDN, object storage, another
+// site), point VITE_AUDIO_BASE at it; by default the clips sit next to the app.
 const withSlash = (url) => (url.endsWith('/') ? url : `${url}/`);
 const audioBase = withSlash(import.meta.env.VITE_AUDIO_BASE || `${base}audio`);
 
@@ -14,6 +14,7 @@ export const contentUrl = (path) => `${base}content/${path}`;
 /** Audio file for one clip. `aid` is stamped into the lesson JSON at build time. */
 export const audioUrl = (aid, speed = 'normal') =>
   `${audioBase}${aid}${speed === 'slow' ? '-s' : ''}.mp3`;
+
 
 async function getJson(url) {
   const res = await fetch(url);

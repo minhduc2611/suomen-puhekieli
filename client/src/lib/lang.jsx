@@ -53,6 +53,10 @@ const UI = {
     saveAudio: '⤓ Save audio offline', savingAudio: 'Saving…',
     audioSaved: '✓ Available offline',
     audioMissing: 'No audio files — using the device voice',
+    noFinnishVoice: '⚠ No Finnish voice on this device — tap for how to add one',
+    installVoice: 'iOS: Settings → Accessibility → Spoken Content → Voices → Finnish. '
+      + 'Android: Settings → System → Languages → Text-to-speech output → install Finnish. '
+      + 'Without it the Finnish is read by another language\u2019s voice and comes out wrong.',
     updateReady: 'A new version is ready.', reload: 'Reload',
     offline: 'Offline — showing saved lessons',
   },
@@ -80,6 +84,10 @@ const UI = {
     saveAudio: '⤓ Lưu âm thanh ngoại tuyến', savingAudio: 'Đang lưu…',
     audioSaved: '✓ Dùng được ngoại tuyến',
     audioMissing: 'Chưa có tệp âm thanh — đang dùng giọng của máy',
+    noFinnishVoice: '⚠ Máy chưa có giọng tiếng Phần Lan — bấm để xem cách cài',
+    installVoice: 'iOS: Cài đặt → Trợ năng → Nội dung đọc → Giọng nói → Tiếng Phần Lan. '
+      + 'Android: Cài đặt → Hệ thống → Ngôn ngữ → Đầu ra chuyển văn bản thành lời nói → cài tiếng Phần Lan. '
+      + 'Không có nó thì tiếng Phần Lan sẽ bị đọc bằng giọng của ngôn ngữ khác và sai hoàn toàn.',
     updateReady: 'Đã có phiên bản mới.', reload: 'Tải lại',
     offline: 'Ngoại tuyến — hiển thị các bài đã lưu',
   },

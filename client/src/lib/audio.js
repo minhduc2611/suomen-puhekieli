@@ -1,17 +1,25 @@
-// One <audio> element for the whole app, so starting a new clip stops the old one.
+// Speech, from whichever source this deployment has.
 //
-// Clips are pre-generated MP3 files (tools/build-audio.mjs) addressed by the `aid`
-// stamped into each lesson at build time. If a clip hasn't been generated — a fresh
-// clone, or only some modules built — playback falls back to the device's own Finnish
-// voice, so the app is never silent, just less consistent.
+// By default the app speaks with the **device's own Finnish voice** — nothing is
+// shipped, nothing is fetched, and it works offline. If someone has generated the
+// MP3 pack (`npm run audio`) and it is actually being served, the app uses that
+// instead: same voice everywhere, and better than most device voices.
+//
+// Which one is in play is decided at build time (`__AUDIO_PACK__`, set in
+// vite.config.js), so a deployment without the pack never requests an audio file.
+//
+// One <audio> element is shared for the whole app, so starting a clip stops the old one.
 import { audioUrl } from './content';
 
 let el = null;
 let detach = null;      // removes the current clip's listeners from the shared element
 let currentToken = 0;
 const listeners = new Set();
-const missing = new Set(); // aids with no MP3: go straight to the device voice
+const missing = new Set(); // aids whose MP3 404s anyway: go straight to the device voice
 let state = { key: null, playing: false, loading: false };
+
+/** Is a generated MP3 pack served alongside this build? Decided at build time. */
+export const audioPackAvailable = () => __AUDIO_PACK__;
 
 function element() {
   if (!el) {
@@ -58,6 +66,18 @@ function finnishVoice() {
 }
 window.speechSynthesis?.addEventListener?.('voiceschanged', () => { voice = undefined; });
 
+/**
+ * Does this device actually have a Finnish voice? `undefined` while the voice list
+ * is still loading — browsers populate it asynchronously, sometimes only after the
+ * first utterance. Without one, speech falls back to some other language's voice
+ * and Finnish comes out badly mispronounced, so the UI warns about it.
+ */
+export function hasFinnishVoice() {
+  if (!window.speechSynthesis) return false;
+  const found = finnishVoice();
+  return found === undefined ? undefined : found !== null;
+}
+
 /** Speak with the device's own voice. Quality varies; availability more so. */
 function speak(text, speed) {
   return new Promise((resolve, reject) => {
@@ -94,7 +114,8 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
     );
   };
 
-  if (!aid || missing.has(aid)) return fallback();
+  // No pack served, no id, or a clip already known to be missing: the device speaks.
+  if (!audioPackAvailable() || !aid || missing.has(aid)) return fallback();
 
   // Drop the previous clip's listeners first: the element is shared, so otherwise
   // this clip's 'ended' would also resolve the last clip's promise, and its 'error'
