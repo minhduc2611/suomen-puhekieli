@@ -1,0 +1,323 @@
+{
+  "lessons": {
+    "returns-and-complaints": {
+      "lesson": {
+        "title_vi": "Đổi, trả và khiếu nại",
+        "subtitle_vi": "Voinks mä vaihtaa tän? Mulla on kuitti.",
+        "warmup_situation_vi": "Cái áo khoác không vừa. Bạn có hoá đơn, nhãn giá vẫn còn nguyên, và bạn mua nó mười một ngày trước. Bạn khá chắc là mình có quyền ở đây nhưng không biết từ để diễn đạt.",
+        "warmup_question_vi": "Quyền thật sự của bạn ở Phần Lan là gì — và trả hàng khác khiếu nại ở chỗ nào?",
+        "rescue_vi": "Chính sách đổi trả của bên chị thế nào ạ?",
+        "rescue_note_vi": "Đặt trách nhiệm giải thích lên họ chứ không phải trách nhiệm tranh luận lên bạn. Cửa hàng Phần Lan hầu như luôn nhận lại hàng trong vòng 14–30 ngày nếu có hoá đơn, và hỏi một cách trung tính sẽ khiến họ nói rõ chính sách thay vì bước vào một cuộc mặc cả."
+      },
+      "vocab": [
+        { "vi": "trả lại (hàng)" }, { "vi": "việc trả hàng" }, { "vi": "chính sách đổi trả" },
+        { "vi": "quyền trả hàng", "note_vi": "Thường 14–30 ngày theo chính sách cửa hàng, không phải theo luật, với hàng mua tại quầy." },
+        { "vi": "đổi (hàng)" }, { "vi": "việc đổi hàng" },
+        { "vi": "hoá đơn", "note_vi": "Hãy giữ lại. Không có nó thì bạn thường chỉ được đổi, không được hoàn tiền." },
+        { "vi": "hoá đơn mua hàng" },
+        { "vi": "nhãn giá", "note_vi": "Nhãn còn nguyên thì mọi thứ dễ hơn nhiều." },
+        { "vi": "chưa sử dụng" }, { "vi": "bao bì gốc" },
+        { "vi": "khiếu nại chính thức", "note_vi": "Dùng cho hàng bị lỗi. Mạnh hơn việc trả hàng và được luật bảo vệ." },
+        { "vi": "khiếu nại (động từ)" },
+        { "vi": "bị lỗi, khiếm khuyết", "note_vi": "Từ này thay đổi mọi thứ. Hàng bị lỗi có sự bảo vệ pháp lý thật sự." },
+        { "vi": "bị vỡ, bị hỏng" }, { "vi": "lỗi, khuyết điểm" }, { "vi": "bảo hành" }, { "vi": "thời hạn bảo hành" },
+        { "vi": "trách nhiệm với khiếm khuyết", "note_vi": "Lớp bảo vệ pháp lý cuối. Áp dụng cả sau khi hết bảo hành, với hàng bền." },
+        { "vi": "sửa chữa" }, { "vi": "bồi thường, thay thế" }, { "vi": "hoàn tiền, khoản bù" },
+        { "vi": "hoàn lại tiền" },
+        { "vi": "thẻ quà tặng", "note_vi": "Đôi khi được đề nghị thay cho tiền. Bạn có thể từ chối nếu hàng bị lỗi." },
+        { "vi": "để thay thế" },
+        { "vi": "người quản lý", "note_vi": "«Voinks mä puhuu esimiehelle?» — ít khi cần, nhưng nó tồn tại." },
+        { "vi": "dịch vụ khách hàng" }, { "vi": "đã sử dụng" },
+        { "vi": "hàng giảm giá", "note_vi": "Hàng sale thường không được trả lại. Hãy kiểm tra trước khi mua." },
+        { "vi": "không có quyền trả hàng" }, { "vi": "hợp lý" }
+      ],
+      "phrases": [
+        { "vi": "Tôi muốn trả lại cái này.", "when_to_use_vi": "Câu mở đầu. Hãy cầm hoá đơn trong tay khi nói." },
+        { "vi": "Tôi đổi cái này sang cỡ lớn hơn được không ạ?", "when_to_use_vi": "Đổi dễ hơn hoàn tiền. Hãy nói trước nếu đó là điều bạn muốn." },
+        { "vi": "Hoá đơn của tôi đây ạ.", "when_to_use_vi": "Nói sớm. Nó giải quyết phần lớn cuộc trò chuyện." },
+        { "vi": "Chính sách đổi trả của bên chị thế nào ạ?", "when_to_use_vi": "Đặt trách nhiệm giải thích lên họ. Trung tính và hiệu quả." },
+        { "vi": "Cái này chưa dùng, nhãn giá vẫn còn nguyên.", "when_to_use_vi": "Làm cho mọi thứ đơn giản hẳn. Hãy nói ra mà không cần được hỏi." },
+        { "vi": "Cái này bị lỗi.", "when_to_use_vi": "Từ thay đổi mọi thứ. Lỗi sản phẩm có sự bảo vệ pháp lý thật sự." },
+        { "vi": "Nó hỏng sau hai tuần.", "when_to_use_vi": "Hãy nêu mốc thời gian. Nó quyết định lớp bảo vệ nào được áp dụng." },
+        { "vi": "Tôi muốn được hoàn tiền, không muốn thẻ quà tặng.", "when_to_use_vi": "Với hàng bị lỗi bạn có thể yêu cầu điều này. Một cách lịch sự." },
+        { "vi": "Cái này có bảo hành không ạ?", "when_to_use_vi": "Hỏi khi mua đồ điện tử. Và giữ hoá đơn lại." },
+        { "vi": "Cái này sửa được không ạ?", "when_to_use_vi": "Thường là phương án đầu tiên được đề nghị. Sửa, thay, hoàn tiền." },
+        { "vi": "Tôi nói chuyện với người quản lý được không ạ?", "when_to_use_vi": "Ít khi cần. Nói bình tĩnh thì nó không thô cũng không kịch tính." },
+        { "vi": "Cảm ơn chị đã lo giúp.", "when_to_use_vi": "Luôn kết bằng câu này. Nó chẳng tốn gì và người ta nhớ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một lần trả hàng suôn sẻ",
+          "setting_vi": "Quầy dịch vụ khách hàng. Hoá đơn trong tay, nhãn còn nguyên, mười một ngày.",
+          "note_vi": "Anh nói trước về hoá đơn và tình trạng hàng. Phần còn lại chỉ là thủ tục.",
+          "lines": [
+            { "vi": "Chào chị! Tôi muốn trả lại cái áo khoác này." },
+            { "vi": "Vâng. Anh có hoá đơn không ạ?" },
+            { "vi": "Có, đây ạ. Tôi mua nó mười một ngày trước." },
+            { "vi": "Tốt, vẫn còn sớm lắm. Nó đã dùng chưa ạ?" },
+            { "vi": "Chưa. Nhãn giá vẫn còn nguyên." },
+            { "vi": "Vâng. Anh muốn hoàn tiền hay đổi hàng ạ?" },
+            { "vi": "Chính sách đổi trả của bên chị thế nào ạ? Tôi muốn đổi sang cỡ lớn hơn nếu bên chị còn." },
+            { "vi": "Bên tôi cho trả trong ba mươi ngày ạ. Tôi xem còn cỡ lớn hơn không." },
+            { "vi": "Cảm ơn chị." },
+            { "vi": "…Rất tiếc cỡ L hết rồi, mà mẫu này không nhập thêm nữa." },
+            { "vi": "Vậy thì tôi lấy lại tiền." },
+            { "vi": "Vâng. Tiền về lại đúng thẻ đó, trong 2–3 ngày ạ." },
+            { "vi": "Được. Cảm ơn chị đã lo giúp!" }
+          ]
+        },
+        {
+          "title_vi": "Một sản phẩm bị lỗi",
+          "setting_vi": "Tình huống hoàn toàn khác. Từ «viallinen» thay đổi cả cuộc trò chuyện.",
+          "note_vi": "Lỗi sản phẩm không phải chuyện trả hàng. Nó có bảo vệ pháp lý và cửa hàng biết điều đó.",
+          "lines": [
+            { "vi": "Chào chị. Cái tai nghe này bị lỗi — bên trái không hoạt động." },
+            { "vi": "Ôi tiếc quá. Anh mua khi nào ạ?" },
+            { "vi": "Sáu tuần trước. Nó hỏng sau khoảng hai tuần." },
+            { "vi": "Vâng. Anh có hoá đơn và bao bì gốc không ạ?" },
+            { "vi": "Hoá đơn thì có. Bao bì tôi bỏ vào thùng rác rồi, xin lỗi." },
+            { "vi": "Không sao, hoá đơn là đủ. Bên tôi có thể gửi đi sửa ạ." },
+            { "vi": "Mất bao lâu ạ?" },
+            { "vi": "Khoảng hai tuần." },
+            { "vi": "Cái này bị lỗi và nó hỏng trong vòng hai tuần. Tôi muốn được đổi cái mới hoặc hoàn tiền." },
+            { "vi": "Như vậy là hợp lý. Chờ một chút, tôi hỏi quản lý… Vâng, bên tôi đổi cái mới cho anh." },
+            { "vi": "Cảm ơn chị nhiều. Và cái này có bảo hành không ạ?" },
+            { "vi": "Hai năm ạ. Anh giữ hoá đơn nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả một món hàng, rồi báo một lỗi sản phẩm",
+          "scenario_vi": "Nói trước về hoá đơn và tình trạng hàng, hỏi chính sách, và xử lý một lỗi sản phẩm đúng mức.",
+          "your_role_vi": "Bạn, ở quầy dịch vụ khách hàng",
+          "partner_role_vi": "Một nhân viên bán hàng",
+          "turns": [
+            { "vi": "Chào chị! Tôi muốn trả lại cái áo khoác này.", "hint_vi": "Cầm hoá đơn trong tay khi nói câu đó." },
+            { "vi": "Vâng. Anh có hoá đơn không ạ?" },
+            { "vi": "Có, đây ạ. Nó chưa dùng, nhãn giá vẫn còn nguyên.", "hint_vi": "Chủ động nói về tình trạng. Nó làm mọi thứ đơn giản hẳn." },
+            { "vi": "Tốt. Hoàn tiền hay đổi hàng ạ?" },
+            { "vi": "Chính sách đổi trả của bên chị thế nào ạ?", "hint_vi": "Đặt trách nhiệm giải thích lên họ, không phải trách nhiệm tranh luận lên bạn." },
+            { "vi": "Ba mươi ngày ạ. Anh muốn thế nào?" },
+            { "vi": "Tôi đổi sang cỡ lớn hơn, nếu bên chị còn.", "hint_vi": "Đổi dễ hơn cho họ. Hãy nói trước nếu điều đó phù hợp với bạn." },
+            { "vi": "Rất tiếc cỡ L hết rồi ạ." },
+            { "vi": "Vậy tôi lấy lại tiền. Và còn một việc nữa — cái tai nghe này bị lỗi.", "hint_vi": "«Viallinen» là từ thay đổi cả cuộc trò chuyện." },
+            { "vi": "Anh mua khi nào ạ?" },
+            { "vi": "Sáu tuần trước, và nó hỏng trong vòng hai tuần. Tôi muốn được đổi cái mới.", "hint_vi": "Mốc thời gian cộng điều bạn muốn. Hàng lỗi có bảo vệ thật sự." }
+          ]
+        }
+      ]
+    },
+    "customer-service": {
+      "lesson": {
+        "title_vi": "Dịch vụ khách hàng và quầy thông tin",
+        "subtitle_vi": "Mä etsin… Kenelle mä voin puhuu tästä?",
+        "warmup_situation_vi": "Bạn đang ở trung tâm thương mại với một câu hỏi không thuộc về cửa hàng nào cả: một chiếc găng tay bị mất, một vé đỗ xe, một thẻ quà tặng không quét được, và không biết ai lo những việc đó.",
+        "warmup_question_vi": "Bạn hỏi ai — và câu hỏi nào đưa bạn đến đúng người?",
+        "rescue_vi": "Việc này tôi nói với ai được ạ?",
+        "rescue_note_vi": "Câu chuyển hướng phổ quát. Nó thừa nhận rằng bạn không biết hệ thống mà bạn không phải kể lại cả vấn đề hai lần, và nhân viên dịch vụ Phần Lan sẽ nêu ngay đúng quầy hoặc đúng người thay vì đoán mò về chuyện của bạn."
+      },
+      "vocab": [
+        { "vi": "dịch vụ khách hàng" }, { "vi": "điểm thông tin" }, { "vi": "quầy hướng dẫn" },
+        { "vi": "điểm phục vụ" }, { "vi": "trung tâm thương mại" }, { "vi": "tầng trệt" }, { "vi": "tầng" },
+        { "vi": "thang máy" }, { "vi": "thang cuốn" }, { "vi": "sơ đồ mặt bằng" }, { "vi": "biển chỉ dẫn" },
+        { "vi": "đồ thất lạc", "note_vi": "Mọi trung tâm thương mại đều có quầy lo việc này. Hãy hỏi ở quầy thông tin." },
+        { "vi": "bị mất" }, { "vi": "bị để lại, bị bỏ quên" }, { "vi": "việc đỗ xe" }, { "vi": "phí đỗ xe" },
+        { "vi": "phí phạt đỗ xe", "note_vi": "Từ bạn mong không bao giờ phải dùng. Hãy khiếu nại ở quầy thông tin trước." },
+        { "vi": "đỗ xe miễn phí", "note_vi": "Thường hai tiếng nếu có hoá đơn mua hàng. Hãy hỏi cách xác thực." },
+        { "vi": "xác thực (vé)" }, { "vi": "thẻ quà tặng" },
+        { "vi": "số dư", "note_vi": "«Mikä tän saldo on?» = thẻ này còn bao nhiêu?" },
+        { "vi": "thời hạn hiệu lực" }, { "vi": "đã hết hạn" }, { "vi": "giờ mở cửa" },
+        { "vi": "giờ mở cửa Chủ nhật", "note_vi": "Giờ ngắn hơn, thường 12–18. Hãy kiểm tra trước khi đi." },
+        { "vi": "nhà vệ sinh" },
+        { "vi": "phòng thay tã cho em bé", "note_vi": "Mọi trung tâm thương mại Phần Lan đều có và nó sạch." },
+        { "vi": "chỉ dẫn, chuyển tới" },
+        { "vi": "tìm hiểu, làm rõ giúp", "note_vi": "«Mä selvitän sen» = tôi sẽ tìm hiểu việc đó. Câu bạn muốn nghe." },
+        { "vi": "thông tin liên lạc" }
+      ],
+      "phrases": [
+        { "vi": "Việc này tôi nói với ai được ạ?", "when_to_use_vi": "Câu chuyển hướng phổ quát. Đưa bạn đến đúng quầy mà không phải kể lại hai lần." },
+        { "vi": "Quầy dịch vụ khách hàng ở đâu ạ?", "when_to_use_vi": "Thường ở tầng trệt, gần một cửa vào." },
+        { "vi": "Hôm qua tôi để quên găng tay ở đây. Có trong đồ thất lạc không ạ?", "when_to_use_vi": "Luôn đáng hỏi. Hệ thống đồ thất lạc ở Phần Lan thật sự hoạt động." },
+        { "vi": "Hiệu thuốc ở tầng mấy ạ?", "when_to_use_vi": "Đổi tên cửa hàng. Quầy thông tin biết cả toà nhà." },
+        { "vi": "Ở đây có sơ đồ mặt bằng không ạ?", "when_to_use_vi": "Họ sẽ đưa bạn một tờ hoặc chỉ vào cái bảng lớn." },
+        { "vi": "Việc đỗ xe ở đây hoạt động thế nào ạ?", "when_to_use_vi": "Thường miễn phí hai tiếng nếu xác thực. Hãy hỏi cách làm." },
+        { "vi": "Tôi có phải xác thực vé ở đâu không ạ?", "when_to_use_vi": "Thường ở một cái máy gần cửa ra, cần hoá đơn mua hàng." },
+        { "vi": "Thẻ quà tặng này còn bao nhiêu ạ?", "when_to_use_vi": "Họ kiểm tra được trong vài giây." },
+        { "vi": "Thẻ quà tặng này còn hiệu lực không ạ?", "when_to_use_vi": "Phần lớn đều có hạn. Hãy hỏi trước khi đi mua sắm với nó." },
+        { "vi": "Chủ nhật bên chị mở đến mấy giờ ạ?", "when_to_use_vi": "Giờ Chủ nhật ngắn hơn, thường 12–18. Kiểm tra trước khi đi." },
+        { "vi": "Phòng thay tã ở đâu ạ?", "when_to_use_vi": "Mọi trung tâm thương mại Phần Lan đều có. Hỏi không cần do dự." },
+        { "vi": "Chị tìm hiểu giúp tôi được không ạ?", "when_to_use_vi": "Khi chẳng ai nhận trách nhiệm về vấn đề đó. Lịch sự mà kiên trì." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Bốn vấn đề không liên quan, một quầy",
+          "setting_vi": "Quầy thông tin của một trung tâm thương mại. Duc có một danh sách.",
+          "note_vi": "«Kenelle mä voin puhuu tästä» xử lý đúng cái việc mà họ không làm được.",
+          "lines": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị! Tôi có vài việc. Đầu tiên — hôm qua tôi để quên găng tay ở đây. Có trong đồ thất lạc không ạ?" },
+            { "vi": "Để xem. Màu gì ạ?" },
+            { "vi": "Xanh đậm, bằng len." },
+            { "vi": "…Cái này ạ?" },
+            { "vi": "Đúng nó rồi! Cảm ơn chị nhiều." },
+            { "vi": "Tốt. Còn gì nữa ạ?" },
+            { "vi": "Việc đỗ xe ở đây hoạt động thế nào ạ? Tôi ở đây một tiếng rưỡi rồi." },
+            { "vi": "Hai tiếng đầu miễn phí, nhưng anh phải xác thực vé. Cái máy ở đằng kia cạnh cửa ra ạ." },
+            { "vi": "Tôi có cần hoá đơn mua hàng không ạ?" },
+            { "vi": "Có ạ, hoá đơn nào của hôm nay cũng được." },
+            { "vi": "Vâng. Và cái thẻ quà tặng này không dùng được ở quầy — việc này tôi nói với ai được ạ?" },
+            { "vi": "Tôi kiểm tra số dư giúp anh. …Nó hết hạn rồi, ngày cuối là tháng Ba ạ." },
+            { "vi": "Ôi tiếc quá. Có làm gì được không ạ?" },
+            { "vi": "Rất tiếc là không, nhưng tôi cho anh thông tin liên lạc của cửa hàng đó. Nên hỏi thử ạ." }
+          ]
+        },
+        {
+          "title_vi": "Tìm đường",
+          "setting_vi": "Trao đổi ngắn. Tầng, giờ mở cửa và phòng thay tã.",
+          "note_vi": "Quầy thông tin biết cả toà nhà. Hãy dùng họ thay vì đi lang thang.",
+          "lines": [
+            { "vi": "Chào chị! Hiệu thuốc ở tầng mấy ạ?" },
+            { "vi": "Tầng hai, thang cuốn đằng kia ạ." },
+            { "vi": "Cảm ơn. Và phòng thay tã ở đâu ạ?" },
+            { "vi": "Cùng tầng đó, cạnh nhà vệ sinh ạ." },
+            { "vi": "Tốt. Hôm nay bên chị mở đến mấy giờ ạ?" },
+            { "vi": "Đến tám giờ. Chủ nhật từ mười hai đến sáu ạ." },
+            { "vi": "Vâng, biết vậy hay. Ở đây có sơ đồ mặt bằng không ạ?" },
+            { "vi": "Đây ạ. Và có bản đồ lớn trên tường kia." },
+            { "vi": "Cảm ơn chị đã giúp!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Giải quyết bốn việc ở một quầy",
+          "scenario_vi": "Đồ thất lạc, xác thực vé đỗ xe, một vấn đề về thẻ quà tặng, và hỏi đường.",
+          "your_role_vi": "Bạn, ở quầy thông tin",
+          "partner_role_vi": "Nhân viên quầy thông tin",
+          "turns": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị! Hôm qua tôi để quên găng tay ở đây. Có trong đồ thất lạc không ạ?", "hint_vi": "Hệ thống đồ thất lạc ở Phần Lan thật sự hoạt động. Luôn hỏi." },
+            { "vi": "Để xem. Màu gì ạ?" },
+            { "vi": "Xanh đậm, bằng len.", "hint_vi": "Màu cộng chất liệu. Đủ để nhận ra chúng." },
+            { "vi": "…Cái này ạ?" },
+            { "vi": "Đúng nó rồi! Và việc đỗ xe ở đây hoạt động thế nào ạ?", "hint_vi": "Chuyển thẳng sang việc tiếp theo khi họ vẫn còn ở đó." },
+            { "vi": "Hai tiếng miễn phí, nhưng vé phải được xác thực ạ." },
+            { "vi": "Tôi có cần hoá đơn mua hàng không ạ?", "hint_vi": "Thường là có, hoá đơn nào của hôm đó cũng được." },
+            { "vi": "Có ạ, hoá đơn nào của hôm nay cũng được." },
+            { "vi": "Vâng. Và thẻ quà tặng này không dùng được — việc này tôi nói với ai được ạ?", "hint_vi": "Câu chuyển hướng phổ quát. Đưa bạn đến đúng người ngay." }
+          ]
+        }
+      ]
+    },
+    "sales-and-haggling": {
+      "lesson": {
+        "title_vi": "Giảm giá, khuyến mãi và mặc cả trên Tori",
+        "subtitle_vi": "Paljonks halvimmillaan? Menikö jo kaupaks?",
+        "warmup_situation_vi": "Một sạp chợ trời, một cái xe đạp cũ, và một cái giá viết trên miếng bìa các tông. Ở cửa hàng thì bạn trả đúng giá đó. Ở đây thì bạn không nên.",
+        "warmup_question_vi": "Ở Phần Lan bạn mặc cả được ở đâu — và mặc cả thế nào để không bị coi là thô?",
+        "rescue_vi": "Tôi nghĩ thêm đã. Mai nó còn bán không?",
+        "rescue_note_vi": "Bỏ đi một cách lịch sự bản thân nó là một nước đi thương lượng, và phiên bản này để cửa mở mà không gây áp lực cho bên nào. Người bán thường sẽ hạ giá trước khi bạn nói hết câu."
+      },
+      "vocab": [
+        { "vi": "chợ trời", "note_vi": "Thường gọi là «kirppis». Loại trong nhà thì ở đâu cũng có và rất rẻ." },
+        { "vi": "chợ trời (tiếng lóng)" },
+        { "vi": "Tori.fi", "note_vi": "Trang rao bán của Phần Lan. Nơi phần lớn việc mua hàng cũ diễn ra." },
+        { "vi": "đang bán" }, { "vi": "đã bán" },
+        { "vi": "đã bán chưa", "note_vi": "Câu mở đầu tiêu chuẩn khi nhắn tin trên Tori. Học chính xác từng chữ." },
+        { "vi": "đã được giữ chỗ" },
+        { "vi": "người hỏi đầu tiên", "note_vi": "Người bán thường trả lời «olet ensimmäinen» — bạn là người đầu tiên trong hàng." },
+        { "vi": "mặc cả", "note_vi": "Được ở chợ trời và trên Tori. Không bao giờ ở cửa hàng." },
+        { "vi": "đề nghị (giá)" }, { "vi": "một lời đề nghị" },
+        { "vi": "ở mức thấp nhất", "note_vi": "«Paljonks halvimmillaan?» = mức thấp nhất anh chấp nhận là bao nhiêu?" },
+        { "vi": "giá" }, { "vi": "giá chào bán" }, { "vi": "một giá hợp lý" },
+        { "vi": "tình trạng", "note_vi": "«Missä kunnossa se on?» = nó ở trong tình trạng nào? Luôn hỏi." },
+        { "vi": "còn tốt" }, { "vi": "đã dùng qua" },
+        { "vi": "nó có chạy không", "note_vi": "Hãy hỏi với mọi đồ điện. Rồi thử ngay trước mặt họ." },
+        { "vi": "lỗi, hỏng hóc" }, { "vi": "vết xước" }, { "vi": "đã cũ, bị mòn" },
+        { "vi": "đến lấy", "note_vi": "«Nouto» = tự đến lấy. Phần lớn giao dịch trên Tori là tự đến lấy." },
+        { "vi": "việc tự đến lấy" }, { "vi": "việc gửi bưu điện" },
+        { "vi": "tiền mặt", "note_vi": "Chợ trời thường chỉ nhận tiền mặt. MobilePay ngày càng phổ biến." },
+        { "vi": "đợt giảm giá (ở cửa hàng)" }, { "vi": "đợt bán thanh lý" }, { "vi": "cửa hàng outlet" },
+        { "vi": "những món cuối cùng" },
+        { "vi": "không mặc cả", "note_vi": "Đôi khi được viết trên sạp. Hãy tôn trọng nó." }
+      ],
+      "phrases": [
+        { "vi": "Chào bạn! Cái này bán rồi chưa?", "when_to_use_vi": "Tin nhắn mở đầu tiêu chuẩn trên Tori.fi. Học từng chữ." },
+        { "vi": "Nó còn bán không?", "when_to_use_vi": "Cùng câu hỏi, cách nói khác một chút. Cả hai đều tiêu chuẩn." },
+        { "vi": "Nó ở trong tình trạng nào?", "when_to_use_vi": "Luôn hỏi, và hãy mong một câu trả lời thật. Người Phần Lan mô tả cả lỗi." },
+        { "vi": "Nó có lỗi gì không?", "when_to_use_vi": "Thẳng thắn, và bạn thường sẽ được trả lời thẳng." },
+        { "vi": "Nó chắc chắn chạy được không?", "when_to_use_vi": "Với mọi đồ điện. Rồi thử trước khi trả tiền." },
+        { "vi": "Mức thấp nhất là bao nhiêu?", "when_to_use_vi": "Câu mở đầu mặc cả ở chợ trời. Thẳng thắn và được chấp nhận." },
+        { "vi": "Ba mươi được không?", "when_to_use_vi": "Hãy nêu một con số. Thấp hơn giá chào khoảng 20–30% là bình thường." },
+        { "vi": "Tôi lấy nếu được giá ba mươi.", "when_to_use_vi": "Một lời đề nghị có cam kết, hiệu quả hơn nhiều so với đề nghị mơ hồ." },
+        { "vi": "Tôi có thể đến lấy hôm nay.", "when_to_use_vi": "Một lợi thế thật sự trên Tori. Người bán muốn tống nó đi." },
+        { "vi": "Tôi nghĩ thêm đã. Mai nó còn bán không?", "when_to_use_vi": "Bỏ đi một cách lịch sự. Giá thường giảm ngay giữa câu." },
+        { "vi": "Có nhận MobilePay không?", "when_to_use_vi": "Ngày càng thường là có, kể cả ở chợ trời." },
+        { "vi": "Chốt, tôi lấy nó. Cảm ơn!", "when_to_use_vi": "Chốt giao dịch. «Sovittu» đóng lại thoả thuận." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mặc cả ở chợ trời",
+          "setting_vi": "Một cái xe đạp cũ với chữ 60 € viết trên bìa các tông.",
+          "note_vi": "Tình trạng trước, giá sau. Hỏi về lỗi mới cho bạn quyền thương lượng.",
+          "lines": [
+            { "vi": "Chào bạn! Cái xe này bán không?" },
+            { "vi": "Bán chứ. Sáu chục." },
+            { "vi": "Nó ở trong tình trạng nào?" },
+            { "vi": "Tốt. Phanh mới. Bộ số hơi mòn một chút." },
+            { "vi": "Nó có lỗi gì khác không?" },
+            { "vi": "Bánh sau có một vết xước, nhưng không ảnh hưởng. Bạn cứ thử đi." },
+            { "vi": "…Ừ, nó chạy tốt. Mức thấp nhất là bao nhiêu?" },
+            { "vi": "Thì… năm chục." },
+            { "vi": "Bốn mươi lăm được không? Tôi chở đi luôn được." },
+            { "vi": "Hừm. Bốn mươi tám, và nó là của bạn." },
+            { "vi": "Chốt, tôi lấy. Có nhận MobilePay không?" },
+            { "vi": "Nhận. Số là 040 123 4567." },
+            { "vi": "Đã chuyển. Cảm ơn!" }
+          ]
+        },
+        {
+          "title_vi": "Mua hàng trên Tori.fi",
+          "setting_vi": "Tin nhắn. Đoạn trao đổi chính xác như thế này diễn ra hàng nghìn lần mỗi ngày ở Phần Lan.",
+          "note_vi": "«Menikö jo kaupaks» là câu mở đầu. Đề nghị đến lấy trong ngày là đòn bẩy.",
+          "lines": [
+            { "vi": "Chào bạn! Cái sofa này bán rồi chưa?" },
+            { "vi": "Chào bạn! Chưa. Bạn là người hỏi đầu tiên." },
+            { "vi": "Tốt. Nó ở trong tình trạng nào?" },
+            { "vi": "Tốt, dùng hai năm. Có một vết bẩn nhỏ ở phía sau, thấy trong ảnh." },
+            { "vi": "Vâng, cảm ơn bạn đã nói thật. Giá chào là 150?" },
+            { "vi": "Đúng rồi." },
+            { "vi": "Tôi lấy giá 120 nếu tôi đến lấy được hôm nay." },
+            { "vi": "130 và nó là của bạn. Tôi muốn tống nó ra khỏi đây." },
+            { "vi": "Chốt. Mấy giờ tôi đến được?" },
+            { "vi": "Sau sáu giờ. Địa chỉ là Mäkikatu 8, lồng cầu thang A." },
+            { "vi": "Hẹn bảy giờ. Có nhận MobilePay không?" },
+            { "vi": "Nhận tốt. Hẹn gặp!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Mặc cả mua một cái xe đạp cũ",
+          "scenario_vi": "Hỏi về tình trạng và lỗi, thử nó, rồi thương lượng và chốt.",
+          "your_role_vi": "Bạn, ở chợ trời",
+          "partner_role_vi": "Người bán",
+          "turns": [
+            { "vi": "Chào bạn! Cái xe này bán không?", "hint_vi": "Mở đầu đơn giản. Giá trên miếng bìa chỉ là điểm khởi đầu." },
+            { "vi": "Bán chứ. Sáu chục." },
+            { "vi": "Nó ở trong tình trạng nào?", "hint_vi": "Tình trạng trước giá. Nó cho bạn quyền thương lượng." },
+            { "vi": "Tốt. Phanh mới, bộ số hơi mòn." },
+            { "vi": "Nó có lỗi gì khác không?", "hint_vi": "Thẳng thắn, và người bán Phần Lan thật sự có khai lỗi." },
+            { "vi": "Bánh sau có vết xước. Bạn cứ thử đi." },
+            { "vi": "…Nó chạy tốt. Mức thấp nhất là bao nhiêu?", "hint_vi": "Thử trước, rồi mới mở màn thương lượng." },
+            { "vi": "Thì… năm chục." },
+            { "vi": "Bốn mươi lăm được không? Tôi chở đi luôn được.", "hint_vi": "Nêu một con số và thêm đòn bẩy của bạn — lấy đi ngay." },
+            { "vi": "Bốn mươi tám, và nó là của bạn." },
+            { "vi": "Chốt, tôi lấy. Có nhận MobilePay không?", "hint_vi": "«Sovittu» đóng lại thoả thuận. Rồi lo chuyện thanh toán." }
+          ]
+        }
+      ]
+    }
+  }
+}

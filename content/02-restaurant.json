@@ -1,0 +1,3543 @@
+{
+  "slug": "restaurant",
+  "number": "02",
+  "emoji": "🍽️",
+  "title": "Ordering and chatting at a restaurant",
+  "subtitle": "Beyond \"yksi kahvi, kiitos\": handling the follow-up questions.",
+  "description": "Ordering is the easy half. The hard half is the four questions that come back at you — here or takeaway, anything else, receipt, card or cash — fired fast by someone who does this three hundred times a day. These lessons drill the answers until they're automatic, then move on to allergies, fixing a wrong order, splitting a bill, and the unwritten rules of the Finnish lunch buffet.",
+  "level": "A1–A2",
+  "lessons": [
+    {
+      "slug": "ordering-naturally",
+      "number": "2.1",
+      "title": "Ordering naturally",
+      "subtitle": "Mä ottaisin… Saisinko…",
+      "warmup_situation": "You've rehearsed 'Minä haluan yhden kahvin.' It's grammatically perfect. It also sounds like a robot demanding coffee.",
+      "warmup_question": "What do Finns actually say — and why is it in the conditional?",
+      "rescue_fi": "Hetki, mä mietin vielä.",
+      "rescue_en": "One moment, I'm still thinking.",
+      "rescue_note": "Buys you time at the counter without panic-ordering the first thing you can pronounce. Nobody rushes you after this — the queue behind you will wait without complaint, which is very Finnish.",
+      "vocab": [
+        {
+          "fi": "ottaa",
+          "en": "to take",
+          "pos": "verb",
+          "note": "The ordering verb. 'Mä otan' = I'll take.",
+          "vi": "lấy, nhận",
+          "note_vi": "Động từ dùng để gọi món. «Mä otan» = tôi lấy."
+        },
+        {
+          "fi": "ottaisin",
+          "fi_book": "ottaisin",
+          "en": "I would take",
+          "pos": "verb",
+          "note": "Conditional. Softer and far more common than 'otan' when ordering.",
+          "vi": "tôi sẽ lấy (thể điều kiện)",
+          "note_vi": "Thể điều kiện. Nhẹ hơn và phổ biến hơn «otan» rất nhiều khi gọi món."
+        },
+        {
+          "fi": "saada",
+          "en": "to get, to receive",
+          "pos": "verb",
+          "vi": "được, nhận được"
+        },
+        {
+          "fi": "saisinko",
+          "en": "could I get",
+          "pos": "phrase",
+          "note": "The politest ordering form. Literally 'would I get'.",
+          "vi": "tôi xin được… có được không",
+          "note_vi": "Cách gọi món lịch sự nhất. Nghĩa đen là «liệu tôi có được»."
+        },
+        {
+          "fi": "haluta",
+          "en": "to want",
+          "pos": "verb",
+          "note": "Avoid 'haluan' when ordering — it's blunt. Use ottaisin or saisinko.",
+          "vi": "muốn",
+          "note_vi": "Tránh «haluan» khi gọi món — nghe cộc. Hãy dùng ottaisin hoặc saisinko."
+        },
+        {
+          "fi": "kahvi",
+          "en": "coffee",
+          "pos": "noun",
+          "vi": "cà phê"
+        },
+        {
+          "fi": "tee",
+          "en": "tea",
+          "pos": "noun",
+          "vi": "trà"
+        },
+        {
+          "fi": "maito",
+          "en": "milk",
+          "pos": "noun",
+          "vi": "sữa"
+        },
+        {
+          "fi": "vesi",
+          "en": "water",
+          "pos": "noun",
+          "note": "Tap water is free everywhere and excellent. 'Hanavettä' = tap water.",
+          "vi": "nước",
+          "note_vi": "Nước máy ở đâu cũng miễn phí và rất ngon. «Hanavettä» = nước máy."
+        },
+        {
+          "fi": "olut / kalja",
+          "en": "beer",
+          "pos": "noun",
+          "note": "'Kalja' is the casual word. 'Yks iso' = one large (beer), understood everywhere.",
+          "vi": "bia",
+          "note_vi": "«Kalja» là từ thân mật. «Yks iso» = một cốc lớn (bia), ở đâu cũng hiểu."
+        },
+        {
+          "fi": "leipä",
+          "en": "bread",
+          "pos": "noun",
+          "vi": "bánh mì"
+        },
+        {
+          "fi": "salaatti",
+          "en": "salad",
+          "pos": "noun",
+          "vi": "salad"
+        },
+        {
+          "fi": "keitto",
+          "en": "soup",
+          "pos": "noun",
+          "vi": "súp"
+        },
+        {
+          "fi": "annos",
+          "en": "portion, dish",
+          "pos": "noun",
+          "vi": "suất, phần ăn"
+        },
+        {
+          "fi": "ruokalista",
+          "en": "menu",
+          "pos": "noun",
+          "note": "Or just 'lista'. 'Menu' is understood too.",
+          "vi": "thực đơn",
+          "note_vi": "Hoặc chỉ «lista». Nói «menu» cũng hiểu."
+        },
+        {
+          "fi": "lounas",
+          "en": "lunch",
+          "pos": "noun",
+          "note": "Usually 11–14, a set price including bread, salad, and coffee.",
+          "vi": "bữa trưa",
+          "note_vi": "Thường từ 11–14 giờ, giá cố định gồm bánh mì, salad và cà phê."
+        },
+        {
+          "fi": "päivän annos",
+          "en": "dish of the day",
+          "pos": "phrase",
+          "vi": "món trong ngày"
+        },
+        {
+          "fi": "iso",
+          "en": "big, large",
+          "pos": "adjective",
+          "vi": "to, lớn"
+        },
+        {
+          "fi": "pieni",
+          "en": "small",
+          "pos": "adjective",
+          "vi": "nhỏ"
+        },
+        {
+          "fi": "yks",
+          "fi_book": "yksi",
+          "en": "one",
+          "pos": "number",
+          "vi": "một"
+        },
+        {
+          "fi": "kaks",
+          "fi_book": "kaksi",
+          "en": "two",
+          "pos": "number",
+          "vi": "hai"
+        },
+        {
+          "fi": "kiitos",
+          "en": "thanks, please",
+          "pos": "particle",
+          "note": "Does both jobs. Tack it onto any order and it becomes polite.",
+          "vi": "cảm ơn, làm ơn",
+          "note_vi": "Làm cả hai việc. Gắn vào cuối bất kỳ lời gọi món nào là nó thành lịch sự."
+        },
+        {
+          "fi": "suositella",
+          "en": "to recommend",
+          "pos": "verb",
+          "vi": "gợi ý, giới thiệu"
+        },
+        {
+          "fi": "tilata",
+          "en": "to order",
+          "pos": "verb",
+          "vi": "đặt món, gọi món"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä ottaisin yhden kahvin.",
+          "fi_book": "Minä ottaisin yhden kahvin.",
+          "en": "I'll have a coffee.",
+          "when_to_use": "Your default order. The conditional 'ottaisin' is what makes it sound normal rather than demanding.",
+          "register": "neutral",
+          "vi": "Cho tôi một cà phê.",
+          "when_to_use_vi": "Câu gọi món mặc định. Chính thể điều kiện «ottaisin» làm nó nghe bình thường chứ không phải ra lệnh."
+        },
+        {
+          "fi": "Saisinko yhden ison kahvin?",
+          "en": "Could I get one large coffee?",
+          "literal": "would I get one large coffee",
+          "when_to_use": "One notch politer. Good with people you don't know.",
+          "register": "polite",
+          "vi": "Cho tôi một cà phê lớn được không?",
+          "literal_vi": "liệu tôi có được một cà phê lớn",
+          "when_to_use_vi": "Lịch sự hơn một bậc. Hợp khi nói với người lạ."
+        },
+        {
+          "fi": "Mulle yks kalja, kiitos.",
+          "en": "A beer for me, thanks.",
+          "literal": "to me one beer, thanks",
+          "when_to_use": "Bar-casual. No verb at all — very natural at a counter.",
+          "register": "casual",
+          "vi": "Cho tôi một bia, cảm ơn.",
+          "literal_vi": "cho tôi một bia, cảm ơn",
+          "when_to_use_vi": "Kiểu quán bar. Không có động từ nào cả — rất tự nhiên ở quầy."
+        },
+        {
+          "fi": "Kaks kahvii ja yks tee, kiitos.",
+          "fi_book": "Kaksi kahvia ja yksi tee, kiitos.",
+          "en": "Two coffees and one tea, thanks.",
+          "when_to_use": "Ordering for a group. 'kahvii' = kahvia, the partitive shortened.",
+          "register": "casual",
+          "vi": "Hai cà phê và một trà, cảm ơn.",
+          "when_to_use_vi": "Gọi cho cả nhóm. «kahvii» = kahvia, cách phân từ rút gọn."
+        },
+        {
+          "fi": "Mitä sä suosittelet?",
+          "en": "What do you recommend?",
+          "when_to_use": "Finns answer this honestly, and will tell you if something isn't good today.",
+          "register": "casual",
+          "vi": "Bạn gợi ý món gì?",
+          "when_to_use_vi": "Người Phần Lan trả lời thành thật, và sẽ nói nếu hôm nay món nào không ngon."
+        },
+        {
+          "fi": "Mikä on päivän annos?",
+          "en": "What's the dish of the day?",
+          "when_to_use": "At lunch. Often the best value and it's already made.",
+          "register": "neutral",
+          "vi": "Món trong ngày là gì?",
+          "when_to_use_vi": "Vào bữa trưa. Thường đáng tiền nhất và đã nấu sẵn."
+        },
+        {
+          "fi": "Onks teillä ruokalistaa?",
+          "en": "Do you have a menu?",
+          "when_to_use": "In many places the menu is on a board or a QR code, so this is a real question.",
+          "register": "neutral",
+          "vi": "Ở đây có thực đơn không?",
+          "when_to_use_vi": "Nhiều nơi để thực đơn trên bảng hoặc mã QR, nên đây là câu hỏi thật."
+        },
+        {
+          "fi": "Mä otan saman kun se.",
+          "fi_book": "Minä otan saman kuin hän.",
+          "en": "I'll have the same as them.",
+          "when_to_use": "The escape hatch when you can't read the menu. Point discreetly.",
+          "register": "casual",
+          "vi": "Cho tôi giống họ.",
+          "when_to_use_vi": "Lối thoát khi bạn không đọc nổi thực đơn. Chỉ tay kín đáo thôi."
+        },
+        {
+          "fi": "Onks toi kasvis?",
+          "en": "Is that vegetarian?",
+          "when_to_use": "'Kasvis' on a menu means vegetarian. 'Vegaani' means vegan.",
+          "register": "casual",
+          "vi": "Cái đó có phải món chay không?",
+          "when_to_use_vi": "«Kasvis» trên thực đơn nghĩa là món chay. «Vegaani» là thuần chay."
+        },
+        {
+          "fi": "Voinks mä saada sen ilman sipulia?",
+          "en": "Can I have it without onion?",
+          "when_to_use": "'ilman' + partitive. ilman juustoa, ilman kastiketta, ilman lihaa.",
+          "register": "neutral",
+          "vi": "Tôi lấy món đó mà không có hành được không?",
+          "when_to_use_vi": "«ilman» + cách phân từ. ilman juustoa, ilman kastiketta, ilman lihaa."
+        },
+        {
+          "fi": "Ja hanavettä, kiitos.",
+          "en": "And tap water, please.",
+          "when_to_use": "Always free, always offered without fuss. Asking is completely normal.",
+          "register": "neutral",
+          "vi": "Và cho tôi nước máy nữa ạ.",
+          "when_to_use_vi": "Luôn miễn phí, luôn được phục vụ không đắn đo. Hỏi xin là hoàn toàn bình thường."
+        },
+        {
+          "fi": "Se on siinä, kiitos.",
+          "en": "That's all, thanks.",
+          "literal": "it is in that, thanks",
+          "when_to_use": "Closing your order. Stops the 'anything else?' loop.",
+          "register": "neutral",
+          "vi": "Thế thôi ạ, cảm ơn.",
+          "literal_vi": "nó ở trong đó, cảm ơn",
+          "when_to_use_vi": "Chốt lại phần gọi món. Chặn vòng lặp «còn gì nữa không?»."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "At the café counter",
+          "setting": "A city café, mid-morning, short queue behind you.",
+          "speed": "slow",
+          "note": "Notice every order uses the conditional or no verb at all.",
+          "lines": [
+            {
+              "speaker": "Myyjä",
+              "fi": "Moi! Mitä saisi olla?",
+              "en": "Hi! What can I get you?",
+              "note": "The standard greeting at a counter. Literally 'what would there be'.",
+              "vi": "Chào! Anh dùng gì ạ?",
+              "note_vi": "Câu chào chuẩn ở quầy. Nghĩa đen là «sẽ có gì đây»."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä ottaisin yhden ison kahvin.",
+              "en": "Hi! I'll have one large coffee.",
+              "vi": "Chào! Cho tôi một cà phê lớn."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo. Maitoa?",
+              "en": "Yeah. Milk?",
+              "vi": "Vâng. Có sữa không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei kiitos. Mut saisinko myös yhden korvapuustin?",
+              "en": "No thanks. But could I also get one cinnamon bun?",
+              "note": "korvapuusti — the classic Finnish cinnamon bun. Literally 'slapped ear'.",
+              "vi": "Không, cảm ơn. Nhưng cho tôi thêm một bánh quế nữa được không?",
+              "note_vi": "korvapuusti — bánh quế cuộn kinh điển của Phần Lan. Nghĩa đen là «cái tai bị tát»."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Totta kai. Tuleeko muuta?",
+              "en": "Of course. Anything else?",
+              "vi": "Tất nhiên rồi. Còn gì nữa không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei, se on siinä. Kiitos.",
+              "en": "No, that's all. Thanks.",
+              "vi": "Không, thế thôi. Cảm ơn."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kuusi viisikymmentä.",
+              "en": "Six fifty.",
+              "vi": "Sáu euro năm mươi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kortilla.",
+              "en": "By card.",
+              "note": "One word. Nobody needs a full sentence here.",
+              "vi": "Thẻ.",
+              "note_vi": "Một từ. Ở đây không ai cần cả câu."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Ole hyvä. Hyvää päivänjatkoa!",
+              "en": "Here you go. Have a good day!",
+              "vi": "Của anh đây. Chúc một ngày tốt lành!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, samoin!",
+              "en": "Thanks, likewise!",
+              "vi": "Cảm ơn, chị cũng vậy!"
+            }
+          ],
+          "title_vi": "Ở quầy quán cà phê",
+          "setting_vi": "Một quán cà phê trong thành phố, giữa buổi sáng, phía sau bạn có vài người xếp hàng.",
+          "note_vi": "Để ý mọi lời gọi món đều dùng thể điều kiện hoặc không có động từ nào cả."
+        },
+        {
+          "title": "Lunch, fast, with a recommendation",
+          "setting": "A busy lunch place at 11:45. The queue is long and everyone is quick.",
+          "speed": "natural",
+          "note": "The whole exchange is eleven seconds. Listen for how much gets dropped.",
+          "lines": [
+            {
+              "speaker": "Myyjä",
+              "fi": "Moi, mitä saa olla?",
+              "en": "Hi, what'll it be?",
+              "vi": "Chào, dùng gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mitä sä suosittelet tänään?",
+              "en": "What do you recommend today?",
+              "vi": "Hôm nay chị gợi ý món gì?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Toi lohikeitto on tosi hyvää.",
+              "en": "That salmon soup is really good.",
+              "vi": "Món súp cá hồi kia ngon lắm ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei, mä otan sen.",
+              "en": "Okay, I'll take it.",
+              "vi": "Được, cho tôi món đó."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Leipää ja salaattia kuuluu hintaan.",
+              "en": "Bread and salad are included in the price.",
+              "note": "'kuuluu hintaan' = included. Standard at lunch.",
+              "vi": "Bánh mì và salad đã tính trong giá rồi ạ.",
+              "note_vi": "«kuuluu hintaan» = đã bao gồm. Chuẩn mực ở bữa trưa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja hanavettä.",
+              "en": "Good. And tap water.",
+              "vi": "Tốt. Và nước máy nữa."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo, tuolta saat itse. Täällä vai mukaan?",
+              "en": "Yeah, you get it yourself over there. Here or takeaway?",
+              "vi": "Vâng, anh tự lấy ở đằng kia. Ăn ở đây hay mang đi ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Täällä.",
+              "en": "Here.",
+              "vi": "Ở đây."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Selvä. Kolmetoista viiskyt.",
+              "en": "Right. Thirteen fifty.",
+              "note": "'viiskyt' = viisikymmentä. Numbers get brutally shortened.",
+              "vi": "Rõ rồi. Mười ba năm mươi.",
+              "note_vi": "«viiskyt» = viisikymmentä. Số đếm bị rút ngắn không thương tiếc."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kortilla, kiitos.",
+              "en": "By card, thanks.",
+              "vi": "Thẻ, cảm ơn."
+            }
+          ],
+          "title_vi": "Bữa trưa, nhanh, kèm một lời gợi ý",
+          "setting_vi": "Một quán ăn trưa đông khách lúc 11:45. Hàng dài và ai cũng nhanh.",
+          "note_vi": "Cả đoạn trao đổi dài mười một giây. Hãy nghe xem bao nhiêu thứ bị lược đi."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Order a coffee and a bun",
+          "scenario": "Order two items, decline milk, and close your order cleanly.",
+          "your_role": "You, at the counter",
+          "partner_role": "The server",
+          "turns": [
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Moi! Mitä saisi olla?",
+              "en": "Hi! What can I get you?",
+              "vi": "Chào! Anh dùng gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Mä ottaisin yhden ison kahvin.",
+              "en": "Hi! I'll have one large coffee.",
+              "hint": "Use the conditional 'ottaisin', not 'haluan'.",
+              "vi": "Chào! Cho tôi một cà phê lớn.",
+              "hint_vi": "Dùng thể điều kiện «ottaisin», đừng dùng «haluan»."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Joo. Maitoa?",
+              "en": "Yeah. Milk?",
+              "vi": "Vâng. Có sữa không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei kiitos. Ja saisinko yhden korvapuustin?",
+              "en": "No thanks. And could I get one cinnamon bun?",
+              "hint": "Decline, then add a second item with 'saisinko'.",
+              "vi": "Không, cảm ơn. Và cho tôi một bánh quế được không?",
+              "hint_vi": "Từ chối, rồi thêm món thứ hai bằng «saisinko»."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Tuleeko muuta?",
+              "en": "Anything else?",
+              "vi": "Còn gì nữa không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei, se on siinä. Kiitos.",
+              "en": "No, that's all. Thanks.",
+              "hint": "Close the order so they move to the total.",
+              "vi": "Không, thế thôi. Cảm ơn.",
+              "hint_vi": "Chốt lại để họ chuyển sang tính tiền."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Kuusi viisikymmentä. Kortilla vai käteisellä?",
+              "en": "Six fifty. Card or cash?",
+              "vi": "Sáu năm mươi. Thẻ hay tiền mặt ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kortilla, kiitos.",
+              "en": "By card, thanks.",
+              "hint": "One word is enough — no full sentence needed.",
+              "vi": "Thẻ, cảm ơn.",
+              "hint_vi": "Một từ là đủ — không cần cả câu."
+            }
+          ],
+          "title_vi": "Gọi một cà phê và một cái bánh",
+          "scenario_vi": "Gọi hai món, từ chối sữa, và chốt lại phần gọi món cho gọn.",
+          "your_role_vi": "Bạn, đang đứng ở quầy",
+          "partner_role_vi": "Nhân viên phục vụ"
+        }
+      ],
+      "title_vi": "Gọi món một cách tự nhiên",
+      "subtitle_vi": "Mä ottaisin… Saisinko…",
+      "warmup_situation_vi": "Bạn đã tập «Minä haluan yhden kahvin.» Ngữ pháp hoàn hảo. Nghe cũng như một con robot ra lệnh đòi cà phê.",
+      "warmup_question_vi": "Người Phần Lan thật sự nói gì — và tại sao lại dùng thể điều kiện?",
+      "rescue_vi": "Chờ chút, tôi vẫn đang nghĩ.",
+      "rescue_note_vi": "Mua cho bạn thời gian ở quầy mà không phải hoảng lên gọi đại thứ đầu tiên bạn đọc được. Sau câu này không ai giục bạn — hàng người phía sau sẽ đợi mà không kêu ca, một điều rất Phần Lan."
+    },
+    {
+      "slug": "unexpected-follow-ups",
+      "number": "2.2",
+      "title": "The follow-ups you didn't expect",
+      "subtitle": "Täällä vai mukaan? Tuleeko muuta? Kuitti mukaan?",
+      "warmup_situation": "Your order went perfectly. Then they fire three questions at you in four seconds and you freeze, and the whole thing collapses into English.",
+      "warmup_question": "There are only about six of these questions in the entire country. What if you knew all of them?",
+      "rescue_fi": "Sori, toistatsä sen?",
+      "rescue_en": "Sorry, could you repeat that?",
+      "rescue_note": "Short enough to say instantly, before the panic sets in. At a counter you want the shortest possible repair phrase — a long apology wastes the seconds you need for the answer.",
+      "vocab": [
+        {
+          "fi": "täällä",
+          "en": "here",
+          "pos": "adverb",
+          "vi": "ở đây"
+        },
+        {
+          "fi": "mukaan",
+          "en": "to take away, along",
+          "pos": "adverb",
+          "note": "'Täällä vai mukaan?' = eat in or takeaway. The single most common counter question.",
+          "vi": "mang đi, đem theo",
+          "note_vi": "«Täällä vai mukaan?» = ăn tại chỗ hay mang về. Câu hỏi ở quầy phổ biến nhất."
+        },
+        {
+          "fi": "vai",
+          "en": "or (in questions)",
+          "pos": "conjunction",
+          "note": "'Vai' offers a choice; 'tai' just lists. Counter questions always use vai.",
+          "vi": "hay (trong câu hỏi)",
+          "note_vi": "«Vai» đưa ra lựa chọn; «tai» chỉ liệt kê. Câu hỏi ở quầy luôn dùng vai."
+        },
+        {
+          "fi": "muuta",
+          "en": "anything else, other",
+          "pos": "pronoun",
+          "vi": "gì nữa, cái khác"
+        },
+        {
+          "fi": "tuleeko muuta",
+          "en": "anything else?",
+          "pos": "phrase",
+          "literal": "does other come",
+          "vi": "còn gì nữa không?",
+          "literal_vi": "có cái khác đến không"
+        },
+        {
+          "fi": "kuitti",
+          "en": "receipt",
+          "pos": "noun",
+          "vi": "hoá đơn"
+        },
+        {
+          "fi": "pussi",
+          "en": "bag",
+          "pos": "noun",
+          "note": "Costs 20–40 cents and they will ask. Say yes or no fast.",
+          "vi": "túi",
+          "note_vi": "Giá 20–40 xu và họ sẽ hỏi. Trả lời có hoặc không thật nhanh."
+        },
+        {
+          "fi": "kortti",
+          "en": "card",
+          "pos": "noun",
+          "vi": "thẻ"
+        },
+        {
+          "fi": "kortilla",
+          "en": "by card",
+          "pos": "noun",
+          "note": "The -lla ending = 'by means of'. Kortilla, käteisellä, puhelimella.",
+          "vi": "bằng thẻ",
+          "note_vi": "Đuôi -lla = «bằng phương tiện». Kortilla, käteisellä, puhelimella."
+        },
+        {
+          "fi": "käteinen",
+          "en": "cash",
+          "pos": "noun",
+          "vi": "tiền mặt"
+        },
+        {
+          "fi": "käteisellä",
+          "en": "in cash",
+          "pos": "noun",
+          "note": "Increasingly rare. Many places are card-only.",
+          "vi": "bằng tiền mặt",
+          "note_vi": "Ngày càng hiếm. Nhiều nơi chỉ nhận thẻ."
+        },
+        {
+          "fi": "lähimaksu",
+          "en": "contactless payment",
+          "pos": "noun",
+          "vi": "thanh toán không tiếp xúc"
+        },
+        {
+          "fi": "kanta-asiakaskortti",
+          "en": "loyalty card",
+          "pos": "noun",
+          "note": "S-Etukortti or K-Plussa. They ask every single time.",
+          "vi": "thẻ khách hàng thân thiết",
+          "note_vi": "S-Etukortti hoặc K-Plussa. Lần nào họ cũng hỏi."
+        },
+        {
+          "fi": "bonuskortti",
+          "en": "bonus card",
+          "pos": "noun",
+          "vi": "thẻ tích điểm"
+        },
+        {
+          "fi": "etukortti",
+          "en": "loyalty card (short)",
+          "pos": "noun",
+          "vi": "thẻ ưu đãi (rút gọn)"
+        },
+        {
+          "fi": "tarvitako",
+          "en": "do you need",
+          "pos": "verb",
+          "vi": "có cần không"
+        },
+        {
+          "fi": "paperikassi",
+          "en": "paper bag",
+          "pos": "noun",
+          "vi": "túi giấy"
+        },
+        {
+          "fi": "muovikassi",
+          "en": "plastic bag",
+          "pos": "noun",
+          "vi": "túi nhựa"
+        },
+        {
+          "fi": "tässä",
+          "en": "here (you go)",
+          "pos": "adverb",
+          "vi": "đây (của anh/chị)"
+        },
+        {
+          "fi": "ole hyvä",
+          "en": "here you are / you're welcome",
+          "pos": "phrase",
+          "literal": "be good",
+          "vi": "của anh đây / không có gì",
+          "literal_vi": "hãy tốt"
+        },
+        {
+          "fi": "sopiiko",
+          "en": "is that okay?",
+          "pos": "verb",
+          "vi": "thế có được không?"
+        },
+        {
+          "fi": "lämmitetäänkö",
+          "en": "shall we heat it up?",
+          "pos": "verb",
+          "note": "Asked about pastries and takeaway food.",
+          "vi": "có hâm nóng không?",
+          "note_vi": "Được hỏi về bánh ngọt và đồ mang đi."
+        },
+        {
+          "fi": "samaan pussiin",
+          "en": "in the same bag",
+          "pos": "phrase",
+          "vi": "vào cùng một túi"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Täällä vai mukaan?",
+          "en": "Eating in or taking away?",
+          "when_to_use": "You will hear this every single time. Answer: 'Täällä' or 'Mukaan'. One word.",
+          "register": "neutral",
+          "vi": "Ăn ở đây hay mang đi?",
+          "when_to_use_vi": "Lần nào bạn cũng sẽ nghe câu này. Trả lời: «Täällä» hoặc «Mukaan». Một từ."
+        },
+        {
+          "fi": "Täällä, kiitos.",
+          "en": "Here, thanks.",
+          "when_to_use": "Eating in. That's the entire answer.",
+          "register": "neutral",
+          "vi": "Ở đây, cảm ơn.",
+          "when_to_use_vi": "Ăn tại chỗ. Đó là toàn bộ câu trả lời."
+        },
+        {
+          "fi": "Mukaan, kiitos.",
+          "en": "Takeaway, thanks.",
+          "when_to_use": "Taking it with you.",
+          "register": "neutral",
+          "vi": "Mang đi, cảm ơn.",
+          "when_to_use_vi": "Khi bạn đem theo."
+        },
+        {
+          "fi": "Tuleeko muuta?",
+          "en": "Anything else?",
+          "when_to_use": "Asked after every item. 'Ei kiitos' closes it.",
+          "register": "neutral",
+          "vi": "Còn gì nữa không?",
+          "when_to_use_vi": "Được hỏi sau mỗi món. «Ei kiitos» là chốt."
+        },
+        {
+          "fi": "Ei kiitos, se on siinä.",
+          "en": "No thanks, that's all.",
+          "when_to_use": "The full stop on your order.",
+          "register": "neutral",
+          "vi": "Không cảm ơn, thế thôi ạ.",
+          "when_to_use_vi": "Dấu chấm hết cho phần gọi món của bạn."
+        },
+        {
+          "fi": "Onks kanta-asiakaskorttia?",
+          "en": "Do you have a loyalty card?",
+          "when_to_use": "Every shop, every time. If not: 'Ei oo.' Two syllables and it's over.",
+          "register": "neutral",
+          "vi": "Anh/chị có thẻ khách hàng thân thiết không?",
+          "when_to_use_vi": "Cửa hàng nào cũng hỏi, lần nào cũng hỏi. Nếu không: «Ei oo.» Hai âm tiết là xong."
+        },
+        {
+          "fi": "Ei oo.",
+          "fi_book": "Ei ole.",
+          "en": "I don't have one.",
+          "when_to_use": "The answer to any 'onko sinulla' question you have to decline.",
+          "register": "casual",
+          "vi": "Tôi không có.",
+          "when_to_use_vi": "Câu trả lời cho mọi câu hỏi «onko sinulla» mà bạn phải từ chối."
+        },
+        {
+          "fi": "Tarvitaanko pussia?",
+          "en": "Do you need a bag?",
+          "when_to_use": "Bags cost money, so this is a real question, not a courtesy.",
+          "register": "neutral",
+          "vi": "Anh/chị có cần túi không?",
+          "when_to_use_vi": "Túi mất tiền, nên đây là câu hỏi thật chứ không phải phép lịch sự."
+        },
+        {
+          "fi": "Joo, yks pussi kiitos.",
+          "en": "Yes, one bag please.",
+          "when_to_use": "If you need one. Otherwise 'Ei tarvita' — we don't need one.",
+          "register": "casual",
+          "vi": "Vâng, cho một túi ạ.",
+          "when_to_use_vi": "Nếu bạn cần. Không thì «Ei tarvita» — không cần đâu."
+        },
+        {
+          "fi": "Kuitti mukaan?",
+          "en": "Receipt with you?",
+          "when_to_use": "'Joo kiitos' or 'Ei tarvii'. Keep it for anything you might return.",
+          "register": "neutral",
+          "vi": "Lấy hoá đơn không?",
+          "when_to_use_vi": "«Joo kiitos» hoặc «Ei tarvii». Giữ lại cho những thứ bạn có thể đem trả."
+        },
+        {
+          "fi": "Ei tarvii.",
+          "fi_book": "Ei tarvitse.",
+          "en": "No need.",
+          "when_to_use": "Declining a bag, a receipt, help carrying something. Extremely useful.",
+          "register": "casual",
+          "vi": "Không cần đâu.",
+          "when_to_use_vi": "Từ chối túi, hoá đơn, hay lời giúp xách đồ. Cực kỳ hữu dụng."
+        },
+        {
+          "fi": "Lämmitetäänkö se?",
+          "en": "Shall we heat it up?",
+          "when_to_use": "Asked about buns, pastries and takeaway boxes. 'Joo kiitos' or 'Ei kiitos'.",
+          "register": "neutral",
+          "vi": "Có hâm nóng lên không ạ?",
+          "when_to_use_vi": "Được hỏi về bánh mì ngọt, bánh ngọt và hộp đồ mang đi. «Joo kiitos» hoặc «Ei kiitos»."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "All the questions at once",
+          "setting": "A bakery counter. The server is friendly and thorough.",
+          "speed": "slow",
+          "note": "This is the complete set. There genuinely aren't many more.",
+          "lines": [
+            {
+              "speaker": "Myyjä",
+              "fi": "Moi! Mitä saisi olla?",
+              "en": "Hi! What can I get you?",
+              "vi": "Chào! Anh dùng gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi. Kaks korvapuustia ja yks kahvi.",
+              "en": "Hi. Two cinnamon buns and one coffee.",
+              "vi": "Chào. Hai bánh quế và một cà phê."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo. Lämmitetäänkö ne pullat?",
+              "en": "Yeah. Shall we heat up those buns?",
+              "vi": "Vâng. Có hâm nóng mấy cái bánh không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo kiitos.",
+              "en": "Yes please.",
+              "vi": "Vâng, làm ơn."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Tuleeko muuta?",
+              "en": "Anything else?",
+              "vi": "Còn gì nữa không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei kiitos, se on siinä.",
+              "en": "No thanks, that's all.",
+              "vi": "Không cảm ơn, thế thôi."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Täällä vai mukaan?",
+              "en": "Here or takeaway?",
+              "vi": "Ăn ở đây hay mang đi ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kahvi täällä, pullat mukaan.",
+              "en": "Coffee here, buns to go.",
+              "note": "You can split it. Completely normal.",
+              "vi": "Cà phê ở đây, bánh mang đi.",
+              "note_vi": "Bạn có thể tách ra. Hoàn toàn bình thường."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Selvä. Onks kanta-asiakaskorttia?",
+              "en": "Right. Do you have a loyalty card?",
+              "vi": "Rõ rồi. Anh có thẻ khách hàng thân thiết không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo.",
+              "en": "No, I don't.",
+              "vi": "Không có."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Ei haittaa. Yhdeksän kaksikymmentä. Kuitti mukaan?",
+              "en": "Doesn't matter. Nine twenty. Receipt with you?",
+              "vi": "Không sao ạ. Chín hai mươi. Lấy hoá đơn không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei tarvii. Kortilla.",
+              "en": "No need. By card.",
+              "vi": "Không cần. Thẻ nhé."
+            }
+          ],
+          "title_vi": "Tất cả các câu hỏi cùng một lúc",
+          "setting_vi": "Quầy một tiệm bánh. Nhân viên thân thiện và hỏi rất kỹ.",
+          "note_vi": "Đây là trọn bộ. Thật sự không còn mấy câu nữa đâu."
+        },
+        {
+          "title": "The same, at real speed",
+          "setting": "Lunchtime rush. The server merges three questions into one breath.",
+          "speed": "natural",
+          "note": "Questions get fused together. 'Täällävaimukaan' is one word at this speed.",
+          "lines": [
+            {
+              "speaker": "Myyjä",
+              "fi": "Moi, mitä saa olla?",
+              "en": "Hi, what'll it be?",
+              "vi": "Chào, dùng gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Yks kahvi ja pulla.",
+              "en": "One coffee and a bun.",
+              "vi": "Một cà phê và một cái bánh."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Täällävaimukaan?",
+              "en": "Here-or-takeaway?",
+              "note": "Four words compressed into one. Listen for the rhythm, not the words.",
+              "vi": "Ởđâyhaymangđi?",
+              "note_vi": "Bốn từ nén thành một. Hãy nghe nhịp điệu, đừng nghe từng chữ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Täällä.",
+              "en": "Here.",
+              "vi": "Ở đây."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Muuta?",
+              "en": "Anything else?",
+              "note": "Down to a single word.",
+              "vi": "Gì nữa?",
+              "note_vi": "Rút xuống còn đúng một từ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei kiitos.",
+              "en": "No thanks.",
+              "vi": "Không, cảm ơn."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Etukorttia?",
+              "en": "Loyalty card?",
+              "vi": "Thẻ ưu đãi?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo.",
+              "en": "Nope.",
+              "vi": "Không có."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Viis kakskyt. Kuitti?",
+              "en": "Five twenty. Receipt?",
+              "vi": "Năm hai mươi. Hoá đơn?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei tarvii, kiitos.",
+              "en": "No need, thanks.",
+              "vi": "Không cần, cảm ơn."
+            }
+          ],
+          "title_vi": "Vẫn thế, ở tốc độ thật",
+          "setting_vi": "Giờ cao điểm bữa trưa. Nhân viên nhập ba câu hỏi vào một hơi thở.",
+          "note_vi": "Các câu hỏi dính vào nhau. Ở tốc độ này «Täällävaimukaan» là một từ."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Survive the whole question set",
+          "scenario": "Order one thing, then answer every follow-up in one or two words each.",
+          "your_role": "You, at a bakery counter",
+          "partner_role": "A fast, friendly server",
+          "turns": [
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Moi! Mitä saisi olla?",
+              "en": "Hi! What can I get you?",
+              "vi": "Chào! Anh dùng gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi. Mä ottaisin yhden kahvin ja pullan.",
+              "en": "Hi. I'll have a coffee and a bun.",
+              "hint": "Order two items in one sentence.",
+              "vi": "Chào. Cho tôi một cà phê và một cái bánh.",
+              "hint_vi": "Gọi hai món trong một câu."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Lämmitetäänkö pulla?",
+              "en": "Shall we heat up the bun?",
+              "vi": "Có hâm nóng cái bánh không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo kiitos.",
+              "en": "Yes please.",
+              "hint": "Two words. Don't overthink it.",
+              "vi": "Vâng, làm ơn.",
+              "hint_vi": "Hai từ. Đừng nghĩ nhiều."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Täällä vai mukaan?",
+              "en": "Here or takeaway?",
+              "vi": "Ăn ở đây hay mang đi ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Täällä.",
+              "en": "Here.",
+              "hint": "One word is the complete answer.",
+              "vi": "Ở đây.",
+              "hint_vi": "Một từ là câu trả lời trọn vẹn."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Onks kanta-asiakaskorttia?",
+              "en": "Do you have a loyalty card?",
+              "vi": "Anh có thẻ khách hàng thân thiết không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei oo.",
+              "en": "Nope.",
+              "hint": "The standard decline for any 'do you have' question.",
+              "vi": "Không có.",
+              "hint_vi": "Câu từ chối chuẩn cho mọi câu hỏi «anh có… không»."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Kuusi euroa. Kuitti mukaan?",
+              "en": "Six euros. Receipt with you?",
+              "vi": "Sáu euro. Lấy hoá đơn không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei tarvii. Kortilla, kiitos.",
+              "en": "No need. By card, thanks.",
+              "hint": "Decline the receipt and state your payment method in one go.",
+              "vi": "Không cần. Thẻ nhé, cảm ơn.",
+              "hint_vi": "Từ chối hoá đơn và nói luôn cách thanh toán trong một lượt."
+            }
+          ],
+          "title_vi": "Sống sót qua trọn bộ câu hỏi",
+          "scenario_vi": "Gọi một món, rồi trả lời mọi câu hỏi ngược, mỗi câu một hai từ thôi.",
+          "your_role_vi": "Bạn, ở quầy tiệm bánh",
+          "partner_role_vi": "Một nhân viên nhanh nhẹn và thân thiện"
+        }
+      ],
+      "title_vi": "Những câu hỏi ngược bạn không ngờ tới",
+      "subtitle_vi": "Täällä vai mukaan? Tuleeko muuta? Kuitti mukaan?",
+      "warmup_situation_vi": "Phần gọi món của bạn trôi chảy hoàn hảo. Rồi họ bắn ba câu hỏi trong bốn giây và bạn đơ ra, thế là cả cuộc hội thoại sập xuống thành tiếng Anh.",
+      "warmup_question_vi": "Cả nước chỉ có khoảng sáu câu hỏi kiểu này thôi. Nếu bạn biết hết thì sao?",
+      "rescue_vi": "Xin lỗi, chị nhắc lại được không?",
+      "rescue_note_vi": "Đủ ngắn để bật ra ngay, trước khi hoảng. Ở quầy bạn cần câu sửa chữa ngắn nhất có thể — một lời xin lỗi dài dòng sẽ ngốn mất đúng mấy giây bạn cần để trả lời."
+    },
+    {
+      "slug": "diets-and-allergies",
+      "number": "2.3",
+      "title": "Diets and allergies",
+      "subtitle": "Onks tässä laktoosia? Mä en syö lihaa.",
+      "warmup_situation": "You have a real allergy. The waiter is friendly but busy. Getting this wrong isn't embarrassing — it's a hospital visit.",
+      "warmup_question": "Do you know the difference between 'I don't eat X' and 'I'm allergic to X' — and which one gets taken seriously?",
+      "rescue_fi": "Mä oon allerginen. Se on vakava juttu.",
+      "rescue_en": "I'm allergic. It's serious.",
+      "rescue_note": "Say this and everything changes: the kitchen gets told, the dish gets checked, nobody guesses. Finnish restaurants handle allergies extremely well, but only if you use the word 'allerginen' rather than a vague preference.",
+      "vocab": [
+        {
+          "fi": "allergia",
+          "en": "allergy",
+          "pos": "noun",
+          "vi": "dị ứng"
+        },
+        {
+          "fi": "allerginen",
+          "en": "allergic",
+          "pos": "adjective",
+          "note": "'Mä oon allerginen pähkinöille' — allergic TO something takes -lle.",
+          "vi": "bị dị ứng",
+          "note_vi": "«Mä oon allerginen pähkinöille» — dị ứng VỚI cái gì thì dùng đuôi -lle."
+        },
+        {
+          "fi": "laktoositon",
+          "en": "lactose-free",
+          "pos": "adjective",
+          "note": "The -ton/-tön ending means 'without'. Gluteeniton, maidoton, sokeriton.",
+          "vi": "không có lactose",
+          "note_vi": "Đuôi -ton/-tön nghĩa là «không có». Gluteeniton, maidoton, sokeriton."
+        },
+        {
+          "fi": "gluteeniton",
+          "en": "gluten-free",
+          "pos": "adjective",
+          "vi": "không chứa gluten"
+        },
+        {
+          "fi": "maidoton",
+          "en": "dairy-free",
+          "pos": "adjective",
+          "vi": "không có sữa"
+        },
+        {
+          "fi": "laktoosi",
+          "en": "lactose",
+          "pos": "noun",
+          "vi": "lactose"
+        },
+        {
+          "fi": "gluteeni",
+          "en": "gluten",
+          "pos": "noun",
+          "vi": "gluten"
+        },
+        {
+          "fi": "pähkinä",
+          "en": "nut",
+          "pos": "noun",
+          "vi": "hạt (các loại hạt cứng)"
+        },
+        {
+          "fi": "maapähkinä",
+          "en": "peanut",
+          "pos": "noun",
+          "vi": "đậu phộng, lạc"
+        },
+        {
+          "fi": "äyriäiset",
+          "en": "shellfish",
+          "pos": "noun",
+          "vi": "động vật có vỏ (tôm, cua, sò)"
+        },
+        {
+          "fi": "kala",
+          "en": "fish",
+          "pos": "noun",
+          "vi": "cá"
+        },
+        {
+          "fi": "kananmuna",
+          "en": "egg",
+          "pos": "noun",
+          "note": "Often just 'muna' in speech — but 'muna' alone also has a rude meaning, so the full word is safer.",
+          "vi": "trứng gà",
+          "note_vi": "Khi nói thường chỉ là «muna» — nhưng «muna» đứng một mình còn có nghĩa tục, nên dùng từ đầy đủ thì an toàn hơn."
+        },
+        {
+          "fi": "liha",
+          "en": "meat",
+          "pos": "noun",
+          "vi": "thịt"
+        },
+        {
+          "fi": "sianliha",
+          "en": "pork",
+          "pos": "noun",
+          "note": "Worth knowing precisely if you avoid it — it hides in many dishes.",
+          "vi": "thịt lợn",
+          "note_vi": "Đáng biết chính xác nếu bạn kiêng — nó ẩn trong nhiều món."
+        },
+        {
+          "fi": "kasvis",
+          "en": "vegetarian",
+          "pos": "adjective",
+          "note": "On menus: 'kasvisruoka', 'kasvisvaihtoehto'.",
+          "vi": "món chay",
+          "note_vi": "Trên thực đơn: «kasvisruoka», «kasvisvaihtoehto»."
+        },
+        {
+          "fi": "vegaani",
+          "en": "vegan",
+          "pos": "adjective",
+          "vi": "thuần chay"
+        },
+        {
+          "fi": "kasvissyöjä",
+          "en": "vegetarian (person)",
+          "pos": "noun",
+          "literal": "plant-eater",
+          "vi": "người ăn chay",
+          "literal_vi": "người-ăn-thực-vật"
+        },
+        {
+          "fi": "ainesosa",
+          "en": "ingredient",
+          "pos": "noun",
+          "vi": "thành phần, nguyên liệu"
+        },
+        {
+          "fi": "sisältää",
+          "en": "to contain",
+          "pos": "verb",
+          "vi": "chứa, có trong"
+        },
+        {
+          "fi": "sisältääkö",
+          "en": "does it contain",
+          "pos": "verb",
+          "vi": "nó có chứa… không"
+        },
+        {
+          "fi": "vaihtoehto",
+          "en": "alternative, option",
+          "pos": "noun",
+          "vi": "lựa chọn thay thế"
+        },
+        {
+          "fi": "ilman",
+          "en": "without",
+          "pos": "preposition",
+          "note": "Takes the partitive: ilman maitoa, ilman juustoa.",
+          "vi": "không có, thiếu",
+          "note_vi": "Đi với cách phân từ: ilman maitoa, ilman juustoa."
+        },
+        {
+          "fi": "vakava",
+          "en": "serious",
+          "pos": "adjective",
+          "vi": "nghiêm trọng"
+        },
+        {
+          "fi": "keittiö",
+          "en": "kitchen",
+          "pos": "noun",
+          "note": "'Mä kysyn keittiöstä' = I'll ask the kitchen. What you want to hear.",
+          "vi": "nhà bếp",
+          "note_vi": "«Mä kysyn keittiöstä» = tôi sẽ hỏi bếp. Đây là câu bạn muốn nghe."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä oon allerginen pähkinöille.",
+          "en": "I'm allergic to nuts.",
+          "when_to_use": "The sentence that gets acted on. Allergic TO something = -lle.",
+          "register": "neutral",
+          "vi": "Tôi bị dị ứng với các loại hạt.",
+          "when_to_use_vi": "Câu khiến người ta hành động. Dị ứng VỚI cái gì = đuôi -lle."
+        },
+        {
+          "fi": "Onks tässä laktoosia?",
+          "en": "Does this contain lactose?",
+          "when_to_use": "The most-asked dietary question in Finland — lactose intolerance is very common here.",
+          "register": "neutral",
+          "vi": "Món này có lactose không?",
+          "when_to_use_vi": "Câu hỏi về chế độ ăn được hỏi nhiều nhất ở Phần Lan — không dung nạp lactose rất phổ biến ở đây."
+        },
+        {
+          "fi": "Sisältääkö tää gluteenia?",
+          "en": "Does this contain gluten?",
+          "when_to_use": "Slightly more formal than 'onks tässä'. Both work.",
+          "register": "neutral",
+          "vi": "Món này có chứa gluten không?",
+          "when_to_use_vi": "Trang trọng hơn «onks tässä» một chút. Cả hai đều dùng được."
+        },
+        {
+          "fi": "Mä en syö lihaa.",
+          "en": "I don't eat meat.",
+          "when_to_use": "A preference, not an allergy. Taken seriously but handled differently.",
+          "register": "casual",
+          "vi": "Tôi không ăn thịt.",
+          "when_to_use_vi": "Một sở thích, không phải dị ứng. Vẫn được tôn trọng nhưng xử lý theo cách khác."
+        },
+        {
+          "fi": "Mä oon kasvissyöjä.",
+          "en": "I'm vegetarian.",
+          "when_to_use": "Well understood everywhere. There is almost always a kasvisvaihtoehto.",
+          "register": "neutral",
+          "vi": "Tôi ăn chay.",
+          "when_to_use_vi": "Ở đâu cũng hiểu rõ. Gần như luôn có một kasvisvaihtoehto."
+        },
+        {
+          "fi": "Onks teillä kasvisvaihtoehtoa?",
+          "en": "Do you have a vegetarian option?",
+          "when_to_use": "The answer is usually yes, and often it's the best dish.",
+          "register": "neutral",
+          "vi": "Quán có món chay không?",
+          "when_to_use_vi": "Câu trả lời thường là có, và nhiều khi đó lại là món ngon nhất."
+        },
+        {
+          "fi": "Mä en voi syödä sianlihaa.",
+          "en": "I can't eat pork.",
+          "when_to_use": "'En voi' (can't) is stronger than 'en syö' (don't eat) and invites no discussion.",
+          "register": "neutral",
+          "vi": "Tôi không ăn được thịt lợn.",
+          "when_to_use_vi": "«En voi» (không thể) mạnh hơn «en syö» (không ăn) và không mời gọi tranh luận."
+        },
+        {
+          "fi": "Voitsä tarkistaa keittiöstä?",
+          "en": "Could you check with the kitchen?",
+          "when_to_use": "When the server isn't sure. Always ask this rather than accept a guess.",
+          "register": "polite",
+          "vi": "Anh/chị hỏi bếp giúp được không?",
+          "when_to_use_vi": "Khi người phục vụ không chắc. Luôn hỏi câu này thay vì chấp nhận một lời phỏng đoán."
+        },
+        {
+          "fi": "Mitä siinä on?",
+          "en": "What's in it?",
+          "when_to_use": "The simplest possible version. Works when you've run out of vocabulary.",
+          "register": "casual",
+          "vi": "Trong đó có gì?",
+          "when_to_use_vi": "Bản đơn giản nhất có thể. Dùng được khi bạn cạn vốn từ."
+        },
+        {
+          "fi": "Onks siinä mitään maitotuotteita?",
+          "en": "Are there any dairy products in it?",
+          "when_to_use": "Broader than asking about lactose specifically.",
+          "register": "neutral",
+          "vi": "Trong đó có sản phẩm từ sữa nào không?",
+          "when_to_use_vi": "Rộng hơn là chỉ hỏi riêng về lactose."
+        },
+        {
+          "fi": "Saisinko sen ilman juustoa?",
+          "en": "Could I have it without cheese?",
+          "when_to_use": "Restaurants accommodate this without fuss.",
+          "register": "polite",
+          "vi": "Cho tôi món đó mà không có phô mai được không?",
+          "when_to_use_vi": "Nhà hàng đáp ứng chuyện này không hề phiền hà."
+        },
+        {
+          "fi": "Mulle tulee tosi paha olo siitä.",
+          "en": "It makes me really ill.",
+          "literal": "to me comes a really bad feeling from it",
+          "when_to_use": "When you need them to understand this isn't fussiness.",
+          "register": "neutral",
+          "vi": "Ăn vào tôi khó chịu lắm.",
+          "literal_vi": "đến với tôi một cảm giác rất tệ từ nó",
+          "when_to_use_vi": "Khi bạn cần họ hiểu đây không phải chuyện kén ăn."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A serious allergy, handled well",
+          "setting": "A restaurant. Duc has a nut allergy and is ordering carefully.",
+          "speed": "slow",
+          "note": "Watch the escalation: question, then the word 'allerginen', then the kitchen gets involved.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, mä oon allerginen pähkinöille. Onks tässä salaatissa pähkinöitä?",
+              "en": "Excuse me, I'm allergic to nuts. Are there nuts in this salad?",
+              "vi": "Xin lỗi, tôi bị dị ứng với các loại hạt. Trong salad này có hạt không ạ?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Hetkinen, mä tarkistan. Se on aika vakava juttu.",
+              "en": "One moment, I'll check. That's quite a serious thing.",
+              "vi": "Chờ một chút, tôi kiểm tra. Chuyện đó khá nghiêm trọng đấy ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, se on. Kiitos.",
+              "en": "Yes, it is. Thank you.",
+              "vi": "Vâng, đúng thế. Cảm ơn chị."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Mä kysyin keittiöstä. Salaatissa on saksanpähkinöitä.",
+              "en": "I asked the kitchen. The salad has walnuts in it.",
+              "vi": "Tôi đã hỏi bếp. Trong salad có quả óc chó ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei, sit mä en voi ottaa sitä. Mitä sä suosittelet?",
+              "en": "Okay, then I can't have it. What do you recommend?",
+              "vi": "Vậy thì tôi không ăn được. Chị gợi ý món gì?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Toi lohikeitto on turvallinen. Ei pähkinöitä ollenkaan.",
+              "en": "That salmon soup is safe. No nuts at all.",
+              "vi": "Món súp cá hồi kia an toàn ạ. Hoàn toàn không có hạt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Mä otan sen. Ja sanotsä keittiölle vielä?",
+              "en": "Good. I'll take it. And will you mention it to the kitchen again?",
+              "vi": "Tốt. Cho tôi món đó. Chị nhắc bếp lần nữa giúp tôi nhé?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Totta kai, mä merkkaan sen tilaukseen.",
+              "en": "Of course, I'll mark it on the order.",
+              "vi": "Tất nhiên rồi, tôi sẽ ghi chú vào đơn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos tosi paljon.",
+              "en": "Thank you so much.",
+              "vi": "Cảm ơn chị nhiều lắm."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Ei kestä. Parempi kysyä kun arvata.",
+              "en": "No problem. Better to ask than to guess.",
+              "vi": "Không có gì ạ. Hỏi vẫn hơn là đoán."
+            }
+          ],
+          "title_vi": "Một ca dị ứng nghiêm trọng, được xử lý tốt",
+          "setting_vi": "Một nhà hàng. Duc dị ứng hạt và đang gọi món rất cẩn thận.",
+          "note_vi": "Hãy để ý mức độ tăng dần: hỏi, rồi đến từ «allerginen», rồi bếp được gọi vào cuộc."
+        },
+        {
+          "title": "Lactose, vegetarian, at speed",
+          "setting": "A lunch counter. Two quick dietary questions, no drama.",
+          "speed": "natural",
+          "note": "These are everyday questions here. Nobody reacts as if you're being difficult.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi. Onks toi keitto laktoositon?",
+              "en": "Hi. Is that soup lactose-free?",
+              "vi": "Chào. Món súp kia có lactose không ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "On joo. Kaikki meidän keitot on.",
+              "en": "It is, yeah. All our soups are.",
+              "vi": "Không có ạ. Tất cả súp của bên em đều không."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja onks teillä kasvisvaihtoehtoa?",
+              "en": "Good. And do you have a vegetarian option?",
+              "vi": "Tốt. Thế bên em có món chay không?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo, toi linssipata. Se on vegaani kans.",
+              "en": "Yeah, that lentil stew. It's vegan too.",
+              "vi": "Có ạ, món đậu lăng hầm kia. Nó còn thuần chay nữa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Täydellistä. Mä otan sen.",
+              "en": "Perfect. I'll take that.",
+              "vi": "Tuyệt vời. Cho tôi món đó."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Hyvä valinta. Leipä kuuluu hintaan, mut se ei oo gluteeniton.",
+              "en": "Good choice. Bread's included, but it isn't gluten-free.",
+              "vi": "Anh chọn khéo đấy. Bánh mì tính trong giá rồi, nhưng nó không phải loại không gluten ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei haittaa, mä syön gluteenia.",
+              "en": "Doesn't matter, I eat gluten.",
+              "vi": "Không sao, tôi ăn được gluten."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Selvä. Täällä vai mukaan?",
+              "en": "Right. Here or takeaway?",
+              "vi": "Vâng. Ăn ở đây hay mang đi ạ?"
+            }
+          ],
+          "title_vi": "Lactose, món chay, ở tốc độ thật",
+          "setting_vi": "Quầy ăn trưa. Hai câu hỏi nhanh về chế độ ăn, không kịch tính gì.",
+          "note_vi": "Ở đây đây là câu hỏi hằng ngày. Không ai phản ứng như thể bạn đang làm khó họ."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Declare an allergy and get it checked",
+          "scenario": "You're allergic to nuts. Get a straight answer, not a guess.",
+          "your_role": "You, with a real allergy",
+          "partner_role": "A helpful waiter",
+          "turns": [
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Moi! Ootteko valmiita tilaamaan?",
+              "en": "Hi! Are you ready to order?",
+              "vi": "Chào anh! Anh chị gọi món được chưa ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Melkein. Mä oon allerginen pähkinöille — onks tässä salaatissa pähkinöitä?",
+              "en": "Almost. I'm allergic to nuts — are there nuts in this salad?",
+              "hint": "Lead with the word 'allerginen'. It changes how the question is handled.",
+              "vi": "Gần rồi. Tôi bị dị ứng với các loại hạt — trong salad này có hạt không?",
+              "hint_vi": "Mở đầu bằng từ «allerginen». Nó thay đổi cách câu hỏi được xử lý."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Emmä oo varma. Haluutsä et mä tarkistan?",
+              "en": "I'm not sure. Do you want me to check?",
+              "vi": "Em không chắc. Anh có muốn em kiểm tra không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo kiitos, voitsä tarkistaa keittiöstä?",
+              "en": "Yes please, could you check with the kitchen?",
+              "hint": "Never accept 'I'm not sure' — ask them to check.",
+              "vi": "Có, cảm ơn, em hỏi bếp giúp anh nhé?",
+              "hint_vi": "Đừng bao giờ chấp nhận «em không chắc» — hãy nhờ họ đi kiểm tra."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Joo. …Siinä on saksanpähkinöitä.",
+              "en": "Yeah. …It has walnuts in it.",
+              "vi": "Vâng. …Trong đó có quả óc chó ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Okei, sit en voi. Mikä on turvallinen?",
+              "en": "Okay, then I can't. What's safe?",
+              "hint": "Move on quickly and let them help you pick.",
+              "vi": "Vậy thì không được rồi. Món nào an toàn?",
+              "hint_vi": "Chuyển hướng nhanh và để họ giúp bạn chọn."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Lohikeitto. Ei pähkinöitä ollenkaan.",
+              "en": "The salmon soup. No nuts at all.",
+              "vi": "Súp cá hồi ạ. Hoàn toàn không có hạt."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä otan sen. Sanotsä keittiölle et se on allergia?",
+              "en": "I'll take it. Will you tell the kitchen it's an allergy?",
+              "hint": "Confirm the kitchen will be told. This is the step that matters.",
+              "vi": "Cho anh món đó. Em báo bếp là dị ứng nhé?",
+              "hint_vi": "Xác nhận rằng bếp sẽ được báo. Đây mới là bước quan trọng."
+            }
+          ],
+          "title_vi": "Khai báo dị ứng và bắt họ kiểm tra",
+          "scenario_vi": "Bạn dị ứng hạt. Hãy lấy được câu trả lời chắc chắn, không phải lời phỏng đoán.",
+          "your_role_vi": "Bạn, có dị ứng thật",
+          "partner_role_vi": "Một người phục vụ nhiệt tình"
+        }
+      ],
+      "title_vi": "Chế độ ăn và dị ứng",
+      "subtitle_vi": "Onks tässä laktoosia? Mä en syö lihaa.",
+      "warmup_situation_vi": "Bạn bị dị ứng thật. Người phục vụ thân thiện nhưng đang bận. Nói sai ở đây không phải là chuyện ngượng — mà là một chuyến vào bệnh viện.",
+      "warmup_question_vi": "Bạn có phân biệt được «tôi không ăn X» và «tôi bị dị ứng với X» — và câu nào được xử lý nghiêm túc?",
+      "rescue_vi": "Tôi bị dị ứng. Chuyện này nghiêm trọng.",
+      "rescue_note_vi": "Nói câu này là mọi thứ đổi: bếp được báo, món được kiểm tra, không ai đoán mò nữa. Nhà hàng Phần Lan xử lý dị ứng cực kỳ tốt, nhưng chỉ khi bạn dùng đúng từ «allerginen» thay vì một lời nói mơ hồ về sở thích."
+    },
+    {
+      "slug": "asking-and-fixing",
+      "number": "2.4",
+      "title": "Asking for things and fixing mistakes",
+      "subtitle": "Voisinko saada vettä? Tää ei oo se mitä tilasin.",
+      "warmup_situation": "The wrong dish arrives. In your head you're already eating it rather than making a fuss.",
+      "warmup_question": "Is sending it back rude in Finland — or is silently eating the wrong thing the odd behaviour?",
+      "rescue_fi": "Anteeks, tässä taisi tulla pieni sekaannus.",
+      "rescue_en": "Sorry, I think there's been a small mix-up.",
+      "rescue_note": "The perfect Finnish complaint: blames nobody, states the problem, and uses 'taisi' (seems to have) to leave room for it being your mistake. It gets fixed immediately and nobody loses face.",
+      "vocab": [
+        {
+          "fi": "tilata",
+          "en": "to order",
+          "pos": "verb",
+          "vi": "gọi món, đặt"
+        },
+        {
+          "fi": "tilasin",
+          "en": "I ordered",
+          "pos": "verb",
+          "vi": "tôi đã gọi"
+        },
+        {
+          "fi": "tilaus",
+          "en": "the order",
+          "pos": "noun",
+          "vi": "đơn gọi món"
+        },
+        {
+          "fi": "väärä",
+          "en": "wrong",
+          "pos": "adjective",
+          "vi": "sai"
+        },
+        {
+          "fi": "sekaannus",
+          "en": "mix-up, confusion",
+          "pos": "noun",
+          "vi": "sự nhầm lẫn"
+        },
+        {
+          "fi": "virhe",
+          "en": "mistake",
+          "pos": "noun",
+          "vi": "lỗi sai"
+        },
+        {
+          "fi": "taisi",
+          "en": "seems to have, apparently",
+          "pos": "verb",
+          "note": "The politeness particle of complaints. 'Tässä taisi tulla virhe' blames nobody.",
+          "vi": "hình như đã, có vẻ đã",
+          "note_vi": "Tiểu từ lịch sự của mọi lời phàn nàn. «Tässä taisi tulla virhe» không đổ lỗi cho ai cả."
+        },
+        {
+          "fi": "kylmä",
+          "en": "cold",
+          "pos": "adjective",
+          "note": "'Tää on kylmää' = this is cold. Note the partitive for food.",
+          "vi": "lạnh",
+          "note_vi": "«Tää on kylmää» = cái này lạnh. Để ý cách phân từ dùng cho đồ ăn."
+        },
+        {
+          "fi": "raaka",
+          "en": "raw, undercooked",
+          "pos": "adjective",
+          "vi": "sống, chưa chín"
+        },
+        {
+          "fi": "puuttua",
+          "en": "to be missing",
+          "pos": "verb",
+          "note": "'Tästä puuttuu juusto' = the cheese is missing from this.",
+          "vi": "bị thiếu",
+          "note_vi": "«Tästä puuttuu juusto» = món này thiếu phô mai."
+        },
+        {
+          "fi": "unohtua",
+          "en": "to be forgotten",
+          "pos": "verb",
+          "vi": "bị quên"
+        },
+        {
+          "fi": "lisää",
+          "en": "more",
+          "pos": "adverb",
+          "vi": "thêm nữa"
+        },
+        {
+          "fi": "toinen",
+          "en": "another, second",
+          "pos": "adjective",
+          "vi": "cái khác, cái thứ hai"
+        },
+        {
+          "fi": "servietti / lautasliina",
+          "en": "napkin",
+          "pos": "noun",
+          "vi": "khăn giấy ăn"
+        },
+        {
+          "fi": "haarukka",
+          "en": "fork",
+          "pos": "noun",
+          "vi": "cái nĩa"
+        },
+        {
+          "fi": "veitsi",
+          "en": "knife",
+          "pos": "noun",
+          "vi": "con dao"
+        },
+        {
+          "fi": "lusikka",
+          "en": "spoon",
+          "pos": "noun",
+          "vi": "cái thìa"
+        },
+        {
+          "fi": "lasi",
+          "en": "glass",
+          "pos": "noun",
+          "vi": "cái ly"
+        },
+        {
+          "fi": "suola",
+          "en": "salt",
+          "pos": "noun",
+          "vi": "muối"
+        },
+        {
+          "fi": "pippuri",
+          "en": "pepper",
+          "pos": "noun",
+          "vi": "tiêu"
+        },
+        {
+          "fi": "kastike",
+          "en": "sauce",
+          "pos": "noun",
+          "vi": "nước sốt"
+        },
+        {
+          "fi": "vaihtaa",
+          "en": "to change, to swap",
+          "pos": "verb",
+          "vi": "đổi, thay"
+        },
+        {
+          "fi": "korjata",
+          "en": "to fix, to correct",
+          "pos": "verb",
+          "vi": "sửa, chỉnh lại"
+        },
+        {
+          "fi": "hoitaa",
+          "en": "to take care of, to handle",
+          "pos": "verb",
+          "note": "'Me hoidetaan se' = we'll sort it out. What you want to hear.",
+          "vi": "lo liệu, xử lý",
+          "note_vi": "«Me hoidetaan se» = bọn tôi sẽ lo. Đây là câu bạn muốn nghe."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Voisinko saada lisää vettä?",
+          "en": "Could I get more water?",
+          "when_to_use": "The standard request. 'Voisinko saada' works for anything at a table.",
+          "register": "polite",
+          "vi": "Cho tôi thêm nước được không?",
+          "when_to_use_vi": "Câu xin chuẩn. «Voisinko saada» dùng được cho mọi thứ trên bàn."
+        },
+        {
+          "fi": "Saisinko yhden lautasliinan?",
+          "en": "Could I get a napkin?",
+          "when_to_use": "Swap the noun for anything: haarukan, veitsen, lasin.",
+          "register": "polite",
+          "vi": "Cho tôi một tờ khăn giấy được không?",
+          "when_to_use_vi": "Thay danh từ bằng bất cứ thứ gì: haarukan, veitsen, lasin."
+        },
+        {
+          "fi": "Anteeks, tää ei oo se mitä mä tilasin.",
+          "en": "Sorry, this isn't what I ordered.",
+          "when_to_use": "Direct and completely acceptable. It gets fixed, not argued about.",
+          "register": "neutral",
+          "vi": "Xin lỗi, đây không phải món tôi gọi.",
+          "when_to_use_vi": "Thẳng thắn và hoàn toàn được chấp nhận. Nó được sửa, không bị tranh cãi."
+        },
+        {
+          "fi": "Tässä taisi tulla pieni sekaannus.",
+          "en": "I think there's been a small mix-up.",
+          "when_to_use": "The soft version. Blames nobody and works just as fast.",
+          "register": "polite",
+          "vi": "Hình như có nhầm lẫn nhỏ ở đây.",
+          "when_to_use_vi": "Bản nhẹ nhàng. Không đổ lỗi cho ai và hiệu quả y hệt."
+        },
+        {
+          "fi": "Mä tilasin kanaa, en kalaa.",
+          "en": "I ordered chicken, not fish.",
+          "when_to_use": "State both what you wanted and what arrived. Saves a round of questions.",
+          "register": "neutral",
+          "vi": "Tôi gọi thịt gà, không phải cá.",
+          "when_to_use_vi": "Nói cả cái bạn muốn lẫn cái được mang ra. Tiết kiệm một vòng hỏi đáp."
+        },
+        {
+          "fi": "Tää on vähän kylmää.",
+          "en": "This is a bit cold.",
+          "when_to_use": "'Vähän' softens it. You'll get a hot one without any awkwardness.",
+          "register": "neutral",
+          "vi": "Món này hơi lạnh.",
+          "when_to_use_vi": "«Vähän» làm nhẹ đi. Bạn sẽ được món nóng mà chẳng ngượng ngùng gì."
+        },
+        {
+          "fi": "Tästä puuttuu se kastike.",
+          "en": "The sauce is missing from this.",
+          "when_to_use": "'Puuttua' = to be missing. The item is the subject, not you.",
+          "register": "neutral",
+          "vi": "Món này thiếu nước sốt.",
+          "when_to_use_vi": "«Puuttua» = bị thiếu. Chủ ngữ là món ăn, không phải bạn."
+        },
+        {
+          "fi": "Voitsä vaihtaa tän?",
+          "en": "Could you change this?",
+          "when_to_use": "The shortest possible fix request.",
+          "register": "casual",
+          "vi": "Anh/chị đổi cái này được không?",
+          "when_to_use_vi": "Câu xin sửa ngắn nhất có thể."
+        },
+        {
+          "fi": "Ei kiire, mut…",
+          "en": "No rush, but…",
+          "when_to_use": "Opening a complaint with this makes it land gently every time.",
+          "register": "casual",
+          "vi": "Không vội đâu, nhưng mà…",
+          "when_to_use_vi": "Mở đầu lời phàn nàn bằng câu này thì lần nào nó cũng đáp xuống êm ru."
+        },
+        {
+          "fi": "Onks toi mahdollista?",
+          "en": "Is that possible?",
+          "when_to_use": "After an unusual request. Gives them an easy out and they usually say yes.",
+          "register": "polite",
+          "vi": "Thế có được không ạ?",
+          "when_to_use_vi": "Sau một yêu cầu hơi khác thường. Cho họ đường lui dễ dàng, và thường thì họ đồng ý."
+        },
+        {
+          "fi": "Ei se mitään, ei tarvii vaihtaa.",
+          "en": "It's fine, no need to change it.",
+          "when_to_use": "When you decide to keep it after all. Closes the matter warmly.",
+          "register": "casual",
+          "vi": "Không sao đâu, không cần đổi.",
+          "when_to_use_vi": "Khi bạn quyết định cứ giữ nguyên. Khép lại chuyện một cách ấm áp."
+        },
+        {
+          "fi": "Kiitos, että hoidit sen.",
+          "en": "Thanks for sorting that out.",
+          "when_to_use": "Say this after any fix. Small, and it lands.",
+          "register": "neutral",
+          "vi": "Cảm ơn vì đã lo giúp.",
+          "when_to_use_vi": "Nói câu này sau mỗi lần được sửa. Nhỏ thôi, mà có sức nặng."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "The wrong dish",
+          "setting": "A restaurant. The food arrives and it isn't what Duc ordered.",
+          "speed": "slow",
+          "note": "Nobody apologises excessively and nobody gets defensive. It's just fixed.",
+          "lines": [
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Tässä ois se kalakeitto.",
+              "en": "Here's the fish soup.",
+              "vi": "Đây là món súp cá ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, tässä taisi tulla pieni sekaannus. Mä tilasin kanaa.",
+              "en": "Sorry, I think there's been a small mix-up. I ordered chicken.",
+              "vi": "Xin lỗi, hình như có nhầm lẫn nhỏ. Tôi gọi thịt gà."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Ai voi ei, sori! Mä tarkistan.",
+              "en": "Oh no, sorry! I'll check.",
+              "vi": "Ôi không, xin lỗi anh! Để em kiểm tra."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei kiire.",
+              "en": "No rush.",
+              "vi": "Không vội đâu."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Joo, mun virhe. Kanaa oli. Mä haen sen heti.",
+              "en": "Yeah, my mistake. It was chicken. I'll get it right away.",
+              "vi": "Vâng, lỗi của em. Đúng là gà ạ. Em lấy ngay đây."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja voisinko saada lisää vettä samalla?",
+              "en": "Thanks. And could I get more water while you're at it?",
+              "vi": "Cảm ơn. Tiện thể cho tôi thêm nước được không?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Totta kai. Hetki vaan.",
+              "en": "Of course. Just a moment.",
+              "vi": "Tất nhiên rồi. Chờ em một chút."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, että hoidit sen.",
+              "en": "Thanks for sorting it out.",
+              "vi": "Cảm ơn vì đã lo giúp."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Ei kestä, hyvä et sanoit.",
+              "en": "No problem, good that you said something.",
+              "vi": "Không có gì ạ, may mà anh nói."
+            }
+          ],
+          "title_vi": "Món bị nhầm",
+          "setting_vi": "Một nhà hàng. Món được bưng ra và không phải thứ Duc gọi.",
+          "note_vi": "Không ai xin lỗi quá mức và không ai phòng thủ. Nó chỉ đơn giản là được sửa."
+        },
+        {
+          "title": "Small requests during the meal",
+          "setting": "Mid-meal. Four quick asks, four quick answers.",
+          "speed": "natural",
+          "note": "None of these need a full sentence. Catching the waiter's eye plus a noun is often enough.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks! Saisinko lautasliinan?",
+              "en": "Excuse me! Could I get a napkin?",
+              "vi": "Xin lỗi! Cho tôi một tờ khăn giấy được không?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Joo, tuossa.",
+              "en": "Yeah, there you go.",
+              "vi": "Vâng, của anh đây."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja onks teillä suolaa?",
+              "en": "Thanks. And do you have salt?",
+              "vi": "Cảm ơn. Và ở đây có muối không?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Tossa pöydän päässä.",
+              "en": "At the end of the table there.",
+              "vi": "Ở đầu bàn đằng kia ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai joo, näin. Vielä yks juttu — tää on vähän kylmää.",
+              "en": "Oh yeah, I see it. One more thing — this is a bit cold.",
+              "vi": "À vâng, tôi thấy rồi. Còn một việc nữa — món này hơi lạnh."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Ai harmi. Haluutsä et mä lämmitän sen?",
+              "en": "Oh, a shame. Do you want me to heat it up?",
+              "vi": "Ồ tiếc quá. Anh có muốn em hâm nóng lại không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, jos se onnistuu.",
+              "en": "Yeah, if that's possible.",
+              "vi": "Vâng, nếu được."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Onnistuu. Kaks minuuttia.",
+              "en": "It is. Two minutes.",
+              "vi": "Được ạ. Hai phút thôi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti!",
+              "en": "Thanks!",
+              "vi": "Cảm ơn!"
+            }
+          ],
+          "title_vi": "Những lời xin nhỏ trong bữa ăn",
+          "setting_vi": "Đang ăn dở. Bốn lời xin nhanh, bốn câu trả lời nhanh.",
+          "note_vi": "Không câu nào cần cả câu hoàn chỉnh. Bắt được ánh mắt người phục vụ cộng một danh từ là thường đủ rồi."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Send it back, politely",
+          "scenario": "The wrong dish arrives. Fix it without drama and add one small request.",
+          "your_role": "You, with the wrong plate",
+          "partner_role": "The waiter",
+          "turns": [
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Tässä ois se kalakeitto.",
+              "en": "Here's the fish soup.",
+              "vi": "Đây là món súp cá ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Anteeks, tässä taisi tulla pieni sekaannus. Mä tilasin kanaa.",
+              "en": "Sorry, I think there's been a small mix-up. I ordered chicken.",
+              "hint": "Use 'taisi' — it blames nobody and works just as fast.",
+              "vi": "Xin lỗi, hình như có nhầm lẫn nhỏ. Tôi gọi thịt gà.",
+              "hint_vi": "Dùng «taisi» — nó không đổ lỗi cho ai mà vẫn hiệu quả y hệt."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Ai sori! Mä tarkistan heti.",
+              "en": "Oh sorry! I'll check right away.",
+              "vi": "Ôi xin lỗi anh! Em kiểm tra ngay."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei kiire.",
+              "en": "No rush.",
+              "hint": "Two words that take all the tension out of it.",
+              "vi": "Không vội đâu.",
+              "hint_vi": "Hai chữ làm tan hết căng thẳng."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Joo, mun virhe. Haen sen kanan.",
+              "en": "Yeah, my mistake. I'll fetch the chicken.",
+              "vi": "Vâng, lỗi của em. Em đi lấy món gà."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Ja voisinko saada lisää vettä?",
+              "en": "Thanks. And could I get more water?",
+              "hint": "Add your small request now, while they're already going.",
+              "vi": "Cảm ơn. Và cho tôi thêm nước được không?",
+              "hint_vi": "Thêm lời xin nhỏ ngay bây giờ, khi họ đang đằng nào cũng đi."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Totta kai.",
+              "en": "Of course.",
+              "vi": "Tất nhiên rồi ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos, että hoidit sen.",
+              "en": "Thanks for sorting it out.",
+              "hint": "Close the loop once it's fixed.",
+              "vi": "Cảm ơn vì đã lo giúp.",
+              "hint_vi": "Khép lại vòng tròn sau khi đã được sửa."
+            }
+          ],
+          "title_vi": "Trả món lại, một cách lịch sự",
+          "scenario_vi": "Món sai được bưng ra. Sửa nó mà không làm to chuyện, và xin thêm một thứ nhỏ.",
+          "your_role_vi": "Bạn, với cái đĩa sai",
+          "partner_role_vi": "Người phục vụ"
+        }
+      ],
+      "title_vi": "Xin thêm đồ và sửa sai sót",
+      "subtitle_vi": "Voisinko saada vettä? Tää ei oo se mitä tilasin.",
+      "warmup_situation_vi": "Món sai được bưng ra. Trong đầu bạn đã tính ăn luôn cho xong thay vì làm phiền người ta.",
+      "warmup_question_vi": "Trả lại món ở Phần Lan có bất lịch sự không — hay lặng lẽ ăn nhầm món mới là hành vi kỳ lạ?",
+      "rescue_vi": "Xin lỗi, hình như có nhầm lẫn nhỏ ở đây.",
+      "rescue_note_vi": "Lời phàn nàn kiểu Phần Lan hoàn hảo: không đổ lỗi cho ai, nêu rõ vấn đề, và dùng «taisi» (hình như đã) để chừa chỗ cho khả năng lỗi là ở bạn. Nó được sửa ngay lập tức và không ai mất mặt."
+    },
+    {
+      "slug": "paying-and-splitting",
+      "number": "2.5",
+      "title": "Paying and splitting",
+      "subtitle": "Maksetaanko erikseen? Kortilla, kiitos.",
+      "warmup_situation": "Six of you had lunch. In some countries someone grabs the whole bill. Here, six cards come out.",
+      "warmup_question": "Is splitting the bill awkward in Finland — or is insisting on paying for everyone the awkward move?",
+      "rescue_fi": "Maksetaan erikseen, kiitos.",
+      "rescue_en": "We'll pay separately, please.",
+      "rescue_note": "Say this at the start, before anyone taps a card. Finnish restaurants split bills as a matter of routine, even for large groups, and nobody considers it fussy. Saying it early saves the untangling afterwards.",
+      "vocab": [
+        {
+          "fi": "maksaa",
+          "en": "to pay",
+          "pos": "verb",
+          "vi": "trả tiền"
+        },
+        {
+          "fi": "maksu",
+          "en": "payment",
+          "pos": "noun",
+          "vi": "việc thanh toán"
+        },
+        {
+          "fi": "lasku",
+          "en": "the bill",
+          "pos": "noun",
+          "vi": "hoá đơn tính tiền"
+        },
+        {
+          "fi": "erikseen",
+          "en": "separately",
+          "pos": "adverb",
+          "vi": "riêng, tách ra"
+        },
+        {
+          "fi": "yhdessä",
+          "en": "together",
+          "pos": "adverb",
+          "vi": "cùng nhau"
+        },
+        {
+          "fi": "puoliks",
+          "fi_book": "puoliksi",
+          "en": "half and half",
+          "pos": "adverb",
+          "vi": "chia đôi"
+        },
+        {
+          "fi": "kortilla",
+          "en": "by card",
+          "pos": "noun",
+          "vi": "bằng thẻ"
+        },
+        {
+          "fi": "käteisellä",
+          "en": "in cash",
+          "pos": "noun",
+          "vi": "bằng tiền mặt"
+        },
+        {
+          "fi": "lähimaksu",
+          "en": "contactless",
+          "pos": "noun",
+          "vi": "thanh toán không tiếp xúc"
+        },
+        {
+          "fi": "pankkikortti",
+          "en": "debit card",
+          "pos": "noun",
+          "vi": "thẻ ghi nợ"
+        },
+        {
+          "fi": "luottokortti",
+          "en": "credit card",
+          "pos": "noun",
+          "vi": "thẻ tín dụng"
+        },
+        {
+          "fi": "tunnusluku",
+          "en": "PIN code",
+          "pos": "noun",
+          "vi": "mã PIN"
+        },
+        {
+          "fi": "näppäile",
+          "en": "type it in",
+          "pos": "verb",
+          "note": "What the terminal or the server tells you to do.",
+          "vi": "bấm vào đi",
+          "note_vi": "Điều mà máy thanh toán hoặc nhân viên bảo bạn làm."
+        },
+        {
+          "fi": "hyväksytty",
+          "en": "approved",
+          "pos": "adjective",
+          "vi": "đã được chấp nhận"
+        },
+        {
+          "fi": "hylätty",
+          "en": "declined",
+          "pos": "adjective",
+          "note": "The word you don't want to see on the terminal.",
+          "vi": "bị từ chối",
+          "note_vi": "Từ bạn không muốn thấy trên máy thanh toán."
+        },
+        {
+          "fi": "kuitti",
+          "en": "receipt",
+          "pos": "noun",
+          "vi": "hoá đơn"
+        },
+        {
+          "fi": "yhteensä",
+          "en": "in total",
+          "pos": "adverb",
+          "vi": "tổng cộng"
+        },
+        {
+          "fi": "tasan",
+          "en": "exactly, evenly",
+          "pos": "adverb",
+          "note": "'Jaetaan tasan' = let's split it evenly.",
+          "vi": "đều, chẵn",
+          "note_vi": "«Jaetaan tasan» = chia đều nhé."
+        },
+        {
+          "fi": "jakaa",
+          "en": "to divide, to split",
+          "pos": "verb",
+          "vi": "chia"
+        },
+        {
+          "fi": "tippi",
+          "en": "tip",
+          "pos": "noun",
+          "note": "Not expected in Finland. Service is in the price. Rounding up is plenty.",
+          "vi": "tiền boa",
+          "note_vi": "Không được mong đợi ở Phần Lan. Phí phục vụ đã nằm trong giá. Làm tròn lên là quá đủ."
+        },
+        {
+          "fi": "vaihtoraha",
+          "en": "change (money)",
+          "pos": "noun",
+          "vi": "tiền thối lại"
+        },
+        {
+          "fi": "velkaa",
+          "en": "owing, in debt",
+          "pos": "noun",
+          "note": "'Mä oon sulle velkaa' = I owe you.",
+          "vi": "nợ",
+          "note_vi": "«Mä oon sulle velkaa» = tôi nợ bạn."
+        },
+        {
+          "fi": "MobilePay",
+          "en": "MobilePay",
+          "pos": "noun",
+          "note": "How Finns settle up between themselves. 'Mä maksan sulle MobilePayllä.'",
+          "vi": "MobilePay",
+          "note_vi": "Cách người Phần Lan trả tiền lại cho nhau. «Mä maksan sulle MobilePayllä.»"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Maksetaanko erikseen vai yhdessä?",
+          "en": "Shall we pay separately or together?",
+          "when_to_use": "Ask your group before the waiter arrives. Saves everyone a round of politeness.",
+          "register": "casual",
+          "vi": "Mình trả riêng hay trả chung?",
+          "when_to_use_vi": "Hỏi nhóm của bạn trước khi người phục vụ tới. Tiết kiệm cho mọi người một vòng khách sáo."
+        },
+        {
+          "fi": "Maksetaan erikseen, kiitos.",
+          "en": "We'll pay separately, please.",
+          "when_to_use": "To the waiter, before anyone pays. Completely routine here.",
+          "register": "neutral",
+          "vi": "Cho trả riêng ạ.",
+          "when_to_use_vi": "Nói với người phục vụ, trước khi ai kịp trả. Hoàn toàn là chuyện thường ở đây."
+        },
+        {
+          "fi": "Kortilla, kiitos.",
+          "en": "By card, thanks.",
+          "when_to_use": "The single most common sentence in Finnish commerce.",
+          "register": "neutral",
+          "vi": "Thẻ, cảm ơn.",
+          "when_to_use_vi": "Câu được nói nhiều nhất trong mọi giao dịch ở Phần Lan."
+        },
+        {
+          "fi": "Käykö kortti?",
+          "en": "Do you take card?",
+          "when_to_use": "Almost always yes. Worth asking at markets and small kiosks.",
+          "register": "casual",
+          "vi": "Ở đây nhận thẻ không?",
+          "when_to_use_vi": "Hầu như luôn là có. Đáng hỏi ở chợ và các kiosk nhỏ."
+        },
+        {
+          "fi": "Onks teillä lähimaksu?",
+          "en": "Do you have contactless?",
+          "when_to_use": "Standard everywhere, but the limit varies.",
+          "register": "neutral",
+          "vi": "Ở đây có thanh toán không tiếp xúc không?",
+          "when_to_use_vi": "Ở đâu cũng có, nhưng hạn mức thì khác nhau."
+        },
+        {
+          "fi": "Mä maksan tän.",
+          "en": "I'll get this one.",
+          "when_to_use": "Offering to pay. Say it once — a second insistence starts to feel odd here.",
+          "register": "casual",
+          "vi": "Bữa này tôi trả.",
+          "when_to_use_vi": "Ngỏ ý trả tiền. Nói một lần thôi — nài lần thứ hai bắt đầu nghe kỳ ở đây."
+        },
+        {
+          "fi": "Ei tarvii, maksetaan erikseen.",
+          "en": "No need, let's pay separately.",
+          "when_to_use": "Declining someone's offer. Not rude at all — it's the default.",
+          "register": "casual",
+          "vi": "Không cần đâu, mình trả riêng đi.",
+          "when_to_use_vi": "Từ chối lời mời của ai đó. Không hề bất lịch sự — đây mới là mặc định."
+        },
+        {
+          "fi": "Sä maksoit viimeks, nyt on mun vuoro.",
+          "en": "You paid last time, now it's my turn.",
+          "when_to_use": "The Finnish way of taking turns. Keeps things even over time.",
+          "register": "casual",
+          "vi": "Lần trước bạn trả rồi, giờ đến lượt tôi.",
+          "when_to_use_vi": "Cách luân phiên kiểu Phần Lan. Giữ cho mọi thứ cân bằng theo thời gian."
+        },
+        {
+          "fi": "Mä oon sulle velkaa.",
+          "en": "I owe you.",
+          "when_to_use": "Settled later with MobilePay, usually within the hour.",
+          "register": "casual",
+          "vi": "Tôi nợ bạn đấy.",
+          "when_to_use_vi": "Được trả sau bằng MobilePay, thường là trong vòng một tiếng."
+        },
+        {
+          "fi": "Mä maksan sulle MobilePayllä.",
+          "en": "I'll pay you by MobilePay.",
+          "when_to_use": "How Finns settle debts between friends. Cash almost never changes hands.",
+          "register": "casual",
+          "vi": "Tôi chuyển MobilePay cho bạn nhé.",
+          "when_to_use_vi": "Cách người Phần Lan trả nợ nhau. Tiền mặt gần như không bao giờ đổi tay."
+        },
+        {
+          "fi": "Jaetaan tasan.",
+          "en": "Let's split it evenly.",
+          "when_to_use": "When nobody wants to do arithmetic. Common with friends.",
+          "register": "casual",
+          "vi": "Chia đều đi.",
+          "when_to_use_vi": "Khi chẳng ai muốn ngồi tính toán. Hay dùng giữa bạn bè."
+        },
+        {
+          "fi": "Saisinko kuitin?",
+          "en": "Could I get the receipt?",
+          "when_to_use": "Necessary for work expenses. Say it before they cancel the transaction.",
+          "register": "polite",
+          "vi": "Cho tôi xin hoá đơn được không?",
+          "when_to_use_vi": "Cần cho việc quyết toán chi phí công tác. Nói trước khi họ huỷ giao dịch trên máy."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Four people, four cards",
+          "setting": "End of a work lunch. Nobody fights over the bill.",
+          "speed": "slow",
+          "note": "This is the normal Finnish ending to a meal. No performance, no negotiation.",
+          "lines": [
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Maistuiko? Otetaanko lasku?",
+              "en": "Did you enjoy it? Shall we get the bill?",
+              "vi": "Anh chị dùng có ngon không ạ? Mình tính tiền nhé?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Joo kiitos, oli tosi hyvää.",
+              "en": "Yes thanks, it was really good.",
+              "vi": "Vâng cảm ơn, ngon lắm ạ."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Maksatteko yhdessä vai erikseen?",
+              "en": "Are you paying together or separately?",
+              "vi": "Anh chị trả chung hay trả riêng ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Erikseen, kiitos.",
+              "en": "Separately, thanks.",
+              "vi": "Trả riêng ạ."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Selvä. Kuka aloittaa?",
+              "en": "Right. Who's starting?",
+              "vi": "Vâng. Ai trả trước ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä voin. Mulla oli se lohikeitto ja kahvi.",
+              "en": "I can. I had the salmon soup and a coffee.",
+              "vi": "Tôi trả được. Tôi ăn món súp cá hồi và một cà phê."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Se on neljätoista viiskyt.",
+              "en": "That's fourteen fifty.",
+              "vi": "Của anh là mười bốn năm mươi ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kortilla. Ja saisinko kuitin?",
+              "en": "By card. And could I get the receipt?",
+              "vi": "Thẻ. Và cho tôi xin hoá đơn được không?"
+            },
+            {
+              "speaker": "Tarjoilija",
+              "fi": "Tottakai. Tässä.",
+              "en": "Of course. Here you go.",
+              "vi": "Tất nhiên rồi ạ. Của anh đây."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos! Ruoka oli tosi hyvää.",
+              "en": "Thanks! The food was really good.",
+              "vi": "Cảm ơn! Đồ ăn ngon lắm."
+            }
+          ],
+          "title_vi": "Bốn người, bốn cái thẻ",
+          "setting_vi": "Cuối một bữa trưa công việc. Không ai giành trả hoá đơn.",
+          "note_vi": "Đây là cái kết bình thường của một bữa ăn ở Phần Lan. Không diễn, không mặc cả."
+        },
+        {
+          "title": "Settling up between friends",
+          "setting": "Outside afterwards. One person covered it, the rest pay them back.",
+          "speed": "natural",
+          "note": "Nobody handles cash. MobilePay resolves the whole thing in twenty seconds.",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "Mä maksoin koko lakun, maksakaa mulle.",
+              "en": "I paid the whole bill, pay me back.",
+              "vi": "Tớ trả cả hoá đơn rồi, mọi người trả lại tớ nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, paljonks mä oon velkaa?",
+              "en": "Yeah, how much do I owe?",
+              "vi": "Ừ, tớ nợ bao nhiêu?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kakskytkaks. Mut jaetaan vaan tasan, se on helpompaa.",
+              "en": "Twenty-two. But let's just split it evenly, it's easier.",
+              "vi": "Hai mươi hai. Mà thôi chia đều đi, cho dễ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii. Paljonks tasan?",
+              "en": "Works. How much evenly?",
+              "vi": "Được. Chia đều là bao nhiêu?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kakskyt per naama.",
+              "en": "Twenty per head.",
+              "note": "'per naama' — literally 'per face'. Very common, slightly jokey.",
+              "vi": "Hai mươi một đầu người.",
+              "note_vi": "«per naama» — nghĩa đen là «trên mỗi cái mặt». Rất thông dụng, hơi đùa đùa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei, mä laitan MobilePaylla nyt.",
+              "en": "Okay, I'll send it by MobilePay now.",
+              "vi": "Ok, tớ chuyển MobilePay luôn đây."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kiitti! Tuli jo.",
+              "en": "Thanks! It came already.",
+              "vi": "Cảm ơn! Nhận được rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja mä maksan ens kerralla.",
+              "en": "Good. And I'll pay next time.",
+              "vi": "Tốt. Lần sau tớ trả."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Sovittu.",
+              "en": "Agreed.",
+              "vi": "Chốt."
+            }
+          ],
+          "title_vi": "Thanh toán với nhau giữa bạn bè",
+          "setting_vi": "Ra ngoài sau bữa ăn. Một người đã trả hết, những người còn lại trả lại họ.",
+          "note_vi": "Không ai cầm tiền mặt. MobilePay giải quyết toàn bộ trong hai mươi giây."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Split the bill and pay your share",
+          "scenario": "End of a group meal. Ask for separate bills, pay, and get a receipt.",
+          "your_role": "You, one of four",
+          "partner_role": "The waiter",
+          "turns": [
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Otetaanko lasku?",
+              "en": "Shall we get the bill?",
+              "vi": "Mình tính tiền nhé ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo kiitos. Ja maksetaan erikseen.",
+              "en": "Yes thanks. And we'll pay separately.",
+              "hint": "Say it now, before anyone pays — it saves untangling later.",
+              "vi": "Vâng cảm ơn. Và cho tính riêng ạ.",
+              "hint_vi": "Nói ngay bây giờ, trước khi ai kịp trả — đỡ phải gỡ rối về sau."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Selvä. Mitä sulla oli?",
+              "en": "Right. What did you have?",
+              "vi": "Vâng. Anh dùng những gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mulla oli lohikeitto ja kahvi.",
+              "en": "I had the salmon soup and a coffee.",
+              "hint": "List your own items — the waiter will total them.",
+              "vi": "Tôi ăn súp cá hồi và một cà phê.",
+              "hint_vi": "Liệt kê món của riêng bạn — người phục vụ sẽ cộng lại."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Neljätoista viiskyt.",
+              "en": "Fourteen fifty.",
+              "vi": "Mười bốn năm mươi ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kortilla, kiitos.",
+              "en": "By card, thanks.",
+              "hint": "Two words. The most common sentence in Finnish commerce.",
+              "vi": "Thẻ, cảm ơn.",
+              "hint_vi": "Hai chữ. Câu nói phổ biến nhất trong giao dịch ở Phần Lan."
+            },
+            {
+              "speaker": "Tarjoilija",
+              "is_your_turn": false,
+              "fi": "Näppäile vaan. …Hyväksytty. Kuitti mukaan?",
+              "en": "Just type it in. …Approved. Receipt with you?",
+              "vi": "Anh bấm mã đi ạ. …Xong rồi. Lấy hoá đơn không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo kiitos. Ruoka oli tosi hyvää!",
+              "en": "Yes please. The food was really good!",
+              "hint": "Take the receipt, then leave a compliment on the way out.",
+              "vi": "Vâng cảm ơn. Đồ ăn ngon lắm!",
+              "hint_vi": "Nhận hoá đơn, rồi để lại một lời khen trên đường ra."
+            }
+          ],
+          "title_vi": "Chia hoá đơn và trả phần của mình",
+          "scenario_vi": "Cuối một bữa ăn nhóm. Xin tính riêng, trả tiền, và lấy hoá đơn.",
+          "your_role_vi": "Bạn, một trong bốn người",
+          "partner_role_vi": "Người phục vụ"
+        }
+      ],
+      "title_vi": "Trả tiền và chia tiền",
+      "subtitle_vi": "Maksetaanko erikseen? Kortilla, kiitos.",
+      "warmup_situation_vi": "Sáu người vừa ăn trưa. Ở vài nước sẽ có một người giành trả hết. Ở đây, sáu cái thẻ được rút ra.",
+      "warmup_question_vi": "Chia tiền ở Phần Lan có ngại không — hay khăng khăng trả hộ cả bàn mới là hành động kỳ lạ?",
+      "rescue_vi": "Cho trả riêng ạ.",
+      "rescue_note_vi": "Nói câu này ngay từ đầu, trước khi ai kịp quẹt thẻ. Nhà hàng Phần Lan chia hoá đơn như chuyện thường ngày, kể cả với nhóm đông, và không ai coi đó là rắc rối. Nói sớm thì khỏi phải gỡ rối về sau."
+    },
+    {
+      "slug": "lunch-with-friends",
+      "number": "2.6",
+      "title": "Lunch with friends",
+      "subtitle": "Talking about the food: Tää on tosi hyvää!",
+      "warmup_situation": "You're eating with Finnish friends. The food is good. You say 'hyvä' and then have nothing else.",
+      "warmup_question": "How many ways can you praise a meal — and why is the word 'hyvää', not 'hyvä'?",
+      "rescue_fi": "Tää on tosi hyvää!",
+      "rescue_en": "This is really good!",
+      "rescue_note": "The partitive 'hyvää' rather than 'hyvä' is what marks it as food you're eating rather than a thing in general. Get this one ending right and you sound instantly more natural at every meal for the rest of your life.",
+      "vocab": [
+        {
+          "fi": "hyvää",
+          "en": "good (of food)",
+          "pos": "adjective",
+          "note": "Partitive. Food is always partitive: 'Tää on hyvää', never 'Tää on hyvä'.",
+          "vi": "ngon (nói về đồ ăn)",
+          "note_vi": "Cách phân từ. Đồ ăn luôn ở cách phân từ: «Tää on hyvää», không bao giờ «Tää on hyvä»."
+        },
+        {
+          "fi": "herkullista",
+          "en": "delicious",
+          "pos": "adjective",
+          "vi": "rất ngon, tuyệt hảo"
+        },
+        {
+          "fi": "maukasta",
+          "en": "tasty, flavourful",
+          "pos": "adjective",
+          "vi": "đậm đà, có vị"
+        },
+        {
+          "fi": "mauton",
+          "en": "bland, tasteless",
+          "pos": "adjective",
+          "vi": "nhạt nhẽo, vô vị"
+        },
+        {
+          "fi": "suolaista",
+          "en": "salty",
+          "pos": "adjective",
+          "vi": "mặn"
+        },
+        {
+          "fi": "makeeta",
+          "fi_book": "makeaa",
+          "en": "sweet",
+          "pos": "adjective",
+          "vi": "ngọt"
+        },
+        {
+          "fi": "tulista",
+          "en": "spicy hot",
+          "pos": "adjective",
+          "vi": "cay"
+        },
+        {
+          "fi": "mieto",
+          "en": "mild",
+          "pos": "adjective",
+          "vi": "nhẹ, dịu"
+        },
+        {
+          "fi": "tuoretta",
+          "en": "fresh",
+          "pos": "adjective",
+          "vi": "tươi"
+        },
+        {
+          "fi": "maistua",
+          "en": "to taste (of)",
+          "pos": "verb",
+          "note": "'Miltä se maistuu?' = what does it taste like?",
+          "vi": "có vị (như)",
+          "note_vi": "«Miltä se maistuu?» = nó có vị thế nào?"
+        },
+        {
+          "fi": "maistuuko",
+          "en": "is it good? / do you like it?",
+          "pos": "verb",
+          "note": "Asked constantly at meals. Answer: 'Joo, tosi hyvää!'",
+          "vi": "ngon không? / bạn thấy sao?",
+          "note_vi": "Được hỏi liên tục trong bữa ăn. Trả lời: «Joo, tosi hyvää!»"
+        },
+        {
+          "fi": "nälkä",
+          "en": "hunger",
+          "pos": "noun",
+          "vi": "cơn đói"
+        },
+        {
+          "fi": "kylläinen",
+          "en": "full (of food)",
+          "pos": "adjective",
+          "vi": "no"
+        },
+        {
+          "fi": "täynnä",
+          "en": "full",
+          "pos": "adverb",
+          "note": "'Mä oon ihan täynnä' = I'm completely full.",
+          "vi": "đầy, no căng",
+          "note_vi": "«Mä oon ihan täynnä» = tôi no căng rồi."
+        },
+        {
+          "fi": "annos",
+          "en": "portion",
+          "pos": "noun",
+          "vi": "suất ăn, phần"
+        },
+        {
+          "fi": "iso annos",
+          "en": "a big portion",
+          "pos": "phrase",
+          "vi": "một suất lớn"
+        },
+        {
+          "fi": "maistaa",
+          "en": "to taste, to try",
+          "pos": "verb",
+          "note": "'Haluutsä maistaa?' = do you want to try some?",
+          "vi": "nếm thử",
+          "note_vi": "«Haluutsä maistaa?» = bạn muốn nếm thử không?"
+        },
+        {
+          "fi": "suosikki",
+          "en": "favourite",
+          "pos": "noun",
+          "vi": "món ưa thích"
+        },
+        {
+          "fi": "kokeilla",
+          "en": "to try out",
+          "pos": "verb",
+          "vi": "thử xem"
+        },
+        {
+          "fi": "suositella",
+          "en": "to recommend",
+          "pos": "verb",
+          "vi": "gợi ý, giới thiệu"
+        },
+        {
+          "fi": "hinta-laatusuhde",
+          "en": "value for money",
+          "pos": "noun",
+          "literal": "price-quality ratio",
+          "note": "Finns genuinely discuss this at lunch.",
+          "vi": "tương quan giá cả và chất lượng",
+          "literal_vi": "tỉ-lệ-giá-chất-lượng",
+          "note_vi": "Người Phần Lan bàn chuyện này thật sự trong bữa trưa."
+        },
+        {
+          "fi": "kallista",
+          "en": "expensive",
+          "pos": "adjective",
+          "vi": "đắt"
+        },
+        {
+          "fi": "halpaa",
+          "en": "cheap",
+          "pos": "adjective",
+          "vi": "rẻ"
+        },
+        {
+          "fi": "kiitos ruuasta",
+          "en": "thanks for the food",
+          "pos": "phrase",
+          "note": "Said when leaving the table, including at home. A real habit here.",
+          "vi": "cảm ơn vì bữa ăn",
+          "note_vi": "Nói khi rời bàn ăn, kể cả ở nhà. Một thói quen thật sự ở đây."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Tää on tosi hyvää!",
+          "en": "This is really good!",
+          "when_to_use": "Your workhorse compliment. Note 'hyvää', not 'hyvä' — food takes the partitive.",
+          "register": "casual",
+          "vi": "Cái này ngon thật đấy!",
+          "when_to_use_vi": "Lời khen chủ lực của bạn. Nhớ «hyvää», không phải «hyvä» — đồ ăn đi với cách phân từ."
+        },
+        {
+          "fi": "Maistuuko?",
+          "en": "Is it good?",
+          "when_to_use": "Asked by waiters, hosts and friends. The expected answer is a short positive.",
+          "register": "casual",
+          "vi": "Ngon không?",
+          "when_to_use_vi": "Được hỏi bởi người phục vụ, chủ nhà và bạn bè. Câu trả lời mong đợi là một lời khen ngắn."
+        },
+        {
+          "fi": "Joo, tosi herkullista.",
+          "en": "Yeah, really delicious.",
+          "when_to_use": "A notch above 'hyvää'. Use it when you mean it.",
+          "register": "casual",
+          "vi": "Ừ, ngon tuyệt.",
+          "when_to_use_vi": "Cao hơn «hyvää» một bậc. Dùng khi bạn thật sự thấy thế."
+        },
+        {
+          "fi": "Miltä se maistuu?",
+          "en": "What does it taste like?",
+          "when_to_use": "Asking about someone else's dish before you order it next time.",
+          "register": "casual",
+          "vi": "Món đó vị thế nào?",
+          "when_to_use_vi": "Hỏi về món của người khác để lần sau còn gọi."
+        },
+        {
+          "fi": "Haluutsä maistaa?",
+          "en": "Do you want to try some?",
+          "when_to_use": "Sharing food. Offer once; a Finn who wants it will say yes.",
+          "register": "casual",
+          "vi": "Bạn muốn nếm thử không?",
+          "when_to_use_vi": "Chia đồ ăn. Mời một lần; người Phần Lan nào muốn sẽ nói có."
+        },
+        {
+          "fi": "Tää on vähän liian suolaista mulle.",
+          "en": "This is a bit too salty for me.",
+          "when_to_use": "'Mulle' (for me) makes it a preference, not a criticism of the cook.",
+          "register": "casual",
+          "vi": "Cái này với tôi thì hơi mặn quá.",
+          "when_to_use_vi": "«Mulle» (với tôi) biến nó thành sở thích, không phải lời chê người nấu."
+        },
+        {
+          "fi": "Onks toi tulista?",
+          "en": "Is that spicy?",
+          "when_to_use": "Finnish 'tulista' has a lower threshold than you might expect. Ask.",
+          "register": "casual",
+          "vi": "Món đó có cay không?",
+          "when_to_use_vi": "Ngưỡng «tulista» của người Phần Lan thấp hơn bạn tưởng đấy. Cứ hỏi."
+        },
+        {
+          "fi": "Mä oon ihan täynnä.",
+          "en": "I'm completely full.",
+          "when_to_use": "Declining more food. Said with satisfaction, not apology.",
+          "register": "casual",
+          "vi": "Tôi no căng rồi.",
+          "when_to_use_vi": "Từ chối ăn thêm. Nói với vẻ hài lòng, không phải xin lỗi."
+        },
+        {
+          "fi": "Iso annos. Hyvä hinta-laatusuhde.",
+          "en": "Big portion. Good value.",
+          "when_to_use": "A genuinely common lunch observation here, not a joke.",
+          "register": "casual",
+          "vi": "Suất to. Đáng đồng tiền.",
+          "when_to_use_vi": "Một nhận xét bữa trưa thật sự phổ biến ở đây, không phải đùa."
+        },
+        {
+          "fi": "Mä otan saman ens kerralla.",
+          "en": "I'll have the same next time.",
+          "when_to_use": "High praise, delivered indirectly. Very Finnish.",
+          "register": "casual",
+          "vi": "Lần sau tôi cũng gọi món này.",
+          "when_to_use_vi": "Lời khen cao, nói một cách gián tiếp. Rất Phần Lan."
+        },
+        {
+          "fi": "Tää paikka on mun suosikki.",
+          "en": "This place is my favourite.",
+          "when_to_use": "Recommending somewhere to a friend.",
+          "register": "casual",
+          "vi": "Quán này là quán tôi thích nhất.",
+          "when_to_use_vi": "Giới thiệu một chỗ cho bạn bè."
+        },
+        {
+          "fi": "Kiitos ruuasta!",
+          "en": "Thanks for the food!",
+          "when_to_use": "Said on leaving the table — at home, at a friend's, even in a workplace canteen. A real habit.",
+          "register": "neutral",
+          "vi": "Cảm ơn vì bữa ăn!",
+          "when_to_use_vi": "Nói khi rời bàn — ở nhà, ở nhà bạn, kể cả ở căng tin công ty. Một thói quen thật sự."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Two friends over lunch",
+          "setting": "A lunch place. The food has just arrived.",
+          "speed": "slow",
+          "note": "Notice every food adjective ends in -a or -ä. That's the partitive, and it's not optional.",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "No, maistuuko?",
+              "en": "So, is it good?",
+              "vi": "Thế nào, ngon không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, tosi hyvää! Mitä sulla on?",
+              "en": "Yeah, really good! What have you got?",
+              "vi": "Ừ, ngon thật! Cậu ăn món gì đấy?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Toi kasvispata. Haluutsä maistaa?",
+              "en": "That vegetable stew. Want to try some?",
+              "vi": "Món rau hầm kia. Cậu muốn nếm thử không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo kiitos. …Oo, toi on herkullista.",
+              "en": "Yes please. …Ooh, that's delicious.",
+              "vi": "Ừ cảm ơn. …Ồ, ngon tuyệt."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Eiks oo? Ja aika mieto, ei yhtään tulista.",
+              "en": "Isn't it? And quite mild, not spicy at all.",
+              "vi": "Đúng không? Mà lại nhẹ, chẳng cay tí nào."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä otan sen ens kerralla.",
+              "en": "I'll have that next time.",
+              "vi": "Lần sau tớ gọi món đó."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kannattaa. Ja iso annos, hyvä hinta-laatusuhde.",
+              "en": "Worth it. And a big portion, good value.",
+              "vi": "Đáng lắm. Suất lại to, đáng đồng tiền."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nii on. Mä oon jo melkein täynnä.",
+              "en": "It is. I'm already almost full.",
+              "vi": "Đúng thế. Tớ gần no rồi đây."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Jätä tilaa kahville.",
+              "en": "Leave room for coffee.",
+              "vi": "Chừa bụng cho cà phê đấy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Aina.",
+              "en": "Always.",
+              "vi": "Lúc nào chẳng thế."
+            }
+          ],
+          "title_vi": "Hai người bạn trong bữa trưa",
+          "setting_vi": "Một quán ăn trưa. Đồ ăn vừa được bưng ra.",
+          "note_vi": "Để ý mọi tính từ về đồ ăn đều kết thúc bằng -a hoặc -ä. Đó là cách phân từ, và nó không phải tuỳ chọn."
+        },
+        {
+          "title": "Being fed at someone's home",
+          "setting": "A friend has cooked. The stakes are higher.",
+          "speed": "natural",
+          "note": "Finns cook without fishing for compliments, so praise lands harder. Say it once, clearly.",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "No, uskallatsä maistaa? Tää on mun äidin resepti.",
+              "en": "So, dare you try it? This is my mother's recipe.",
+              "vi": "Thế nào, cậu dám nếm không? Đây là công thức của mẹ tớ đấy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Totta kai. …Vau. Tää on tosi hyvää.",
+              "en": "Of course. …Wow. This is really good.",
+              "vi": "Tất nhiên rồi. …Chà. Cái này ngon thật."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Onks? Mä pelkäsin et se on liian suolaista.",
+              "en": "Is it? I was afraid it was too salty.",
+              "vi": "Thật à? Tớ cứ sợ nó mặn quá."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei ollenkaan. Ihan täydellistä.",
+              "en": "Not at all. Absolutely perfect.",
+              "vi": "Không hề. Hoàn hảo luôn."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Ota lisää, sitä on paljon.",
+              "en": "Take more, there's plenty.",
+              "vi": "Lấy thêm đi, còn nhiều lắm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo otan. Miten sä teet ton kastikkeen?",
+              "en": "Yeah I will. How do you make that sauce?",
+              "vi": "Ừ tớ lấy. Cậu làm nước sốt đó thế nào?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Se on helppo. Mä laitan sulle reseptin.",
+              "en": "It's easy. I'll send you the recipe.",
+              "vi": "Dễ lắm. Tớ gửi công thức cho."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos! …No niin, mä oon nyt ihan täynnä.",
+              "en": "Thanks! …Right, I'm completely full now.",
+              "vi": "Cảm ơn! …Thôi được rồi, giờ tớ no căng luôn."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Hyvä. Kahvia?",
+              "en": "Good. Coffee?",
+              "vi": "Tốt. Cà phê nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Aina. Ja kiitos ruuasta, oli tosi hyvää.",
+              "en": "Always. And thanks for the food, it was really good.",
+              "vi": "Lúc nào chẳng được. Và cảm ơn vì bữa ăn, ngon lắm."
+            }
+          ],
+          "title_vi": "Được đãi ăn ở nhà người ta",
+          "setting_vi": "Một người bạn đã nấu ăn. Mức độ quan trọng cao hơn.",
+          "note_vi": "Người Phần Lan nấu ăn mà không đi câu lời khen, nên lời khen có sức nặng hơn. Nói một lần, thật rõ."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Praise the food properly",
+          "scenario": "A friend has cooked for you. Compliment it, ask about it, and thank them at the end.",
+          "your_role": "You, being fed",
+          "partner_role": "Anni, who cooked",
+          "turns": [
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "No, maistuuko?",
+              "en": "So, is it good?",
+              "vi": "Thế nào, ngon không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, tää on tosi hyvää!",
+              "en": "Yeah, this is really good!",
+              "hint": "'hyvää' with the partitive ending — food is never 'hyvä'.",
+              "vi": "Ừ, cái này ngon thật đấy!",
+              "hint_vi": "«hyvää» với đuôi phân từ — đồ ăn không bao giờ là «hyvä»."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Kiva! Mä pelkäsin et se on liian suolaista.",
+              "en": "Nice! I was afraid it was too salty.",
+              "vi": "Hay quá! Tớ cứ sợ nó mặn quá."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei ollenkaan. Ihan täydellistä.",
+              "en": "Not at all. Absolutely perfect.",
+              "hint": "Contradict the worry directly — don't hedge.",
+              "vi": "Không hề. Hoàn hảo luôn.",
+              "hint_vi": "Bác bỏ nỗi lo đó thẳng thừng — đừng nói nước đôi."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Ota lisää, sitä on paljon.",
+              "en": "Take more, there's plenty.",
+              "vi": "Lấy thêm đi, còn nhiều lắm."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos, otan. Miten sä teet ton kastikkeen?",
+              "en": "Thanks, I will. How do you make that sauce?",
+              "hint": "Asking how it's made is the highest compliment there is.",
+              "vi": "Cảm ơn, tớ lấy. Cậu làm nước sốt đó thế nào?",
+              "hint_vi": "Hỏi cách nấu là lời khen cao nhất có thể."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Se on tosi helppo, mä laitan sulle reseptin.",
+              "en": "It's really easy, I'll send you the recipe.",
+              "vi": "Dễ lắm, tớ gửi công thức cho cậu."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mahtavaa. Ja kiitos ruuasta!",
+              "en": "Brilliant. And thanks for the food!",
+              "hint": "Close with 'kiitos ruuasta' — a real habit here, not a formality.",
+              "vi": "Tuyệt vời. Và cảm ơn vì bữa ăn!",
+              "hint_vi": "Kết bằng «kiitos ruuasta» — đây là thói quen thật, không phải phép xã giao."
+            }
+          ],
+          "title_vi": "Khen đồ ăn cho đúng cách",
+          "scenario_vi": "Một người bạn đã nấu cho bạn ăn. Hãy khen, hỏi về món đó, và cảm ơn họ lúc cuối.",
+          "your_role_vi": "Bạn, đang được đãi ăn",
+          "partner_role_vi": "Anni, người nấu"
+        }
+      ],
+      "title_vi": "Ăn trưa với bạn bè",
+      "subtitle_vi": "Nói về đồ ăn: Tää on tosi hyvää!",
+      "warmup_situation_vi": "Bạn đang ăn cùng bạn bè Phần Lan. Đồ ăn ngon. Bạn nói «hyvä» rồi hết vốn.",
+      "warmup_question_vi": "Có bao nhiêu cách khen một bữa ăn — và tại sao lại là «hyvää» chứ không phải «hyvä»?",
+      "rescue_vi": "Cái này ngon thật đấy!",
+      "rescue_note_vi": "Cách phân từ «hyvää» thay vì «hyvä» là thứ đánh dấu rằng đây là đồ ăn bạn đang ăn chứ không phải một vật nói chung. Nắm đúng cái đuôi này là bạn lập tức nghe tự nhiên hơn ở mọi bữa ăn suốt phần đời còn lại."
+    },
+    {
+      "slug": "cafes-kiosks-buffet",
+      "number": "2.7",
+      "title": "Cafés, kiosks and the lunch buffet",
+      "subtitle": "The unspoken rules nobody tells you",
+      "warmup_situation": "You walk into a lounas place at noon. Everyone else seems to know exactly where to go, what to take, and what not to do. You stand still for four seconds too long.",
+      "warmup_question": "What are the rules — and which one will actually get you a look?",
+      "rescue_fi": "Mä en oo ollu täällä ennen — miten tää toimii?",
+      "rescue_en": "I haven't been here before — how does this work?",
+      "rescue_note": "Asks for the whole procedure in one sentence. Finns explain systems willingly and precisely; what they won't do is guess that you need help. Ask and you get a complete answer.",
+      "vocab": [
+        {
+          "fi": "lounas",
+          "en": "lunch (the set meal)",
+          "pos": "noun",
+          "note": "Usually 10.50–13 €, served 11–14, includes salad, bread, a drink and coffee.",
+          "vi": "bữa trưa (suất cố định)",
+          "note_vi": "Thường 10,50–13 €, phục vụ 11–14 giờ, gồm salad, bánh mì, đồ uống và cà phê."
+        },
+        {
+          "fi": "lounasbuffet",
+          "en": "lunch buffet",
+          "pos": "noun",
+          "vi": "bữa trưa buffet"
+        },
+        {
+          "fi": "seisova pöytä",
+          "en": "buffet table",
+          "pos": "phrase",
+          "literal": "standing table",
+          "vi": "bàn buffet",
+          "literal_vi": "bàn đứng"
+        },
+        {
+          "fi": "noutopöytä",
+          "en": "self-service buffet",
+          "pos": "noun",
+          "vi": "bàn tự phục vụ"
+        },
+        {
+          "fi": "salaattipöytä",
+          "en": "salad bar",
+          "pos": "noun",
+          "vi": "quầy salad"
+        },
+        {
+          "fi": "kuuluu hintaan",
+          "en": "included in the price",
+          "pos": "phrase",
+          "note": "Salad, bread and coffee almost always are. Ask if unsure.",
+          "vi": "đã tính trong giá",
+          "note_vi": "Salad, bánh mì và cà phê gần như luôn được tính. Không chắc thì hỏi."
+        },
+        {
+          "fi": "sisältyy",
+          "en": "is included",
+          "pos": "verb",
+          "vi": "được bao gồm"
+        },
+        {
+          "fi": "ottaa itse",
+          "en": "to help yourself",
+          "pos": "phrase",
+          "vi": "tự lấy"
+        },
+        {
+          "fi": "lautanen",
+          "en": "plate",
+          "pos": "noun",
+          "vi": "cái đĩa"
+        },
+        {
+          "fi": "tarjotin",
+          "en": "tray",
+          "pos": "noun",
+          "vi": "cái khay"
+        },
+        {
+          "fi": "palautus",
+          "en": "return point (for trays)",
+          "pos": "noun",
+          "note": "You clear your own table. Always. This is the rule that catches people out.",
+          "vi": "chỗ trả (khay)",
+          "note_vi": "Bạn tự dọn bàn của mình. Luôn luôn. Đây là luật khiến người ta hay mắc lỗi nhất."
+        },
+        {
+          "fi": "astianpalautus",
+          "en": "dish return",
+          "pos": "noun",
+          "note": "Look for this sign. Leaving your tray on the table is the one real faux pas.",
+          "vi": "chỗ trả bát đĩa",
+          "note_vi": "Hãy tìm tấm biển này. Để khay lại trên bàn là lỗi thật sự duy nhất."
+        },
+        {
+          "fi": "jono",
+          "en": "queue",
+          "pos": "noun",
+          "vi": "hàng chờ"
+        },
+        {
+          "fi": "jonottaa",
+          "en": "to queue",
+          "pos": "verb",
+          "vi": "xếp hàng"
+        },
+        {
+          "fi": "vuoronumero",
+          "en": "queue number",
+          "pos": "noun",
+          "vi": "số thứ tự"
+        },
+        {
+          "fi": "kioski",
+          "en": "kiosk",
+          "pos": "noun",
+          "vi": "kiosk, quầy nhỏ"
+        },
+        {
+          "fi": "grilli",
+          "en": "grill, fast food stand",
+          "pos": "noun",
+          "note": "Late-night institution. Home of the lihapiirakka.",
+          "vi": "quầy nướng, quán ăn nhanh",
+          "note_vi": "Một định chế của đêm khuya. Quê hương của món lihapiirakka."
+        },
+        {
+          "fi": "kahvila",
+          "en": "café",
+          "pos": "noun",
+          "vi": "quán cà phê"
+        },
+        {
+          "fi": "itsepalvelu",
+          "en": "self-service",
+          "pos": "noun",
+          "vi": "tự phục vụ"
+        },
+        {
+          "fi": "täyttää",
+          "en": "to refill",
+          "pos": "verb",
+          "note": "Coffee refills are often free at lunch. 'Saaks kahvia hakee lisää?'",
+          "vi": "rót thêm, lấy thêm",
+          "note_vi": "Cà phê thường được lấy thêm miễn phí vào bữa trưa. «Saaks kahvia hakee lisää?»"
+        },
+        {
+          "fi": "rajaton",
+          "en": "unlimited",
+          "pos": "adjective",
+          "vi": "không giới hạn"
+        },
+        {
+          "fi": "kerta",
+          "en": "time, occasion",
+          "pos": "noun",
+          "note": "'Yhden kerran' = one trip to the buffet. Some places limit it.",
+          "vi": "lần, lượt",
+          "note_vi": "«Yhden kerran» = một lượt lên lấy đồ. Vài nơi giới hạn số lượt."
+        },
+        {
+          "fi": "aukioloajat",
+          "en": "opening hours",
+          "pos": "noun",
+          "vi": "giờ mở cửa"
+        },
+        {
+          "fi": "sulkeutuu",
+          "en": "closes",
+          "pos": "verb",
+          "vi": "đóng cửa"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Onks lounas vielä käynnissä?",
+          "en": "Is lunch still being served?",
+          "when_to_use": "Lunch stops sharply at 14:00, sometimes 13:30. Always worth asking at 13:45.",
+          "register": "neutral",
+          "vi": "Còn phục vụ bữa trưa không ạ?",
+          "when_to_use_vi": "Bữa trưa dừng đúng 14:00, đôi khi 13:30. Lúc 13:45 thì luôn đáng hỏi."
+        },
+        {
+          "fi": "Mitä lounaaseen kuuluu?",
+          "en": "What's included in the lunch?",
+          "when_to_use": "Usually salad, bread, a drink and coffee. Ask rather than pay twice.",
+          "register": "neutral",
+          "vi": "Suất trưa gồm những gì ạ?",
+          "when_to_use_vi": "Thường là salad, bánh mì, đồ uống và cà phê. Hỏi còn hơn trả tiền hai lần."
+        },
+        {
+          "fi": "Kuuluuks kahvi hintaan?",
+          "en": "Is coffee included in the price?",
+          "when_to_use": "At lunch it nearly always is, and often with free refills.",
+          "register": "casual",
+          "vi": "Cà phê có tính trong giá không ạ?",
+          "when_to_use_vi": "Vào bữa trưa thì gần như luôn có, và thường được lấy thêm miễn phí."
+        },
+        {
+          "fi": "Saaks salaattia ottaa itse?",
+          "en": "Can I help myself to salad?",
+          "when_to_use": "Almost always yes. The salad bar is self-service.",
+          "register": "casual",
+          "vi": "Salad tự lấy được không ạ?",
+          "when_to_use_vi": "Hầu như luôn là được. Quầy salad là tự phục vụ."
+        },
+        {
+          "fi": "Saaks hakee lisää?",
+          "en": "Can I go back for more?",
+          "when_to_use": "Most buffets are unlimited; a few allow one trip. Worth one question.",
+          "register": "casual",
+          "vi": "Lấy thêm được không ạ?",
+          "when_to_use_vi": "Phần lớn buffet không giới hạn; vài nơi chỉ cho một lượt. Đáng hỏi một câu."
+        },
+        {
+          "fi": "Mihin mä vien tarjottimen?",
+          "en": "Where do I take the tray?",
+          "when_to_use": "You clear your own. Look for 'astianpalautus'.",
+          "register": "neutral",
+          "vi": "Tôi để khay ở đâu ạ?",
+          "when_to_use_vi": "Bạn tự dọn. Hãy tìm chữ «astianpalautus»."
+        },
+        {
+          "fi": "Mä en oo ollu täällä ennen.",
+          "en": "I haven't been here before.",
+          "when_to_use": "Triggers a complete explanation of the system. Finns are good at this.",
+          "register": "casual",
+          "vi": "Tôi chưa đến đây bao giờ.",
+          "when_to_use_vi": "Kích hoạt một lời giải thích đầy đủ về cả hệ thống. Người Phần Lan làm việc này rất giỏi."
+        },
+        {
+          "fi": "Maksetaanko ennen vai jälkeen?",
+          "en": "Do you pay before or after?",
+          "when_to_use": "Varies by place. Getting it wrong is the most common tourist stumble.",
+          "register": "neutral",
+          "vi": "Trả tiền trước hay sau ạ?",
+          "when_to_use_vi": "Tuỳ nơi. Nhầm chỗ này là cú vấp phổ biến nhất của khách lạ."
+        },
+        {
+          "fi": "Otaks mä vuoronumeron?",
+          "en": "Do I take a queue number?",
+          "when_to_use": "At deli counters, pharmacies and offices. Look for the little ticket machine.",
+          "register": "casual",
+          "vi": "Tôi có phải lấy số thứ tự không ạ?",
+          "when_to_use_vi": "Ở quầy thực phẩm, hiệu thuốc và văn phòng. Tìm cái máy nhả phiếu nhỏ."
+        },
+        {
+          "fi": "Onks tää jono kassalle?",
+          "en": "Is this the queue for the till?",
+          "when_to_use": "Finnish queues are orderly but sometimes invisible. Ask rather than cut.",
+          "register": "casual",
+          "vi": "Đây có phải hàng chờ tính tiền không ạ?",
+          "when_to_use_vi": "Hàng ở Phần Lan trật tự nhưng đôi khi vô hình. Hỏi còn hơn chen."
+        },
+        {
+          "fi": "Mihin asti te ootte auki?",
+          "en": "How late are you open?",
+          "when_to_use": "Many cafés close at 17:00 and almost everything closes early on Sundays.",
+          "register": "neutral",
+          "vi": "Quán mở đến mấy giờ ạ?",
+          "when_to_use_vi": "Nhiều quán cà phê đóng lúc 17:00 và gần như mọi thứ đóng sớm vào Chủ nhật."
+        },
+        {
+          "fi": "Yks lihapiirakka kaikilla, kiitos.",
+          "en": "One meat pie with everything, please.",
+          "when_to_use": "The classic grill order. 'Kaikilla' = with all the toppings.",
+          "register": "casual",
+          "vi": "Cho một bánh nhân thịt đầy đủ ạ.",
+          "when_to_use_vi": "Đơn gọi kinh điển ở quầy nướng. «Kaikilla» = với tất cả topping."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "First time at a lounas place",
+          "setting": "12:15. Duc has never been here and says so.",
+          "speed": "slow",
+          "note": "One honest sentence gets him the entire procedure.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä en oo ollu täällä ennen — miten tää toimii?",
+              "en": "Hi! I haven't been here before — how does this work?",
+              "vi": "Chào! Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo, helppo juttu. Otat lautasen tosta, ja lämmin ruoka on tuolla.",
+              "en": "Yeah, easy. You take a plate from there, and the hot food is over there.",
+              "vi": "Vâng, đơn giản thôi ạ. Anh lấy đĩa ở đằng kia, đồ ăn nóng ở phía kia."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei. Ja salaatti?",
+              "en": "Okay. And salad?",
+              "vi": "Vâng. Thế còn salad?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Salaattipöytä on tossa vieressä. Se kuuluu hintaan.",
+              "en": "The salad bar is right there. It's included in the price.",
+              "vi": "Quầy salad ngay bên cạnh đó ạ. Đã tính trong giá rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Entä kahvi?",
+              "en": "And coffee?",
+              "vi": "Còn cà phê thì sao?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kans hintaan. Ja saat hakee lisää niin paljon kun haluut.",
+              "en": "Also included. And you can go back for as much as you want.",
+              "vi": "Cũng tính trong giá. Và anh muốn lấy thêm bao nhiêu cũng được ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Maksetaanks ennen vai jälkeen?",
+              "en": "Good. Do you pay before or after?",
+              "vi": "Tốt. Trả tiền trước hay sau ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Ennen, tässä kassalla. Kolmetoista euroa.",
+              "en": "Before, here at the till. Thirteen euros.",
+              "vi": "Trước ạ, ở quầy này. Mười ba euro."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kortilla. Ja mihin mä vien tarjottimen jälkeen?",
+              "en": "By card. And where do I take the tray afterwards?",
+              "vi": "Thẻ nhé. Và ăn xong tôi để khay ở đâu ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Tuonne, missä lukee astianpalautus.",
+              "en": "Over there, where it says 'dish return'.",
+              "vi": "Đằng kia ạ, chỗ có chữ astianpalautus."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Kiitos avusta!",
+              "en": "Got it. Thanks for the help!",
+              "vi": "Rõ rồi. Cảm ơn chị đã chỉ!"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Ei kestä. Hyvää ruokahalua!",
+              "en": "No problem. Enjoy your meal!",
+              "vi": "Không có gì ạ. Chúc anh ngon miệng!"
+            }
+          ],
+          "title_vi": "Lần đầu đến một quán lounas",
+          "setting_vi": "12:15. Duc chưa từng đến đây và nói thẳng ra.",
+          "note_vi": "Một câu nói thật lòng giúp anh ấy có trọn cả quy trình."
+        },
+        {
+          "title": "At the grill, late",
+          "setting": "23:40. A kiosk grill. Nobody is speaking carefully.",
+          "speed": "natural",
+          "note": "Fast, clipped, friendly. 'Kaikilla' does a lot of work here.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi. Yks lihapiirakka kaikilla.",
+              "en": "Hi. One meat pie with everything.",
+              "vi": "Chào. Một bánh nhân thịt đầy đủ."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kaikilla joo. Makkaraa kans?",
+              "en": "With everything, yeah. Sausage too?",
+              "vi": "Đầy đủ nhé. Thêm xúc xích không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo laita.",
+              "en": "Yeah, put it in.",
+              "vi": "Ừ, cho vào đi."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Juotavaa?",
+              "en": "Something to drink?",
+              "vi": "Đồ uống?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Yks limu.",
+              "en": "One soft drink.",
+              "vi": "Một nước ngọt."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kaheksan viiskyt. Kortti käy.",
+              "en": "Eight fifty. Card works.",
+              "vi": "Tám năm mươi. Thẻ được."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Mihin asti te ootte auki?",
+              "en": "Good. How late are you open?",
+              "vi": "Tốt. Quán mở đến mấy giờ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kolmeen. Perjantaisin neljään.",
+              "en": "Till three. Till four on Fridays.",
+              "vi": "Đến ba giờ. Thứ Sáu thì đến bốn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä tietää. Kiitti!",
+              "en": "Good to know. Thanks!",
+              "vi": "Biết vậy hay. Cảm ơn!"
+            }
+          ],
+          "title_vi": "Ở quầy nướng, đêm muộn",
+          "setting_vi": "23:40. Một quầy nướng kiểu kiosk. Không ai nói năng cẩn thận cả.",
+          "note_vi": "Nhanh, cụt, thân thiện. Chữ «kaikilla» ở đây làm rất nhiều việc."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Work out how the place works",
+          "scenario": "You've never been here. Get the whole system explained without pretending you know it.",
+          "your_role": "You, first time here",
+          "partner_role": "The person at the till",
+          "turns": [
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Moi! Lounasta?",
+              "en": "Hi! Lunch?",
+              "vi": "Chào! Anh ăn trưa ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo. Mä en oo ollu täällä ennen — miten tää toimii?",
+              "en": "Yes. I haven't been here before — how does this work?",
+              "hint": "One honest sentence gets you the entire procedure.",
+              "vi": "Vâng. Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?",
+              "hint_vi": "Một câu nói thật lòng cho bạn trọn cả quy trình."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Otat lautasen tosta, lämmin ruoka on tuolla.",
+              "en": "You take a plate there, hot food is over there.",
+              "vi": "Anh lấy đĩa ở kia, đồ ăn nóng ở đằng kia ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Okei. Kuuluuks salaatti ja kahvi hintaan?",
+              "en": "Okay. Are salad and coffee included in the price?",
+              "hint": "Ask about both at once — they usually come as a pair.",
+              "vi": "Vâng. Salad và cà phê có tính trong giá không ạ?",
+              "hint_vi": "Hỏi cả hai cùng lúc — chúng thường đi thành cặp."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Kuuluu molemmat. Saat hakee lisää.",
+              "en": "Both included. You can go back for more.",
+              "vi": "Cả hai đều tính rồi ạ. Anh lấy thêm được."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvä. Maksetaanks ennen vai jälkeen?",
+              "en": "Good. Do you pay before or after?",
+              "hint": "The question that saves the most embarrassment.",
+              "vi": "Tốt. Trả tiền trước hay sau ạ?",
+              "hint_vi": "Câu hỏi giúp bạn tránh được nhiều ngượng nghịu nhất."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Ennen. Kolmetoista euroa.",
+              "en": "Before. Thirteen euros.",
+              "vi": "Trước ạ. Mười ba euro."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kortilla. Ja mihin mä vien tarjottimen?",
+              "en": "By card. And where do I take the tray?",
+              "hint": "You clear your own table here — always check where.",
+              "vi": "Thẻ nhé. Và tôi để khay ở đâu ạ?",
+              "hint_vi": "Ở đây bạn tự dọn bàn — luôn hỏi cho rõ để ở đâu."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Tuonne astianpalautukseen.",
+              "en": "Over there to the dish return.",
+              "vi": "Đằng kia, chỗ trả bát đĩa ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä, kiitos avusta!",
+              "en": "Got it, thanks for the help!",
+              "hint": "Thank them for the explanation, not just the food.",
+              "vi": "Rõ rồi, cảm ơn chị đã chỉ!",
+              "hint_vi": "Cảm ơn vì lời giải thích, không chỉ vì đồ ăn."
+            }
+          ],
+          "title_vi": "Tìm hiểu xem quán này vận hành thế nào",
+          "scenario_vi": "Bạn chưa từng đến đây. Hãy được giải thích cả hệ thống mà không giả vờ là mình đã biết.",
+          "your_role_vi": "Bạn, lần đầu đến đây",
+          "partner_role_vi": "Người đứng quầy tính tiền"
+        }
+      ],
+      "title_vi": "Quán cà phê, kiosk và bữa trưa buffet",
+      "subtitle_vi": "Những luật bất thành văn không ai nói cho bạn biết",
+      "warmup_situation_vi": "Bạn bước vào một quán lounas lúc giữa trưa. Ai cũng có vẻ biết chính xác phải đi đâu, lấy gì, và không được làm gì. Bạn đứng yên lâu hơn bốn giây so với mức cần thiết.",
+      "warmup_question_vi": "Luật là gì — và luật nào mà phạm vào thì bạn thật sự sẽ bị nhìn?",
+      "rescue_vi": "Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?",
+      "rescue_note_vi": "Xin nguyên quy trình trong một câu. Người Phần Lan giải thích hệ thống rất sẵn lòng và chính xác; cái họ không làm là tự đoán rằng bạn cần giúp. Hỏi đi là bạn được câu trả lời đầy đủ."
+    }
+  ],
+  "title_vi": "Gọi món và trò chuyện ở nhà hàng",
+  "subtitle_vi": "Vượt qua «yksi kahvi, kiitos»: xử lý những câu hỏi ngược lại.",
+  "description_vi": "Gọi món là nửa dễ. Nửa khó là bốn câu hỏi bắn ngược lại bạn — ăn ở đây hay mang đi, còn gì nữa không, lấy hoá đơn không, thẻ hay tiền mặt — do một người làm việc này ba trăm lần mỗi ngày bắn ra thật nhanh. Các bài này luyện câu trả lời đến mức thành phản xạ, rồi chuyển sang dị ứng, sửa món gọi nhầm, chia tiền, và những luật bất thành văn của bữa trưa buffet kiểu Phần Lan."
+}

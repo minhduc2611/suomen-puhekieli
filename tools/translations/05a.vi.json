@@ -1,0 +1,304 @@
+{
+  "module": {
+    "title_vi": "Lên kế hoạch cuộc sống ở nhà",
+    "subtitle_vi": "Trao đổi hằng ngày với người bạn đời nói tiếng Phần Lan.",
+    "description_vi": "Tiếng Phần Lan bạn dùng ở nhà khác với mọi nơi khác: ngắn hơn, thẳng hơn, và đầy những dạng không ai dạy. Không ai nói «Voisitko ystävällisesti» với bạn đời của mình — người ta nói «Voitsä viedä roskat». Chương này bao gồm việc sắp xếp hằng ngày, việc nhà, đi chợ, kế hoạch cuối tuần, những cuộc trò chuyện khó hơn về bất đồng và xin lỗi, vốn từ tình cảm vốn rất dè sẻn của tiếng Phần Lan, và chuyện về nhà bố mẹ vợ hoặc chồng."
+  },
+  "lessons": {
+    "daily-plans": {
+      "lesson": {
+        "title_vi": "Kế hoạch trong ngày",
+        "subtitle_vi": "Mitä tänään syödään? Kuka hakee lapset?",
+        "warmup_situation_vi": "7 giờ 40 sáng. Hai người lớn, hai đứa trẻ, hai công việc, một cái xe. Cả ngày phải được thương lượng xong trong khoảng chín mươi giây, trong lúc đang xỏ giày.",
+        "warmup_question_vi": "Bốn câu hỏi nào quyết định một ngày của gia đình Phần Lan?",
+        "rescue_vi": "Tối nay mình chốt nhé? Giờ tôi chưa kịp nghĩ.",
+        "rescue_note_vi": "Hoãn một quyết định là một nước đi chính đáng, không phải né tránh. Gia đình Phần Lan vận hành bằng thoả thuận rõ ràng chứ không phải bằng giả định, nên hoãn một cách minh bạch tốt hơn nhiều so với để nó mập mờ rồi 16 giờ phát hiện ra không ai đi đón con."
+      },
+      "vocab": [
+        { "vi": "kế hoạch" },
+        { "vi": "thoả thuận, sắp xếp", "note_vi": "Động từ trung tâm của gia đình. «Sovitaan» = mình thống nhất thế nhé." },
+        { "vi": "đã thống nhất", "note_vi": "Một từ khép lại cuộc thương lượng. Nói ra là xong." },
+        { "vi": "kịp, có thời gian để", "note_vi": "«Mä en ehdi» = tôi không kịp. Dùng liên tục." },
+        { "vi": "kịp, xoay xở được", "note_vi": "Từ song sinh khẩu ngữ của ehtiä. «Kerkeetsä?» = bạn kịp không?" },
+        { "vi": "lịch trình" },
+        { "vi": "buổi sáng" }, { "vi": "vào buổi sáng" }, { "vi": "vào buổi tối" }, { "vi": "vào ban ngày" },
+        { "vi": "đi đón, đi lấy" },
+        { "vi": "đưa đi, chở đến", "note_vi": "Viedä và hakea là hai động từ của việc làm cha mẹ ở Phần Lan." },
+        { "vi": "ở lại, còn lại" },
+        { "vi": "đồ ăn" }, { "vi": "thực đơn, kế hoạch bữa ăn" },
+        { "vi": "nấu ăn", "literal_vi": "đặt đồ ăn" },
+        { "vi": "hâm nóng" },
+        { "vi": "đồ ăn thừa", "note_vi": "«Syödään tähteet» = ăn đồ thừa đi. Một kế hoạch hoàn chỉnh." },
+        { "vi": "cửa hàng" },
+        { "vi": "lượt", "note_vi": "«Sun vuoro» = đến lượt bạn. Từ được dùng nhiều nhất trong nhà người Phần Lan." },
+        { "vi": "sự vội vã" }, { "vi": "muộn, trễ" }, { "vi": "đúng giờ" }, { "vi": "xe ô tô" },
+        { "vi": "cần", "note_vi": "«Tarviitsä autoa?» = bạn cần xe không? Hỏi hằng ngày." },
+        { "vi": "buổi tập" },
+        { "vi": "buổi tập (tiếng lóng)", "note_vi": "Tiếng lóng, ai cũng dùng cho các buổi tập thể thao của trẻ." }
+      ],
+      "phrases": [
+        { "vi": "Hôm nay mình ăn gì?", "when_to_use_vi": "Lại là thể bị động — không cần chủ ngữ. Ngày nào cũng hỏi." },
+        { "vi": "Ai đi đón con?", "when_to_use_vi": "Chốt việc này vào buổi sáng, đừng đợi đến bốn giờ chiều." },
+        { "vi": "Tôi đón được, nếu bạn đưa con đi.", "when_to_use_vi": "Kiểu trao đổi chuẩn. Viedä đổi lấy hakea." },
+        { "vi": "Bạn có kịp ghé cửa hàng không?", "when_to_use_vi": "«Kerkeetsä» là cách nói khẩu ngữ của «bạn có thời gian để»." },
+        { "vi": "Hôm nay tôi không kịp.", "when_to_use_vi": "Một câu trả lời trọn vẹn và chấp nhận được. Không cần lý do kèm theo." },
+        { "vi": "Hôm nay bạn có cần xe không?", "when_to_use_vi": "Hỏi vào buổi sáng. Một xe, hai người lớn, thương lượng hằng ngày." },
+        { "vi": "Tôi về nhà khoảng sáu giờ.", "when_to_use_vi": "Chữ «noin» làm rất nhiều việc ở đây và ai cũng chấp nhận." },
+        { "vi": "Thôi ăn đồ thừa đi.", "when_to_use_vi": "Một kế hoạch bữa tối hoàn chỉnh. Chữ «vaan» làm nó nhẹ nhàng chứ không cam chịu." },
+        { "vi": "Tối nay bạn có việc gì không?", "when_to_use_vi": "Kiểm tra trước khi bạn tự nhận lời gì đó." },
+        { "vi": "Đến lượt bạn.", "when_to_use_vi": "Hai chữ. Giải quyết chuyện rửa bát, giờ ngủ, đổ rác, tất cả." },
+        { "vi": "Mình thống nhất thế nhé?", "when_to_use_vi": "Khép lại thương lượng một cách rõ ràng. Gia đình Phần Lan vận hành bằng điều này." },
+        { "vi": "Chốt.", "when_to_use_vi": "Một từ và mọi chuyện khép lại. Cực kỳ hữu dụng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cuộc thương lượng buổi sáng",
+          "setting_vi": "7 giờ 40. Áo khoác đã mặc, một đứa vẫn đang ăn, chín mươi giây để chốt cả ngày.",
+          "note_vi": "Bốn câu hỏi, bốn câu trả lời, xong. Để ý thể bị động làm được bao nhiêu việc.",
+          "lines": [
+            { "vi": "Này, hôm nay ai đón con?" },
+            { "vi": "Tôi đón được, nếu sáng bạn đưa con đi." },
+            { "vi": "Được. Mấy giờ bạn đến được?" },
+            { "vi": "Khoảng bốn rưỡi. Tôi họp đến bốn giờ." },
+            { "vi": "Vâng. Bạn có cần xe không?" },
+            { "vi": "Có, nếu được. Eeva có buổi tập lúc sáu giờ." },
+            { "vi": "À đúng rồi, buổi tập. Ừ, bạn lấy xe đi. Tôi đi xe buýt." },
+            { "vi": "Cảm ơn. Thế hôm nay mình ăn gì?" },
+            { "vi": "Chả biết. Bạn có kịp ghé cửa hàng không?" },
+            { "vi": "Không kịp. Thôi ăn đồ thừa nhé?" },
+            { "vi": "Ừ, được. Mình thống nhất thế này nhé: bạn đón con rồi chở đi tập, tôi nấu ăn." },
+            { "vi": "Chốt. Tối gặp nhé!" }
+          ]
+        },
+        {
+          "title_vi": "Kế hoạch đổ vỡ",
+          "setting_vi": "15 giờ 20. Một chuỗi tin nhắn. Cuộc họp kéo dài quá giờ.",
+          "note_vi": "Tin nhắn ngắn, không xin lỗi dài dòng, đi thẳng vào cách khắc phục.",
+          "lines": [
+            { "vi": "Này, họp của tôi kéo dài. Không kịp đón lúc năm giờ." },
+            { "vi": "Được. Bạn muộn bao lâu?" },
+            { "vi": "Có lẽ nửa tiếng. Bạn đón được không?" },
+            { "vi": "Được. Nhưng rồi bạn chở con đi tập." },
+            { "vi": "Chốt. Tôi về nhà lúc năm rưỡi." },
+            { "vi": "Tốt. Và mua sữa trên đường về nhé." },
+            { "vi": "Ừ. Gì nữa không?" },
+            { "vi": "Bánh mì. Và cà phê nếu đang giảm giá." },
+            { "vi": "Rõ rồi. Lát gặp." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Chốt cả ngày trong chín mươi giây",
+          "scenario_vi": "Phân chia việc đón, đưa, cái xe và bữa tối. Kết bằng một thoả thuận rõ ràng.",
+          "your_role_vi": "Bạn, đang xỏ giày",
+          "partner_role_vi": "Anni, bạn đời của bạn",
+          "turns": [
+            { "vi": "Này, hôm nay ai đón con?" },
+            { "vi": "Tôi đón được, nếu sáng bạn đưa con đi.", "hint_vi": "Đề nghị một sự trao đổi: viedä đổi lấy hakea." },
+            { "vi": "Được. Mấy giờ bạn đến được?" },
+            { "vi": "Khoảng bốn rưỡi.", "hint_vi": "«Noin» là đủ chính xác cho một gia đình Phần Lan." },
+            { "vi": "Vâng. Bạn có cần xe không?" },
+            { "vi": "Có, nếu được. Eeva có buổi tập lúc sáu giờ.", "hint_vi": "Nêu lý do — nó làm cho lời đề nghị dễ được chấp nhận." },
+            { "vi": "Ừ, lấy xe đi. Thế mình ăn gì?" },
+            { "vi": "Tôi không kịp ra cửa hàng. Thôi ăn đồ thừa nhé?", "hint_vi": "Nêu điều kiện hạn chế, rồi đề xuất giải pháp." },
+            { "vi": "Được đấy." },
+            { "vi": "Chốt. Tối gặp nhé!", "hint_vi": "Khép lại rõ ràng. Gia đình Phần Lan vận hành bằng thoả thuận được nói ra." }
+          ]
+        }
+      ]
+    },
+    "chores-and-favours": {
+      "lesson": {
+        "title_vi": "Việc nhà và nhờ vả",
+        "subtitle_vi": "Voitsä viedä roskat?",
+        "warmup_situation_vi": "Bạn muốn nhờ bạn đời đem rác đi đổ. Bằng tiếng Anh bạn sẽ bọc nó trong «bạn có phiền không nếu có thể». Trong tiếng Phần Lan cách đó nghe như bạn sắp thú nhận điều gì đó.",
+        "warmup_question_vi": "Thẳng đến mức nào thì quá thẳng — và lịch sự có thật sự là mục tiêu ở đây không?",
+        "rescue_vi": "Xin lỗi, tôi quên sạch luôn.",
+        "rescue_note_vi": "Hãy thừa nhận thẳng thừng rồi đi tiếp. Gia đình Phần Lan không muốn nghe giải thích vì sao bạn quên; họ muốn biết việc đó đã xong chưa. Một lời xin lỗi ngắn rồi làm việc đó đáng giá hơn một lời xin lỗi dài."
+      },
+      "vocab": [
+        { "vi": "việc nhà" }, { "vi": "rác" }, { "vi": "thùng rác" }, { "vi": "đem rác đi đổ" },
+        { "vi": "rửa bát" }, { "vi": "máy rửa bát" },
+        { "vi": "dỡ ra, làm trống", "note_vi": "«Tyhjennätsä tiskikoneen?» = bạn dỡ máy rửa bát nhé?" },
+        { "vi": "quần áo bẩn, đồ giặt" }, { "vi": "giặt đồ" }, { "vi": "máy giặt" },
+        { "vi": "phơi (quần áo)" }, { "vi": "gấp (quần áo)" },
+        { "vi": "dọn dẹp" }, { "vi": "hút bụi" }, { "vi": "lau nhà" }, { "vi": "bụi" },
+        { "vi": "dọn giường" }, { "vi": "chuyến đi chợ" }, { "vi": "dọn bàn ăn" },
+        { "vi": "dọn đi, cất đi" }, { "vi": "quét nhà" },
+        { "vi": "việc nhờ vả", "note_vi": "«Voitsä tehä mulle palveluksen?» = bạn giúp tôi một việc được không?" },
+        { "vi": "giúp đỡ" }, { "vi": "quên" }, { "vi": "nhớ" },
+        { "vi": "nhắc nhở", "note_vi": "«Muistuta mua» = nhắc tôi nhé. Không phải cằn nhằn, chỉ là cách vận hành." },
+        { "vi": "lo liệu, xử lý", "note_vi": "«Mä hoidan sen» = tôi lo việc đó. Câu trả lời lý tưởng." },
+        { "vi": "lát nữa, chút nữa", "note_vi": "Câu trả lời phổ quát cho mọi lời nhờ việc nhà. Nghĩa là từ 2 đến 90 phút." },
+        { "vi": "sau, lát nữa" },
+        { "vi": "rồi, đã", "note_vi": "«Mä tein sen jo» = tôi làm rồi. Nói ra rất đã." }
+      ],
+      "phrases": [
+        { "vi": "Bạn đem rác đi đổ được không?", "when_to_use_vi": "Đây chính là dạng lịch sự khi ở nhà. Không cần và không nên làm mềm thêm." },
+        { "vi": "Bạn dỡ máy rửa bát nhé?", "when_to_use_vi": "Động từ cộng -tsä là dạng nhờ việc chuẩn trong nhà." },
+        { "vi": "Tôi lo việc đó.", "when_to_use_vi": "Câu trả lời tốt nhất có thể. Dứt khoát và khép lại chủ đề." },
+        { "vi": "Lát nữa.", "when_to_use_vi": "Cách hoãn phổ quát. Ai cũng biết nó nghĩa là đâu đó giữa hai và chín mươi phút." },
+        { "vi": "Tôi làm rồi.", "when_to_use_vi": "Rất đã. Chữ «jo» gánh toàn bộ ý nghĩa." },
+        { "vi": "Bạn giúp tôi một việc được không?", "when_to_use_vi": "Cho việc nằm ngoài phân công thường ngày." },
+        { "vi": "Tối nhắc tôi nhé.", "when_to_use_vi": "Không phải thừa nhận thất bại — đó là cách các gia đình thật sự vận hành." },
+        { "vi": "Xin lỗi, tôi quên sạch luôn.", "when_to_use_vi": "Ngắn thôi. Rồi làm. Đừng giải thích vì sao." },
+        { "vi": "Tôi làm được, nhưng phải mai.", "when_to_use_vi": "Hẹn giờ trung thực tốt hơn một lời hứa bạn sẽ không giữ." },
+        { "vi": "Ai rửa bát?", "when_to_use_vi": "«Kumpi» = ai trong hai người. Từ của mọi gia đình." },
+        { "vi": "Tôi giặt đồ nếu bạn hút bụi.", "when_to_use_vi": "Lại là cấu trúc trao đổi. Mọi thứ ở đây đều được chia kiểu đó." },
+        { "vi": "Cảm ơn bạn đã lo việc đó.", "when_to_use_vi": "Hãy nói ra. Bạn đời người Phần Lan không đi câu lời cảm ơn nhưng họ để ý." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Chia việc buổi tối",
+          "setting_vi": "Sau bữa tối. Bếp bừa bộn và chưa ai nhúc nhích.",
+          "note_vi": "Để ý không có lấy một câu «bạn có phiền không». Ở đây thẳng thắn chính là dạng lịch sự.",
+          "lines": [
+            { "vi": "Thôi nào. Ai rửa bát?" },
+            { "vi": "Tôi rửa, nếu bạn cho bọn trẻ đi ngủ." },
+            { "vi": "Được. Bạn đổ rác luôn được không?" },
+            { "vi": "Lát nữa. Mà hôm qua tôi đổ rồi đấy." },
+            { "vi": "Ơ thế à? Cảm ơn. Nhưng nó lại đầy rồi." },
+            { "vi": "Haha, lúc nào chẳng thế. Thôi được, tôi lo." },
+            { "vi": "Và máy giặt xong rồi. Bạn phơi được không?" },
+            { "vi": "Được, nhưng phải sáng mai. Giờ tôi kiệt sức rồi." },
+            { "vi": "Được. Nhưng nhớ thật đấy." },
+            { "vi": "Sáng bạn nhắc tôi thì tôi nhớ." },
+            { "vi": "Haha, vâng. Cảm ơn bạn rửa bát nhé." }
+          ]
+        },
+        {
+          "title_vi": "Nhờ một việc, thật nhanh",
+          "setting_vi": "Một tin nhắn lúc 11 giờ. Một việc nằm ngoài phân công thường ngày.",
+          "note_vi": "Nhờ, nêu lý do, chấp nhận câu trả lời. Không màn thương lượng nào cả.",
+          "lines": [
+            { "vi": "Này, bạn giúp tôi một việc được không?" },
+            { "vi": "Còn tuỳ. Việc gì?" },
+            { "vi": "Bạn gọi cho gara được không? Tôi họp cả ngày." },
+            { "vi": "Ừ, được. Số nào?" },
+            { "vi": "Tôi gửi cho bạn. Cảm ơn nhiều." },
+            { "vi": "Không có gì. Nhưng thứ Năm bạn chở Eeva đi tập nhé." },
+            { "vi": "Haha, chốt." },
+            { "vi": "Lúc nào cũng phải đổi chác." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Chia việc của buổi tối",
+          "scenario_vi": "Trao đổi việc, hoãn một việc một cách trung thực, và cảm ơn họ ở cuối.",
+          "your_role_vi": "Bạn, sau bữa tối",
+          "partner_role_vi": "Anni, bạn đời của bạn",
+          "turns": [
+            { "vi": "Thôi nào. Ai rửa bát?" },
+            { "vi": "Tôi rửa, nếu bạn cho bọn trẻ đi ngủ.", "hint_vi": "Cấu trúc trao đổi. Mọi thứ đều được chia theo cách đó." },
+            { "vi": "Được. Bạn đổ rác luôn được không?" },
+            { "vi": "Lát nữa. Tôi lo việc đó.", "hint_vi": "«Kohta» cộng một lời cam kết dứt khoát. Cả hai đều bình thường." },
+            { "vi": "Và máy giặt xong rồi. Bạn phơi được không?" },
+            { "vi": "Được, nhưng phải sáng mai.", "hint_vi": "Hẹn giờ trung thực tốt hơn một lời hứa bạn sẽ không giữ." },
+            { "vi": "Được. Nhưng nhớ thật đấy." },
+            { "vi": "Sáng nhắc tôi nhé.", "hint_vi": "Không phải thất bại — đó là cách các gia đình thật sự vận hành." },
+            { "vi": "Vâng." },
+            { "vi": "Cảm ơn bạn lo bọn trẻ nhé.", "hint_vi": "Hãy nói ra. Họ không đi câu lời cảm ơn, nhưng họ để ý." }
+          ]
+        }
+      ]
+    },
+    "shopping-and-errands": {
+      "lesson": {
+        "title_vi": "Danh sách mua sắm và việc vặt",
+        "subtitle_vi": "Ostatsä maitoa? Ja leipää.",
+        "warmup_situation_vi": "Bạn đang ở cửa hàng. Điện thoại có một danh sách tiếng Phần Lan do ai đó viết vội. Một nửa số từ bị viết tắt và một trong số đó có thể là tên thương hiệu.",
+        "warmup_question_vi": "Bạn gửi lại cái gì — một tấm ảnh hay một câu hỏi?",
+        "rescue_vi": "Tôi gửi ảnh nhé — cái này đúng không?",
+        "rescue_note_vi": "Chụp ảnh cái kệ rồi hỏi nhanh hơn và đáng tin hơn là mô tả một sản phẩm bạn không gọi tên được. Đó là hành vi hoàn toàn bình thường trong gia đình Phần Lan và không ai đánh giá bạn vì chuyện đó."
+      },
+      "vocab": [
+        { "vi": "danh sách mua sắm" }, { "vi": "mua" }, { "vi": "sữa" },
+        { "vi": "sữa ít béo", "note_vi": "Nắp xanh dương. Rasvaton = nắp đỏ, täysmaito = xanh đậm. Mã màu thống nhất toàn quốc." },
+        { "vi": "sữa chua uống lên men" }, { "vi": "bánh mì" },
+        { "vi": "bánh mì đen lúa mạch", "note_vi": "Bánh mì quốc dân. Nếu danh sách ghi «leipää» thì có lẽ là loại này." },
+        { "vi": "phô mai" }, { "vi": "bơ" }, { "vi": "sữa chua" }, { "vi": "trứng gà" },
+        { "vi": "thịt băm" }, { "vi": "thịt gà" }, { "vi": "khoai tây" }, { "vi": "cà rốt" },
+        { "vi": "hành tây" }, { "vi": "trái cây" }, { "vi": "rau củ" },
+        { "vi": "đồ đông lạnh" }, { "vi": "đồ hộp" }, { "vi": "giấy vệ sinh" }, { "vi": "nước tẩy rửa" },
+        { "vi": "chương trình giảm giá", "note_vi": "«Jos on tarjouksessa» = nếu đang giảm giá. Một điều kiện chuẩn trong danh sách." },
+        { "vi": "hết, đã hết", "note_vi": "«Maito on loppu» = nhà hết sữa rồi." },
+        { "vi": "bán hết" }, { "vi": "kilogram" }, { "vi": "hũ, hộp" },
+        { "vi": "gói" }, { "vi": "túi" }, { "vi": "lon, hộp giấy" }
+      ],
+      "phrases": [
+        { "vi": "Nhà hết sữa rồi.", "when_to_use_vi": "Cách chuẩn để báo là cần thứ gì đó. Không nói «mình cần sữa»." },
+        { "vi": "Trên đường về bạn mua sữa nhé?", "when_to_use_vi": "«Matkalta» = trên đường. Rất hay được thêm vào." },
+        { "vi": "Còn cần gì nữa không?", "when_to_use_vi": "Hỏi trước khi bạn đi, đừng hỏi từ trong lối đi siêu thị." },
+        { "vi": "Bạn gửi danh sách nhé?", "when_to_use_vi": "Xin bản viết. Danh sách nói miệng sẽ bị quên." },
+        { "vi": "Hai lít sữa ít béo.", "when_to_use_vi": "Số lượng cộng cách phân từ. Đó là hình dạng của mọi món trong danh sách." },
+        { "vi": "Bạn mua gì ngon ngon làm tráng miệng nhé?", "when_to_use_vi": "Cố tình mơ hồ, và tin tưởng. Một sự tử tế nhỏ trong nhà." },
+        { "vi": "Cái đó cửa hàng hết rồi.", "when_to_use_vi": "Hãy báo lại thay vì lặng lẽ thay bằng cái khác." },
+        { "vi": "Tôi lấy cái này thay thế. Được không?", "when_to_use_vi": "Thay thế nhưng có xin phép. Gửi kèm ảnh." },
+        { "vi": "Tôi gửi ảnh nhé.", "when_to_use_vi": "Nhanh hơn mô tả. Hoàn toàn bình thường." },
+        { "vi": "Tôi mua cả cà phê nữa, đang giảm giá.", "when_to_use_vi": "Món mua ngoài danh sách bao giờ cũng cần lý do «đang giảm giá»." },
+        { "vi": "Nhà đã có ba hũ loại đó rồi.", "when_to_use_vi": "Câu trả lời bạn sẽ nhận được. Hãy tiếp nhận một cách duyên dáng." },
+        { "vi": "Tôi để quên danh sách ở nhà.", "when_to_use_vi": "Thì gọi điện. Ai cũng từng làm thế." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lập danh sách",
+          "setting_vi": "Tối Chủ nhật. Đang lục tủ lạnh.",
+          "note_vi": "Để ý mẫu «X on loppu» — món đồ là chủ ngữ, không phải bạn.",
+          "lines": [
+            { "vi": "Mai bạn có ghé cửa hàng không?" },
+            { "vi": "Có, trên đường đi làm về. Nhà cần gì?" },
+            { "vi": "Hết sữa rồi. Và bánh mì cũng gần hết." },
+            { "vi": "Vâng. Hai lít sữa ít béo nhé?" },
+            { "vi": "Ừ. Và bánh mì lúa mạch, loại đen ấy." },
+            { "vi": "Được. Còn gì nữa?" },
+            { "vi": "Thịt băm, khoảng nửa cân. Và cà rốt." },
+            { "vi": "Thịt băm, cà rốt. Bạn ghi mấy cái này vào danh sách nhé?" },
+            { "vi": "Ừ, tôi gửi cho bạn qua WhatsApp." },
+            { "vi": "Tốt. Tôi mua gì ngon ngon làm tráng miệng nhé?" },
+            { "vi": "Mua đi! Gì đó có sô cô la ấy." },
+            { "vi": "Chốt." }
+          ]
+        },
+        {
+          "title_vi": "Trục trặc giữa lối đi siêu thị",
+          "setting_vi": "Ở cửa hàng, đang nhắn tin. Hai thứ trục trặc.",
+          "note_vi": "Ảnh trước, câu hỏi sau. Nhanh hơn mô tả rất nhiều.",
+          "lines": [
+            { "vi": "Này, bánh mì lúa mạch đó hết rồi." },
+            { "vi": "Ôi tiếc. Lấy loại đen nào khác đi." },
+            { "vi": "Ở đây có ba loại khác nhau. Tôi gửi ảnh." },
+            { "vi": "Loại bên trái ấy. Ngon lắm." },
+            { "vi": "Vâng. Và thịt băm chỉ có gói to, một cân." },
+            { "vi": "Lấy đi. Đông lạnh một nửa." },
+            { "vi": "Được. Tôi mua cả cà phê nữa, đang giảm giá." },
+            { "vi": "Nhà đã có ba gói rồi." },
+            { "vi": "…Giờ là bốn." },
+            { "vi": "Haha. Không sao. Lát gặp nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xử lý một danh sách trục trặc",
+          "scenario_vi": "Xác nhận danh sách, rồi xử lý một món hết hàng và một món sai kích cỡ.",
+          "your_role_vi": "Bạn, đang ở cửa hàng",
+          "partner_role_vi": "Anni, ở nhà",
+          "turns": [
+            { "vi": "Mai bạn có ghé cửa hàng không? Hết sữa rồi." },
+            { "vi": "Có. Còn cần gì nữa không?", "hint_vi": "Hỏi trước khi đi, đừng hỏi từ trong siêu thị." },
+            { "vi": "Bánh mì lúa mạch và thịt băm. Tôi gửi danh sách." },
+            { "vi": "Tốt. Hai lít sữa ít béo nhé?", "hint_vi": "Xác nhận chi tiết hay thay đổi — sữa ở đây có bốn loại." },
+            { "vi": "Ừ, loại nắp xanh dương ấy." },
+            { "vi": "Này, bánh mì lúa mạch đó hết rồi. Tôi gửi ảnh.", "hint_vi": "Báo vấn đề và chụp ảnh các lựa chọn." },
+            { "vi": "Lấy loại bên trái đi." },
+            { "vi": "Vâng. Thịt băm chỉ có gói một cân. Được không?", "hint_vi": "Hỏi trước khi thay thế thay vì tự quyết định im lặng." },
+            { "vi": "Cứ lấy đi, đông lạnh một nửa." },
+            { "vi": "Được. Tôi mua cả sô cô la nữa, đang giảm giá.", "hint_vi": "Món mua ngoài danh sách bao giờ cũng cần lý do «đang giảm giá»." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "lessons": {
+    "affection-and-feelings": {
+      "lesson": {
+        "title_vi": "Tình cảm và cảm xúc",
+        "subtitle_vi": "Những từ người Phần Lan dùng dè sẻn, nhưng nói là thật lòng",
+        "warmup_situation_vi": "Bạn muốn nói điều gì đó ấm áp với người bạn đời Phần Lan. Bạn lo rằng dịch thẳng câu bạn sẽ nói bằng tiếng mẹ đẻ sẽ nghe như đang diễn ở đây — và bạn lo đúng.",
+        "warmup_question_vi": "Nếu người Phần Lan hiếm khi nói «anh yêu em», thì họ nói gì thay vào đó — và như thế có kém đi không?",
+        "rescue_vi": "Tôi không biết nói cái này cho hay bằng tiếng Phần Lan, nhưng mà…",
+        "rescue_note_vi": "Gọi tên giới hạn của mình trước một câu đầy cảm xúc mua cho bạn rất nhiều khoảng rộng. Bạn đời của bạn sẽ nghe ý định thay vì chấm ngữ pháp, và nói một điều gì đó vụng về bằng tiếng Phần Lan thường chạm tới sâu hơn là nói trôi chảy bằng tiếng Anh."
+      },
+      "vocab": [
+        { "vi": "yêu", "note_vi": "Dùng rất dè sẻn. «Mä rakastan sua» là một câu nghiêm túc, không phải câu hằng ngày." },
+        { "vi": "thân yêu, yêu dấu", "note_vi": "«Rakas» dùng để xưng hô thì ấm áp và hơi trang trọng. Hay dùng khi viết." },
+        { "vi": "thích, quý", "note_vi": "«Mä tykkään susta» ở đây thật sự là một câu tình cảm, không hề nhạt." },
+        { "vi": "quý mến ai đó" },
+        { "vi": "nhớ ai đó", "note_vi": "«Mä kaipaan sua» = tôi nhớ bạn. Được dùng dễ dàng hơn «rakastan»." },
+        { "vi": "nỗi nhớ", "note_vi": "«Mulla on ikävä sua» = tôi nhớ bạn. Nhẹ nhàng hơn và rất phổ biến." },
+        { "vi": "ôm (động từ)" }, { "vi": "một cái ôm" }, { "vi": "một nụ hôn" }, { "vi": "hôn (động từ)" },
+        { "vi": "cưng, em yêu", "literal_vi": "vàng", "note_vi": "Từ gọi thân mật tiêu chuẩn. Dùng liên tục và rất bình thường." },
+        { "vi": "cục cưng", "literal_vi": "mẩu vụn" },
+        { "vi": "dễ thương, hay", "note_vi": "Làm nhiều việc về mặt cảm xúc trong tiếng Phần Lan hơn là «nice» trong tiếng Anh." },
+        { "vi": "tuyệt vời, đáng yêu", "note_vi": "«Sä oot ihana» là một lời khen thật sự và đáp xuống rất ngọt." },
+        { "vi": "hạnh phúc" },
+        { "vi": "hài lòng, mãn nguyện", "note_vi": "Có thể nói đây là điều người Phần Lan hướng tới hơn cả «onnellinen»." },
+        { "vi": "buồn" }, { "vi": "lo lắng" }, { "vi": "căng thẳng, stress" },
+        { "vi": "bực bội, bất lực" }, { "vi": "cô đơn" }, { "vi": "biết ơn" },
+        { "vi": "trân trọng", "note_vi": "«Mä arvostan sua» — lời khen cao và rất Phần Lan. Cụ thể, không hoa mỹ." },
+        { "vi": "tin tưởng" },
+        { "vi": "quan tâm đến", "note_vi": "«Mä välitän susta» = tôi quan tâm đến bạn. Ấm áp mà không quá lớn lao." },
+        { "vi": "ủng hộ, nâng đỡ" }, { "vi": "cảm xúc" }, { "vi": "cảm thấy thế nào" },
+        { "vi": "trạng thái của tôi", "note_vi": "«Mulla on hyvä olo» = tôi thấy khoẻ. Cấu trúc tiêu chuẩn." }
+      ],
+      "phrases": [
+        { "vi": "Tôi quý bạn nhiều lắm.", "when_to_use_vi": "Trong tiếng Phần Lan đây thật sự là câu tình cảm, không hề nhạt. Cứ nói thoải mái." },
+        { "vi": "Anh yêu em.", "when_to_use_vi": "Được nói hiếm và nói là thật lòng. Đừng làm loãng nó bằng cách nói hằng ngày." },
+        { "vi": "Tôi nhớ bạn.", "literal_vi": "ở trên tôi có nỗi nhớ bạn", "when_to_use_vi": "Nhẹ hơn và phổ biến hơn «kaipaan». Dùng thoải mái." },
+        { "vi": "Bạn thật đáng yêu.", "when_to_use_vi": "Một lời khen thật, đáp xuống ngọt, không hề diễn." },
+        { "vi": "Tôi trân trọng bạn.", "when_to_use_vi": "Lời khen cao trong tiếng Phần Lan. Cụ thể và được xem là nghiêm túc." },
+        { "vi": "Cảm ơn vì bạn có ở đây.", "literal_vi": "cảm ơn rằng bạn tồn tại", "when_to_use_vi": "Ngắn mà nặng. Để dành cho lúc bạn thật sự muốn nói." },
+        { "vi": "Tôi quan tâm đến bạn.", "when_to_use_vi": "Ấm áp mà không nặng như «rakastan». Một sắc thái rất hữu dụng." },
+        { "vi": "Bạn thấy trong người thế nào?", "when_to_use_vi": "Ở đây đây là câu hỏi thật, và bạn sẽ nhận câu trả lời thật." },
+        { "vi": "Tôi thấy hơi không ổn.", "when_to_use_vi": "Bao gồm cả cảm xúc lẫn thể chất. Mơ hồ một cách hữu dụng." },
+        { "vi": "Tôi khá căng thẳng.", "when_to_use_vi": "Nói thẳng ra ở đây. Không ai coi đó là khủng hoảng hay lời than." },
+        { "vi": "Bạn có muốn một cái ôm không?", "when_to_use_vi": "Hỏi thay vì mặc định là điều được trân trọng, không hề lạnh lùng." },
+        { "vi": "Tôi không biết nói cái này cho hay bằng tiếng Phần Lan, nhưng mà…", "when_to_use_vi": "Mua cho bạn rất nhiều khoảng rộng trước bất cứ điều gì cảm xúc." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một cuộc trò chuyện buổi tối yên tĩnh",
+          "setting_vi": "Trên ghế sofa, khuya. Chẳng có gì kịch tính xảy ra.",
+          "note_vi": "Hãy xem bao nhiêu ấm áp được chuyên chở bằng những từ rất nhỏ.",
+          "lines": [
+            { "vi": "Hôm nay bạn im lặng quá." },
+            { "vi": "Ừ. Tôi chỉ khá căng thẳng thôi." },
+            { "vi": "Vì công việc à?" },
+            { "vi": "Một phần. Và cả ngôn ngữ này nữa. Có lúc tôi mệt với nó thật." },
+            { "vi": "Tôi biết. Bạn nỗ lực với nó rất nhiều." },
+            { "vi": "Tôi không biết nói cái này cho hay bằng tiếng Phần Lan, nhưng… cảm ơn bạn đã đủ kiên nhẫn để lắng nghe." },
+            { "vi": "Bạn nói tốt mà." },
+            { "vi": "Tôi trân trọng bạn lắm." },
+            { "vi": "Cảm ơn. Bạn thật đáng yêu." },
+            { "vi": "Bạn có muốn một cái ôm không?" },
+            { "vi": "Có. Và rồi cà phê nữa." },
+            { "vi": "Đương nhiên." }
+          ]
+        },
+        {
+          "title_vi": "Ấm áp nhỏ, nói thật nhanh",
+          "setting_vi": "Những khoảnh khắc bình thường rải rác vài ngày. Đây là nơi phần lớn tình cảm kiểu Phần Lan thật sự tồn tại.",
+          "note_vi": "Không câu nào trong số này là một tuyên ngôn lớn lao. Gộp lại, chúng là tất cả.",
+          "lines": [
+            { "vi": "Chào cưng, ăn cơm không?" },
+            { "vi": "Lát nữa ra. Cảm ơn bạn đã nấu." },
+            { "vi": "Không có gì. Hôm nay bạn thấy thế nào?" },
+            { "vi": "Khá hơn. Hôm qua tôi thấy hơi không ổn." },
+            { "vi": "Ừ, tôi nhận ra. Có gì cứ nói nhé." },
+            { "vi": "Tôi sẽ nói. Này — hôm qua bạn đi vắng, tôi nhớ bạn." },
+            { "vi": "Ôi. Tôi cũng nhớ bạn." },
+            { "vi": "Đó là tất cả những gì tôi muốn nói." },
+            { "vi": "May mà bạn nói. Giờ ra ăn cơm đi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nói một điều ấm áp, bằng tiếng Phần Lan",
+          "scenario_vi": "Gọi tên một cảm xúc, đón nhận sự nâng đỡ, và đáp lại điều gì đó.",
+          "your_role_vi": "Bạn, trên ghế sofa",
+          "partner_role_vi": "Anni, bạn đời của bạn",
+          "turns": [
+            { "vi": "Hôm nay bạn im lặng quá." },
+            { "vi": "Ừ. Tôi chỉ khá căng thẳng thôi.", "hint_vi": "Gọi tên nó thẳng ra. Ở đây không ai coi đó là khủng hoảng." },
+            { "vi": "Vì công việc à?" },
+            { "vi": "Một phần. Và cả ngôn ngữ này, có lúc nó làm tôi kiệt sức.", "hint_vi": "Hãy cụ thể. Cảm xúc mơ hồ rất khó để người khác đáp lại." },
+            { "vi": "Tôi biết. Bạn nỗ lực với nó nhiều lắm." },
+            { "vi": "Tôi không biết nói cái này cho hay bằng tiếng Phần Lan, nhưng cảm ơn bạn đã lắng nghe.", "hint_vi": "Câu rào đón mua cho bạn khoảng rộng cho câu ngay sau nó." },
+            { "vi": "Bạn nói tốt mà." },
+            { "vi": "Tôi trân trọng bạn lắm.", "hint_vi": "«Arvostan» là lời khen cao trong tiếng Phần Lan — cụ thể, không hoa mỹ." },
+            { "vi": "Cảm ơn. Bạn thật đáng yêu." },
+            { "vi": "Bạn có muốn một cái ôm không?", "hint_vi": "Hỏi thay vì mặc định là điều được trân trọng ở đây, không hề lạnh lùng." }
+          ]
+        }
+      ]
+    },
+    "visiting-the-in-laws": {
+      "lesson": {
+        "title_vi": "Về nhà bố mẹ vợ/chồng",
+        "subtitle_vi": "Lịch sự, ấm áp, mà vẫn là chính mình",
+        "warmup_situation_vi": "Bữa trưa Chủ nhật ở nhà bố mẹ bạn đời. Ba thế hệ, một ngôn ngữ bạn vẫn đang học, và rất nhiều khoảng lặng mà bạn không biết là dễ chịu hay không.",
+        "warmup_question_vi": "Khoảng lặng đó có phải vấn đề không — và người ta thật sự mong bạn làm gì?",
+        "rescue_vi": "Con phụ gì được không ạ?",
+        "rescue_note_vi": "Ngỏ ý giúp là điều hiệu quả nhất bạn có thể làm ở nhà bố mẹ chồng/vợ người Phần Lan. Nó được hiểu là sự tôn trọng, nó cho tay bạn có việc để làm, và nó đưa bạn vào bếp — nơi trò chuyện dễ hơn và là một-đối-một."
+      },
+      "vocab": [
+        { "vi": "bố mẹ vợ/chồng" }, { "vi": "mẹ vợ/mẹ chồng" }, { "vi": "bố vợ/bố chồng" },
+        { "vi": "chị/em dâu, chị/em chồng" }, { "vi": "anh/em rể" }, { "vi": "họ hàng" },
+        { "vi": "đại gia đình, dòng họ" }, { "vi": "khách" }, { "vi": "đến thăm" },
+        { "vi": "quà mang đến cho chủ nhà", "note_vi": "Hãy mang gì đó. Hoa, bánh ngọt, một chai rượu. Đừng bao giờ đến tay không." },
+        { "vi": "hoa" }, { "vi": "bánh ngọt" },
+        { "vi": "phần cà phê và bánh", "note_vi": "Cà phê kèm đồ ngọt. Trung tâm cấu trúc của mọi buổi thăm nhà ở Phần Lan." },
+        { "vi": "cởi giày", "note_vi": "Luôn luôn, ở mọi nơi, ngay lập tức. Không phải tuỳ chọn." },
+        { "vi": "cứ ngồi đi" },
+        { "vi": "lấy thêm đi", "note_vi": "Bạn sẽ nghe câu này nhiều lần. Nhận một lần là lịch sự." },
+        { "vi": "có ngon không?" },
+        { "vi": "cảm ơn vì bữa ăn", "note_vi": "Nói khi rời bàn ăn. Đừng bỏ qua câu này." },
+        { "vi": "cảm ơn vì đã tiếp đón" }, { "vi": "giúp đỡ" }, { "vi": "dọn (bàn ăn)" }, { "vi": "rửa bát" },
+        { "vi": "sự im lặng", "note_vi": "Im lặng dễ chịu là bình thường ở đây. Đừng vội lấp đầy nó." },
+        { "vi": "bình yên, tĩnh lặng" }, { "vi": "lịch sự" },
+        { "vi": "phiền phức, mất công", "note_vi": "«Älä vaivaudu» = đừng bày vẽ. Họ sẽ nói vậy; họ không hoàn toàn nghĩ thế." },
+        { "vi": "dễ chịu, thoải mái" }, { "vi": "chào mừng" }, { "vi": "rời đi" },
+        { "vi": "mời", "note_vi": "«Tulkaa käymään meillä» = mời hai bác sang nhà con chơi. Hãy mời lại." }
+      ],
+      "phrases": [
+        { "vi": "Cảm ơn hai bác đã mời ạ!", "when_to_use_vi": "Nói khi vừa bước vào cửa, giày đã bắt đầu cởi ra." },
+        { "vi": "Chúng con có mang một ít hoa ạ.", "when_to_use_vi": "Đừng bao giờ đến tay không. Chữ «vähän» hạ thấp nó xuống, đúng cách." },
+        { "vi": "Con phụ gì được không ạ?", "when_to_use_vi": "Điều hiệu quả nhất bạn có thể nói. Hãy ngỏ ý hơn một lần." },
+        { "vi": "Con dọn bàn ăn nhé ạ?", "when_to_use_vi": "Lời đề nghị cụ thể được chấp nhận, còn lời chung chung thì bị từ chối." },
+        { "vi": "Món này ngon thật ạ.", "when_to_use_vi": "Nói một lần, rõ ràng, về một món cụ thể. Rồi ăn." },
+        { "vi": "Cảm ơn bác, con lấy thêm một ít ạ.", "when_to_use_vi": "Nhận phần thứ hai là một lời khen. Hãy nhận ít nhất một lần." },
+        { "vi": "Dạ thôi ạ, con no căng rồi.", "when_to_use_vi": "Từ chối lời mời thứ tư. Nói với vẻ hài lòng, không phải xin lỗi." },
+        { "vi": "Cảm ơn vì bữa ăn ạ!", "when_to_use_vi": "Khi rời bàn ăn. Đừng bỏ qua — đó là một thói quen thật sự." },
+        { "vi": "Con nói tiếng Phần Lan vẫn còn kém, nhưng con cố ạ.", "when_to_use_vi": "Nói một lần, sớm. Nó mang lại thiện cảm và làm mọi người chậm lại." },
+        { "vi": "Hai bác nói lại được không ạ? Con chưa hiểu hết.", "when_to_use_vi": "Để ý chữ «voitteko» — dạng số nhiều, tôn trọng hơn khi nói với người lớn tuổi." },
+        { "vi": "Cảm ơn hai bác đã tiếp đón ạ.", "when_to_use_vi": "Ở cửa lúc ra về. Hơi trang trọng và được đón nhận rất tốt." },
+        { "vi": "Hai bác sang nhà chúng con chơi nhé.", "when_to_use_vi": "Hãy mời lại trước khi về. Nó quan trọng hơn cả lời cảm ơn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Chủ nhật ở nhà bố mẹ vợ",
+          "setting_vi": "Lúc đến, bữa trưa và cà phê. Duc biết tay mình nên làm gì.",
+          "note_vi": "Để ý dạng «te» dùng với thế hệ lớn tuổi, và hai lần ngỏ ý giúp.",
+          "lines": [
+            { "vi": "Chào mừng các con! Vào nhà đi." },
+            { "vi": "Cảm ơn bác đã mời ạ! Chúng con có mang một ít hoa." },
+            { "vi": "Ôi, bày vẽ làm gì. Cảm ơn con!" },
+            { "vi": "Không có gì đâu ạ. Con phụ gì được không ạ?" },
+            { "vi": "Không cần đâu, con cứ ngồi đi." },
+            { "vi": "Con dọn bàn ăn được ạ, nếu bác thấy tiện.", "note_vi": "Lời đề nghị thứ hai, cụ thể, mới là lời được chấp nhận." },
+            { "vi": "Ừ, nếu con muốn. Bát đĩa ở trong tủ kia." },
+            { "vi": "Vâng ạ. Và xin lỗi bác — con nói tiếng Phần Lan vẫn còn kém, nhưng con cố ạ." },
+            { "vi": "Con nói tốt mà! Cứ bảo nếu nhà bác nói nhanh quá nhé." },
+            { "vi": "Cảm ơn bác, con sẽ nói ạ." },
+            { "vi": "Nào, cơm xong rồi. Vào bàn đi các con." },
+            { "vi": "Vâng ạ. Trông ngon quá." }
+          ]
+        },
+        {
+          "title_vi": "Khoảng lặng, và cách ra về cho đẹp",
+          "setting_vi": "Sau tuần cà phê. Bốn mươi giây không ai nói gì.",
+          "note_vi": "Khoảng lặng không phải là vấn đề. Duc không vội lấp đầy nó, rồi ra về đúng cách.",
+          "lines": [
+            { "vi": "…", "note_vi": "Bốn mươi giây. Hoàn toàn bình thường. Đừng hoảng." },
+            { "vi": "Ở đây yên bình thật bác nhỉ." },
+            { "vi": "Đúng vậy. Vì thế mà nhà bác ở đây bốn mươi năm rồi." },
+            { "vi": "Bốn mươi năm cơ ạ! Chỗ này có thay đổi nhiều không ạ?" },
+            { "vi": "Khu rừng thì vẫn thế. Còn lại thì đổi hết." },
+            { "vi": "Đời là vậy mà bác." },
+            { "vi": "Các con uống thêm cà phê không?" },
+            { "vi": "Dạ thôi ạ, con no căng rồi. Cảm ơn bác về bữa ăn, ngon lắm ạ." },
+            { "vi": "Các con thấy ngon là bác vui rồi." },
+            { "vi": "Cảm ơn hai bác đã tiếp đón ạ. Và hai bác sang nhà chúng con chơi nhé." },
+            { "vi": "Bác sẽ sang. Lái xe cẩn thận nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đến nơi, phụ giúp, và ra về cho đẹp",
+          "scenario_vi": "Cảm ơn vì lời mời, ngỏ ý giúp hai lần, và mời lại trước khi về.",
+          "your_role_vi": "Bạn, ở nhà bố mẹ bạn đời",
+          "partner_role_vi": "Anoppi, mẹ vợ/mẹ chồng của bạn",
+          "turns": [
+            { "vi": "Chào mừng các con! Vào nhà đi." },
+            { "vi": "Cảm ơn bác đã mời ạ! Chúng con có mang một ít hoa.", "hint_vi": "Đừng bao giờ đến tay không. Chữ «vähän» hạ thấp nó xuống, đúng cách." },
+            { "vi": "Ôi, bày vẽ làm gì. Cảm ơn con!" },
+            { "vi": "Không có gì đâu ạ. Con phụ gì được không ạ?", "hint_vi": "Câu hiệu quả nhất bạn có thể nói trong ngôi nhà này." },
+            { "vi": "Không cần đâu, con cứ ngồi đi." },
+            { "vi": "Con dọn bàn ăn được ạ, nếu bác thấy tiện.", "hint_vi": "Ngỏ ý lần nữa, thật cụ thể. Lời thứ hai mới là lời được nhận." },
+            { "vi": "Ừ, nếu con muốn. Bát đĩa ở đằng kia." },
+            { "vi": "Cảm ơn bác. Con nói tiếng Phần Lan vẫn còn kém, nhưng con cố ạ.", "hint_vi": "Nói một lần, sớm. Nó khiến mọi người chậm lại một cách tử tế." },
+            { "vi": "Con nói tốt mà!" },
+            { "vi": "Cảm ơn hai bác đã tiếp đón ạ. Và hai bác sang nhà chúng con chơi nhé.", "hint_vi": "Mời lại còn quan trọng hơn cả lời cảm ơn." }
+          ]
+        }
+      ]
+    }
+  }
+}

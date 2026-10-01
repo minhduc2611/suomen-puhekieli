@@ -1,0 +1,351 @@
+{
+  "lessons": {
+    "performance-review": {
+      "lesson": {
+        "title_vi": "Buổi trao đổi phát triển",
+        "subtitle_vi": "Kehityskeskustelu: mục tiêu, khối lượng việc, và xin điều bạn muốn",
+        "warmup_situation_vi": "Người quản lý đặt «kehityskeskustelu» vào lịch. Một tiếng, chỉ hai người. Không ai nói nó để làm gì, không có mẫu biểu nào trong hộp thư, và từ tiếng Phần Lan đó chẳng dịch ra thành thứ gì bạn từng trải qua.",
+        "warmup_question_vi": "Trong một buổi kehityskeskustelu thật ra diễn ra chuyện gì — và bạn được mong đợi mang gì đến?",
+        "rescue_vi": "Tôi đã suy nghĩ chuyện này trước rồi. Tôi bắt đầu được không?",
+        "rescue_note_vi": "Đây là câu mở đầu tốt nhất có thể. Kehityskeskustelu không phải một buổi đánh giá mà bạn ngồi chịu đựng — nó là cuộc trao đổi hai chiều, và quản lý người Phần Lan thật sự mong bạn đến với mục tiêu của riêng bạn, lo ngại của riêng bạn về khối lượng việc, và những điều bạn muốn xin. Chuẩn bị ba ý gạch đầu dòng là bạn đã đi trước phần lớn người bản xứ."
+      },
+      "vocab": [
+        { "vi": "buổi trao đổi phát triển", "note_vi": "Buổi gặp một-một hằng năm hoặc nửa năm một lần. Một thiết chế ở nơi làm việc tại đây, và thật sự hai chiều." },
+        { "vi": "người quản lý trực tiếp", "note_vi": "Từ trung tính về giới đang dùng hiện nay. Nó đã thay thế phần lớn «esimies» trong văn viết." },
+        { "vi": "quản lý, cấp trên", "note_vi": "Vẫn cực kỳ phổ biến trong khẩu ngữ. Nghĩa chữ là «người đứng trước»." },
+        { "vi": "mục tiêu" },
+        { "vi": "các mục tiêu", "note_vi": "Bạn sẽ được hỏi mục tiêu của mình. Hãy có sẵn hai hoặc ba cái." },
+        { "vi": "thống nhất về mục tiêu", "note_vi": "Thống nhất, không phải nhận lệnh. Động từ này cho bạn biết buổi gặp vận hành thế nào." },
+        { "vi": "tự đánh giá", "note_vi": "Thường được gửi trước. Hãy điền thật thà; không ai mong bạn nói quá về mình." },
+        { "vi": "phản hồi, nhận xét" },
+        { "vi": "phản hồi mang tính xây dựng", "note_vi": "Phản hồi của người Phần Lan ngắn và đúng nghĩa chữ. «Tää oli hyvä» là một lời khen thật." },
+        { "vi": "điểm mạnh" },
+        { "vi": "điểm cần phát triển", "note_vi": "Cách nói lịch sự cho điểm yếu. Hãy dùng nó về bản thân bạn." },
+        { "vi": "năng lực, chuyên môn", "note_vi": "Một từ rất lớn trong đời sống công việc ở Phần Lan. «Mun osaaminen» = những gì tôi làm được." },
+        { "vi": "phát triển, tiến bộ" },
+        { "vi": "trách nhiệm" },
+        { "vi": "phạm vi trách nhiệm" },
+        { "vi": "khối lượng công việc", "note_vi": "Nêu chuyện này là bình thường và được mong đợi, không phải là kêu ca." },
+        { "vi": "sức chịu đựng, còn sức làm", "note_vi": "Một từ trung tâm về sức khoẻ công việc ở Phần Lan, không có từ tiếng Anh nào tương ứng gọn gàng." },
+        { "vi": "tôi không còn sức", "note_vi": "Ở đây người ta nói thẳng, và được tiếp nhận nghiêm túc. Không phải một câu kịch tính." },
+        { "vi": "sức khoẻ và an lành trong công việc" },
+        { "vi": "lộ trình nghề nghiệp" },
+        { "vi": "đào tạo", "note_vi": "Hãy xin ở đây. Đây là buổi gặp mà ngân sách được quyết." },
+        { "vi": "những mong đợi" },
+        { "vi": "đủ, đạt yêu cầu" },
+        { "vi": "ghi lại, ghi vào biên bản", "note_vi": "«Kirjataanks tää?» = mình ghi cái này lại nhé? Nó làm một lời xin trở thành thật." },
+        { "vi": "sau nửa năm" },
+        { "vi": "thật lòng, thật thà", "note_vi": "«Ihan rehellisesti» báo hiệu bạn sắp nói điều thật. Được hoan nghênh." },
+        { "vi": "trong quá trình, dọc đường đi", "note_vi": "«Palautetta matkan varrella» = phản hồi khi đang làm, không phải mỗi năm một lần." },
+        { "vi": "bước tiếp theo" },
+        { "vi": "tôi mong muốn, tôi xin", "note_vi": "Thể điều kiện làm lời xin trở nên mềm mà vẫn hoàn toàn rõ. Công cụ chính của bạn ở đây." }
+      ],
+      "phrases": [
+        { "vi": "Tôi đã suy nghĩ chuyện này trước rồi.", "when_to_use_vi": "Câu mở đầu tốt nhất có thể. Nó cho thấy bạn hiểu buổi gặp là hai chiều." },
+        { "vi": "Tôi có ba việc muốn trao đổi.", "when_to_use_vi": "Hãy tự đặt chương trình trong phút đầu tiên. Không ai ngăn bạn." },
+        { "vi": "Điểm mạnh của tôi là tôi làm xong việc.", "when_to_use_vi": "Cụ thể và không khoe. Đó là phong cách hiệu quả ở đây." },
+        { "vi": "Tôi muốn phát triển về khả năng trình bày.", "when_to_use_vi": "Tự nêu điểm cần phát triển được đọc là sự chín chắn, không phải điểm yếu." },
+        { "vi": "Tôi muốn có nhiều trách nhiệm hơn.", "when_to_use_vi": "Trực tiếp và hoàn toàn chấp nhận được. Nói trong buổi này, hoặc chờ một năm." },
+        { "vi": "Khối lượng việc hơi quá nhiều.", "when_to_use_vi": "Có «vähän» thì đó là một phát biểu thực tế, không phải lời kêu ca. Nó sẽ được xử lý." },
+        { "vi": "Thật lòng mà nói, tôi không trụ được lâu với nhịp này.", "when_to_use_vi": "Nghiêm túc, và nói thẳng. Quản lý người Phần Lan được huấn luyện để phản ứng với đúng câu này." },
+        { "vi": "Năm tới bạn mong đợi gì ở tôi?", "when_to_use_vi": "Hãy hỏi thành tiếng. Câu trả lời thường cụ thể hơn mọi thứ được viết ra." },
+        { "vi": "Tôi muốn được đào tạo về việc này.", "when_to_use_vi": "Đây là buổi gặp quyết ngân sách đào tạo. Hãy nêu tên khoá học nếu bạn biết." },
+        { "vi": "Mình ghi cái này thành một mục tiêu được không?", "when_to_use_vi": "Biến một cuộc trò chuyện dễ chịu thành thứ còn tồn tại vào quý sau." },
+        { "vi": "Tôi muốn có phản hồi dọc đường đi, không chỉ một lần mỗi năm.", "when_to_use_vi": "Một đề nghị rất hợp lý ở đây, và quản lý ít khi từ chối." },
+        { "vi": "Nửa năm nữa mình xem lại chuyện này nhé?", "when_to_use_vi": "Nước đi kết thúc. Nó chốt buổi gặp tiếp theo khi cả hai còn trong phòng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đến với chương trình của riêng bạn",
+          "setting_vi": "Anni là quản lý của Duc. Đặt lịch một tiếng. Duc có ba ý gạch đầu dòng trong điện thoại.",
+          "note_vi": "Hãy xem ai đặt chương trình. Duc làm việc đó ở câu thứ hai, và Anni thấy vui vì vậy.",
+          "lines": [
+            { "vi": "Nào, buổi trao đổi phát triển. Nói chung thì bạn thế nào?" },
+            { "vi": "Tôi ổn. Tôi đã suy nghĩ chuyện này trước rồi — tôi có ba việc. Tôi bắt đầu được không?", "note_vi": "Cả bài học nằm trong một câu. Hãy nhận lấy chương trình." },
+            { "vi": "Hay đấy, bạn nói đi. Tôi ghi lại." },
+            { "vi": "Thứ nhất: tôi muốn nhiều trách nhiệm hơn. Tôi muốn tự mình dẫn một dự án." },
+            { "vi": "Việc đó được. Cái dự án khách hàng mới bắt đầu vào mùa xuân — bạn nhận chứ?" },
+            { "vi": "Vâng, rất sẵn lòng. Việc thứ hai: khối lượng việc mùa thu này hơi quá nhiều." , "note_vi": "«Vähän liian iso» là một báo cáo thực tế, không phải lời kêu ca. Nó rơi xuống nhẹ nhàng." },
+            { "vi": "Ừ, tôi có để ý. Mình bỏ bớt được cái gì?" },
+            { "vi": "Nếu tôi nhận dự án đó thì tôi không còn kịp làm mấy bản báo cáo kia nữa." },
+            { "vi": "Rõ rồi. Mấy cái đó chuyển cho Jussi. Mình ghi lại. Còn việc thứ ba?" },
+            { "vi": "Tôi muốn được đào tạo tiếng Phần Lan. Hai giờ mỗi tuần, trong giờ làm việc.", "note_vi": "Lời xin cụ thể: cái gì, bao nhiêu, và khi nào. Đó là thứ được phê duyệt." },
+            { "vi": "Ý hay đấy. Tôi đưa vào ngân sách. Bạn mong đợi gì ở tôi?" },
+            { "vi": "Phản hồi dọc đường đi. Không chỉ một lần mỗi năm. Nửa năm nữa mình xem lại chuyện này nhé?" }
+          ]
+        },
+        {
+          "title_vi": "Nói rằng nhịp làm việc này không trụ được",
+          "setting_vi": "Phiên bản khó hơn. Duc phải nói điều anh đã né suốt mấy tháng.",
+          "note_vi": "Không ai tranh luận, không ai coi đó là chuyện cá nhân, và câu trả lời thì thực tế. Đó là kết cục thường thấy.",
+          "lines": [
+            { "vi": "Có chuyện gì bạn nên nói với tôi không?" },
+            { "vi": "Có. Thật lòng mà nói, tôi không trụ được lâu với nhịp này.", "note_vi": "«Jaksaminen» là một từ nghiêm túc ở đây. Nói thẳng là nước đi đúng." },
+            { "vi": "Cảm ơn bạn đã nói. Kể rõ hơn đi — phần nào nặng nhất?" },
+            { "vi": "Mấy cuộc họp hằng ngày đó. Tôi có bốn tiếng họp mỗi ngày." },
+            { "vi": "Ừ, thế là quá nhiều. Hai cuộc bạn có thể rút ra hẳn." },
+            { "vi": "Tôi có cần nói với ai lý do không?" },
+            { "vi": "Không cần. Tôi nói. Và nếu tình hình không đỡ hơn thì bạn nói ngay — không chờ đến buổi trao đổi phát triển tới." },
+            { "vi": "Cảm ơn. Tôi lo cuộc trò chuyện này một cách vô ích." },
+            { "vi": "Gần như ai cũng lo. Và gần như ai cũng có đúng chuyện đó." },
+            { "vi": "May mà biết. Mình ghi lại là tháng Một xem lại nhé?" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Mang ba việc đến và được ghi lại",
+          "scenario_vi": "Mở đầu bằng chương trình của riêng bạn, nêu khối lượng việc, xin đào tạo, và chốt buổi gặp tiếp theo.",
+          "your_role_vi": "Bạn, trong buổi kehityskeskustelu của mình",
+          "partner_role_vi": "Anni, quản lý của bạn",
+          "turns": [
+            { "vi": "Nào. Nói chung thì bạn thế nào?" },
+            { "vi": "Tôi ổn. Tôi đã suy nghĩ chuyện này trước rồi — tôi có ba việc.", "hint_vi": "Hãy nhận lấy chương trình ngay câu đầu. Việc này được mong đợi, không phải lấn lướt." },
+            { "vi": "Hay đấy. Bạn nói đi, tôi ghi lại." },
+            { "vi": "Thứ nhất: tôi muốn nhiều trách nhiệm hơn.", "hint_vi": "Trực tiếp và hoàn toàn chấp nhận được. Không cần rào trước." },
+            { "vi": "Việc đó được. Thế nào thì phù hợp?" },
+            { "vi": "Tôi muốn tự mình dẫn một dự án.", "hint_vi": "Hãy nêu điều cụ thể. Lời xin mơ hồ nhận câu trả lời mơ hồ." },
+            { "vi": "Tốt. Còn hai việc kia?" },
+            { "vi": "Khối lượng việc hơi quá nhiều. Và tôi muốn được đào tạo tiếng Phần Lan.", "hint_vi": "«Vähän liian iso» là một báo cáo, không phải kêu ca. Rồi nêu lời xin ngay." },
+            { "vi": "Cả hai đều sắp xếp được. Đào tạo bao nhiêu?" },
+            { "vi": "Hai giờ mỗi tuần, trong giờ làm việc. Mình ghi cái này thành một mục tiêu được không?", "hint_vi": "Cái gì, bao nhiêu, khi nào — rồi cho ghi lại." },
+            { "vi": "Mình ghi lại. Cuộc trao đổi tốt đấy." },
+            { "vi": "Cảm ơn. Nửa năm nữa mình xem lại chuyện này nhé?", "hint_vi": "Chốt buổi gặp tiếp theo khi cả hai còn trong phòng." }
+          ]
+        }
+      ]
+    },
+    "job-interview": {
+      "lesson": {
+        "title_vi": "Phỏng vấn xin việc",
+        "subtitle_vi": "Työhaastattelu: kể câu chuyện của bạn, nói về lương, và tự đặt câu hỏi",
+        "warmup_situation_vi": "Buổi phỏng vấn bằng tiếng Phần Lan. Hai người ngồi đối diện, không có màn chuyện vãn nào ngoài chuyện thời tiết, và câu hỏi đầu tiên là «Kerro itsestäsi» — rồi đến khoảng lặng mà bạn được mong đợi lấp đầy trong hai phút.",
+        "warmup_question_vi": "Một buổi phỏng vấn ở Phần Lan thật ra đánh giá cao điều gì — và bạn làm gì khi tiếng Phần Lan của bạn cạn giữa câu trả lời?",
+        "rescue_vi": "Tiếng Phần Lan của tôi vẫn đang tiến bộ, nhưng tôi sẽ thử. Nếu tôi nói không rõ thì bạn nói nhé.",
+        "rescue_note_vi": "Hãy nói câu này một lần, ngay đầu, rồi tiếp tục bằng tiếng Phần Lan. Nó được đọc là sự tự tin hơn là lời xin lỗi, và nó mua cho bạn sự kiên nhẫn suốt cả tiếng. Cố gắng bằng tiếng Phần Lan và nhờ giúp đỡ được nhìn tốt hơn nhiều so với việc chuyển sang tiếng Anh ngay khi gặp khó khăn đầu tiên."
+      },
+      "vocab": [
+        { "vi": "phỏng vấn xin việc" },
+        { "vi": "đơn xin việc" },
+        { "vi": "người ứng tuyển" },
+        { "vi": "sơ yếu lý lịch, CV", "note_vi": "Trong khẩu ngữ «CV» cũng được dùng nhiều như vậy. Cả hai đều đúng." },
+        { "vi": "tin tuyển dụng" },
+        { "vi": "người tuyển dụng" },
+        { "vi": "tuyển dụng (nói tắt)", "note_vi": "Cách nói tắt ở nơi làm việc cho rekrytointi. Rất phổ biến." },
+        { "vi": "hãy kể về bản thân", "note_vi": "Câu mở đầu chuẩn. Hai phút, theo thời gian, kết lại ở lý do bạn ở đây." },
+        { "vi": "kinh nghiệm" },
+        { "vi": "tôi có kinh nghiệm về", "note_vi": "Dùng với cách chia partitive: «kokemusta projektinhallinnasta»." },
+        { "vi": "năng lực, kỹ năng" },
+        { "vi": "các điểm mạnh" },
+        { "vi": "các điểm yếu", "note_vi": "Được hỏi là «kehityskohteet», không phải điểm yếu. Hãy trả lời bằng điều thật và nhỏ." },
+        { "vi": "vì sao lại là bạn" },
+        { "vi": "thời gian thử việc", "note_vi": "Thường là sáu tháng. Cả hai bên đều có thể kết thúc hợp đồng trong thời gian đó." },
+        { "vi": "mức lương mong muốn", "note_vi": "Bạn sẽ được hỏi. Hãy đưa một con số hoặc một khoảng hẹp, đừng bao giờ nói «bao nhiêu cũng được»." },
+        { "vi": "khoảng lương" },
+        { "vi": "ngày bắt đầu" },
+        { "vi": "thời gian báo trước khi nghỉ", "note_vi": "Thường là một tháng. Hãy biết của mình trước khi đi phỏng vấn." },
+        { "vi": "người giới thiệu" },
+        { "vi": "làm việc từ xa" },
+        { "vi": "mô hình kết hợp", "note_vi": "Hãy hỏi mấy ngày lên công ty. Câu trả lời khác nhau rất nhiều." },
+        { "vi": "vào vòng tiếp", "note_vi": "«Pääsitsä jatkoon?» = bạn có qua vòng không?" },
+        { "vi": "vòng hai" },
+        { "vi": "quyết định" },
+        { "vi": "chúng tôi sẽ thông báo" },
+        { "vi": "quan tâm, hứng thú", "note_vi": "«Mä oon tosi kiinnostunu tästä» — hãy nói ra ở cuối buổi." },
+        { "vi": "phù hợp" },
+        { "vi": "đang tiến bộ", "note_vi": "«Mun suomi on kehittymässä» là cách nói duyên dáng về trình độ của bạn." }
+      ],
+      "phrases": [
+        { "vi": "Cảm ơn các bạn đã mời tôi đến phỏng vấn.", "when_to_use_vi": "Một câu ở đầu. Phỏng vấn ở Phần Lan không cần khởi động nhiều hơn thế." },
+        { "vi": "Tiếng Phần Lan của tôi vẫn đang tiến bộ, nhưng tôi sẽ thử.", "when_to_use_vi": "Nói một lần, ngay đầu, rồi tiếp tục bằng tiếng Phần Lan. Nó mua cho bạn sự kiên nhẫn suốt cả tiếng." },
+        { "vi": "Tôi đã làm phát triển phần mềm năm năm.", "when_to_use_vi": "Hãy bắt đầu «kerro itsestäsi» bằng dữ kiện cụ thể, không phải bằng tuổi thơ." },
+        { "vi": "Tôi có kinh nghiệm về quản lý dự án và làm việc với khách hàng.", "when_to_use_vi": "«Kokemusta» đi với partitive. Hai lĩnh vực là đủ cho một câu." },
+        { "vi": "Điểm mạnh của tôi là tôi làm xong việc.", "when_to_use_vi": "Ở đây cụ thể hơn là gây ấn tượng. Rồi cho một ví dụ một dòng." },
+        { "vi": "Điểm cần phát triển là tôi đôi khi nhận quá nhiều việc về mình.", "when_to_use_vi": "Thật và nhỏ. Người phỏng vấn ở Phần Lan không thích kiểu điểm yếu giả." },
+        { "vi": "Tôi muốn vào chỗ này vì các bạn làm đúng ngành này.", "when_to_use_vi": "Hãy trả lời «miksi juuri me» bằng một điều cụ thể về họ." },
+        { "vi": "Mức lương tôi mong muốn là 4200 euro một tháng.", "when_to_use_vi": "Hãy đưa một con số. Một con số rõ ràng là bình thường và được tôn trọng ở đây." },
+        { "vi": "Thời gian báo trước của tôi là một tháng.", "when_to_use_vi": "Hãy biết điều này trước khi bước vào. Luôn luôn được hỏi." },
+        { "vi": "Tôi xin hỏi vài câu được không?", "when_to_use_vi": "Luôn có hai câu. Không có câu hỏi nào bị đọc là không quan tâm." },
+        { "vi": "Mỗi tuần mọi người lên công ty mấy ngày?", "when_to_use_vi": "Một câu hỏi thực tế, được tiếp nhận tốt. Câu trả lời khác nhau rất nhiều." },
+        { "vi": "Tôi rất quan tâm đến vị trí này. Khi nào các bạn ra quyết định?", "when_to_use_vi": "Nước đi kết thúc: nêu sự quan tâm, rồi hỏi về thời điểm." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Kerro itsestäsi, và khoảng lặng sau đó",
+          "setting_vi": "Hai người phỏng vấn, một tiếng. Duc trả lời bằng tiếng Phần Lan suốt buổi.",
+          "note_vi": "Hãy để ý lượt nói của người phỏng vấn ngắn thế nào. Khoảng lặng là của bạn để dùng, không phải của họ để lấp.",
+          "lines": [
+            { "vi": "Chào mừng. Bạn tìm đường đến đây dễ không?" },
+            { "vi": "Dễ, cảm ơn. Và cảm ơn các bạn đã mời tôi đến phỏng vấn." },
+            { "vi": "Tốt. Nào — hãy kể về bản thân bạn.", "note_vi": "Đó là toàn bộ câu hỏi. Sẽ không có câu gợi thêm nào cho đến khi bạn dừng." },
+            { "vi": "Tiếng Phần Lan của tôi vẫn đang tiến bộ, nhưng tôi sẽ thử. Nếu tôi nói không rõ thì bạn nói nhé.", "note_vi": "Một lần, ngay đầu, rồi đi thẳng tiếp bằng tiếng Phần Lan. Sau câu này không ai chuyển sang tiếng Anh." },
+            { "vi": "Vâng, không lo. Bạn cứ nói thong thả." },
+            { "vi": "Tôi đã làm phát triển phần mềm năm năm, ba năm ở Việt Nam và hai năm ở Phần Lan. Tôi có kinh nghiệm về quản lý dự án và làm việc với khách hàng." },
+            { "vi": "Điểm mạnh của bạn là gì?" },
+            { "vi": "Tôi làm xong việc. Năm ngoái tôi đưa một dự án về đích dù giữa đường cả đội bị thay.", "note_vi": "Một khẳng định cộng một ví dụ cụ thể. Đó là toàn bộ công thức." },
+            { "vi": "Còn điểm cần phát triển?" },
+            { "vi": "Tôi đôi khi nhận quá nhiều việc về mình và không nhờ giúp đủ sớm." },
+            { "vi": "Rõ rồi. Vì sao lại chính là chúng tôi?" },
+            { "vi": "Vì các bạn làm phần mềm ngành y tế. Tôi từng làm việc đó và tôi muốn tiếp tục đúng ở đó." }
+          ]
+        },
+        {
+          "title_vi": "Lương, thời gian báo trước, và câu hỏi của bạn",
+          "setting_vi": "Mười phút cuối, lúc phần lớn ứng viên im lặng. Duc thì không.",
+          "note_vi": "Một con số, một mốc ngày, hai câu hỏi, và một lời nói rõ sự quan tâm. Không cần gì hơn.",
+          "lines": [
+            { "vi": "Mức lương bạn mong muốn là bao nhiêu?" },
+            { "vi": "4200 euro một tháng.", "note_vi": "Một con số, không gì khác. «Bao nhiêu cũng được» làm bạn yếu thế ở đây." },
+            { "vi": "Nằm trong khoảng của chúng tôi. Thời gian thử việc là sáu tháng — bạn thấy ổn chứ?" },
+            { "vi": "Ổn. Thời gian báo trước của tôi là một tháng, nên tôi có thể bắt đầu từ tháng Hai." },
+            { "vi": "Tốt. Bạn có câu hỏi nào cho chúng tôi không?" },
+            { "vi": "Có, vài câu. Mỗi tuần mọi người lên công ty mấy ngày?" },
+            { "vi": "Hai ngày là bắt buộc, còn lại hoàn toàn tự do." },
+            { "vi": "Rõ rồi. Và trong đội mọi người nói tiếng Phần Lan hay tiếng Anh?", "note_vi": "Hãy hỏi câu này. Câu trả lời thay đổi đời sống công việc của bạn nhiều hơn mức lương." },
+            { "vi": "Họp thì bằng tiếng Anh, còn mọi thứ khác bằng tiếng Phần Lan. Tiếng Phần Lan của bạn thừa đủ cho việc này." },
+            { "vi": "Nghe vậy thì tốt. Tôi rất quan tâm đến vị trí này. Khi nào các bạn ra quyết định?" },
+            { "vi": "Tuần sau. Chúng tôi sẽ thông báo trong mọi trường hợp, kể cả nếu không tiếp tục." },
+            { "vi": "Cảm ơn rất nhiều. Rất vui được gặp các bạn." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả lời, đưa con số, hỏi hai câu",
+          "scenario_vi": "Xử lý câu mở đầu bằng tiếng Phần Lan, nêu một con số lương, và kết lại bằng sự quan tâm cộng câu hỏi về thời điểm.",
+          "your_role_vi": "Bạn, ứng viên",
+          "partner_role_vi": "Anni, người phỏng vấn",
+          "turns": [
+            { "vi": "Chào mừng. Nào — hãy kể về bản thân bạn." },
+            { "vi": "Tiếng Phần Lan của tôi vẫn đang tiến bộ, nhưng tôi sẽ thử. Tôi đã làm phát triển phần mềm năm năm.", "hint_vi": "Lời rào một lần, rồi đi thẳng vào dữ kiện cụ thể." },
+            { "vi": "Tốt. Điểm mạnh của bạn là gì?" },
+            { "vi": "Tôi làm xong việc. Năm ngoái tôi đưa một dự án về đích.", "hint_vi": "Một khẳng định cộng một ví dụ. Giữ ví dụ trong một câu." },
+            { "vi": "Còn điểm cần phát triển?" },
+            { "vi": "Tôi đôi khi nhận quá nhiều việc về mình.", "hint_vi": "Thật và nhỏ. Điểm yếu giả bị nhận ra ở đây." },
+            { "vi": "Rõ rồi. Mức lương bạn mong muốn là bao nhiêu?" },
+            { "vi": "4200 euro một tháng. Thời gian báo trước của tôi là một tháng.", "hint_vi": "Một con số và một mốc ngày. Không rào đón trước cái nào." },
+            { "vi": "Tốt. Bạn có câu hỏi nào cho chúng tôi không?" },
+            { "vi": "Có, vài câu. Trong đội mọi người nói tiếng Phần Lan hay tiếng Anh?", "hint_vi": "Luôn có sẵn hai câu hỏi. Câu này quan trọng hơn nghe tưởng." },
+            { "vi": "Họp bằng tiếng Anh, còn lại tiếng Phần Lan." },
+            { "vi": "Tôi rất quan tâm đến vị trí này. Khi nào các bạn ra quyết định?", "hint_vi": "Nêu sự quan tâm, rồi hỏi thời điểm. Đó là cách kết." }
+          ]
+        }
+      ]
+    },
+    "presenting": {
+      "lesson": {
+        "title_vi": "Trình bày và xử lý câu hỏi",
+        "subtitle_vi": "Mä käyn tän läpi lyhyesti. Kysymyksiä?",
+        "warmup_situation_vi": "Mười lăm phút và tám slide. Bạn đã tập bài trình bày. Điều bạn chưa tập là câu hỏi ở cuối mà bạn không biết câu trả lời.",
+        "warmup_question_vi": "Một bài trình bày ở Phần Lan thật ra ngắn thế nào — và bạn nói gì khi bạn không biết?",
+        "rescue_vi": "Câu hỏi hay. Tôi không nói được con số chính xác — tôi sẽ kiểm tra và quay lại chuyện này.",
+        "rescue_note_vi": "Thừa nhận bạn không biết chẳng mất gì ở đây, còn đoán thì mất rất nhiều. «Mä tarkistan ja palaan tähän» đóng lại câu hỏi hoàn toàn, miễn là bạn thật sự quay lại. Đây là câu hữu dụng nhất trong bài."
+      },
+      "vocab": [
+        { "vi": "bài trình bày" },
+        { "vi": "trình bày" },
+        { "vi": "slide", "note_vi": "Nghĩa chữ là «phim trong». Vẫn là từ bình thường, mấy chục năm sau thời máy chiếu bản trong." },
+        { "vi": "slide", "note_vi": "Từ bình thường còn lại. Cả hai đều dùng thay nhau được." },
+        { "vi": "ngắn gọn", "note_vi": "Hãy nói và làm đúng thế. Bài trình bày ở Phần Lan ngắn hơn bạn tưởng." },
+        { "vi": "một cách tóm lược" },
+        { "vi": "phần tóm tắt" },
+        { "vi": "điểm chính", "note_vi": "«Mun pääpointti on…» Hãy đặt nó ở đầu, không phải ở cuối." },
+        { "vi": "một chút bối cảnh", "note_vi": "Giữ phần này trong hai câu. Ở đây không ai muốn bản dài." },
+        { "vi": "kết quả" },
+        { "vi": "các con số" },
+        { "vi": "đã tăng", "note_vi": "«Myynti kasvo kymmenen prosenttia.» Trong khẩu ngữ chữ i cuối thường rụng." },
+        { "vi": "đã giảm" },
+        { "vi": "so với", "note_vi": "Đi với cách allative: «verrattuna viime vuoteen»." },
+        { "vi": "phần trăm" },
+        { "vi": "slide tiếp theo" },
+        { "vi": "vào việc luôn", "note_vi": "Một câu thứ hai tốt. Nó báo rằng bạn sẽ không làm mất thời gian của phòng." },
+        { "vi": "có câu hỏi nào không?", "note_vi": "Hãy chờ một khoảng lặng trước khi có người nói. Cứ để nó trôi qua; đừng lấp." },
+        { "vi": "câu hỏi hay" },
+        { "vi": "tôi không nói được", "note_vi": "Hoàn toàn chấp nhận được. Đoán thì không." },
+        { "vi": "tôi sẽ kiểm tra" },
+        { "vi": "tôi sẽ quay lại chuyện này", "note_vi": "Đóng một câu hỏi gọn gàng — miễn là bạn thật sự quay lại." },
+        { "vi": "mình quay lại chuyện đó ở cuối nhé?", "note_vi": "Dành cho một lần bị ngắt sẽ làm lệch cấu trúc của bạn." },
+        { "vi": "cái này có hiện rõ không?" },
+        { "vi": "mọi người nghe thấy tôi không?", "note_vi": "Câu đầu tiên của mọi bài trình bày từ xa trong cả nước." },
+        { "vi": "slide sẽ được chia sẻ sau", "note_vi": "Nói sớm là không ai chụp ảnh màn hình nữa." },
+        { "vi": "chúng ta có mười lăm phút" },
+        { "vi": "mình có kịp không?" },
+        { "vi": "vậy là hết", "note_vi": "Cách kết bình thường. Không màn hoa lá, không bài cảm ơn." }
+      ],
+      "phrases": [
+        { "vi": "Tôi sẽ đi qua cái này ngắn gọn.", "when_to_use_vi": "Câu mở đầu. Nó hứa đúng điều khán giả Phần Lan thật sự muốn." },
+        { "vi": "Tôi có ba điểm, và mười lăm phút.", "when_to_use_vi": "Cấu trúc và khung thời gian trong một câu. Được tiếp nhận rất tốt." },
+        { "vi": "Mình vào việc luôn.", "when_to_use_vi": "Thay cho phần khởi động bạn sẽ làm ở nơi khác. Không ai thấy thiếu." },
+        { "vi": "Bối cảnh ngắn gọn: chúng tôi bắt đầu dự án này vào mùa xuân.", "when_to_use_vi": "Tối đa hai câu bối cảnh. Rồi đi tiếp." },
+        { "vi": "Doanh thu tăng mười phần trăm so với năm ngoái.", "when_to_use_vi": "Câu nêu con số chuẩn. «Verrattuna» đi với cách allative." },
+        { "vi": "Đây là slide quan trọng nhất.", "when_to_use_vi": "Chỉ cho một phòng im lặng biết nhìn vào đâu. Hữu ích và ít được dùng." },
+        { "vi": "Tóm lại: tiến độ giữ được, ngân sách thì không.", "when_to_use_vi": "Hãy nói nửa xấu ra miệng. Che nó lại làm tổn hại niềm tin rất nặng ở đây." },
+        { "vi": "Có câu hỏi nào không?", "when_to_use_vi": "Rồi chờ. Khoảng lặng trước câu hỏi đầu tiên là bình thường, không phải thất bại." },
+        { "vi": "Câu hỏi hay. Tôi không nói được con số chính xác — tôi sẽ kiểm tra.", "when_to_use_vi": "Nước đi cứu nguy của bạn. Thật thà, và nó đóng câu hỏi lại đúng cách." },
+        { "vi": "Mình quay lại chuyện đó ở cuối nhé? Tôi có một slide riêng về nó.", "when_to_use_vi": "Dành cho một lần bị ngắt sẽ phá cấu trúc của bạn. Hoàn toàn lịch sự." },
+        { "vi": "Slide sẽ được chia sẻ sau, không cần ghi lại.", "when_to_use_vi": "Hãy nói sớm. Cả phòng nhẹ người ngay lập tức." },
+        { "vi": "Vậy là hết. Cảm ơn.", "when_to_use_vi": "Toàn bộ phần kết. Dài hơn thì nghe như đang diễn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mười lăm phút, ba điểm, và khoảng lặng ở cuối",
+          "setting_vi": "Một buổi báo cáo tiến độ dự án cho sáu người. Duc trình bày bằng tiếng Phần Lan.",
+          "note_vi": "Cấu trúc được nói ra, tin xấu được nói to, và khoảng lặng trước câu hỏi đầu tiên được để yên.",
+          "lines": [
+            { "vi": "Chào cả nhà. Mọi người nghe thấy tôi không?" },
+            { "vi": "Nghe rõ." },
+            { "vi": "Tốt. Tôi sẽ đi qua cái này ngắn gọn. Tôi có ba điểm, và mười lăm phút. Slide sẽ được chia sẻ sau.", "note_vi": "Cấu trúc, thời gian, và không-cần-ghi-chép, tất cả trong ba câu." },
+            { "vi": "Bối cảnh ngắn gọn: chúng tôi bắt đầu dự án này vào mùa xuân. Mình đi thẳng vào các con số." },
+            { "vi": "Đây là slide quan trọng nhất. Doanh thu tăng mười phần trăm so với năm ngoái." },
+            { "vi": "Con số đó là cho cả năm hay chỉ mùa thu?" },
+            { "vi": "Cả năm. Mùa thu thì tốt hơn một chút, nhưng tôi không nói được con số chính xác cho riêng mùa thu — tôi sẽ kiểm tra.", "note_vi": "Trả lời phần mình biết, nêu rõ phần không biết, rồi đi tiếp. Không đoán." },
+            { "vi": "Tóm lại: tiến độ giữ được, ngân sách thì không. Chúng tôi vượt ngân sách khoảng mười nghìn.", "note_vi": "Nửa xấu, nói thẳng. Vùi nó đi mới là thứ làm tổn hại niềm tin ở đây." },
+            { "vi": "Vậy là hết. Có câu hỏi nào không?" },
+            { "vi": "…", "note_vi": "Bốn giây im lặng. Anh chờ. Đây là phần khó nhất của bài." },
+            { "vi": "Phần vượt ngân sách đó có ý nghĩa gì cho năm tới?" },
+            { "vi": "Câu hỏi hay. Tôi có làm một bản ước tính về chuyện đó — nó ở slide cuối kia." }
+          ]
+        },
+        {
+          "title_vi": "Bị ngắt, và bị hỏi điều bạn không biết",
+          "setting_vi": "Hai chuyện thật sự hay xảy ra. Mỗi chuyện xử lý trong một câu.",
+          "note_vi": "«Palataanks siihen lopussa» và «mä tarkistan», hai câu đó bao phủ gần như mọi khoảnh khắc khó.",
+          "lines": [
+            { "vi": "Điểm thứ hai là nguồn lực của đội —" },
+            { "vi": "Xin lỗi, nhưng cái slide đầu nghĩa là gì?" },
+            { "vi": "Mình quay lại chuyện đó ở cuối nhé? Tôi có một slide riêng về nó.", "note_vi": "Hoàn toàn lịch sự, và nó cứu cấu trúc. Hãy nói mà không xin lỗi." },
+            { "vi": "Ừ, thế cũng được." },
+            { "vi": "Cảm ơn. Vậy, nguồn lực: chúng tôi thiếu một lập trình viên." },
+            { "vi": "Việc đó làm chậm đợt phát hành bao nhiêu ngày?" },
+            { "vi": "Tôi không nói được con số chính xác. Tôi sẽ kiểm tra và quay lại chuyện này ngày mai.", "note_vi": "Một mốc thời hạn cho lời hứa. Đó là thứ làm nó đáng tin." },
+            { "vi": "Tốt. Một con số ước tính là đủ, không cần chính xác." },
+            { "vi": "Rõ rồi. Thô thì khoảng hai tuần, nhưng tôi sẽ xác nhận lại.", "note_vi": "Giờ thì con số ước tính được hoan nghênh, vì nó được dán nhãn là ước tính." },
+            { "vi": "Vậy là hết. Jussi, giờ mình quay lại slide đầu đó.", "note_vi": "Anh thật sự quay lại. Đây là phần người ta hay quên." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trình bày ba điểm và vượt qua phần hỏi đáp",
+          "scenario_vi": "Nói ra cấu trúc, đưa các con số, nói tin xấu, và xử lý một câu hỏi bạn không trả lời được.",
+          "your_role_vi": "Bạn, đang báo cáo tiến độ dự án",
+          "partner_role_vi": "Anni và Jussi, khán giả",
+          "turns": [
+            { "vi": "Nào, đến lượt bạn. Có mười lăm phút." },
+            { "vi": "Tôi sẽ đi qua cái này ngắn gọn. Tôi có ba điểm.", "hint_vi": "Cấu trúc và sự ngắn gọn ngay câu đầu. Khán giả Phần Lan muốn cả hai." },
+            { "vi": "Tốt. Bạn nói đi." },
+            { "vi": "Bối cảnh ngắn gọn: chúng tôi bắt đầu vào mùa xuân. Mình đi thẳng vào các con số.", "hint_vi": "Tối đa hai câu bối cảnh." },
+            { "vi": "Các con số thế nào?" },
+            { "vi": "Doanh thu tăng mười phần trăm so với năm ngoái.", "hint_vi": "«Verrattuna» đi với allative: verrattuna viime vuoteen." },
+            { "vi": "Còn riêng mùa thu?" },
+            { "vi": "Tôi không nói được con số chính xác — tôi sẽ kiểm tra và quay lại chuyện này.", "hint_vi": "Nước đi cứu nguy. Ở đây thật thà luôn hơn một lời đoán." },
+            { "vi": "Thế cũng ổn. Còn phần tóm tắt?" },
+            { "vi": "Tóm lại: tiến độ giữ được, ngân sách thì không.", "hint_vi": "Hãy nói nửa xấu ra miệng. Che nó mới là thứ làm bạn mất niềm tin." },
+            { "vi": "Cảm ơn bạn đã nói thẳng." },
+            { "vi": "Vậy là hết. Có câu hỏi nào không?", "hint_vi": "Rồi để khoảng lặng trôi qua. Bốn giây im lặng là bình thường." }
+          ]
+        }
+      ]
+    }
+  }
+}

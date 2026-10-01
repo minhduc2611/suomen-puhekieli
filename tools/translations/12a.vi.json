@@ -1,0 +1,318 @@
+{
+  "module": {
+    "title_vi": "Tiếng Phần Lan trong công việc",
+    "subtitle_vi": "Làm việc trong một đội Phần Lan hoặc với khách hàng Phần Lan, kể cả khi bản thân cuộc họp diễn ra bằng tiếng Anh.",
+    "description_vi": "Phần lớn công ty quốc tế ở Phần Lan họp bằng tiếng Anh — và rồi những cuộc trò chuyện thật sự diễn ra bằng tiếng Phần Lan, ở phòng cà phê, ở hành lang, và trong năm phút sau khi cuộc gọi kết thúc. Chương này bao gồm những thứ đó: chuyện phòng cà phê, giới thiệu bản thân và công ty, ngôn ngữ trong họp, theo một cuộc họp chuyển sang tiếng Phần Lan, sắp xếp lịch, giọng văn khi viết, kết nối ở sự kiện, gọi khách hàng, đàm phán, và nói không. Giao tiếp công việc ở Phần Lan ngắn, phẳng và thẳng — ở đây đó chính là sự lịch sự, không phải sự thô."
+  },
+  "lessons": {
+    "coffee-room-talk": {
+      "lesson": {
+        "title_vi": "Chuyện ở phòng cà phê",
+        "subtitle_vi": "Mennäänks kahville? Miten viikonloppu meni?",
+        "warmup_situation_vi": "Ai cũng rời bàn làm việc lúc 9:30 và một lần nữa lúc 14:00. Bạn đã ăn trưa trước màn hình suốt bốn tháng và là người duy nhất trong đội mà chẳng ai biết.",
+        "warmup_question_vi": "Vì sao giờ nghỉ cà phê quan trọng hơn cuộc họp — và bạn nói chuyện gì ở đó?",
+        "rescue_vi": "Mình đi cà phê nhé?",
+        "rescue_note_vi": "Bốn chữ thay đổi vị thế của bạn trong một công ty Phần Lan nhiều hơn bất cứ bài thuyết trình nào. Giờ nghỉ cà phê là nơi các quyết định được thống nhất trước, các vấn đề được nhắc đến trước khi thành chính thức, và đồng nghiệp trở thành con người. Hãy nói câu đó với một người rồi đi."
+      },
+      "vocab": [
+        { "vi": "giờ nghỉ cà phê", "note_vi": "Thường được ghi hẳn vào thoả ước lao động tập thể. Đó là một định chế thật." },
+        { "vi": "phòng nghỉ" }, { "vi": "phòng cà phê" }, { "vi": "bếp văn phòng" }, { "vi": "đi uống cà phê" },
+        { "vi": "đồng nghiệp" }, { "vi": "nhóm, đội" },
+        { "vi": "người quản lý trực tiếp", "note_vi": "Bạn gọi họ bằng tên riêng và dùng «sä». Luôn luôn." },
+        { "vi": "sếp" }, { "vi": "đồng nghiệp" }, { "vi": "làm việc từ xa" },
+        { "vi": "từ xa", "note_vi": "«Mä oon huomenna etänä» = mai tôi làm từ xa. Được nói liên tục." },
+        { "vi": "ở văn phòng" },
+        { "vi": "cuộc họp", "note_vi": "Từ hằng ngày. «Kokous» thì trang trọng hơn." },
+        { "vi": "sự vội vã, giai đoạn bận" }, { "vi": "giai đoạn cao điểm" },
+        { "vi": "hạn chót", "note_vi": "Dùng nguyên dạng tiếng Anh. «Määräaika» và «takaraja» là từ Phần Lan." },
+        { "vi": "dự án" }, { "vi": "cuối tuần" },
+        { "vi": "kỳ nghỉ", "note_vi": "Một chủ đề trò chuyện lớn. Hãy hỏi kỳ nghỉ của người ta là khi nào." },
+        { "vi": "nghỉ hè", "note_vi": "Bốn tuần, thường là tháng Bảy. Hãy lên kế hoạch công việc quanh chuyện này." },
+        { "vi": "nghỉ ốm" },
+        { "vi": "tiệc Giáng sinh công ty", "note_vi": "Tháng Mười một–Mười hai. Một định chế thật và đáng đi." },
+        { "vi": "hoạt động nâng cao sức khoẻ tại nơi làm", "note_vi": "Viết tắt của työkykyä ylläpitävä toiminta. Một buổi chiều cả đội ra ngoài." },
+        { "vi": "trò chuyện, tán gẫu" },
+        { "vi": "tin tức, tình hình thế nào", "note_vi": "«Mitä kuuluu?» = tình hình thế nào? Câu mở đầu tiêu chuẩn." },
+        { "vi": "bữa trưa", "note_vi": "Thường 11–12 giờ. Sớm hơn phần lớn các nơi." },
+        { "vi": "giờ nghỉ trưa" }, { "vi": "đang đến" }
+      ],
+      "phrases": [
+        { "vi": "Mình đi cà phê nhé?", "when_to_use_vi": "Câu giá trị nhất trong đời sống công việc ở Phần Lan. Hãy dùng mỗi tuần." },
+        { "vi": "Tình hình thế nào?", "when_to_use_vi": "Câu mở đầu tiêu chuẩn. Hãy chờ một câu trả lời thật, ngắn." },
+        { "vi": "Cuối tuần thế nào?", "when_to_use_vi": "Mỗi thứ Hai, với tất cả mọi người. Hãy chuẩn bị sẵn câu trả lời của bạn." },
+        { "vi": "Tuần này bạn có bận không?", "when_to_use_vi": "Vừa là chuyện phiếm vừa là thông tin hữu ích về khả năng nhận việc của họ." },
+        { "vi": "Bạn nghỉ phép khi nào?", "when_to_use_vi": "Một câu hỏi ấm áp ở đây, và thật sự hữu ích cho việc lên kế hoạch." },
+        { "vi": "Mai tôi làm từ xa.", "when_to_use_vi": "Được nói liên tục. Hãy nhắc để mọi người biết bạn ở đâu." },
+        { "vi": "Dự án đó tiến triển thế nào?", "when_to_use_vi": "Chuyện công việc ở phòng cà phê. Thường thật thà hơn cuộc họp báo cáo." },
+        { "vi": "Bạn đi ăn trưa không?", "when_to_use_vi": "Bữa trưa ở đây là 11–12 giờ. Hãy rủ ai đó thay vì ăn trước màn hình." },
+        { "vi": "Tôi đi lấy cà phê — bạn có muốn không?", "when_to_use_vi": "Nhỏ mà hiệu quả. Nó mở ra nhiều cuộc trò chuyện hơn bất cứ thứ gì khác." },
+        { "vi": "Bạn có đi tiệc Giáng sinh không?", "when_to_use_vi": "Một định chế thật. Đi một lần là bạn biết tất cả mọi người." },
+        { "vi": "Bạn có rảnh một chút không? Tôi có một câu hỏi.", "when_to_use_vi": "Phòng cà phê là chỗ đúng cho câu hỏi mà bạn sẽ do dự nếu phải gửi email." },
+        { "vi": "Thôi, quay lại làm việc.", "when_to_use_vi": "Cách một giờ nghỉ cà phê kiểu Phần Lan kết thúc. Mọi người đứng lên cùng lúc." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Giờ nghỉ cà phê 9:30",
+          "setting_vi": "Bếp văn phòng. Bốn người, mười lăm phút, và một vấn đề được giải quyết âm thầm.",
+          "note_vi": "Để ý vấn đề của dự án nổi lên ở đây, không phải trong cuộc họp. Đó là lý do giờ nghỉ quan trọng.",
+          "lines": [
+            { "vi": "Chào bạn! Tôi đi lấy cà phê — bạn có muốn không?" },
+            { "vi": "Ừ cảm ơn! Không sữa nhé." },
+            { "vi": "Đây. Nào, cuối tuần thế nào?" },
+            { "vi": "Cũng ổn, nhà tôi đi nhà gỗ. Còn bạn?" },
+            { "vi": "Yên tĩnh. Tuần này bạn có bận không?" },
+            { "vi": "Khá bận. Cái dự án khách hàng đó chiếm hết thời gian." },
+            { "vi": "Nó tiến triển thế nào?" },
+            { "vi": "Thì… nói thật, tiến độ không giữ được. Bọn mình chậm một tuần." },
+            { "vi": "Ồ thế à. Chuyện đó đã nói với khách hàng chưa?" },
+            { "vi": "Chưa. Tôi đang nghĩ nên nói thế nào." },
+            { "vi": "Tôi giúp được việc đó, nếu bạn muốn. Tôi từng làm chuyện này rồi." },
+            { "vi": "Thật á? Thế thì tốt quá. Hôm nay mình xem nhé?" },
+            { "vi": "Ừ, đặt lịch một giờ ba mươi đi." },
+            { "vi": "Cảm ơn bạn! Thôi, quay lại làm việc." }
+          ]
+        },
+        {
+          "title_vi": "Những đoạn trao đổi ngắn trong một tuần",
+          "setting_vi": "Bốn khoảnh khắc ngắn ở bếp. Đây là cách bạn trở thành một phần của đội.",
+          "note_vi": "Không đoạn nào dài hơn ba dòng. Cộng lại chúng là tất cả.",
+          "lines": [
+            { "vi": "Chào Duc! Tình hình thế nào?" },
+            { "vi": "Tốt, cảm ơn. Hơi bận, nhưng vẫn ổn. Còn bạn?" },
+            { "vi": "Giống thế. Mười một giờ ba mươi bạn đi ăn trưa không?" },
+            { "vi": "Ừ, tôi đi." },
+            { "vi": "Này, mai tôi làm từ xa. Nếu cần tôi thì nhắn Slack nhé." },
+            { "vi": "Vâng, cảm ơn bạn đã nói." },
+            { "vi": "Bạn có rảnh một chút không? Tôi có câu hỏi về bản báo cáo đó." },
+            { "vi": "Ừ, bạn nói đi." },
+            { "vi": "Bạn nghỉ hè khi nào?" },
+            { "vi": "Tháng Bảy, cả tháng. Như mọi người." },
+            { "vi": "Haha, đúng. Vậy tháng Bảy mình chẳng làm gì cả." },
+            { "vi": "Chính xác. Chào mừng đến Phần Lan!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Dùng giờ nghỉ cà phê cho đúng",
+          "scenario_vi": "Mời cà phê, làm phần chuyện phiếm, và để một vấn đề công việc thật nổi lên.",
+          "your_role_vi": "Bạn, trong bếp văn phòng",
+          "partner_role_vi": "Anni, một đồng nghiệp",
+          "turns": [
+            { "vi": "Chào bạn! Tôi đi lấy cà phê — bạn có muốn không?", "hint_vi": "Nhỏ mà hiệu quả. Nó mở ra nhiều cuộc trò chuyện hơn bất cứ gì khác." },
+            { "vi": "Ừ cảm ơn! Không sữa nhé." },
+            { "vi": "Đây. Nào, cuối tuần thế nào?", "hint_vi": "Mỗi thứ Hai. Hãy chuẩn bị sẵn câu trả lời của bạn nữa." },
+            { "vi": "Cũng ổn, nhà tôi đi nhà gỗ. Còn bạn?" },
+            { "vi": "Yên tĩnh. Tuần này bạn có bận không?", "hint_vi": "Vừa là chuyện phiếm vừa là thông tin về khả năng nhận việc của họ." },
+            { "vi": "Khá bận. Cái dự án khách hàng đó chiếm hết thời gian." },
+            { "vi": "Nó tiến triển thế nào?", "hint_vi": "Bản ở phòng cà phê thường thật thà hơn cuộc họp báo cáo." },
+            { "vi": "Nói thật, tiến độ không giữ được. Bọn mình chậm một tuần." },
+            { "vi": "Chuyện đó đã nói với khách hàng chưa?", "hint_vi": "Một câu hỏi hữu ích, hỏi ở nơi dễ trả lời thật." },
+            { "vi": "Chưa. Tôi đang nghĩ nên nói thế nào." },
+            { "vi": "Tôi giúp được việc đó, nếu bạn muốn.", "hint_vi": "Đây là cách ảnh hưởng thật sự vận hành trong một công ty Phần Lan." }
+          ]
+        }
+      ]
+    },
+    "introducing-yourself": {
+      "lesson": {
+        "title_vi": "Giới thiệu bản thân và công ty",
+        "subtitle_vi": "Me autetaan yrityksiä…",
+        "warmup_situation_vi": "Có người hỏi công ty bạn làm gì. Bằng tiếng Anh bạn có một câu trả lời chín mươi giây đã được gọt kỹ. Bằng tiếng Phần Lan bạn có khoảng mười một từ và tất cả đều là danh từ.",
+        "warmup_question_vi": "Một bài giới thiệu công ty bằng tiếng Phần Lan có thể ngắn đến mức nào — và điều gì làm nó đáp xuống?",
+        "rescue_vi": "Nói đơn giản thì: chúng tôi giúp các công ty tiết kiệm thời gian.",
+        "rescue_note_vi": "Người nghe trong giới doanh nghiệp Phần Lan đánh giá cao sự ngắn gọn và lợi ích cụ thể hơn là những tuyên ngôn về tầm nhìn. Một câu nêu bạn giúp ai và điều gì thay đổi cho họ là một câu trả lời trọn vẹn và được tôn trọng — và «yksinkertaisesti sanottuna» báo hiệu rằng bạn sắp nói rõ ràng, điều mà người ta trân trọng."
+      },
+      "vocab": [
+        { "vi": "công ty" }, { "vi": "công ty (thân mật)" }, { "vi": "ngành, lĩnh vực" },
+        { "vi": "khách hàng" }, { "vi": "tập khách hàng" }, { "vi": "dịch vụ" }, { "vi": "sản phẩm" },
+        { "vi": "giải pháp" },
+        { "vi": "giúp", "note_vi": "«Me autetaan yrityksiä…» là câu mở đầu về công ty, chuẩn và mộc mạc." },
+        { "vi": "tiết kiệm", "note_vi": "Thời gian hoặc tiền. Cả hai đều đáp xuống tốt trong một bài giới thiệu ở Phần Lan." },
+        { "vi": "làm cho hiệu quả hơn" }, { "vi": "phát triển" }, { "vi": "cung cấp, giao" },
+        { "vi": "được thành lập", "note_vi": "«Firma on perustettu 2015» — một dữ kiện cụ thể và đáng nêu." },
+        { "vi": "người lao động, nhân viên" },
+        { "vi": "chúng tôi có… người", "note_vi": "«Meitä on kakskymmentä» = chúng tôi có hai mươi người. Cách diễn đạt tự nhiên." },
+        { "vi": "chi nhánh, địa điểm" }, { "vi": "trụ sở chính" },
+        { "vi": "tôi chịu trách nhiệm về", "note_vi": "«Mä vastaan myynnistä» = tôi phụ trách bán hàng." },
+        { "vi": "chức danh", "note_vi": "Người Phần Lan hạ thấp chuyện này. Hãy mô tả việc bạn làm thay vì chức danh." },
+        { "vi": "vai trò của tôi" },
+        { "vi": "trên thực tế", "note_vi": "«Käytännössä mä…» — cách người Phần Lan giải thích bỏ qua chức danh." },
+        { "vi": "lợi ích" },
+        { "vi": "cụ thể", "note_vi": "Phẩm chất được coi trọng nhất trong một bài giới thiệu ở Phần Lan." },
+        { "vi": "ví dụ", "note_vi": "Luôn chuẩn bị sẵn một cái. Nó làm được nhiều hơn mọi tính từ." },
+        { "vi": "trường hợp tham chiếu" }, { "vi": "nói đơn giản thì" }, { "vi": "ngắn gọn" }, { "vi": "danh thiếp" }
+      ],
+      "phrases": [
+        { "vi": "Tôi là Duc, tôi phụ trách phát triển sản phẩm.", "when_to_use_vi": "Tên cộng trách nhiệm. Người Phần Lan bỏ qua chức danh." },
+        { "vi": "Trên thực tế tôi làm…", "when_to_use_vi": "Cách người Phần Lan bỏ qua chức danh. Nói tiếp việc bạn thật sự làm." },
+        { "vi": "Chúng tôi giúp các công ty tiết kiệm thời gian.", "when_to_use_vi": "Câu về công ty mộc mạc và được tôn trọng. Giúp ai, thay đổi gì." },
+        { "vi": "Nói đơn giản thì…", "when_to_use_vi": "Báo hiệu sự rõ ràng đang tới. Người nghe Phần Lan trân trọng điều đó." },
+        { "vi": "Chúng tôi có hai mươi người, và công ty thành lập năm 2015.", "when_to_use_vi": "Hai dữ kiện cụ thể. Đáng giá hơn mọi lời mô tả." },
+        { "vi": "Khách hàng của chúng tôi chủ yếu trong ngành công nghiệp.", "when_to_use_vi": "Nêu ngành giúp người nghe Phần Lan định vị ngay lập tức." },
+        { "vi": "Tôi đưa ra một ví dụ.", "when_to_use_vi": "Luôn chuẩn bị sẵn một cái. Nó làm nhiều việc hơn mọi tính từ." },
+        { "vi": "Một khách hàng đã tiết kiệm được ba mươi phần trăm thời gian.", "when_to_use_vi": "Trong văn hoá này một con số luôn hơn một tính từ." },
+        { "vi": "Tôi làm ở công ty ba năm rồi.", "when_to_use_vi": "Cụ thể và dễ. Một điều bình thường để nhắc đến." },
+        { "vi": "Chúng tôi làm việc chủ yếu ở Phần Lan và Thuỵ Điển.", "when_to_use_vi": "Phạm vi địa lý. Hữu ích, và nói nhanh." },
+        { "vi": "Các anh chị làm gì ạ?", "when_to_use_vi": "Hãy hỏi lại. Hội thoại ở Phần Lan là có đi có lại." },
+        { "vi": "Đây là danh thiếp của tôi.", "when_to_use_vi": "Vẫn được dùng, dù LinkedIn phần lớn đã thay thế nó." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Giải thích công ty của bạn trong bốn câu",
+          "setting_vi": "Phòng họp của một khách hàng. Duc nói ngắn và cụ thể.",
+          "note_vi": "Giúp ai, thay đổi gì, một con số, một ví dụ. Đó là toàn bộ bài giới thiệu.",
+          "lines": [
+            { "vi": "Nào, anh kể một chút về công ty của anh đi." },
+            { "vi": "Vâng. Nói đơn giản thì: chúng tôi giúp các công ty tiết kiệm thời gian trong việc làm báo cáo." },
+            { "vi": "Vâng. Bằng cách nào?" },
+            { "vi": "Chúng tôi tự động hoá phần việc hiện đang làm bằng tay trên Excel." },
+            { "vi": "À. Anh có ví dụ không?" },
+            { "vi": "Có. Một khách hàng — cùng ngành với các anh — đã tiết kiệm ba mươi phần trăm thời gian trong nửa năm đầu." },
+            { "vi": "Thế là khá nhiều. Công ty anh lớn cỡ nào?" },
+            { "vi": "Chúng tôi có hai mươi người, công ty thành lập năm 2015. Khách hàng chủ yếu ở Phần Lan và Thuỵ Điển." },
+            { "vi": "Và vai trò của anh là gì?" },
+            { "vi": "Tôi phụ trách phát triển sản phẩm. Trên thực tế tôi là người quyết định chúng tôi sẽ làm gì tiếp theo." },
+            { "vi": "Biết vậy hay. Vậy anh là người đúng trong cuộc trò chuyện này." },
+            { "vi": "Hy vọng vậy. Còn các anh — hiện nay các anh làm báo cáo thế nào?" }
+          ]
+        },
+        {
+          "title_vi": "Bản ở hành lang",
+          "setting_vi": "Hai mươi giây, đứng nói, không có slide nào.",
+          "note_vi": "Cùng bài giới thiệu đó nén xuống ba câu. Hãy luyện bản này trước.",
+          "lines": [
+            { "vi": "Chào bạn, mình là Sanna. Bạn làm gì?" },
+            { "vi": "Chào bạn! Duc. Chúng tôi giúp các công ty tiết kiệm thời gian làm báo cáo." },
+            { "vi": "Ồ thế à. Bằng cách nào?" },
+            { "vi": "Tự động hoá phần hiện đang làm bằng tay trên Excel." },
+            { "vi": "Nghe hữu ích đấy. Khách hàng của bạn là những ai?" },
+            { "vi": "Chủ yếu là các công ty công nghiệp. Còn bạn, bạn làm gì?" },
+            { "vi": "Mình là controller. Tức là mình làm đúng cái việc báo cáo bằng tay đó." },
+            { "vi": "Haha, vậy thì hai bên nên nói chuyện. Giữ liên lạc nhé?" },
+            { "vi": "Ừ, nhắn mình trên LinkedIn." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Giới thiệu công ty trong bốn câu",
+          "scenario_vi": "Giúp ai, bằng cách nào, một con số, và vai trò của bạn — rồi hỏi lại.",
+          "your_role_vi": "Bạn, trong một cuộc họp khách hàng",
+          "partner_role_vi": "Một khách hàng tiềm năng",
+          "turns": [
+            { "vi": "Anh kể một chút về công ty của anh đi." },
+            { "vi": "Nói đơn giản thì: chúng tôi giúp các công ty tiết kiệm thời gian làm báo cáo.", "hint_vi": "Một câu. Giúp ai, điều gì thay đổi cho họ." },
+            { "vi": "Vâng. Bằng cách nào?" },
+            { "vi": "Chúng tôi tự động hoá phần việc hiện đang làm bằng tay.", "hint_vi": "Cơ chế cụ thể, không dùng thuật ngữ rối rắm." },
+            { "vi": "Anh có ví dụ không?" },
+            { "vi": "Một khách hàng đã tiết kiệm ba mươi phần trăm thời gian trong nửa năm.", "hint_vi": "Trong văn hoá này một con số luôn hơn một tính từ." },
+            { "vi": "Công ty anh lớn cỡ nào?" },
+            { "vi": "Chúng tôi có hai mươi người, công ty thành lập năm 2015.", "hint_vi": "Hai dữ kiện cụ thể. Đáng giá hơn mọi lời mô tả." },
+            { "vi": "Và vai trò của anh là gì?" },
+            { "vi": "Tôi phụ trách phát triển sản phẩm. Còn các anh — hiện nay làm báo cáo thế nào?", "hint_vi": "Trả lời, rồi đẩy lại. Hội thoại Phần Lan là có đi có lại." }
+          ]
+        }
+      ]
+    },
+    "meetings": {
+      "lesson": {
+        "title_vi": "Họp",
+        "subtitle_vi": "Mở đầu, đồng ý, phản đối một cách lịch sự",
+        "warmup_situation_vi": "Một cuộc họp sáu người. Không ai chủ trì rõ ràng, không ai diễn, và có những khoảng lặng dài mà bạn cứ muốn lấp vào. Bạn có quan điểm khác về quyết định chính và không biết nói ra thế nào.",
+        "warmup_question_vi": "Người Phần Lan phản đối trong cuộc họp thế nào — và những khoảng lặng đó nghĩa là gì?",
+        "rescue_vi": "Tôi nhìn chuyện này hơi khác.",
+        "rescue_note_vi": "Hoàn toàn trung tính trong một cuộc họp Phần Lan, và nó mở ra chứ không làm căng lên. Không ai coi đó là chuyện cá nhân, không ai bảo vệ cái tôi, và cả nhóm sẽ thật sự muốn nghe bạn nhìn khác ở chỗ nào. Hãy nói câu đó rồi nói lý do trong hai câu."
+      },
+      "vocab": [
+        { "vi": "cuộc họp" }, { "vi": "cuộc họp chính thức" }, { "vi": "chương trình họp" }, { "vi": "danh mục vấn đề" },
+        { "vi": "người chủ trì", "note_vi": "Thường chỉ trên danh nghĩa. Họp ở Phần Lan phẳng và ít ai cắt ngang." },
+        { "vi": "mình bắt đầu nhé" }, { "vi": "mình đi qua từng phần nhé" }, { "vi": "mục tiếp theo" },
+        { "vi": "quyết định" }, { "vi": "mình quyết nhé" }, { "vi": "mình thống nhất nhé" },
+        { "vi": "đề xuất" }, { "vi": "đề xuất (động từ)" }, { "vi": "ý kiến, nhận xét" }, { "vi": "cùng ý kiến" },
+        { "vi": "khác ý kiến", "note_vi": "Hoàn toàn trung tính ở đây. Không hề mang tính đối đầu." },
+        { "vi": "tôi nhìn chuyện này khác" },
+        { "vi": "lý lẽ, căn cứ", "note_vi": "Được mong đợi. Hãy nêu lý do, không chỉ nêu quan điểm." },
+        { "vi": "rủi ro" }, { "vi": "điều lo ngại" }, { "vi": "phương án khác" }, { "vi": "sự nhượng bộ, thoả hiệp" },
+        { "vi": "sự im lặng", "note_vi": "Trong cuộc họp nó nghĩa là đang suy nghĩ, không phải phản đối. Hãy để nó diễn ra." },
+        { "vi": "suy nghĩ" },
+        { "vi": "mình quay lại chuyện này sau", "note_vi": "Cách chuẩn để gác lại một mục chưa giải quyết." },
+        { "vi": "người chịu trách nhiệm" }, { "vi": "việc cần làm" }, { "vi": "tiến độ, khung thời gian" },
+        { "vi": "bản tóm tắt" }, { "vi": "biên bản họp" }
+      ],
+      "phrases": [
+        { "vi": "Tôi nhìn chuyện này hơi khác.", "when_to_use_vi": "Hoàn toàn trung tính. Nó mở ra thảo luận chứ không làm căng lên." },
+        { "vi": "Tôi đồng ý, nhưng có một điều lo ngại.", "when_to_use_vi": "Đồng ý kèm một điểm dè dặt. Cấu trúc rất thường gặp ở đây." },
+        { "vi": "Tôi hỏi một chuyện được không?", "when_to_use_vi": "Một cách vào cuộc lịch sự. Không ai từ chối." },
+        { "vi": "Tôi xin đề xuất là…", "when_to_use_vi": "Thể điều kiện làm mềm vừa đủ. Tiếng Phần Lan họp chuẩn mực." },
+        { "vi": "Căn cứ cho điều đó là gì?", "when_to_use_vi": "Một câu hỏi hoàn toàn bình thường, không phải thách thức. Hãy chờ câu trả lời thật." },
+        { "vi": "Điều tôi lo là…", "when_to_use_vi": "Đóng khung một phản đối thành một điều lo ngại làm nó dễ được xử lý." },
+        { "vi": "Ở đây có rủi ro không?", "when_to_use_vi": "Người Phần Lan phản ứng tốt với cách nói về rủi ro. Nó thực tế, không tiêu cực." },
+        { "vi": "Tôi cần một chút thời gian để nghĩ.", "when_to_use_vi": "Hoàn toàn chấp nhận được. Khoảng lặng sau đó là bình thường." },
+        { "vi": "Mình quay lại chuyện này tuần sau nhé?", "when_to_use_vi": "Cách chuẩn để gác lại một việc chưa giải quyết." },
+        { "vi": "Tức là mình đã thống nhất là tôi làm xong trước thứ Sáu?", "when_to_use_vi": "Hãy xác nhận việc của chính bạn bằng lời. Luôn luôn." },
+        { "vi": "Ai nhận việc này?", "when_to_use_vi": "Chỉ định người phụ trách trước khi họp kết thúc. Tiết kiệm một tuần." },
+        { "vi": "Mình tóm tắt lại nhé?", "when_to_use_vi": "Hai phút cuối. Đó là cách các quyết định thật sự dính lại." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Phản đối cho đúng cách",
+          "setting_vi": "Một cuộc họp dự án. Duc có quan điểm khác và nói ra.",
+          "note_vi": "Quan điểm, lý lẽ, phương án khác. Rồi để sự im lặng làm việc của nó.",
+          "lines": [
+            { "vi": "Nào, mình xem tiến độ. Tôi xin đề xuất là ra mắt vào tháng Ba." },
+            { "vi": "Nghe hay đấy. Tôi đồng ý." },
+            { "vi": "Tôi nhìn chuyện này hơi khác." },
+            { "vi": "Ừ, bạn nói đi." },
+            { "vi": "Điều tôi lo là phần kiểm thử sẽ chưa xong vào tháng Ba. Mình đã chậm một tuần rồi." },
+            { "vi": "…", "note_vi": "Tám giây im lặng. Đây là mọi người đang suy nghĩ, không phải phản đối." },
+            { "vi": "Đó là một điểm hay. Bạn đề xuất thế nào?" },
+            { "vi": "Đầu tháng Tư. Thêm hai tuần, và rủi ro giảm đi nhiều." },
+            { "vi": "Tôi đồng ý, nhưng có một điều lo: mình đã nói tháng Ba với khách hàng." },
+            { "vi": "Đúng. Tôi có thể gọi cho khách hàng và trình bày, nếu như thế giúp được." },
+            { "vi": "Thế thì giúp được. Mình thống nhất thế này nhé: đầu tháng Tư, và Duc gọi cho khách hàng tuần này?" },
+            { "vi": "Tức là mình đã thống nhất là tôi gọi trước thứ Sáu?" },
+            { "vi": "Chính xác. Ghi vào biên bản nhé." }
+          ]
+        },
+        {
+          "title_vi": "Kết thúc một cuộc họp cho đúng",
+          "setting_vi": "Ba phút cuối. Người phụ trách và ngày tháng, nói ra bằng lời.",
+          "note_vi": "Hai phút tóm tắt là thứ làm cho bốn mươi phút trước đó có giá trị.",
+          "lines": [
+            { "vi": "Mình còn năm phút. Mình tóm tắt lại nhé?" },
+            { "vi": "Ừ, tốt. Ba quyết định, đúng không?" },
+            { "vi": "Đúng. Một: ra mắt vào đầu tháng Tư." },
+            { "vi": "Hai: tôi gọi cho khách hàng trước thứ Sáu." },
+            { "vi": "Và ba: kế hoạch kiểm thử trước thứ Tư tuần sau. Tôi nhận việc đó." },
+            { "vi": "Tốt. Còn gì chưa giải quyết không?" },
+            { "vi": "Cái câu hỏi về ngân sách. Mình quay lại chuyện đó tuần sau nhé?" },
+            { "vi": "Ừ, đưa nó vào chương trình họp tuần sau." },
+            { "vi": "Vâng. Cảm ơn mọi người!" },
+            { "vi": "Cảm ơn. Tôi đăng biên bản lên Slack hôm nay." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Phản đối, đề xuất, và xác nhận việc của bạn",
+          "scenario_vi": "Nêu quan điểm khác kèm lý lẽ, đưa ra phương án khác, và xác nhận việc bạn nhận.",
+          "your_role_vi": "Bạn, trong một cuộc họp dự án",
+          "partner_role_vi": "Anni, người dẫn thảo luận",
+          "turns": [
+            { "vi": "Tôi xin đề xuất là ra mắt vào tháng Ba." },
+            { "vi": "Tôi nhìn chuyện này hơi khác.", "hint_vi": "Hoàn toàn trung tính ở đây. Nó mở ra chứ không làm căng lên." },
+            { "vi": "Ừ, bạn nói đi." },
+            { "vi": "Điều tôi lo là phần kiểm thử sẽ chưa xong vào tháng Ba.", "hint_vi": "Đóng khung thành điều lo ngại kèm lý do. Đừng chỉ nêu quan điểm." },
+            { "vi": "…Đó là một điểm hay. Bạn đề xuất thế nào?" },
+            { "vi": "Đầu tháng Tư. Thêm hai tuần, và rủi ro giảm nhiều.", "hint_vi": "Luôn mang theo một phương án, không chỉ một lời phản đối." },
+            { "vi": "Nhưng mình đã nói tháng Ba với khách hàng." },
+            { "vi": "Đúng. Tôi có thể gọi cho khách hàng và trình bày, nếu như thế giúp được.", "hint_vi": "Nhận lấy hệ quả của đề xuất của chính bạn. Đó là điều làm nó đáp xuống." },
+            { "vi": "Thế thì giúp được. Mình thống nhất thế nhé?" },
+            { "vi": "Tức là mình đã thống nhất là tôi gọi trước thứ Sáu?", "hint_vi": "Xác nhận việc của chính bạn bằng lời. Luôn luôn." }
+          ]
+        }
+      ]
+    }
+  }
+}

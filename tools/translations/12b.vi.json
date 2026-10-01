@@ -1,0 +1,310 @@
+{
+  "lessons": {
+    "following-a-meeting": {
+      "lesson": {
+        "title_vi": "Theo một cuộc họp chuyển sang tiếng Phần Lan",
+        "subtitle_vi": "Bắt được quyết định và việc cần làm",
+        "warmup_situation_vi": "Cuộc họp diễn ra bằng tiếng Anh vì bạn. Rồi hai người đi vào chi tiết và chuyển sang tiếng Phần Lan, và bốn người còn lại theo họ. Hai mươi phút sau cuộc họp kết thúc và có gì đó hình như đã được quyết.",
+        "warmup_question_vi": "Bạn lắng nghe để tìm gì — và khi nào thì lên tiếng?",
+        "rescue_vi": "Xin lỗi, tôi bị tụt lại. Mình đã quyết gì ạ?",
+        "rescue_note_vi": "Hãy hỏi trước khi cuộc họp kết thúc, không phải sau. «Mitä päätettiin» là câu hỏi giá trị nhất trong chương này: bạn nhận được quyết định, người phụ trách và thời hạn trong một câu trả lời, và không ai phiền vì một nửa phòng cũng chẳng chắc chắn."
+      },
+      "vocab": [
+        { "vi": "quyết định (động từ)" },
+        { "vi": "đã quyết gì", "note_vi": "Câu hỏi giá trị nhất trong một cuộc họp Phần Lan." },
+        { "vi": "quyết định" },
+        { "vi": "đã được thống nhất", "note_vi": "Hãy nghe từ này. Mọi thứ sau nó là có tính ràng buộc." },
+        { "vi": "việc cần làm" }, { "vi": "trách nhiệm" }, { "vi": "ai làm" },
+        { "vi": "trước khi nào", "note_vi": "Ba thứ bạn phải bắt được: cái gì, ai, trước khi nào." },
+        { "vi": "các bước tiếp theo" }, { "vi": "còn bỏ ngỏ" }, { "vi": "mình sẽ quay lại chuyện đó" },
+        { "vi": "biên bản họp", "note_vi": "Hãy xin nó. Tiếng Phần Lan viết dễ hơn tiếng nói rất nhiều." },
+        { "vi": "bị tụt lại, mất mạch", "note_vi": "Nghĩa đen là «rơi khỏi xe». Thành ngữ và làm dịu không khí." },
+        { "vi": "tôi không theo kịp" }, { "vi": "tóm tắt lại" }, { "vi": "ngắn gọn" }, { "vi": "sự nhắc lại, ôn lại" },
+        { "vi": "đổi ngôn ngữ" }, { "vi": "bằng tiếng Anh" }, { "vi": "bằng tiếng Phần Lan" },
+        { "vi": "từ khoá", "note_vi": "Hãy nghe tên người, con số, ngày tháng và chữ «sovittiin». Bỏ qua phần còn lại." },
+        { "vi": "con số" }, { "vi": "ngày tháng" }, { "vi": "tên" },
+        { "vi": "ghi lại", "note_vi": "Chỉ ghi chú tên người và ngày tháng. Cố theo hết mọi thứ là thất bại." },
+        { "vi": "kiểm tra lại sau" },
+        { "vi": "chuyện này có liên quan đến tôi không", "note_vi": "Câu hỏi hiệu quả nhất có thể. Hãy hỏi thẳng." },
+        { "vi": "là đủ" }, { "vi": "sự làm rõ" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, tôi bị tụt lại. Mình đã quyết gì ạ?", "when_to_use_vi": "Trước khi họp kết thúc, không phải sau. Nửa phòng cũng chẳng chắc." },
+        { "vi": "Bạn tóm tắt ngắn gọn giúp được không?", "when_to_use_vi": "Xin bản tóm tắt thay vì nhắc lại. Hữu ích hơn nhiều." },
+        { "vi": "Chuyện này có liên quan đến tôi không?", "when_to_use_vi": "Câu hỏi hiệu quả nhất trong chương này. Hãy hỏi thẳng." },
+        { "vi": "Ai làm việc đó, và trước khi nào?", "when_to_use_vi": "Hai thứ quan trọng sau một quyết định. Hãy hỏi cùng lúc." },
+        { "vi": "Tôi có việc gì cần làm từ chuyện này không?", "when_to_use_vi": "Giúp xác nhận việc của chính bạn bằng lời." },
+        { "vi": "Cái đó đã được quyết chưa, hay mình sẽ quay lại nó?", "when_to_use_vi": "Phân biệt một quyết định với một cuộc thảo luận. Thật sự hữu ích." },
+        { "vi": "Tôi xin biên bản họp được không?", "when_to_use_vi": "Tiếng Phần Lan viết dễ hơn tiếng nói rất nhiều. Luôn xin." },
+        { "vi": "Tôi ghi lại cái này, chờ một chút.", "when_to_use_vi": "Làm cả phòng chậm lại năm giây và không ai phiền chút nào." },
+        { "vi": "Mục này mình nói tiếp bằng tiếng Anh được không?", "when_to_use_vi": "Xin cho phần liên quan đến bạn. Thường được đồng ý ngay." },
+        { "vi": "Tôi hiểu là… có đúng không ạ?", "when_to_use_vi": "Nêu cách hiểu của bạn thay vì hỏi một câu mở." },
+        { "vi": "Bạn kể lại cho tôi sau được không?", "when_to_use_vi": "Cho những chi tiết không cần cả phòng. Hiệu quả và lịch sự." },
+        { "vi": "Cảm ơn, giờ tôi đã nắm được.", "when_to_use_vi": "Xác nhận bạn đã hiểu. «Olla kartalla» — ở trên bản đồ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cú chuyển ngôn ngữ, và cách gỡ lại",
+          "setting_vi": "Một cuộc họp đã chuyển sang tiếng Phần Lan từ hai mươi phút trước.",
+          "note_vi": "Anh hỏi trước khi cuộc họp kết thúc. Thời điểm đó là toàn bộ vấn đề.",
+          "lines": [
+            { "vi": "…tức là đã thống nhất là Jussi lo phần tích hợp và tôi nói với khách hàng tuần sau." },
+            { "vi": "Tốt. Còn gì nữa không?" },
+            { "vi": "Xin lỗi, tôi bị tụt lại ở quãng giữa. Mình đã quyết gì ạ?" },
+            { "vi": "Không sao. Hai việc: Jussi làm phần tích hợp, và tôi gọi cho khách hàng." },
+            { "vi": "Vâng. Trước khi nào?" },
+            { "vi": "Tích hợp trước thứ Sáu tuần sau, cuộc gọi khách hàng đầu tuần sau." },
+            { "vi": "Tôi ghi lại cái này, chờ một chút. …Chuyện này có liên quan đến tôi không?" },
+            { "vi": "Có, một việc: Jussi cần thông tin giao diện từ bạn trước khi bắt đầu được." },
+            { "vi": "À, may mà tôi hỏi. Anh ấy cần nó trước khi nào?" },
+            { "vi": "Trước thứ Tư thì tốt." },
+            { "vi": "Vâng, tôi gửi thứ Ba. Tức là tôi hiểu là tôi gửi thông tin giao diện vào thứ Ba — có đúng không?" },
+            { "vi": "Chính xác. Cảm ơn!" },
+            { "vi": "Cảm ơn, giờ tôi đã nắm được. Và tôi xin biên bản họp được không?" },
+            { "vi": "Tôi đăng lên Slack hôm nay. Và lần sau cứ nói ngay nếu bọn mình chuyển sang tiếng Phần Lan quá nhanh." }
+          ]
+        },
+        {
+          "title_vi": "Xin một mục bằng tiếng Anh",
+          "setting_vi": "Đúng cái mục liên quan đến anh. Anh chỉ xin phần đó.",
+          "note_vi": "Xin một mục thay vì cả cuộc họp gần như luôn được đồng ý.",
+          "lines": [
+            { "vi": "Mục tiếp theo là ngân sách. Duc, cái này liên quan đến bạn." },
+            { "vi": "Tốt. Mục này mình nói tiếp bằng tiếng Anh được không? Tôi muốn chắc là hiểu đúng các con số." },
+            { "vi": "Tất nhiên rồi, ý hay đấy." },
+            { "vi": "Cảm ơn. …Được rồi, giờ tôi hiểu. Tức là ngân sách là 40 000 và phải dùng hết trước cuối tháng Sáu?" },
+            { "vi": "Chính xác." },
+            { "vi": "Tôi có việc gì cần làm từ chuyện này không?" },
+            { "vi": "Có, làm một bản dự toán trước tuần sau." },
+            { "vi": "Vâng. Và các mục còn lại các bạn cứ nói tiếng Phần Lan — tôi hỏi sau nếu có gì." },
+            { "vi": "Cảm ơn bạn linh hoạt. Đằng nào tôi cũng gửi biên bản." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Gỡ lại một cuộc họp bạn đã mất mạch",
+          "scenario_vi": "Hỏi đã quyết gì, lấy được ai và trước khi nào, và xác nhận việc của chính bạn.",
+          "your_role_vi": "Bạn, tụt lại hai mươi phút",
+          "partner_role_vi": "Anni và Jussi",
+          "turns": [
+            { "vi": "…tức là thống nhất thế. Còn gì nữa không?" },
+            { "vi": "Xin lỗi, tôi bị tụt lại. Mình đã quyết gì ạ?", "hint_vi": "Hỏi trước khi họp kết thúc. Nửa phòng cũng chẳng chắc chắn." },
+            { "vi": "Jussi làm phần tích hợp, và tôi gọi cho khách hàng." },
+            { "vi": "Vâng. Trước khi nào?", "hint_vi": "Cái gì, ai, trước khi nào. Đó là ba thứ cần bắt." },
+            { "vi": "Tích hợp trước thứ Sáu tuần sau." },
+            { "vi": "Tôi ghi lại. Chuyện này có liên quan đến tôi không?", "hint_vi": "Câu hỏi hiệu quả nhất trong chương này. Hãy hỏi thẳng." },
+            { "vi": "Có, tôi cần thông tin giao diện từ bạn." },
+            { "vi": "Bạn cần nó trước khi nào?", "hint_vi": "Đừng bao giờ để một việc cần làm mà không có ngày." },
+            { "vi": "Trước thứ Tư." },
+            { "vi": "Tức là tôi hiểu là tôi gửi chúng vào thứ Ba — có đúng không?", "hint_vi": "Nêu cách hiểu của bạn thay vì hỏi một câu mở." },
+            { "vi": "Chính xác." },
+            { "vi": "Cảm ơn, giờ tôi đã nắm được. Tôi xin biên bản họp được không?", "hint_vi": "Tiếng Phần Lan viết dễ hơn tiếng nói rất nhiều. Luôn xin." }
+          ]
+        }
+      ]
+    },
+    "scheduling": {
+      "lesson": {
+        "title_vi": "Sắp xếp lịch và theo dõi tiếp",
+        "subtitle_vi": "Sovitaanks palaveri ensi viikolle? Palataan tähän.",
+        "warmup_situation_vi": "Một cuộc trò chuyện đang kết thúc và rõ ràng có việc gì cần làm tiếp, nhưng chưa ai nói ai làm hay khi nào. Ba tuần nữa sẽ có người hỏi việc đó ra sao rồi.",
+        "warmup_question_vi": "Câu nào ngăn được chuyện đó — và người Phần Lan thật sự đặt lịch thế nào?",
+        "rescue_vi": "Mình đưa cái này vào lịch nhé, để nó không bị quên?",
+        "rescue_note_vi": "Văn hoá làm việc Phần Lan chạy bằng lịch, không chạy bằng việc ghi nhớ. Đề xuất đặt lịch ở đây không bao giờ bị coi là thúc ép — đó là hành động có trách nhiệm, và người kia thường sẽ thấy nhẹ người vì bạn đã nói ra."
+      },
+      "vocab": [
+        { "vi": "lịch (calendar)", "note_vi": "Thiêng liêng. Nếu nó không có trong lịch thì nó không diễn ra." },
+        { "vi": "lời mời trên lịch" }, { "vi": "đặt một khung giờ" }, { "vi": "hẹn một cuộc họp" },
+        { "vi": "đề xuất một giờ" }, { "vi": "có phù hợp không" }, { "vi": "có được không" },
+        { "vi": "rảnh" }, { "vi": "kín lịch, đã có hẹn" },
+        { "vi": "trùng lịch", "note_vi": "«Mulla on päällekkäin» = tôi bị trùng lịch." },
+        { "vi": "dời lại" }, { "vi": "huỷ" },
+        { "vi": "nửa tiếng", "note_vi": "Độ dài họp mặc định ở đây. Hãy đề xuất nó." },
+        { "vi": "mười lăm phút", "note_vi": "Một độ dài họp hoàn toàn đáng trọng ở Phần Lan." },
+        { "vi": "tuần sau" }, { "vi": "thứ Hai tuần sau" }, { "vi": "buổi sáng (trước trưa)" }, { "vi": "buổi chiều" },
+        { "vi": "mình quay lại chuyện này" }, { "vi": "lời nhắc" }, { "vi": "việc theo dõi tiếp" },
+        { "vi": "hạn chót" }, { "vi": "thời hạn" },
+        { "vi": "muộn nhất là", "note_vi": "«Perjantaihin viimeistään» = muộn nhất là thứ Sáu. Chính xác và hữu ích." },
+        { "vi": "trước, từ trước" }, { "vi": "một cuộc họp ngắn" },
+        { "vi": "một cuộc gọi", "note_vi": "Thường tốt hơn một cuộc họp. Hãy đề xuất nó." },
+        { "vi": "họp trên Teams" },
+        { "vi": "chương trình họp", "note_vi": "Hãy gửi một cái, kể cả cho mười lăm phút. Người ta trân trọng." }
+      ],
+      "phrases": [
+        { "vi": "Mình đưa cái này vào lịch nhé?", "when_to_use_vi": "Không bao giờ bị coi là thúc ép ở đây. Không có trong lịch là không diễn ra." },
+        { "vi": "Mình hẹn một cuộc họp tuần sau nhé?", "when_to_use_vi": "Đề xuất chuẩn. Rồi đưa ra hai khung giờ cụ thể." },
+        { "vi": "Thứ Ba hai giờ có được với bạn không?", "when_to_use_vi": "Hãy đưa ra một giờ cụ thể, đừng nói «lúc nào đó tuần sau»." },
+        { "vi": "Lúc đó tôi bị trùng lịch — thứ Tư được không?", "when_to_use_vi": "Từ chối và đề xuất thay thế trong cùng một hơi." },
+        { "vi": "Nửa tiếng có đủ không?", "when_to_use_vi": "Mặc định ở đây. Mười lăm phút cũng hoàn toàn đáng trọng." },
+        { "vi": "Tôi sẽ gửi lời mời trên lịch.", "when_to_use_vi": "Hãy nói rõ ai gửi. Không thì chẳng ai gửi cả." },
+        { "vi": "Mình quay lại chuyện này tuần sau.", "when_to_use_vi": "Chỉ nói câu này nếu bạn đặt lịch. Không thì nó nghĩa là không bao giờ." },
+        { "vi": "Muộn nhất là thứ Sáu.", "when_to_use_vi": "«Viimeistään» chính xác và rõ hơn nhiều so với «trước thứ Sáu»." },
+        { "vi": "Như vậy có ổn với lịch của bạn không?", "when_to_use_vi": "Kiểm tra thay vì mặc định. Người Phần Lan sẽ nói thật với bạn." },
+        { "vi": "Hay là mình xử lý việc này qua điện thoại cũng đủ?", "when_to_use_vi": "Thường tốt hơn một cuộc họp. Đề xuất ra là được hoan nghênh." },
+        { "vi": "Tôi sẽ gửi chương trình họp trước.", "when_to_use_vi": "Kể cả cho mười lăm phút. Ở đây điều đó thật sự được trân trọng." },
+        { "vi": "Nếu không nghe gì thì tôi sẽ gửi một lời nhắc.", "when_to_use_vi": "Nói trước làm cho lời nhắc sau này trở nên bình thường." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đặt lịch trước khi cuộc trò chuyện kết thúc",
+          "setting_vi": "Phút cuối của một cuộc trò chuyện ở hành lang.",
+          "note_vi": "Hai khung giờ cụ thể, một độ dài, một người gửi lời mời. Ba mươi giây.",
+          "lines": [
+            { "vi": "Đây là ý hay, nhưng mình cần nhiều thời gian hơn cho nó." },
+            { "vi": "Đúng. Mình đưa cái này vào lịch nhé, để nó không bị quên?" },
+            { "vi": "Ý hay. Khi nào phù hợp với bạn?" },
+            { "vi": "Thứ Ba hai giờ được không, hay sáng thứ Tư?" },
+            { "vi": "Thứ Ba tôi bị trùng lịch. Thứ Tư được — mười giờ nhé?" },
+            { "vi": "Mười giờ được. Nửa tiếng có đủ không?" },
+            { "vi": "Đủ thừa." },
+            { "vi": "Tốt. Tôi sẽ gửi lời mời trên lịch, và tôi gửi chương trình họp trước." },
+            { "vi": "Cảm ơn, thế thì giúp lắm. Có cần ai khác tham gia không?" },
+            { "vi": "Có lẽ Jussi, vì nó liên quan đến phần tích hợp. Tôi hỏi anh ấy." },
+            { "vi": "Tốt. Gặp thứ Tư nhé." },
+            { "vi": "Gặp sau. Và nếu trước đó không nghe gì thì tôi sẽ gửi một lời nhắc." }
+          ]
+        },
+        {
+          "title_vi": "Theo dõi khi không có phản hồi",
+          "setting_vi": "Hai tin nhắn, cách nhau một tuần. Không tin nào mang tính thúc ép.",
+          "note_vi": "Tin theo dõi kiểu Phần Lan ngắn, đúng sự việc và có một thời hạn. Không cần xin lỗi.",
+          "lines": [
+            { "vi": "Chào Jussi! Nhắc lại về cái tài liệu giao diện — tôi cần nó muộn nhất là thứ Tư." },
+            { "vi": "À đúng rồi, xin lỗi. Mai tôi gửi." },
+            { "vi": "Cảm ơn! Không gấp trước mai." },
+            { "vi": "Chào anh! Tôi đã gửi bản đề xuất đó một tuần trước. Có nhận xét gì chưa ạ?" },
+            { "vi": "Chào anh! Xin lỗi, bên tôi đang bận. Tuần này chúng tôi sẽ xem." },
+            { "vi": "Vâng, cảm ơn anh. Mình quay lại chuyện này vào thứ Sáu nhé?" },
+            { "vi": "Vâng, thế được." },
+            { "vi": "Tốt. Tôi gửi lời mời lịch cho thứ Sáu, mười lăm phút là đủ." },
+            { "vi": "Cảm ơn, hiệu quả đấy." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đặt lịch trước khi cuộc trò chuyện kết thúc",
+          "scenario_vi": "Đề xuất đặt lịch, đưa ra hai khung giờ, thống nhất độ dài, và nhận việc gửi lời mời.",
+          "your_role_vi": "Bạn, đang kết thúc một cuộc trò chuyện ở hành lang",
+          "partner_role_vi": "Anni, một đồng nghiệp",
+          "turns": [
+            { "vi": "Đây là ý hay, nhưng mình cần nhiều thời gian hơn." },
+            { "vi": "Đúng. Mình đưa cái này vào lịch nhé, để nó không bị quên?", "hint_vi": "Không bao giờ bị coi là thúc ép ở đây. Đó là hành động có trách nhiệm." },
+            { "vi": "Ý hay. Khi nào phù hợp với bạn?" },
+            { "vi": "Thứ Ba hai giờ được không, hay sáng thứ Tư?", "hint_vi": "Hai lựa chọn cụ thể. Đừng nói «lúc nào đó tuần sau»." },
+            { "vi": "Thứ Ba tôi bị trùng lịch. Thứ Tư mười giờ nhé?" },
+            { "vi": "Mười giờ được. Nửa tiếng có đủ không?", "hint_vi": "Nửa tiếng là mặc định. Mười lăm phút cũng ổn." },
+            { "vi": "Đủ thừa." },
+            { "vi": "Tôi gửi lời mời trên lịch và chương trình họp trước.", "hint_vi": "Nói rõ ai gửi. Không thì chẳng ai gửi." },
+            { "vi": "Cảm ơn. Có cần ai khác tham gia không?" },
+            { "vi": "Có lẽ Jussi — tôi hỏi anh ấy. Và nếu không nghe gì thì tôi gửi lời nhắc.", "hint_vi": "Nói trước về lời nhắc làm nó trở nên bình thường về sau." }
+          ]
+        }
+      ]
+    },
+    "emails-and-slack": {
+      "lesson": {
+        "title_vi": "Email và Slack",
+        "subtitle_vi": "Ngắn, thẳng, giọng văn Phần Lan",
+        "warmup_situation_vi": "Bạn viết một email bốn đoạn với ba mệnh đề làm mềm, một lời xin lỗi vì đã làm mất thời gian của họ và một đoạn kết mong họ khoẻ. Đồng nghiệp Phần Lan của bạn trả lời bằng hai dòng.",
+        "warmup_question_vi": "Câu trả lời của họ có thô không — hay chính email của bạn mới là cái lạ?",
+        "rescue_vi": "Có gì chưa rõ thì bạn cứ hỏi nhé.",
+        "rescue_note_vi": "Một dòng làm hết việc của cả một đoạn kết lịch sự dài. Nó mời người ta trả lời, thể hiện sự mở lòng, và giữ tin nhắn ngắn — mà trong văn hoá viết của Phần Lan điều đó được đọc là sự tôn trọng thời gian của người đọc, không phải sự lạnh nhạt."
+      },
+      "vocab": [
+        { "vi": "email" }, { "vi": "tin nhắn" },
+        { "vi": "tiêu đề thư", "note_vi": "Hãy viết cụ thể. «Kysymys budjetista» hơn «Hei»." },
+        { "vi": "tệp đính kèm" }, { "vi": "trả lời" }, { "vi": "chuyển tiếp" }, { "vi": "bản sao (cc)" },
+        { "vi": "chào (thân mật)", "note_vi": "Hoàn toàn bình thường trong email công việc, kể cả gửi quản lý. Không dùng «Arvoisa»." },
+        { "vi": "chào", "note_vi": "Câu mở đầu email chuẩn. Cộng với tên riêng." },
+        { "vi": "thân ái", "note_vi": "Câu kết chuẩn. «Ystävällisin terveisin» là bản trang trọng." },
+        { "vi": "trân trọng", "note_vi": "Viết tắt là «yst. terv.» Dùng với người bạn không quen." },
+        { "vi": "cảm ơn trước" }, { "vi": "ngắn gọn" },
+        { "vi": "súc tích", "note_vi": "Phẩm chất cần hướng tới. Văn viết công việc ở Phần Lan thì ngắn." },
+        { "vi": "việc, vấn đề", "note_vi": "«Asia on lyhyesti tämä:» = việc ngắn gọn là thế này. Rất Phần Lan." },
+        { "vi": "lời đề nghị, yêu cầu" },
+        { "vi": "tôi cần", "note_vi": "Thẳng thắn. Hoàn toàn lịch sự trong tiếng Phần Lan. Đừng nói vòng." },
+        { "vi": "bạn có thể… không" },
+        { "vi": "trước khi nào", "note_vi": "Luôn kèm một ngày trong lời đề nghị. Đề nghị mơ hồ sẽ bị bỏ qua." },
+        { "vi": "chưa rõ" }, { "vi": "sự làm rõ" },
+        { "vi": "để biết, để thông tin", "note_vi": "«Tiedoksi vaan» = chỉ để bạn biết. Báo hiệu không cần trả lời." },
+        { "vi": "xác nhận đã nhận", "note_vi": "Một biểu tượng ngón tay cái trên Slack là một câu trả lời trọn vẹn." },
+        { "vi": "đã rõ", "note_vi": "Một câu trả lời Slack trọn vẹn. Một từ." },
+        { "vi": "tôi lo việc đó" }, { "vi": "kênh (channel)" }, { "vi": "tin nhắn riêng" },
+        { "vi": "khẩn", "note_vi": "Dùng dè dặt. Lạm dụng là nó mất nghĩa rất nhanh." },
+        { "vi": "không gấp", "note_vi": "Hãy thêm câu này khi đúng vậy. Nó thật sự tử tế và được dùng rộng rãi." }
+      ],
+      "phrases": [
+        { "vi": "Chào Anni,", "when_to_use_vi": "Câu mở đầu chuẩn, kể cả gửi quản lý. Ở đây không có danh xưng trang trọng." },
+        { "vi": "Việc ngắn gọn là thế này:", "when_to_use_vi": "Rất Phần Lan. Báo hiệu bạn đang vào thẳng vấn đề." },
+        { "vi": "Tôi cần những con số đó từ bạn trước thứ Tư.", "when_to_use_vi": "Thẳng và hoàn toàn lịch sự. Luôn kèm ngày." },
+        { "vi": "Bạn xem tệp đính kèm và cho nhận xét được không?", "when_to_use_vi": "Một đề nghị mỗi email. Hai đề nghị làm giảm nửa tỉ lệ được trả lời." },
+        { "vi": "Không gấp.", "when_to_use_vi": "Thêm vào khi đúng vậy. Thật sự tử tế và được dùng rộng rãi." },
+        { "vi": "Chỉ để bạn biết, không cần trả lời.", "when_to_use_vi": "Tiết kiệm cho người nhận một quyết định. Chu đáo." },
+        { "vi": "Có gì chưa rõ thì bạn cứ hỏi nhé.", "when_to_use_vi": "Một dòng thay thế cả một đoạn kết lịch sự." },
+        { "vi": "Thân ái, Duc", "when_to_use_vi": "Câu kết chuẩn. Chỉ tên riêng là ổn khi gửi nội bộ." },
+        { "vi": "Trân trọng, Duc Nguyen", "when_to_use_vi": "Dùng với người bạn không quen, và với khách hàng." },
+        { "vi": "Đã rõ, tôi lo việc đó.", "when_to_use_vi": "Một câu trả lời Slack trọn vẹn. Hai chữ." },
+        { "vi": "Mai tôi quay lại chuyện này.", "when_to_use_vi": "Tốt hơn sự im lặng khi bạn chưa trả lời được ngay." },
+        { "vi": "Tôi đăng cái này lên kênh hay gửi tin riêng?", "when_to_use_vi": "Mặc định là kênh. Công ty Phần Lan thích thông tin được thấy chung." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cùng một lời đề nghị, hai cách viết",
+          "setting_vi": "Đọc như hai tin nhắn viết. Bản thứ hai là bản kiểu Phần Lan.",
+          "note_vi": "Cùng thông tin, một phần tư số từ. Bản ngắn được đọc là sự tôn trọng, không phải lạnh nhạt.",
+          "lines": [
+            { "vi": "Chào Anni, hy vọng bạn vẫn ổn! Xin lỗi đã làm mất thời gian của bạn trong lúc bận thế này." },
+            { "vi": "Tôi đang nghĩ là nếu có lúc nào bạn rảnh một chút, thì bạn có thể xem giúp mấy con số đó không?" },
+            { "vi": "Không gấp gì cả, lúc nào tiện với bạn thôi. Cảm ơn trước và chúc bạn cuối tuần vui vẻ!" },
+            { "vi": "Chào Anni," },
+            { "vi": "Việc ngắn gọn là thế này: tôi cần những con số Q3 từ bạn trước thứ Tư." },
+            { "vi": "Trong tệp đính kèm có biểu mẫu để điền vào. Có gì chưa rõ thì bạn cứ hỏi nhé." },
+            { "vi": "Thân ái, Duc" },
+            { "vi": "Chào bạn! Đã rõ, thứ Ba tôi gửi. -A", "note_vi": "Đây là một câu trả lời ấm áp và trọn vẹn. Hai dòng." },
+            { "vi": "Cảm ơn bạn!" }
+          ]
+        },
+        {
+          "title_vi": "Một ngày trên Slack",
+          "setting_vi": "Sáu đoạn trao đổi. Để ý một câu trả lời trọn vẹn có thể ngắn đến mức nào.",
+          "note_vi": "Một ngón tay cái là một câu trả lời. «Selvä» là một câu trả lời. Không cái nào là cụt lủn.",
+          "lines": [
+            { "vi": "Duc, hôm nay bạn xem cái lỗi đó được không?" },
+            { "vi": "Đã rõ, tôi lo việc đó." },
+            { "vi": "Để mọi người biết: bản deploy dời sang mai. Không cần trả lời." },
+            { "vi": "👍", "note_vi": "Một câu trả lời trọn vẹn và phù hợp." },
+            { "vi": "Này, tôi có câu hỏi về cái giao diện đó. Tôi đăng lên kênh hay gửi riêng cho bạn?" },
+            { "vi": "Lên kênh đi, để người khác cũng thấy." },
+            { "vi": "Vâng. Và cái này không gấp — mai tôi quay lại nếu được." },
+            { "vi": "Được lắm. Cảm ơn bạn đã nói." },
+            { "vi": "Lỗi đã sửa chưa?" },
+            { "vi": "Sửa rồi. Đã test và đã deploy." },
+            { "vi": "Tuyệt, cảm ơn bạn!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Viết theo cách Phần Lan",
+          "scenario_vi": "Mở đầu, nêu việc, đưa ra một đề nghị có ngày, mời hỏi lại, ký tên.",
+          "your_role_vi": "Bạn, đang viết cho một đồng nghiệp",
+          "partner_role_vi": "Anni, người nhận",
+          "turns": [
+            { "vi": "(đang đợi tin nhắn của bạn)" },
+            { "vi": "Chào Anni,", "hint_vi": "«Hei» cộng tên riêng. Không danh xưng trang trọng, kể cả với quản lý." },
+            { "vi": "(đang đọc)" },
+            { "vi": "Việc ngắn gọn là thế này: tôi cần những con số Q3 từ bạn trước thứ Tư.", "hint_vi": "Vào thẳng vấn đề, và luôn kèm ngày." },
+            { "vi": "(đang đọc)" },
+            { "vi": "Trong tệp đính kèm có biểu mẫu. Có gì chưa rõ thì bạn cứ hỏi nhé.", "hint_vi": "Một dòng thay thế cả một đoạn kết lịch sự." },
+            { "vi": "(đang đọc)" },
+            { "vi": "Thân ái, Duc", "hint_vi": "Câu kết chuẩn. Chỉ tên riêng là ổn khi gửi nội bộ." },
+            { "vi": "Chào bạn! Đã rõ, thứ Ba tôi gửi. -A" },
+            { "vi": "Cảm ơn bạn!", "hint_vi": "Một từ là đóng lại. Đừng thêm một đoạn văn." }
+          ]
+        }
+      ]
+    }
+  }
+}

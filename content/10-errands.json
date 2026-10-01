@@ -1,0 +1,3584 @@
+{
+  "slug": "errands",
+  "number": "10",
+  "emoji": "📮",
+  "title": "Errands and services",
+  "subtitle": "Post, bank, phone queues: the small exchanges that add up.",
+  "description": "These are the errands that go wrong when your Finnish isn't precise: a parcel you can't collect, a bank appointment you can't explain, a phone menu with no option for your situation, a haircut you didn't want. Six lessons on the bureaucratic and practical Finnish that keeps daily life moving — including the single hardest listening environment in the course, which is a phone queue.",
+  "level": "A2–B1",
+  "lessons": [
+    {
+      "slug": "post-and-parcels",
+      "number": "10.1",
+      "title": "Post and parcels",
+      "subtitle": "Mä tulin hakee paketin. Mulla on noutokoodi.",
+      "warmup_situation": "A text message says your parcel is at a pickup point. You go there and find a wall of numbered lockers, a screen in Finnish, and a queue of people who clearly know how this works.",
+      "warmup_question": "What do you need to have ready — and where do parcels actually go in Finland?",
+      "rescue_fi": "Mä en oo hakenu pakettia täältä ennen. Miten tää toimii?",
+      "rescue_en": "I haven't collected a parcel from here before. How does this work?",
+      "rescue_note": "Staff at Posti and pickup points explain the system willingly and precisely. Admitting it's your first time gets you the whole procedure in thirty seconds rather than four minutes of guessing at a touchscreen.",
+      "vocab": [
+        {
+          "fi": "posti",
+          "en": "post, post office",
+          "pos": "noun",
+          "note": "Posti is also the company name. Most branches are inside shops now.",
+          "vi": "bưu điện",
+          "note_vi": "Posti cũng là tên công ty. Phần lớn chi nhánh giờ nằm bên trong các cửa hàng."
+        },
+        {
+          "fi": "postitoimipaikka",
+          "en": "post office branch",
+          "pos": "noun",
+          "vi": "chi nhánh bưu điện"
+        },
+        {
+          "fi": "noutopiste",
+          "en": "pickup point",
+          "pos": "noun",
+          "note": "Usually a corner of a supermarket or a kiosk.",
+          "vi": "điểm nhận hàng",
+          "note_vi": "Thường là một góc của siêu thị hoặc một kiosk."
+        },
+        {
+          "fi": "pakettiautomaatti",
+          "en": "parcel locker",
+          "pos": "noun",
+          "note": "The wall of lockers. Very common — you may never speak to a human.",
+          "vi": "tủ nhận bưu kiện tự động",
+          "note_vi": "Bức tường đầy tủ. Rất phổ biến — có thể bạn không phải nói với ai cả."
+        },
+        {
+          "fi": "paketti",
+          "en": "parcel",
+          "pos": "noun",
+          "vi": "bưu kiện"
+        },
+        {
+          "fi": "kirje",
+          "en": "letter",
+          "pos": "noun",
+          "vi": "thư"
+        },
+        {
+          "fi": "kirjattu kirje",
+          "en": "registered letter",
+          "pos": "noun",
+          "note": "Needs ID and a signature. Often official mail.",
+          "vi": "thư bảo đảm",
+          "note_vi": "Cần giấy tờ và chữ ký. Thường là thư chính thức."
+        },
+        {
+          "fi": "noutokoodi",
+          "en": "pickup code",
+          "pos": "noun",
+          "note": "In the text message. Have it open on your phone before you queue.",
+          "vi": "mã nhận hàng",
+          "note_vi": "Có trong tin nhắn. Hãy mở sẵn trên điện thoại trước khi xếp hàng."
+        },
+        {
+          "fi": "saapumisilmoitus",
+          "en": "arrival notification",
+          "pos": "noun",
+          "vi": "thông báo hàng đã đến"
+        },
+        {
+          "fi": "seurantakoodi",
+          "en": "tracking code",
+          "pos": "noun",
+          "vi": "mã theo dõi đơn"
+        },
+        {
+          "fi": "noutaa",
+          "en": "to collect",
+          "pos": "verb",
+          "vi": "đi nhận, đi lấy"
+        },
+        {
+          "fi": "lähettää",
+          "en": "to send",
+          "pos": "verb",
+          "vi": "gửi"
+        },
+        {
+          "fi": "palauttaa",
+          "en": "to return",
+          "pos": "verb",
+          "note": "Online returns usually come with a prepaid label. Ask if you don't have one.",
+          "vi": "trả lại (hàng)",
+          "note_vi": "Trả hàng mua online thường kèm nhãn đã trả phí. Hỏi nếu bạn không có."
+        },
+        {
+          "fi": "palautuskoodi",
+          "en": "return code",
+          "pos": "noun",
+          "vi": "mã trả hàng"
+        },
+        {
+          "fi": "osoitekortti",
+          "en": "address label",
+          "pos": "noun",
+          "vi": "nhãn địa chỉ"
+        },
+        {
+          "fi": "postimerkki",
+          "en": "stamp",
+          "pos": "noun",
+          "vi": "tem thư"
+        },
+        {
+          "fi": "postimaksu",
+          "en": "postage",
+          "pos": "noun",
+          "vi": "phí bưu chính"
+        },
+        {
+          "fi": "paino",
+          "en": "weight",
+          "pos": "noun",
+          "note": "Postage is by weight and size. They weigh it at the counter.",
+          "vi": "khối lượng",
+          "note_vi": "Phí tính theo khối lượng và kích cỡ. Họ cân tại quầy."
+        },
+        {
+          "fi": "koko",
+          "en": "size",
+          "pos": "noun",
+          "vi": "kích cỡ"
+        },
+        {
+          "fi": "kotimaahan",
+          "en": "domestic",
+          "pos": "adverb",
+          "vi": "trong nước"
+        },
+        {
+          "fi": "ulkomaille",
+          "en": "abroad",
+          "pos": "adverb",
+          "vi": "ra nước ngoài"
+        },
+        {
+          "fi": "kirjattuna",
+          "en": "as registered post",
+          "pos": "adverb",
+          "vi": "dưới dạng bảo đảm"
+        },
+        {
+          "fi": "pikatoimitus",
+          "en": "express delivery",
+          "pos": "noun",
+          "vi": "chuyển phát nhanh"
+        },
+        {
+          "fi": "toimitusaika",
+          "en": "delivery time",
+          "pos": "noun",
+          "vi": "thời gian giao hàng"
+        },
+        {
+          "fi": "säilytysaika",
+          "en": "storage period",
+          "pos": "noun",
+          "note": "Usually 7 days, then it goes back. Watch the date in the message.",
+          "vi": "thời gian lưu giữ",
+          "note_vi": "Thường 7 ngày, rồi hàng bị trả về. Hãy để ý ngày trong tin nhắn."
+        },
+        {
+          "fi": "henkilöllisyystodistus",
+          "en": "ID document",
+          "pos": "noun",
+          "vi": "giấy tờ tuỳ thân"
+        },
+        {
+          "fi": "allekirjoitus",
+          "en": "signature",
+          "pos": "noun",
+          "vi": "chữ ký"
+        },
+        {
+          "fi": "tullimaksu",
+          "en": "customs charge",
+          "pos": "noun",
+          "note": "For parcels from outside the EU. Pay online before collecting.",
+          "vi": "phí hải quan",
+          "note_vi": "Với bưu kiện từ ngoài EU. Trả online trước khi đi lấy."
+        },
+        {
+          "fi": "tulli-ilmoitus",
+          "en": "customs declaration",
+          "pos": "noun",
+          "vi": "tờ khai hải quan"
+        },
+        {
+          "fi": "lokero",
+          "en": "locker",
+          "pos": "noun",
+          "vi": "tủ khoá, ô tủ"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä tulin hakee paketin.",
+          "en": "I've come to collect a parcel.",
+          "when_to_use": "Your opening line at the counter. Have the code ready.",
+          "register": "neutral",
+          "vi": "Tôi đến lấy bưu kiện ạ.",
+          "when_to_use_vi": "Câu mở đầu ở quầy. Hãy chuẩn bị sẵn mã."
+        },
+        {
+          "fi": "Mulla on noutokoodi tässä.",
+          "en": "I have the pickup code here.",
+          "when_to_use": "Phone already open on the message. Saves a lot of time.",
+          "register": "neutral",
+          "vi": "Mã nhận hàng của tôi đây ạ.",
+          "when_to_use_vi": "Điện thoại đã mở sẵn tin nhắn. Tiết kiệm rất nhiều thời gian."
+        },
+        {
+          "fi": "Mä en oo hakenu pakettia täältä ennen. Miten tää toimii?",
+          "en": "I haven't collected a parcel here before. How does this work?",
+          "when_to_use": "Gets you the whole procedure in thirty seconds.",
+          "register": "casual",
+          "vi": "Tôi chưa lấy bưu kiện ở đây bao giờ. Ở đây làm thế nào ạ?",
+          "when_to_use_vi": "Giúp bạn có trọn quy trình trong ba mươi giây."
+        },
+        {
+          "fi": "Tarviinks mä henkilöllisyystodistuksen?",
+          "en": "Do I need ID?",
+          "when_to_use": "For registered post, yes. For ordinary parcels, usually the code is enough.",
+          "register": "neutral",
+          "vi": "Tôi có cần giấy tờ tuỳ thân không ạ?",
+          "when_to_use_vi": "Với thư bảo đảm thì có. Với bưu kiện thường thì mã là đủ."
+        },
+        {
+          "fi": "Mä haluaisin lähettää tän paketin Vietnamiin.",
+          "en": "I'd like to send this parcel to Vietnam.",
+          "when_to_use": "State the destination first. It determines everything else.",
+          "register": "neutral",
+          "vi": "Tôi muốn gửi bưu kiện này sang Việt Nam.",
+          "when_to_use_vi": "Nói điểm đến trước. Nó quyết định mọi thứ còn lại."
+        },
+        {
+          "fi": "Paljonko se maksaa?",
+          "en": "How much does that cost?",
+          "when_to_use": "They'll weigh it and tell you. Ask about slower options too.",
+          "register": "neutral",
+          "vi": "Bao nhiêu tiền ạ?",
+          "when_to_use_vi": "Họ sẽ cân và cho bạn biết. Hỏi luôn cả phương án chậm hơn."
+        },
+        {
+          "fi": "Onks halvempaa vaihtoehtoa?",
+          "en": "Is there a cheaper option?",
+          "when_to_use": "There usually is, and it's usually slower. Worth asking.",
+          "register": "casual",
+          "vi": "Có lựa chọn nào rẻ hơn không ạ?",
+          "when_to_use_vi": "Thường là có, và thường chậm hơn. Đáng hỏi."
+        },
+        {
+          "fi": "Kauanko se kestää?",
+          "en": "How long does it take?",
+          "when_to_use": "Ask before choosing. The cheap option can be six weeks.",
+          "register": "neutral",
+          "vi": "Mất bao lâu ạ?",
+          "when_to_use_vi": "Hỏi trước khi chọn. Phương án rẻ có thể mất sáu tuần."
+        },
+        {
+          "fi": "Mä haluaisin palauttaa tän netti­tilauksen.",
+          "en": "I'd like to return this online order.",
+          "when_to_use": "Bring the return code. Most shops include one.",
+          "register": "neutral",
+          "vi": "Tôi muốn trả lại đơn hàng online này.",
+          "when_to_use_vi": "Mang mã trả hàng. Phần lớn shop đều kèm theo một cái."
+        },
+        {
+          "fi": "Mihin asti tää on täällä?",
+          "en": "How long is this kept here?",
+          "when_to_use": "Usually seven days. Then it goes back to the sender.",
+          "register": "neutral",
+          "vi": "Cái này được giữ ở đây đến khi nào ạ?",
+          "when_to_use_vi": "Thường bảy ngày. Sau đó nó bị trả về người gửi."
+        },
+        {
+          "fi": "Onks tässä tullimaksu?",
+          "en": "Is there a customs charge on this?",
+          "when_to_use": "For parcels from outside the EU. Usually paid online first.",
+          "register": "neutral",
+          "vi": "Cái này có phí hải quan không ạ?",
+          "when_to_use_vi": "Với bưu kiện từ ngoài EU. Thường trả online trước."
+        },
+        {
+          "fi": "Missä on pakettiautomaatti?",
+          "en": "Where's the parcel locker?",
+          "when_to_use": "Often just inside the shop entrance, or outside the wall.",
+          "register": "casual",
+          "vi": "Tủ nhận bưu kiện tự động ở đâu ạ?",
+          "when_to_use_vi": "Thường ngay bên trong cửa vào, hoặc ngoài bức tường."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "First time at a pickup point",
+          "setting": "A corner of a supermarket. A counter, a screen, and a queue.",
+          "speed": "slow",
+          "note": "He admits it's his first time and gets the full procedure immediately.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä tulin hakee paketin. Mä en oo hakenu täältä ennen — miten tää toimii?",
+              "en": "Hi! I've come to collect a parcel. I haven't collected from here before — how does this work?",
+              "vi": "Chào chị! Tôi đến lấy bưu kiện. Tôi chưa lấy ở đây bao giờ — ở đây làm thế nào ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Moi! Helppo juttu. Onks sulla noutokoodi?",
+              "en": "Hi! Easy. Do you have a pickup code?",
+              "vi": "Chào anh! Dễ thôi. Anh có mã nhận hàng không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "On, tekstiviestissä. Tässä.",
+              "en": "Yes, in a text message. Here.",
+              "vi": "Có, trong tin nhắn. Đây ạ."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Hyvä. Näytä se mulle tai näppäile tuohon näyttöön.",
+              "en": "Good. Show it to me or type it on that screen.",
+              "vi": "Tốt. Anh cho tôi xem hoặc nhập vào cái màn hình kia."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä näytän sen sulle. Tarviinks mä henkilöllisyystodistuksen?",
+              "en": "I'll show it to you. Do I need ID?",
+              "vi": "Tôi cho chị xem. Tôi có cần giấy tờ tuỳ thân không ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Tähän ei tarvii, koodi riittää. Kirjattuihin kirjeisiin tarvitaan.",
+              "en": "Not for this one, the code is enough. Registered letters need it.",
+              "vi": "Cái này thì không cần, mã là đủ. Thư bảo đảm thì cần ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Ja mihin asti paketti ois ollu täällä?",
+              "en": "Right. And how long would the parcel have been kept here?",
+              "vi": "Vâng. Và bưu kiện được giữ ở đây đến bao lâu ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Seitsemän päivää. Sen jälkeen se lähtee takas lähettäjälle.",
+              "en": "Seven days. After that it goes back to the sender.",
+              "vi": "Bảy ngày. Sau đó nó về lại người gửi ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä tietää. Tässä.",
+              "en": "Good to know. Here you go.",
+              "vi": "Biết vậy hay. Đây ạ."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "…Tässä sun paketti. Ja allekirjoita tuohon.",
+              "en": "…Here's your parcel. And sign there.",
+              "vi": "…Bưu kiện của anh đây. Và anh ký vào đó nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja hei — missä on pakettiautomaatti? Mun pitää palauttaa yks juttu.",
+              "en": "Thanks. And hey — where's the parcel locker? I need to return something.",
+              "vi": "Cảm ơn chị. À này — tủ nhận bưu kiện tự động ở đâu ạ? Tôi cần trả lại một món."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Ulkona, sisäänkäynnin vieressä. Onks sulla palautuskoodi?",
+              "en": "Outside, next to the entrance. Do you have a return code?",
+              "vi": "Ở ngoài, cạnh cửa vào. Anh có mã trả hàng không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "On, sähköpostissa. Kiitos avusta!",
+              "en": "Yes, in an email. Thanks for the help!",
+              "vi": "Có, trong email. Cảm ơn chị đã giúp!"
+            }
+          ],
+          "title_vi": "Lần đầu ở một điểm nhận hàng",
+          "setting_vi": "Một góc siêu thị. Một cái quầy, một cái màn hình, và một hàng người.",
+          "note_vi": "Anh thừa nhận đây là lần đầu và có được trọn quy trình ngay lập tức."
+        },
+        {
+          "title": "Sending a parcel abroad",
+          "setting": "A Posti counter. Price, speed and customs.",
+          "speed": "natural",
+          "note": "Destination first, then weight, then the trade-off between price and time.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä haluaisin lähettää tän paketin Vietnamiin.",
+              "en": "Hi! I'd like to send this parcel to Vietnam.",
+              "vi": "Chào chị! Tôi muốn gửi bưu kiện này sang Việt Nam."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo. Laita se vaa'alle… kaks kiloa neljäsataa.",
+              "en": "Yeah. Put it on the scales… two kilos four hundred.",
+              "vi": "Vâng. Anh đặt lên cân… hai kilo bốn trăm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Paljonko se maksaa?",
+              "en": "How much does that cost?",
+              "vi": "Bao nhiêu tiền ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Pikapostina 52 euroa, tavallisena 31.",
+              "en": "As express 52 euros, as standard 31.",
+              "vi": "Chuyển nhanh 52 euro, thường 31 ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kauanko tavallinen kestää?",
+              "en": "How long does standard take?",
+              "vi": "Loại thường mất bao lâu ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kolmesta kuuteen viikkoon. Pika on viikossa.",
+              "en": "Three to six weeks. Express is one week.",
+              "vi": "Ba đến sáu tuần. Chuyển nhanh thì một tuần ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä otan tavallisen. Ei oo kiire.",
+              "en": "I'll take standard. There's no rush.",
+              "vi": "Tôi chọn loại thường. Không gấp."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Selvä. Sun pitää täyttää tulli-ilmoitus. Mitä paketissa on?",
+              "en": "Right. You need to fill in a customs declaration. What's in the parcel?",
+              "vi": "Vâng. Anh phải điền tờ khai hải quan. Trong bưu kiện có gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vaatteita ja suklaata. Lahjoja.",
+              "en": "Clothes and chocolate. Gifts.",
+              "vi": "Quần áo và sô cô la. Quà tặng."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Kirjota se tähän, ja arvio arvosta.",
+              "en": "Write that here, and an estimate of the value.",
+              "vi": "Anh viết vào đây, và ước tính giá trị."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Noin viisikymmentä euroa. Näinkö?",
+              "en": "About fifty euros. Like this?",
+              "vi": "Khoảng năm mươi euro. Thế này ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Just noin. Kortilla?",
+              "en": "Exactly. By card?",
+              "vi": "Chính xác. Thẻ nhé?"
+            }
+          ],
+          "title_vi": "Gửi bưu kiện ra nước ngoài",
+          "setting_vi": "Một quầy Posti. Giá, tốc độ và hải quan.",
+          "note_vi": "Điểm đến trước, rồi khối lượng, rồi cân nhắc giữa giá và thời gian."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Collect a parcel and send one",
+          "scenario": "Admit it's your first time, collect with a code, then send something abroad.",
+          "your_role": "You, at a pickup point",
+          "partner_role": "The counter staff",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Mä tulin hakee paketin. Mä en oo hakenu täältä ennen — miten tää toimii?",
+              "en": "Hi! I've come to collect a parcel. I haven't collected here before — how does this work?",
+              "hint": "Admitting it's your first time gets you the whole procedure.",
+              "vi": "Chào chị! Tôi đến lấy bưu kiện. Tôi chưa lấy ở đây bao giờ — ở đây làm thế nào ạ?",
+              "hint_vi": "Thừa nhận đây là lần đầu giúp bạn có trọn quy trình."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Moi! Onks sulla noutokoodi?",
+              "en": "Hi! Do you have a pickup code?",
+              "vi": "Chào anh! Anh có mã nhận hàng không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "On, tekstiviestissä. Tässä.",
+              "en": "Yes, in a text message. Here.",
+              "hint": "Have the phone open before you reach the counter.",
+              "vi": "Có, trong tin nhắn. Đây ạ.",
+              "hint_vi": "Hãy mở điện thoại trước khi đến quầy."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Hyvä. Näppäile se tuohon näyttöön.",
+              "en": "Good. Type it on that screen.",
+              "vi": "Tốt. Anh nhập vào cái màn hình kia."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Tarviinks mä henkilöllisyystodistuksen?",
+              "en": "Right. Do I need ID?",
+              "hint": "For registered post yes, for ordinary parcels usually not.",
+              "vi": "Vâng. Tôi có cần giấy tờ tuỳ thân không ạ?",
+              "hint_vi": "Với thư bảo đảm thì có, với bưu kiện thường thì thường không."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Ei tähän. Koodi riittää.",
+              "en": "Not for this one. The code is enough.",
+              "vi": "Cái này thì không. Mã là đủ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Ja mä haluaisin lähettää tän paketin Vietnamiin.",
+              "en": "Thanks. And I'd like to send this parcel to Vietnam.",
+              "hint": "Destination first. It determines price, form and time.",
+              "vi": "Cảm ơn chị. Và tôi muốn gửi bưu kiện này sang Việt Nam.",
+              "hint_vi": "Điểm đến trước. Nó quyết định giá, tờ khai và thời gian."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Laita se vaa'alle. Pikana 52, tavallisena 31.",
+              "en": "Put it on the scales. Express 52, standard 31.",
+              "vi": "Anh đặt lên cân. Nhanh 52, thường 31 ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kauanko tavallinen kestää?",
+              "en": "How long does standard take?",
+              "hint": "Ask before choosing. Cheap can mean six weeks.",
+              "vi": "Loại thường mất bao lâu ạ?",
+              "hint_vi": "Hỏi trước khi chọn. Rẻ có thể nghĩa là sáu tuần."
+            },
+            {
+              "speaker": "Myyjä",
+              "is_your_turn": false,
+              "fi": "Kolmesta kuuteen viikkoon.",
+              "en": "Three to six weeks.",
+              "vi": "Ba đến sáu tuần ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä otan tavallisen, ei oo kiire.",
+              "en": "I'll take standard, there's no rush.",
+              "hint": "State the choice and the reason. Clean and clear.",
+              "vi": "Tôi chọn loại thường, không gấp.",
+              "hint_vi": "Nêu lựa chọn và lý do. Gọn gàng và rõ ràng."
+            }
+          ],
+          "title_vi": "Lấy một bưu kiện và gửi một bưu kiện",
+          "scenario_vi": "Thừa nhận đây là lần đầu, lấy hàng bằng mã, rồi gửi một thứ ra nước ngoài.",
+          "your_role_vi": "Bạn, ở điểm nhận hàng",
+          "partner_role_vi": "Nhân viên quầy"
+        }
+      ],
+      "title_vi": "Bưu điện và bưu kiện",
+      "subtitle_vi": "Mä tulin hakee paketin. Mulla on noutokoodi.",
+      "warmup_situation_vi": "Một tin nhắn báo bưu kiện của bạn đã đến điểm nhận. Bạn ra đó và thấy một bức tường đầy tủ có số, một màn hình bằng tiếng Phần Lan, và một hàng người rõ ràng đã biết chuyện này hoạt động thế nào.",
+      "warmup_question_vi": "Bạn cần chuẩn bị sẵn những gì — và ở Phần Lan bưu kiện thật ra đi về đâu?",
+      "rescue_vi": "Tôi chưa lấy bưu kiện ở đây bao giờ. Ở đây làm thế nào ạ?",
+      "rescue_note_vi": "Nhân viên Posti và các điểm nhận giải thích quy trình rất sẵn lòng và chính xác. Thừa nhận đây là lần đầu giúp bạn có trọn quy trình trong ba mươi giây thay vì bốn phút mò mẫm trên màn hình cảm ứng."
+    },
+    {
+      "slug": "bank-and-kela",
+      "number": "10.2",
+      "title": "Bank and Kela",
+      "subtitle": "Appointments, forms, and \"I don't understand this form\"",
+      "warmup_situation": "A letter from Kela with a reference number, three deadlines and a sentence containing the word 'toimeentulotukilaskelma'. You are not sure whether it's asking you for something or telling you something.",
+      "warmup_question": "Who do you call — and what's the single most useful sentence in any Finnish bureaucratic conversation?",
+      "rescue_fi": "Mä en ymmärrä tätä lomaketta. Voitsä selittää mitä mun pitää tehdä?",
+      "rescue_en": "I don't understand this form. Could you explain what I need to do?",
+      "rescue_note": "The second half is the important part. 'Mitä mun pitää tehdä' converts a wall of institutional Finnish into a list of actions, which is all you actually need. Kela and bank staff answer this question well.",
+      "vocab": [
+        {
+          "fi": "pankki",
+          "en": "bank",
+          "pos": "noun",
+          "vi": "ngân hàng"
+        },
+        {
+          "fi": "tili",
+          "en": "account",
+          "pos": "noun",
+          "vi": "tài khoản"
+        },
+        {
+          "fi": "pankkitili",
+          "en": "bank account",
+          "pos": "noun",
+          "vi": "tài khoản ngân hàng"
+        },
+        {
+          "fi": "tilinumero",
+          "en": "account number",
+          "pos": "noun",
+          "vi": "số tài khoản"
+        },
+        {
+          "fi": "IBAN",
+          "en": "IBAN",
+          "pos": "noun",
+          "vi": "số IBAN"
+        },
+        {
+          "fi": "verkkopankki",
+          "en": "online banking",
+          "pos": "noun",
+          "vi": "ngân hàng trực tuyến"
+        },
+        {
+          "fi": "pankkitunnukset",
+          "en": "online banking credentials",
+          "pos": "noun",
+          "note": "Your digital ID for almost everything in Finland. Guard them.",
+          "vi": "mã đăng nhập ngân hàng",
+          "note_vi": "Danh tính số của bạn cho gần như mọi thứ ở Phần Lan. Hãy giữ kỹ."
+        },
+        {
+          "fi": "vahva tunnistautuminen",
+          "en": "strong authentication",
+          "pos": "noun",
+          "note": "Used to log into Kela, tax office, health records — everything.",
+          "vi": "xác thực mạnh",
+          "note_vi": "Dùng để đăng nhập Kela, cơ quan thuế, hồ sơ y tế — mọi thứ."
+        },
+        {
+          "fi": "tilisiirto",
+          "en": "bank transfer",
+          "pos": "noun",
+          "vi": "chuyển khoản"
+        },
+        {
+          "fi": "viitenumero",
+          "en": "reference number",
+          "pos": "noun",
+          "note": "Always use it. Payments without it get lost in the system.",
+          "vi": "số tham chiếu",
+          "note_vi": "Luôn dùng nó. Khoản thanh toán không có nó sẽ bị thất lạc trong hệ thống."
+        },
+        {
+          "fi": "e-lasku",
+          "en": "e-invoice",
+          "pos": "noun",
+          "vi": "hoá đơn điện tử"
+        },
+        {
+          "fi": "suoraveloitus",
+          "en": "direct debit",
+          "pos": "noun",
+          "vi": "ghi nợ trực tiếp"
+        },
+        {
+          "fi": "laina",
+          "en": "loan",
+          "pos": "noun",
+          "vi": "khoản vay"
+        },
+        {
+          "fi": "korko",
+          "en": "interest",
+          "pos": "noun",
+          "vi": "lãi suất"
+        },
+        {
+          "fi": "luottotiedot",
+          "en": "credit record",
+          "pos": "noun",
+          "vi": "lịch sử tín dụng"
+        },
+        {
+          "fi": "Kela",
+          "en": "Kela (social insurance institution)",
+          "pos": "noun",
+          "note": "Handles benefits, health reimbursements, student aid, pensions.",
+          "vi": "Kela (cơ quan bảo hiểm xã hội)",
+          "note_vi": "Lo trợ cấp, hoàn tiền y tế, hỗ trợ sinh viên, lương hưu."
+        },
+        {
+          "fi": "hakemus",
+          "en": "application",
+          "pos": "noun",
+          "vi": "đơn xin"
+        },
+        {
+          "fi": "hakea",
+          "en": "to apply",
+          "pos": "verb",
+          "vi": "xin, nộp đơn"
+        },
+        {
+          "fi": "päätös",
+          "en": "decision",
+          "pos": "noun",
+          "note": "Kela's answer to your application. Read the appeal deadline on it.",
+          "vi": "quyết định",
+          "note_vi": "Câu trả lời của Kela cho đơn của bạn. Hãy đọc hạn khiếu nại trên đó."
+        },
+        {
+          "fi": "liite",
+          "en": "attachment, enclosure",
+          "pos": "noun",
+          "note": "The most common reason an application stalls. Send every liite asked for.",
+          "vi": "tài liệu kèm theo",
+          "note_vi": "Lý do phổ biến nhất khiến một đơn bị treo. Hãy gửi đủ mọi liite được yêu cầu."
+        },
+        {
+          "fi": "todistus",
+          "en": "certificate",
+          "pos": "noun",
+          "vi": "giấy chứng nhận"
+        },
+        {
+          "fi": "asumistuki",
+          "en": "housing allowance",
+          "pos": "noun",
+          "vi": "trợ cấp nhà ở"
+        },
+        {
+          "fi": "lapsilisä",
+          "en": "child benefit",
+          "pos": "noun",
+          "vi": "trợ cấp trẻ em"
+        },
+        {
+          "fi": "vanhempainraha",
+          "en": "parental allowance",
+          "pos": "noun",
+          "vi": "trợ cấp cha mẹ"
+        },
+        {
+          "fi": "työttömyysturva",
+          "en": "unemployment security",
+          "pos": "noun",
+          "vi": "bảo hiểm thất nghiệp"
+        },
+        {
+          "fi": "määräaika",
+          "en": "deadline",
+          "pos": "noun",
+          "vi": "thời hạn"
+        },
+        {
+          "fi": "täyttää",
+          "en": "to fill in",
+          "pos": "verb",
+          "vi": "điền vào"
+        },
+        {
+          "fi": "lähettää liitteet",
+          "en": "to send the attachments",
+          "pos": "phrase",
+          "vi": "gửi tài liệu kèm theo"
+        },
+        {
+          "fi": "käsittelyaika",
+          "en": "processing time",
+          "pos": "noun",
+          "note": "Ask for it. Weeks, sometimes months.",
+          "vi": "thời gian xử lý",
+          "note_vi": "Hãy hỏi. Có thể vài tuần, có khi vài tháng."
+        },
+        {
+          "fi": "ajanvaraus",
+          "en": "appointment booking",
+          "pos": "noun",
+          "note": "Banks are appointment-only for most things now. Book online.",
+          "vi": "việc đặt lịch hẹn",
+          "note_vi": "Ngân hàng giờ chỉ làm việc theo lịch hẹn với phần lớn việc. Hãy đặt online."
+        },
+        {
+          "fi": "asiointi",
+          "en": "dealing with an authority",
+          "pos": "noun",
+          "vi": "việc làm thủ tục với cơ quan"
+        },
+        {
+          "fi": "valittaa päätöksestä",
+          "en": "to appeal a decision",
+          "pos": "phrase",
+          "vi": "khiếu nại quyết định"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä en ymmärrä tätä lomaketta.",
+          "en": "I don't understand this form.",
+          "when_to_use": "Say it plainly. Nobody expects you to understand institutional Finnish.",
+          "register": "neutral",
+          "vi": "Tôi không hiểu tờ biểu mẫu này.",
+          "when_to_use_vi": "Hãy nói thẳng. Không ai mong bạn hiểu được tiếng Phần Lan hành chính."
+        },
+        {
+          "fi": "Voitsä selittää mitä mun pitää tehdä?",
+          "en": "Could you explain what I need to do?",
+          "when_to_use": "The crucial half. Turns a wall of text into a list of actions.",
+          "register": "neutral",
+          "vi": "Chị giải thích giúp tôi phải làm gì được không?",
+          "when_to_use_vi": "Nửa quan trọng. Biến một bức tường chữ thành một danh sách việc."
+        },
+        {
+          "fi": "Mä haluaisin varata ajan.",
+          "en": "I'd like to book an appointment.",
+          "when_to_use": "Banks are appointment-only for most things now.",
+          "register": "neutral",
+          "vi": "Tôi muốn đặt một lịch hẹn.",
+          "when_to_use_vi": "Ngân hàng giờ chỉ làm việc theo hẹn với phần lớn việc."
+        },
+        {
+          "fi": "Mitä liitteitä mun pitää lähettää?",
+          "en": "What attachments do I need to send?",
+          "when_to_use": "The most common reason an application stalls. Ask explicitly.",
+          "register": "neutral",
+          "vi": "Tôi cần gửi những tài liệu gì ạ?",
+          "when_to_use_vi": "Lý do phổ biến nhất khiến đơn bị treo. Hãy hỏi rõ ràng."
+        },
+        {
+          "fi": "Mikä on käsittelyaika?",
+          "en": "What's the processing time?",
+          "when_to_use": "Ask so you know whether to worry in three weeks or thirteen.",
+          "register": "neutral",
+          "vi": "Thời gian xử lý là bao lâu ạ?",
+          "when_to_use_vi": "Hỏi để biết nên lo sau ba tuần hay sau mười ba tuần."
+        },
+        {
+          "fi": "Mihin päivään mennessä tää pitää palauttaa?",
+          "en": "By what date does this need to be returned?",
+          "when_to_use": "Deadlines are firm. Get the exact date, not 'soon'.",
+          "register": "neutral",
+          "vi": "Cái này phải trả lại trước ngày nào ạ?",
+          "when_to_use_vi": "Thời hạn ở đây là cứng. Hãy lấy ngày chính xác, đừng nhận «sắp tới»."
+        },
+        {
+          "fi": "Mä sain päätöksen, mut mä en ymmärrä sitä.",
+          "en": "I received a decision, but I don't understand it.",
+          "when_to_use": "Bring the letter and the reference number. They'll go through it.",
+          "register": "neutral",
+          "vi": "Tôi nhận được quyết định, nhưng tôi không hiểu nó.",
+          "when_to_use_vi": "Mang lá thư và số tham chiếu theo. Họ sẽ đi qua từng phần với bạn."
+        },
+        {
+          "fi": "Voinks mä valittaa tästä päätöksestä?",
+          "en": "Can I appeal this decision?",
+          "when_to_use": "Usually yes, within 30 days. The deadline is on the letter.",
+          "register": "neutral",
+          "vi": "Tôi khiếu nại quyết định này được không ạ?",
+          "when_to_use_vi": "Thường là được, trong vòng 30 ngày. Hạn ghi trên lá thư."
+        },
+        {
+          "fi": "Mä haluaisin avata pankkitilin.",
+          "en": "I'd like to open a bank account.",
+          "when_to_use": "Bring passport, residence permit and an address. Book first.",
+          "register": "neutral",
+          "vi": "Tôi muốn mở một tài khoản ngân hàng.",
+          "when_to_use_vi": "Mang hộ chiếu, giấy phép cư trú và địa chỉ. Đặt hẹn trước."
+        },
+        {
+          "fi": "Mä tarvitsen pankkitunnukset.",
+          "en": "I need online banking credentials.",
+          "when_to_use": "These are your digital ID for almost everything here. Prioritise them.",
+          "register": "neutral",
+          "vi": "Tôi cần mã đăng nhập ngân hàng.",
+          "when_to_use_vi": "Đây là danh tính số của bạn cho gần như mọi thứ ở đây. Hãy ưu tiên nó."
+        },
+        {
+          "fi": "Onks tässä viitenumero?",
+          "en": "Is there a reference number for this?",
+          "when_to_use": "Always use it on a payment. Without it money goes astray.",
+          "register": "neutral",
+          "vi": "Cái này có số tham chiếu không ạ?",
+          "when_to_use_vi": "Luôn dùng nó khi thanh toán. Không có nó thì tiền đi lạc."
+        },
+        {
+          "fi": "Voitsä kirjottaa sen ylös mulle?",
+          "en": "Could you write that down for me?",
+          "when_to_use": "For reference numbers, dates and deadlines. Always.",
+          "register": "polite",
+          "vi": "Chị ghi cái đó ra giấy giúp tôi được không ạ?",
+          "when_to_use_vi": "Với số tham chiếu, ngày tháng và thời hạn. Luôn luôn."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A Kela letter you can't read",
+          "setting": "A Kela service point. Duc brings the letter and asks the right question.",
+          "speed": "slow",
+          "note": "'Mitä mun pitää tehdä' reduces four paragraphs to three actions.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Päivää! Mä sain tän kirjeen, mut mä en ymmärrä sitä.",
+              "en": "Good day! I received this letter, but I don't understand it.",
+              "vi": "Chào chị! Tôi nhận được lá thư này, nhưng tôi không hiểu nó."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Päivää. Katsotaan… Joo, tää koskee sun asumistukihakemusta.",
+              "en": "Good day. Let's see… Yes, this concerns your housing allowance application.",
+              "vi": "Chào anh. Để xem… Vâng, cái này liên quan đến đơn xin trợ cấp nhà ở của anh."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Voitsä selittää mitä mun pitää tehdä?",
+              "en": "Could you explain what I need to do?",
+              "vi": "Chị giải thích giúp tôi phải làm gì được không?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Kolme asiaa. Yks: me tarvitaan sun vuokrasopimus. Kaks: palkkatodistus kolmelta kuukaudelta. Kolme: allekirjoitus tähän kohtaan.",
+              "en": "Three things. One: we need your rental agreement. Two: a pay certificate for three months. Three: a signature in this section.",
+              "vi": "Ba việc. Một: chúng tôi cần hợp đồng thuê nhà của anh. Hai: giấy xác nhận thu nhập ba tháng. Ba: chữ ký ở phần này."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä, se on paljon selkeempää. Mihin päivään mennessä?",
+              "en": "Right, that's much clearer. By what date?",
+              "vi": "Vâng, như vậy rõ hơn nhiều. Trước ngày nào ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Kahdenkymmenen päivän sisällä, eli 22. huhtikuuta.",
+              "en": "Within twenty days, so 22 April.",
+              "vi": "Trong vòng hai mươi ngày, tức là ngày 22 tháng Tư ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Voitsä kirjottaa sen päivän ylös mulle?",
+              "en": "Could you write that date down for me?",
+              "vi": "Chị ghi cái ngày đó ra giấy giúp tôi được không ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Joo, tässä. Ja voit lähettää liitteet OmaKelassa, se on nopeempaa.",
+              "en": "Yeah, here. And you can send the attachments via OmaKela, it's faster.",
+              "vi": "Vâng, đây ạ. Và anh có thể gửi tài liệu qua OmaKela, nhanh hơn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä käytän sitä. Mikä on käsittelyaika sen jälkeen?",
+              "en": "I'll use that. What's the processing time after that?",
+              "vi": "Tôi sẽ dùng cái đó. Sau đó thời gian xử lý là bao lâu ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Noin neljä viikkoa. Sä saat päätöksen postissa ja OmaKelaan.",
+              "en": "About four weeks. You'll get the decision by post and in OmaKela.",
+              "vi": "Khoảng bốn tuần. Anh sẽ nhận quyết định qua bưu điện và trên OmaKela."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ja jos päätös on kielteinen, voinks mä valittaa?",
+              "en": "And if the decision is negative, can I appeal?",
+              "vi": "Và nếu quyết định là từ chối, tôi khiếu nại được không ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Voit, kolmenkymmenen päivän sisällä. Ohjeet tulee päätöksen mukana.",
+              "en": "You can, within thirty days. The instructions come with the decision.",
+              "vi": "Được ạ, trong vòng ba mươi ngày. Hướng dẫn đi kèm quyết định."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos tosi paljon. Tää oli hyödyllistä.",
+              "en": "Thanks very much. That was useful.",
+              "vi": "Cảm ơn chị nhiều. Như vậy rất hữu ích."
+            }
+          ],
+          "title_vi": "Một lá thư Kela bạn không đọc được",
+          "setting_vi": "Một điểm phục vụ của Kela. Duc mang lá thư và hỏi đúng câu hỏi.",
+          "note_vi": "«Mitä mun pitää tehdä» rút bốn đoạn văn xuống còn ba việc cần làm."
+        },
+        {
+          "title": "Opening a bank account",
+          "setting": "A booked appointment. Documents on the table.",
+          "speed": "natural",
+          "note": "Pankkitunnukset are the real prize here — they unlock almost every service in Finland.",
+          "lines": [
+            {
+              "speaker": "Virkailija",
+              "fi": "Tervetuloa. Sä halusit avata tilin?",
+              "en": "Welcome. You wanted to open an account?",
+              "vi": "Chào mừng anh. Anh muốn mở tài khoản ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo. Mulla on passi, oleskelulupa ja osoitetodistus.",
+              "en": "Yes. I have my passport, residence permit and proof of address.",
+              "vi": "Vâng. Tôi có hộ chiếu, giấy phép cư trú và giấy xác nhận địa chỉ."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Hyvä, kaikki tarvittava. Ja sä tarvitset varmaan pankkitunnukset?",
+              "en": "Good, everything needed. And you'll presumably need online banking credentials?",
+              "vi": "Tốt, đủ cả. Và chắc anh cũng cần mã đăng nhập ngân hàng?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, ehdottomasti. Mä tarvitsen niitä Kelaan ja verottajalle.",
+              "en": "Yes, definitely. I need them for Kela and the tax office.",
+              "vi": "Vâng, chắc chắn rồi. Tôi cần chúng cho Kela và cơ quan thuế."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Just niin, ne toimii melkein kaikkialla. Ne tulee postissa parissa päivässä.",
+              "en": "Exactly, they work almost everywhere. They come by post in a couple of days.",
+              "vi": "Đúng vậy, chúng dùng được ở gần như mọi nơi. Chúng sẽ đến qua bưu điện trong vài ngày ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Onks tilissä kuukausimaksu?",
+              "en": "Right. Is there a monthly fee on the account?",
+              "vi": "Vâng. Tài khoản có phí hằng tháng không ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Kolme euroa kuussa, sisältää kortin ja verkkopankin.",
+              "en": "Three euros a month, includes the card and online banking.",
+              "vi": "Ba euro một tháng, bao gồm thẻ và ngân hàng trực tuyến ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii. Ja saanks mä tilinumeron heti?",
+              "en": "That works. And do I get the account number straight away?",
+              "vi": "Được. Và tôi nhận được số tài khoản ngay không ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Joo, mä tulostan sen sulle. Tässä IBAN.",
+              "en": "Yes, I'll print it for you. Here's the IBAN.",
+              "vi": "Có ạ, tôi in cho anh. IBAN đây ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Mun työnantaja tarvitsee sen tänään.",
+              "en": "Thanks. My employer needs it today.",
+              "vi": "Cảm ơn chị. Công ty tôi cần nó hôm nay."
+            }
+          ],
+          "title_vi": "Mở một tài khoản ngân hàng",
+          "setting_vi": "Một lịch hẹn đã đặt. Giấy tờ đã đặt trên bàn.",
+          "note_vi": "Pankkitunnukset mới là phần thưởng thật ở đây — chúng mở ra gần như mọi dịch vụ ở Phần Lan."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Decode a letter you can't read",
+          "scenario": "Say you don't understand, ask what you must do, get the deadline in writing.",
+          "your_role": "You, with a Kela letter",
+          "partner_role": "A Kela caseworker",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Päivää! Mä sain tän kirjeen, mut mä en ymmärrä sitä.",
+              "en": "Good day! I received this letter, but I don't understand it.",
+              "hint": "Say it plainly. Nobody expects you to read institutional Finnish.",
+              "vi": "Chào chị! Tôi nhận được lá thư này, nhưng tôi không hiểu nó.",
+              "hint_vi": "Hãy nói thẳng. Không ai mong bạn đọc được tiếng Phần Lan hành chính."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Katsotaan… tää koskee sun asumistukihakemusta.",
+              "en": "Let's see… this concerns your housing allowance application.",
+              "vi": "Để xem… cái này liên quan đến đơn xin trợ cấp nhà ở của anh."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Voitsä selittää mitä mun pitää tehdä?",
+              "en": "Could you explain what I need to do?",
+              "hint": "The crucial question. It turns text into a list of actions.",
+              "vi": "Chị giải thích giúp tôi phải làm gì được không?",
+              "hint_vi": "Câu hỏi then chốt. Nó biến chữ nghĩa thành một danh sách việc."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Kolme asiaa: vuokrasopimus, palkkatodistus ja allekirjoitus.",
+              "en": "Three things: rental agreement, pay certificate and a signature.",
+              "vi": "Ba việc: hợp đồng thuê nhà, giấy xác nhận thu nhập và một chữ ký."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Mihin päivään mennessä?",
+              "en": "Right. By what date?",
+              "hint": "Get the exact date. Deadlines here are firm.",
+              "vi": "Vâng. Trước ngày nào ạ?",
+              "hint_vi": "Lấy ngày chính xác. Thời hạn ở đây là cứng."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "22. huhtikuuta.",
+              "en": "22 April.",
+              "vi": "Ngày 22 tháng Tư ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Voitsä kirjottaa sen ylös mulle?",
+              "en": "Could you write that down for me?",
+              "hint": "Always, for dates and reference numbers.",
+              "vi": "Chị ghi ra giấy giúp tôi được không ạ?",
+              "hint_vi": "Luôn luôn, với ngày tháng và số tham chiếu."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Tässä. Voit lähettää liitteet OmaKelassa.",
+              "en": "Here. You can send the attachments via OmaKela.",
+              "vi": "Đây ạ. Anh có thể gửi tài liệu qua OmaKela."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mikä on käsittelyaika sen jälkeen?",
+              "en": "What's the processing time after that?",
+              "hint": "So you know whether to worry in three weeks or thirteen.",
+              "vi": "Sau đó thời gian xử lý là bao lâu ạ?",
+              "hint_vi": "Để biết nên lo sau ba tuần hay sau mười ba tuần."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Noin neljä viikkoa.",
+              "en": "About four weeks.",
+              "vi": "Khoảng bốn tuần ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Ja jos päätös on kielteinen, voinks mä valittaa?",
+              "en": "Thanks. And if the decision is negative, can I appeal?",
+              "hint": "Usually yes, within 30 days. Worth knowing in advance.",
+              "vi": "Cảm ơn chị. Và nếu quyết định là từ chối, tôi khiếu nại được không ạ?",
+              "hint_vi": "Thường là được, trong 30 ngày. Đáng biết trước."
+            }
+          ],
+          "title_vi": "Giải mã một lá thư bạn không đọc được",
+          "scenario_vi": "Nói là bạn không hiểu, hỏi bạn phải làm gì, lấy thời hạn bằng văn bản.",
+          "your_role_vi": "Bạn, với một lá thư Kela",
+          "partner_role_vi": "Một chuyên viên Kela"
+        }
+      ],
+      "title_vi": "Ngân hàng và Kela",
+      "subtitle_vi": "Lịch hẹn, biểu mẫu, và «tôi không hiểu tờ này»",
+      "warmup_situation_vi": "Một lá thư từ Kela với số tham chiếu, ba mốc hạn và một câu chứa từ «toimeentulotukilaskelma». Bạn không chắc nó đang yêu cầu bạn làm gì hay đang thông báo cho bạn điều gì.",
+      "warmup_question_vi": "Bạn gọi cho ai — và câu nào hữu dụng nhất trong mọi cuộc trò chuyện hành chính ở Phần Lan?",
+      "rescue_vi": "Tôi không hiểu tờ biểu mẫu này. Chị giải thích giúp tôi phải làm gì được không?",
+      "rescue_note_vi": "Nửa sau mới là phần quan trọng. «Mitä mun pitää tehdä» biến một bức tường tiếng Phần Lan hành chính thành một danh sách việc cần làm, mà đó là tất cả những gì bạn thật sự cần. Nhân viên Kela và ngân hàng trả lời câu hỏi này rất tốt."
+    },
+    {
+      "slug": "phone-calls",
+      "number": "10.3",
+      "title": "Phone calls to services",
+      "subtitle": "Menus, queues, and spelling your name",
+      "warmup_situation": "An automated voice gives five options at speed. None of them is obviously yours. Then hold music for eleven minutes, then a person who says their name and a sentence you don't catch at all.",
+      "warmup_question": "This is the hardest listening in the course. What's the plan?",
+      "rescue_fi": "Anteeks, mä en kuullu — voitsä sanoo sen uudestaan?",
+      "rescue_en": "Sorry, I didn't hear that — could you say it again?",
+      "rescue_note": "'En kuullu' (I didn't hear) rather than 'en ymmärtäny' (I didn't understand) is deliberate on the phone: line quality is genuinely bad, it's a completely neutral thing to say, and it gets you a clean repeat without any discussion of your Finnish.",
+      "vocab": [
+        {
+          "fi": "asiakaspalvelu",
+          "en": "customer service",
+          "pos": "noun",
+          "vi": "dịch vụ khách hàng"
+        },
+        {
+          "fi": "puhelinnumero",
+          "en": "phone number",
+          "pos": "noun",
+          "vi": "số điện thoại"
+        },
+        {
+          "fi": "vaihde",
+          "en": "switchboard",
+          "pos": "noun",
+          "vi": "tổng đài"
+        },
+        {
+          "fi": "valikko",
+          "en": "menu",
+          "pos": "noun",
+          "vi": "menu lựa chọn"
+        },
+        {
+          "fi": "valitse",
+          "en": "choose, press",
+          "pos": "verb",
+          "note": "'Valitse yksi' = press one. Listen for the number, not the words.",
+          "vi": "hãy chọn, hãy bấm",
+          "note_vi": "«Valitse yksi» = bấm số một. Hãy nghe con số, đừng nghe từ ngữ."
+        },
+        {
+          "fi": "näppäile",
+          "en": "key in",
+          "pos": "verb",
+          "vi": "hãy bấm số"
+        },
+        {
+          "fi": "jono",
+          "en": "queue",
+          "pos": "noun",
+          "vi": "hàng chờ"
+        },
+        {
+          "fi": "jonotusaika",
+          "en": "waiting time",
+          "pos": "noun",
+          "note": "Often announced. 'Arvioitu jonotusaika' = estimated wait.",
+          "vi": "thời gian chờ",
+          "note_vi": "Thường được thông báo. «Arvioitu jonotusaika» = thời gian chờ dự kiến."
+        },
+        {
+          "fi": "odota hetki",
+          "en": "please hold",
+          "pos": "phrase",
+          "vi": "xin chờ một chút"
+        },
+        {
+          "fi": "takaisinsoitto",
+          "en": "callback",
+          "pos": "noun",
+          "note": "Almost always the better option. Take it.",
+          "vi": "gọi lại",
+          "note_vi": "Hầu như luôn là lựa chọn tốt hơn. Hãy nhận nó."
+        },
+        {
+          "fi": "jätä numero",
+          "en": "leave your number",
+          "pos": "phrase",
+          "vi": "để lại số của bạn"
+        },
+        {
+          "fi": "yhdistän",
+          "en": "I'll connect you",
+          "pos": "verb",
+          "note": "'Mä yhdistän sut' — you're being transferred. Stay on.",
+          "vi": "tôi sẽ nối máy",
+          "note_vi": "«Mä yhdistän sut» — bạn đang được chuyển máy. Hãy giữ máy."
+        },
+        {
+          "fi": "siirrän",
+          "en": "I'll transfer you",
+          "pos": "verb",
+          "vi": "tôi sẽ chuyển máy"
+        },
+        {
+          "fi": "tavata",
+          "en": "to spell out",
+          "pos": "verb",
+          "note": "'Voinks mä tavata sen?' = may I spell it? Essential on the phone.",
+          "vi": "đánh vần",
+          "note_vi": "«Voinks mä tavata sen?» = tôi đánh vần được không? Thiết yếu khi gọi điện."
+        },
+        {
+          "fi": "kirjain",
+          "en": "letter",
+          "pos": "noun",
+          "vi": "chữ cái"
+        },
+        {
+          "fi": "iso alkukirjain",
+          "en": "capital letter",
+          "pos": "noun",
+          "vi": "chữ in hoa"
+        },
+        {
+          "fi": "asiakasnumero",
+          "en": "customer number",
+          "pos": "noun",
+          "note": "Have it in front of you before you dial.",
+          "vi": "số khách hàng",
+          "note_vi": "Hãy để nó trước mặt trước khi bấm số."
+        },
+        {
+          "fi": "henkilötunnus",
+          "en": "personal ID code",
+          "pos": "noun",
+          "vi": "mã định danh cá nhân"
+        },
+        {
+          "fi": "syntymäaika",
+          "en": "date of birth",
+          "pos": "noun",
+          "vi": "ngày sinh"
+        },
+        {
+          "fi": "asia",
+          "en": "matter, business",
+          "pos": "noun",
+          "note": "'Missä asiassa soitat?' = what are you calling about?",
+          "vi": "việc cần giải quyết",
+          "note_vi": "«Missä asiassa soitat?» = anh gọi về việc gì?"
+        },
+        {
+          "fi": "selvittää",
+          "en": "to look into",
+          "pos": "verb",
+          "vi": "tìm hiểu, làm rõ"
+        },
+        {
+          "fi": "tarkistaa",
+          "en": "to check",
+          "pos": "verb",
+          "vi": "kiểm tra"
+        },
+        {
+          "fi": "kuuluu huonosti",
+          "en": "the line is bad",
+          "pos": "phrase",
+          "note": "Blame the line. Always available and often true.",
+          "vi": "đường truyền kém",
+          "note_vi": "Hãy đổ lỗi cho đường truyền. Lúc nào cũng dùng được và thường là thật."
+        },
+        {
+          "fi": "katkesi",
+          "en": "it cut off",
+          "pos": "verb",
+          "vi": "bị ngắt máy"
+        },
+        {
+          "fi": "soitan uudestaan",
+          "en": "I'll call again",
+          "pos": "phrase",
+          "vi": "tôi sẽ gọi lại"
+        },
+        {
+          "fi": "hitaammin",
+          "en": "more slowly",
+          "pos": "adverb",
+          "vi": "chậm hơn"
+        },
+        {
+          "fi": "aukioloajat",
+          "en": "opening hours",
+          "pos": "noun",
+          "vi": "giờ mở cửa"
+        },
+        {
+          "fi": "chat",
+          "en": "chat",
+          "pos": "noun",
+          "note": "Almost every service has one. Vastly easier than the phone — use it.",
+          "vi": "chat trực tuyến",
+          "note_vi": "Gần như mọi dịch vụ đều có. Dễ hơn điện thoại rất nhiều — hãy dùng nó."
+        },
+        {
+          "fi": "sähköposti",
+          "en": "email",
+          "pos": "noun",
+          "vi": "email"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Anteeks, mä en kuullu — voitsä sanoo sen uudestaan?",
+          "en": "Sorry, I didn't hear — could you say that again?",
+          "when_to_use": "'En kuullu' is better than 'en ymmärtäny' on a phone. Fully neutral.",
+          "register": "neutral",
+          "vi": "Xin lỗi, tôi không nghe được — chị nói lại được không ạ?",
+          "when_to_use_vi": "«En kuullu» tốt hơn «en ymmärtäny» khi gọi điện. Hoàn toàn trung tính."
+        },
+        {
+          "fi": "Kuuluu vähän huonosti.",
+          "en": "The line's a bit bad.",
+          "when_to_use": "Always available as an explanation, and often genuinely true.",
+          "register": "casual",
+          "vi": "Đường truyền hơi kém.",
+          "when_to_use_vi": "Lúc nào cũng dùng được như một lời giải thích, và thường đúng là thật."
+        },
+        {
+          "fi": "Voitsä puhuu vähän hitaammin, kiitos?",
+          "en": "Could you speak a bit more slowly, please?",
+          "when_to_use": "Say it early in the call rather than after three repeats.",
+          "register": "neutral",
+          "vi": "Chị nói chậm hơn một chút được không ạ?",
+          "when_to_use_vi": "Nói sớm trong cuộc gọi thay vì sau ba lần nhắc lại."
+        },
+        {
+          "fi": "Mun nimi on Duc Nguyen. Mä tavaan sen: D niin kuin Daavid…",
+          "en": "My name is Duc Nguyen. I'll spell it: D as in David…",
+          "when_to_use": "Offer to spell before being asked. Saves a confusing minute.",
+          "register": "neutral",
+          "vi": "Tôi tên Duc Nguyen. Tôi đánh vần: D như trong David…",
+          "when_to_use_vi": "Chủ động đánh vần trước khi được yêu cầu. Tiết kiệm một phút rối rắm."
+        },
+        {
+          "fi": "Mun asiakasnumero on…",
+          "en": "My customer number is…",
+          "when_to_use": "Have it in front of you before you dial. Read digits slowly.",
+          "register": "neutral",
+          "vi": "Số khách hàng của tôi là…",
+          "when_to_use_vi": "Hãy để nó trước mặt trước khi bấm số. Đọc từng chữ số thật chậm."
+        },
+        {
+          "fi": "Mä soitan siitä laskusta.",
+          "en": "I'm calling about that invoice.",
+          "when_to_use": "Say your business in one short sentence at the start.",
+          "register": "neutral",
+          "vi": "Tôi gọi về hoá đơn đó.",
+          "when_to_use_vi": "Nói việc của bạn trong một câu ngắn ngay từ đầu."
+        },
+        {
+          "fi": "Voinks mä saada takaisinsoiton?",
+          "en": "Could I get a callback?",
+          "when_to_use": "Almost always better than queueing. Take it when offered.",
+          "register": "neutral",
+          "vi": "Tôi xin được gọi lại sau được không ạ?",
+          "when_to_use_vi": "Hầu như luôn tốt hơn xếp hàng chờ. Hãy nhận khi được đề nghị."
+        },
+        {
+          "fi": "Onks teillä chattia?",
+          "en": "Do you have a chat service?",
+          "when_to_use": "Vastly easier than the phone. Ask, then use it instead.",
+          "register": "casual",
+          "vi": "Bên chị có chat trực tuyến không ạ?",
+          "when_to_use_vi": "Dễ hơn điện thoại rất nhiều. Hãy hỏi, rồi dùng nó thay thế."
+        },
+        {
+          "fi": "Voitsä lähettää sen sähköpostilla?",
+          "en": "Could you send that by email?",
+          "when_to_use": "Gets complicated information in writing, at your own pace.",
+          "register": "polite",
+          "vi": "Chị gửi cái đó qua email được không ạ?",
+          "when_to_use_vi": "Giúp bạn có thông tin phức tạp bằng văn bản, theo tốc độ của mình."
+        },
+        {
+          "fi": "Eli mä ymmärsin oikein, että…",
+          "en": "So I understood correctly that…",
+          "when_to_use": "Repeat the conclusion back before hanging up. Every time.",
+          "register": "neutral",
+          "vi": "Tức là tôi hiểu đúng rằng…",
+          "when_to_use_vi": "Nhắc lại kết luận trước khi cúp máy. Lần nào cũng vậy."
+        },
+        {
+          "fi": "Voitsä toistaa sen numeron?",
+          "en": "Could you repeat that number?",
+          "when_to_use": "Never guess at a reference number. Repeat it back digit by digit.",
+          "register": "neutral",
+          "vi": "Chị nhắc lại con số đó được không ạ?",
+          "when_to_use_vi": "Đừng bao giờ đoán một số tham chiếu. Nhắc lại từng chữ số."
+        },
+        {
+          "fi": "Kiitos avusta. Hyvää päivänjatkoa!",
+          "en": "Thanks for the help. Have a good day!",
+          "when_to_use": "The standard sign-off. Said on every service call in Finland.",
+          "register": "neutral",
+          "vi": "Cảm ơn chị đã giúp. Chúc chị một ngày tốt lành!",
+          "when_to_use_vi": "Câu kết chuẩn. Được nói trong mọi cuộc gọi dịch vụ ở Phần Lan."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "The menu, the queue and the person",
+          "setting": "Calling an electricity company about an invoice.",
+          "speed": "slow",
+          "note": "He asks for slower speech at the start, spells his name unprompted, and reads the conclusion back.",
+          "lines": [
+            {
+              "speaker": "Automaatti",
+              "fi": "Tervetuloa asiakaspalveluun. Laskutusasioissa valitse yksi, sopimusasioissa kaksi, muissa asioissa kolme.",
+              "en": "Welcome to customer service. For billing press one, for contracts press two, for other matters press three.",
+              "vi": "Chào mừng đến dịch vụ khách hàng. Về hoá đơn bấm một, về hợp đồng bấm hai, việc khác bấm ba."
+            },
+            {
+              "speaker": "Automaatti",
+              "fi": "Arvioitu jonotusaika on kuusi minuuttia. Voit myös jättää numerosi takaisinsoittoa varten painamalla tähteä.",
+              "en": "Estimated waiting time is six minutes. You can also leave your number for a callback by pressing star.",
+              "vi": "Thời gian chờ dự kiến là sáu phút. Quý khách cũng có thể để lại số để được gọi lại bằng cách bấm dấu sao."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Asiakaspalvelu, Mäkinen.",
+              "en": "Customer service, Mäkinen speaking.",
+              "vi": "Dịch vụ khách hàng, Mäkinen xin nghe."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Päivää! Voitsä puhuu vähän hitaammin, kiitos? Mä opiskelen vielä suomea.",
+              "en": "Good day! Could you speak a bit more slowly, please? I'm still learning Finnish.",
+              "vi": "Chào chị! Chị nói chậm hơn một chút được không ạ? Tôi vẫn đang học tiếng Phần Lan."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Totta kai. Missä asiassa soitat?",
+              "en": "Of course. What are you calling about?",
+              "vi": "Tất nhiên rồi. Anh gọi về việc gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä soitan siitä laskusta. Se näyttää liian isolta.",
+              "en": "I'm calling about that invoice. It looks too high.",
+              "vi": "Tôi gọi về hoá đơn đó. Nó có vẻ cao quá."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Katsotaan. Mikä on sun nimi ja asiakasnumero?",
+              "en": "Let's look. What's your name and customer number?",
+              "vi": "Để xem. Tên và số khách hàng của anh là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Duc Nguyen. Mä tavaan sen: D-U-C, ja sukunimi N-G-U-Y-E-N. Asiakasnumero on 4-4-7-2-9-1.",
+              "en": "Duc Nguyen. I'll spell it: D-U-C, and the surname N-G-U-Y-E-N. Customer number 4-4-7-2-9-1.",
+              "vi": "Duc Nguyen. Tôi đánh vần: D-U-C, và họ là N-G-U-Y-E-N. Số khách hàng 4-4-7-2-9-1."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Kiitos. …Joo, mä näen. Tää on arviolasku, koska me ei oo saanu mittarilukemaa.",
+              "en": "Thanks. …Yes, I see. This is an estimated invoice, because we haven't received a meter reading.",
+              "vi": "Cảm ơn anh. …Vâng, tôi thấy rồi. Đây là hoá đơn ước tính, vì bên tôi chưa nhận được số đồng hồ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, mä en kuullu — mikä lasku?",
+              "en": "Sorry, I didn't hear — what kind of invoice?",
+              "vi": "Xin lỗi, tôi không nghe được — hoá đơn gì ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Arviolasku. Me arvioitiin sun kulutus, koska mittarilukema puuttuu.",
+              "en": "An estimated invoice. We estimated your consumption because the meter reading is missing.",
+              "vi": "Hoá đơn ước tính. Bên tôi ước tính mức tiêu thụ của anh vì thiếu số đồng hồ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ahaa. Mitä mun pitää tehdä?",
+              "en": "Ah. What do I need to do?",
+              "vi": "À. Tôi phải làm gì ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Ilmoita mittarilukema verkkosivuilla, niin me korjataan lasku.",
+              "en": "Report the meter reading on our website, and we'll correct the invoice.",
+              "vi": "Anh báo số đồng hồ trên trang web, rồi bên tôi sửa hoá đơn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Eli mä ymmärsin oikein, että mä ilmotan lukeman netissä ja te lähetätte uuden laskun?",
+              "en": "So I understood correctly that I report the reading online and you send a new invoice?",
+              "vi": "Tức là tôi hiểu đúng rằng tôi báo số đồng hồ trên mạng và bên chị gửi hoá đơn mới?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Juuri niin. Ja maksa vasta uusi lasku.",
+              "en": "Exactly right. And only pay the new invoice.",
+              "vi": "Chính xác ạ. Và anh chỉ trả hoá đơn mới thôi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Voitsä lähettää ohjeet sähköpostilla?",
+              "en": "Right. Could you send the instructions by email?",
+              "vi": "Vâng. Chị gửi hướng dẫn qua email được không ạ?"
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Lähetän heti. Kiitos soitosta!",
+              "en": "Sending right away. Thanks for calling!",
+              "vi": "Tôi gửi ngay. Cảm ơn anh đã gọi!"
+            }
+          ],
+          "title_vi": "Menu, hàng chờ và con người",
+          "setting_vi": "Gọi cho một công ty điện lực về một hoá đơn.",
+          "note_vi": "Anh xin nói chậm hơn ngay từ đầu, tự đánh vần tên, và nhắc lại kết luận."
+        },
+        {
+          "title": "Taking the callback, and finding the chat",
+          "setting": "A smarter approach to the same problem.",
+          "speed": "natural",
+          "note": "Two ways to avoid the phone queue entirely. Both are better.",
+          "lines": [
+            {
+              "speaker": "Automaatti",
+              "fi": "Arvioitu jonotusaika on kaksikymmentäkaksi minuuttia.",
+              "en": "Estimated waiting time is twenty-two minutes.",
+              "vi": "Thời gian chờ dự kiến là hai mươi hai phút."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kakskytkaks minuuttia. Ei kiitos.",
+              "en": "Twenty-two minutes. No thanks.",
+              "vi": "Hai mươi hai phút. Thôi khỏi."
+            },
+            {
+              "speaker": "Automaatti",
+              "fi": "Jätä numerosi takaisinsoittoa varten painamalla tähteä.",
+              "en": "Leave your number for a callback by pressing star.",
+              "vi": "Để lại số của quý khách để được gọi lại bằng cách bấm dấu sao."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Hei, soitan takaisin. Mäkinen täällä.",
+              "en": "Hi, I'm calling back. Mäkinen here.",
+              "vi": "Chào anh, tôi gọi lại đây. Mäkinen ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, että soitit! Mä soitin siitä laskusta.",
+              "en": "Thanks for calling back! I called about that invoice.",
+              "vi": "Cảm ơn chị đã gọi lại! Tôi gọi về hoá đơn đó."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "Joo, mä näen sen. Hoidetaan se nyt.",
+              "en": "Yeah, I can see it. Let's sort it now.",
+              "vi": "Vâng, tôi thấy rồi. Mình xử lý luôn nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja onks teillä muuten chattia? Se olis mulle helpompi.",
+              "en": "Good. And do you have a chat service, by the way? That would be easier for me.",
+              "vi": "Tốt. Mà bên chị có chat trực tuyến không ạ? Như thế dễ hơn cho tôi."
+            },
+            {
+              "speaker": "Virkailija",
+              "fi": "On, verkkosivuilla. Se on auki yhdeksästä kuuteen.",
+              "en": "There is, on the website. It's open from nine to six.",
+              "vi": "Có ạ, trên trang web. Mở từ chín đến sáu giờ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mahtavaa, mä käytän sitä ens kerralla. Kiitos avusta!",
+              "en": "Brilliant, I'll use that next time. Thanks for the help!",
+              "vi": "Tuyệt vời, lần sau tôi dùng cái đó. Cảm ơn chị đã giúp!"
+            }
+          ],
+          "title_vi": "Nhận cuộc gọi lại, và tìm ra chat",
+          "setting_vi": "Một cách tiếp cận thông minh hơn cho cùng vấn đề đó.",
+          "note_vi": "Hai cách để tránh hẳn hàng chờ điện thoại. Cả hai đều tốt hơn."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Survive a service call",
+          "scenario": "Ask for slower speech, spell your name, ask for a repeat, and read the conclusion back.",
+          "your_role": "You, on hold for six minutes",
+          "partner_role": "A customer service agent",
+          "turns": [
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Asiakaspalvelu, Mäkinen.",
+              "en": "Customer service, Mäkinen speaking.",
+              "vi": "Dịch vụ khách hàng, Mäkinen xin nghe."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Päivää! Voitsä puhuu vähän hitaammin, kiitos?",
+              "en": "Good day! Could you speak a bit more slowly, please?",
+              "hint": "Ask at the start, not after three repeats.",
+              "vi": "Chào chị! Chị nói chậm hơn một chút được không ạ?",
+              "hint_vi": "Xin ngay từ đầu, đừng đợi sau ba lần nhắc lại."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Totta kai. Missä asiassa soitat?",
+              "en": "Of course. What are you calling about?",
+              "vi": "Tất nhiên. Anh gọi về việc gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä soitan siitä laskusta. Se näyttää liian isolta.",
+              "en": "I'm calling about that invoice. It looks too high.",
+              "hint": "State your business in one short sentence.",
+              "vi": "Tôi gọi về hoá đơn đó. Nó có vẻ cao quá.",
+              "hint_vi": "Nói việc của bạn trong một câu ngắn."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Mikä on sun nimi ja asiakasnumero?",
+              "en": "What's your name and customer number?",
+              "vi": "Tên và số khách hàng của anh là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Duc Nguyen — mä tavaan sen: D-U-C. Asiakasnumero 4-4-7-2-9-1.",
+              "en": "Duc Nguyen — I'll spell it: D-U-C. Customer number 4-4-7-2-9-1.",
+              "hint": "Offer to spell before being asked. Read digits slowly.",
+              "vi": "Duc Nguyen — tôi đánh vần: D-U-C. Số khách hàng 4-4-7-2-9-1.",
+              "hint_vi": "Chủ động đánh vần. Đọc từng chữ số thật chậm."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Kiitos. Tää on arviolasku, koska mittarilukema puuttuu.",
+              "en": "Thanks. This is an estimated invoice, because the meter reading is missing.",
+              "vi": "Cảm ơn. Đây là hoá đơn ước tính, vì thiếu số đồng hồ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Anteeks, mä en kuullu — mikä lasku?",
+              "en": "Sorry, I didn't hear — what kind of invoice?",
+              "hint": "'En kuullu' is neutral on the phone. Line quality genuinely varies.",
+              "vi": "Xin lỗi, tôi không nghe được — hoá đơn gì ạ?",
+              "hint_vi": "«En kuullu» là trung tính khi gọi điện. Chất lượng đường truyền thật sự khác nhau."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Arviolasku. Ilmota mittarilukema netissä, niin me korjataan se.",
+              "en": "An estimated invoice. Report the meter reading online and we'll correct it.",
+              "vi": "Hoá đơn ước tính. Anh báo số đồng hồ trên mạng, bên tôi sửa lại."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Eli mä ymmärsin oikein, että mä ilmotan lukeman ja te lähetätte uuden laskun?",
+              "en": "So I understood correctly that I report the reading and you send a new invoice?",
+              "hint": "Read the conclusion back before hanging up. Every single time.",
+              "vi": "Tức là tôi hiểu đúng rằng tôi báo số và bên chị gửi hoá đơn mới?",
+              "hint_vi": "Nhắc lại kết luận trước khi cúp máy. Lần nào cũng vậy."
+            },
+            {
+              "speaker": "Virkailija",
+              "is_your_turn": false,
+              "fi": "Juuri niin.",
+              "en": "Exactly right.",
+              "vi": "Chính xác ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Voitsä lähettää ohjeet sähköpostilla?",
+              "en": "Thanks. Could you send the instructions by email?",
+              "hint": "Get the complicated part in writing, at your own pace.",
+              "vi": "Cảm ơn chị. Chị gửi hướng dẫn qua email được không ạ?",
+              "hint_vi": "Lấy phần phức tạp bằng văn bản, theo tốc độ của bạn."
+            }
+          ],
+          "title_vi": "Sống sót qua một cuộc gọi dịch vụ",
+          "scenario_vi": "Xin nói chậm hơn, đánh vần tên, xin nhắc lại, và nhắc lại kết luận.",
+          "your_role_vi": "Bạn, đã chờ sáu phút",
+          "partner_role_vi": "Một nhân viên dịch vụ khách hàng"
+        }
+      ],
+      "title_vi": "Gọi điện cho các dịch vụ",
+      "subtitle_vi": "Menu, hàng chờ, và đánh vần tên mình",
+      "warmup_situation_vi": "Một giọng nói tự động đưa ra năm lựa chọn ở tốc độ cao. Không lựa chọn nào rõ ràng là của bạn. Rồi nhạc chờ mười một phút, rồi một người nói tên họ và một câu mà bạn không bắt được chữ nào.",
+      "warmup_question_vi": "Đây là phần nghe khó nhất trong cả khoá học. Kế hoạch là gì?",
+      "rescue_vi": "Xin lỗi, tôi không nghe được — chị nói lại được không ạ?",
+      "rescue_note_vi": "Nói «en kuullu» (tôi không nghe được) thay vì «en ymmärtäny» (tôi không hiểu) là có chủ ý khi gọi điện: chất lượng đường truyền thật sự kém, đó là điều hoàn toàn trung tính để nói, và nó giúp bạn được nhắc lại sạch sẽ mà không dẫn đến bất kỳ cuộc bàn luận nào về tiếng Phần Lan của bạn."
+    },
+    {
+      "slug": "hairdresser",
+      "number": "10.4",
+      "title": "At the hairdresser",
+      "subtitle": "Explaining what you want — and stopping it in time",
+      "warmup_situation": "You're in the chair. The hairdresser asks what you'd like. You have a very clear picture in your head and roughly four of the words needed to describe it.",
+      "warmup_question": "What do you bring with you — and what's the sentence that stops the scissors?",
+      "rescue_fi": "Hetkinen — vähän lyhyempi vielä, kiitos.",
+      "rescue_en": "Hold on — a bit shorter still, please.",
+      "rescue_note": "You can stop or redirect at any point and it is completely normal. Hairdressers far prefer an interruption mid-cut to a silent, unhappy customer at the end. Speak up the moment something isn't right.",
+      "vocab": [
+        {
+          "fi": "parturi",
+          "en": "barber",
+          "pos": "noun",
+          "vi": "thợ cắt tóc nam"
+        },
+        {
+          "fi": "kampaaja",
+          "en": "hairdresser",
+          "pos": "noun",
+          "vi": "thợ làm tóc"
+        },
+        {
+          "fi": "parturi-kampaamo",
+          "en": "barber and salon",
+          "pos": "noun",
+          "vi": "tiệm cắt tóc và làm tóc"
+        },
+        {
+          "fi": "ajanvaraus",
+          "en": "appointment",
+          "pos": "noun",
+          "note": "Book online or by phone. Some barbers take walk-ins.",
+          "vi": "lịch hẹn",
+          "note_vi": "Đặt trên mạng hoặc qua điện thoại. Một số tiệm nam nhận khách vãng lai."
+        },
+        {
+          "fi": "ilman ajanvarausta",
+          "en": "without an appointment",
+          "pos": "phrase",
+          "vi": "không cần hẹn trước"
+        },
+        {
+          "fi": "hiukset",
+          "en": "hair",
+          "pos": "noun",
+          "note": "Always plural in Finnish. 'Mun hiukset on liian pitkät.'",
+          "vi": "tóc",
+          "note_vi": "Trong tiếng Phần Lan luôn ở dạng số nhiều. «Mun hiukset on liian pitkät.»"
+        },
+        {
+          "fi": "leikkaus",
+          "en": "a cut",
+          "pos": "noun",
+          "vi": "việc cắt tóc"
+        },
+        {
+          "fi": "leikata",
+          "en": "to cut",
+          "pos": "verb",
+          "vi": "cắt"
+        },
+        {
+          "fi": "lyhyempi",
+          "en": "shorter",
+          "pos": "adjective",
+          "vi": "ngắn hơn"
+        },
+        {
+          "fi": "pidempi",
+          "en": "longer",
+          "pos": "adjective",
+          "vi": "dài hơn"
+        },
+        {
+          "fi": "sentti",
+          "en": "centimetre",
+          "pos": "noun",
+          "note": "Speak in centimetres. 'Kaks senttiä pois' is unambiguous.",
+          "vi": "xentimét",
+          "note_vi": "Hãy nói bằng xentimét. «Kaks senttiä pois» thì không thể hiểu sai."
+        },
+        {
+          "fi": "pois",
+          "en": "off",
+          "pos": "adverb",
+          "note": "'Kaks senttiä pois' = two centimetres off. The clearest instruction there is.",
+          "vi": "bỏ đi, cắt bớt",
+          "note_vi": "«Kaks senttiä pois» = cắt bớt hai xentimét. Chỉ dẫn rõ nhất có thể."
+        },
+        {
+          "fi": "sivut",
+          "en": "the sides",
+          "pos": "noun",
+          "vi": "hai bên"
+        },
+        {
+          "fi": "takaa",
+          "en": "at the back",
+          "pos": "adverb",
+          "vi": "phía sau"
+        },
+        {
+          "fi": "päältä",
+          "en": "on top",
+          "pos": "adverb",
+          "vi": "phía trên đỉnh"
+        },
+        {
+          "fi": "otsatukka",
+          "en": "fringe, bangs",
+          "pos": "noun",
+          "vi": "tóc mái"
+        },
+        {
+          "fi": "niska",
+          "en": "nape of the neck",
+          "pos": "noun",
+          "vi": "vùng gáy cổ"
+        },
+        {
+          "fi": "koneella",
+          "en": "with clippers",
+          "pos": "adverb",
+          "note": "'Koneella kolme' = number three clippers. Simple and precise.",
+          "vi": "bằng tông đơ",
+          "note_vi": "«Koneella kolme» = tông đơ số ba. Đơn giản và chính xác."
+        },
+        {
+          "fi": "saksilla",
+          "en": "with scissors",
+          "pos": "adverb",
+          "vi": "bằng kéo"
+        },
+        {
+          "fi": "häivytys",
+          "en": "fade, taper",
+          "pos": "noun",
+          "vi": "kiểu vuốt mờ, tỉa nhỏ dần"
+        },
+        {
+          "fi": "ohentaa",
+          "en": "to thin out",
+          "pos": "verb",
+          "vi": "tỉa thưa ra"
+        },
+        {
+          "fi": "muotoilla",
+          "en": "to style",
+          "pos": "verb",
+          "vi": "tạo kiểu"
+        },
+        {
+          "fi": "pesu",
+          "en": "wash",
+          "pos": "noun",
+          "vi": "gội đầu"
+        },
+        {
+          "fi": "väri",
+          "en": "colour",
+          "pos": "noun",
+          "vi": "màu nhuộm"
+        },
+        {
+          "fi": "raidat",
+          "en": "highlights",
+          "pos": "noun",
+          "vi": "highlight, nhuộm sợi"
+        },
+        {
+          "fi": "parta",
+          "en": "beard",
+          "pos": "noun",
+          "vi": "râu"
+        },
+        {
+          "fi": "siistiä",
+          "en": "to tidy up",
+          "pos": "verb",
+          "note": "'Siisti vaan' = just tidy it up. A safe, minimal instruction.",
+          "vi": "tỉa gọn lại",
+          "note_vi": "«Siisti vaan» = chỉ tỉa gọn thôi. Một chỉ dẫn an toàn, tối thiểu."
+        },
+        {
+          "fi": "sama kuin viimeksi",
+          "en": "the same as last time",
+          "pos": "phrase",
+          "note": "If you liked it, this is the best sentence in the lesson.",
+          "vi": "như lần trước",
+          "note_vi": "Nếu bạn thích lần trước, đây là câu hay nhất trong bài này."
+        },
+        {
+          "fi": "kuva",
+          "en": "picture",
+          "pos": "noun",
+          "note": "Bring one. It solves the entire vocabulary problem.",
+          "vi": "hình ảnh",
+          "note_vi": "Hãy mang một cái. Nó giải quyết toàn bộ vấn đề từ vựng."
+        },
+        {
+          "fi": "riittää",
+          "en": "that's enough",
+          "pos": "verb",
+          "vi": "thế là đủ"
+        },
+        {
+          "fi": "tyytyväinen",
+          "en": "satisfied",
+          "pos": "adjective",
+          "vi": "hài lòng"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mulla on kuva. Tän tyylistä.",
+          "en": "I have a picture. Something like this.",
+          "when_to_use": "Bring one on your phone. It solves the whole vocabulary problem.",
+          "register": "casual",
+          "vi": "Tôi có ảnh. Kiểu như thế này ạ.",
+          "when_to_use_vi": "Mang một cái trên điện thoại. Nó giải quyết toàn bộ vấn đề từ vựng."
+        },
+        {
+          "fi": "Kaks senttiä pois, kiitos.",
+          "en": "Two centimetres off, please.",
+          "when_to_use": "The clearest possible instruction. Numbers beat adjectives.",
+          "register": "neutral",
+          "vi": "Cắt bớt hai xentimét ạ.",
+          "when_to_use_vi": "Chỉ dẫn rõ nhất có thể. Con số hơn tính từ."
+        },
+        {
+          "fi": "Sivut koneella kolme, päältä saksilla.",
+          "en": "Sides with number three clippers, scissors on top.",
+          "when_to_use": "Precise and universally understood by barbers.",
+          "register": "neutral",
+          "vi": "Hai bên tông đơ số ba, phía trên dùng kéo.",
+          "when_to_use_vi": "Chính xác và mọi thợ cắt tóc nam đều hiểu."
+        },
+        {
+          "fi": "Sama kuin viimeksi, kiitos.",
+          "en": "The same as last time, please.",
+          "when_to_use": "The best sentence in the lesson, once you've had a cut you liked.",
+          "register": "casual",
+          "vi": "Như lần trước ạ.",
+          "when_to_use_vi": "Câu hay nhất trong bài, khi bạn đã có một lần cắt mà bạn thích."
+        },
+        {
+          "fi": "Siisti vaan, ei paljon lyhyemmäks.",
+          "en": "Just tidy it up, not much shorter.",
+          "when_to_use": "The safe minimal instruction when you don't want a change.",
+          "register": "casual",
+          "vi": "Chỉ tỉa gọn thôi, đừng ngắn nhiều.",
+          "when_to_use_vi": "Chỉ dẫn tối thiểu an toàn khi bạn không muốn thay đổi gì."
+        },
+        {
+          "fi": "Onks teillä vapaita aikoja tänään?",
+          "en": "Do you have any free slots today?",
+          "when_to_use": "Many barbers take walk-ins. Always worth asking.",
+          "register": "neutral",
+          "vi": "Hôm nay còn chỗ trống không ạ?",
+          "when_to_use_vi": "Nhiều tiệm nam nhận khách vãng lai. Luôn đáng hỏi."
+        },
+        {
+          "fi": "Paljonko leikkaus maksaa?",
+          "en": "How much is a cut?",
+          "when_to_use": "Ask before sitting down. Prices vary a lot.",
+          "register": "neutral",
+          "vi": "Cắt tóc bao nhiêu tiền ạ?",
+          "when_to_use_vi": "Hỏi trước khi ngồi xuống. Giá khác nhau rất nhiều."
+        },
+        {
+          "fi": "Hetkinen — vähän lyhyempi vielä.",
+          "en": "Hold on — a bit shorter still.",
+          "when_to_use": "Interrupt the moment something isn't right. Completely normal.",
+          "register": "casual",
+          "vi": "Chờ đã — ngắn thêm một chút nữa.",
+          "when_to_use_vi": "Hãy ngắt ngay khi có gì không đúng. Hoàn toàn bình thường."
+        },
+        {
+          "fi": "Toi riittää, kiitos.",
+          "en": "That's enough, thanks.",
+          "when_to_use": "Stop them there. Said calmly, it's simply information.",
+          "register": "neutral",
+          "vi": "Thế là đủ ạ, cảm ơn.",
+          "when_to_use_vi": "Dừng họ ở đó. Nói bình tĩnh thì đó chỉ là thông tin."
+        },
+        {
+          "fi": "Voitsä ohentaa vähän?",
+          "en": "Could you thin it out a bit?",
+          "when_to_use": "For thick hair. A common and easily understood request.",
+          "register": "neutral",
+          "vi": "Anh tỉa thưa ra một chút được không ạ?",
+          "when_to_use_vi": "Cho tóc dày. Một yêu cầu phổ biến và dễ hiểu."
+        },
+        {
+          "fi": "Jätä otsatukka pidemmäks.",
+          "en": "Leave the fringe longer.",
+          "when_to_use": "Be specific about which part. It prevents the classic disaster.",
+          "register": "neutral",
+          "vi": "Để tóc mái dài hơn nhé.",
+          "when_to_use_vi": "Hãy nói rõ từng phần. Nó ngăn được thảm hoạ kinh điển."
+        },
+        {
+          "fi": "Tosi hyvä, kiitos! Mä varaan ajan taas kuuden viikon päästä.",
+          "en": "Really good, thanks! I'll book again in six weeks.",
+          "when_to_use": "Book while you're happy and standing there. Much easier than later.",
+          "register": "casual",
+          "vi": "Tốt lắm, cảm ơn anh! Sáu tuần nữa tôi lại đặt hẹn.",
+          "when_to_use_vi": "Đặt hẹn lúc bạn đang hài lòng và đang đứng ở đó. Dễ hơn nhiều so với để sau."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A haircut, with a picture",
+          "setting": "The chair. Duc brought a photo and speaks in centimetres.",
+          "speed": "slow",
+          "note": "Picture plus numbers plus one mid-cut correction. That's the complete technique.",
+          "lines": [
+            {
+              "speaker": "Kampaaja",
+              "fi": "Tervetuloa! Istu vaan. Mitä saisi olla?",
+              "en": "Welcome! Do sit down. What would you like?",
+              "vi": "Chào mừng anh! Anh ngồi đi. Anh muốn kiểu gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mulla on kuva — tän tyylistä.",
+              "en": "Hi! I have a picture — something like this.",
+              "vi": "Chào chị! Tôi có ảnh — kiểu như thế này ạ."
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Ahaa, selvä. Eli sivut lyhyet ja päältä pidemmät?",
+              "en": "Ah, right. So short sides and longer on top?",
+              "vi": "À, vâng. Tức là hai bên ngắn và phía trên dài hơn?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Just noin. Sivut koneella kolme, ja päältä ehkä kaks senttiä pois.",
+              "en": "Exactly. Sides with number three clippers, and maybe two centimetres off the top.",
+              "vi": "Chính xác. Hai bên tông đơ số ba, và phía trên cắt bớt khoảng hai xentimét."
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Hyvä. Entä otsatukka?",
+              "en": "Good. And the fringe?",
+              "vi": "Tốt. Còn tóc mái thì sao ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Jätä se pidemmäks. Mä tykkään siitä.",
+              "en": "Leave it longer. I like it.",
+              "vi": "Để nó dài hơn nhé. Tôi thích như thế."
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Selvä. Pestäänkö hiukset ensin?",
+              "en": "Right. Shall we wash your hair first?",
+              "vi": "Vâng. Mình gội đầu trước nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo kiitos. Ja paljonko tää maksaa?",
+              "en": "Yes please. And how much does this cost?",
+              "vi": "Vâng cảm ơn. Và cái này bao nhiêu tiền ạ?"
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Kolmekymmentäkaks euroa, pesu sisältyy.",
+              "en": "Thirty-two euros, wash included.",
+              "vi": "Ba mươi hai euro, đã gồm gội đầu ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii.",
+              "en": "That works.",
+              "vi": "Được."
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "…Noin. Onks tää hyvä?",
+              "en": "…There. Is this good?",
+              "vi": "…Đó. Thế này ổn không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hetkinen — sivuilta vähän lyhyempi vielä, kiitos.",
+              "en": "Hold on — a bit shorter on the sides still, please.",
+              "vi": "Chờ đã — hai bên ngắn thêm một chút nữa ạ."
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Totta kai. …Näin?",
+              "en": "Of course. …Like this?",
+              "vi": "Tất nhiên rồi. …Thế này ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Toi riittää, kiitos. Tosi hyvä!",
+              "en": "That's enough, thanks. Really good!",
+              "vi": "Thế là đủ ạ, cảm ơn. Tốt lắm!"
+            },
+            {
+              "speaker": "Kampaaja",
+              "fi": "Kiva, että tykkäsit. Varataanko jo seuraava aika?",
+              "en": "Nice that you liked it. Shall we book the next appointment already?",
+              "vi": "Anh thích là em vui rồi. Mình đặt luôn lịch lần sau nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, kuuden viikon päästä.",
+              "en": "Yes, in six weeks.",
+              "vi": "Vâng, sáu tuần nữa."
+            }
+          ],
+          "title_vi": "Một lần cắt tóc, có mang ảnh",
+          "setting_vi": "Chiếc ghế. Duc mang theo một tấm ảnh và nói bằng xentimét.",
+          "note_vi": "Ảnh cộng con số cộng một lần chỉnh giữa lúc cắt. Đó là trọn bộ kỹ thuật."
+        },
+        {
+          "title": "Walk-in, minimal instruction",
+          "setting": "No appointment, no picture, and no ambition.",
+          "speed": "natural",
+          "note": "'Sama kuin viimeksi' and 'siisti vaan' between them cover most visits.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Onks teillä vapaita aikoja tänään?",
+              "en": "Hi! Do you have any free slots today?",
+              "vi": "Chào anh! Hôm nay còn chỗ trống không ạ?"
+            },
+            {
+              "speaker": "Parturi",
+              "fi": "On, vartin päästä. Käykö?",
+              "en": "There is, in fifteen minutes. Does that work?",
+              "vi": "Có, mười lăm phút nữa. Được không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Käy hyvin. Paljonko leikkaus maksaa?",
+              "en": "Works well. How much is a cut?",
+              "vi": "Được lắm. Cắt tóc bao nhiêu tiền ạ?"
+            },
+            {
+              "speaker": "Parturi",
+              "fi": "Kakskytviis. …No niin, mitä tehdään?",
+              "en": "Twenty-five. …Right then, what are we doing?",
+              "vi": "Hai mươi lăm. …Nào, mình làm gì đây?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sama kuin viimeksi, kiitos. Tai siisti vaan, ei paljon lyhyemmäks.",
+              "en": "The same as last time, please. Or just tidy it up, not much shorter.",
+              "vi": "Như lần trước ạ. Hoặc chỉ tỉa gọn thôi, đừng ngắn nhiều."
+            },
+            {
+              "speaker": "Parturi",
+              "fi": "Selvä. Parta myös?",
+              "en": "Right. The beard too?",
+              "vi": "Vâng. Râu nữa không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, siisti se kans.",
+              "en": "Yeah, tidy that too.",
+              "vi": "Vâng, tỉa cả râu luôn."
+            },
+            {
+              "speaker": "Parturi",
+              "fi": "…Valmis. Katso peilistä.",
+              "en": "…Done. Have a look in the mirror.",
+              "vi": "…Xong. Anh nhìn gương xem."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tosi hyvä, kiitos!",
+              "en": "Really good, thanks!",
+              "vi": "Tốt lắm, cảm ơn anh!"
+            }
+          ],
+          "title_vi": "Khách vãng lai, chỉ dẫn tối thiểu",
+          "setting_vi": "Không hẹn trước, không ảnh, và không tham vọng gì.",
+          "note_vi": "«Sama kuin viimeksi» và «siisti vaan» giữa hai câu đó đã bao phủ phần lớn các lần đi cắt."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Get the haircut you wanted",
+          "scenario": "Use a picture and numbers, ask the price, and correct it mid-cut.",
+          "your_role": "You, in the chair",
+          "partner_role": "The hairdresser",
+          "turns": [
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Tervetuloa! Mitä saisi olla?",
+              "en": "Welcome! What would you like?",
+              "vi": "Chào mừng anh! Anh muốn kiểu gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Mulla on kuva — tän tyylistä.",
+              "en": "Hi! I have a picture — something like this.",
+              "hint": "Bring one on your phone. It solves the vocabulary problem entirely.",
+              "vi": "Chào chị! Tôi có ảnh — kiểu như thế này ạ.",
+              "hint_vi": "Mang một cái trên điện thoại. Nó giải quyết hẳn vấn đề từ vựng."
+            },
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Selvä. Eli sivut lyhyet ja päältä pidemmät?",
+              "en": "Right. So short sides and longer on top?",
+              "vi": "Vâng. Tức là hai bên ngắn và phía trên dài hơn?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Just noin. Sivut koneella kolme, päältä kaks senttiä pois.",
+              "en": "Exactly. Sides with number three clippers, two centimetres off the top.",
+              "hint": "Numbers beat adjectives. Clippers by number, length in centimetres.",
+              "vi": "Chính xác. Hai bên tông đơ số ba, phía trên cắt bớt hai xentimét.",
+              "hint_vi": "Con số hơn tính từ. Tông đơ theo số, độ dài theo xentimét."
+            },
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Hyvä. Entä otsatukka?",
+              "en": "Good. And the fringe?",
+              "vi": "Tốt. Còn tóc mái thì sao ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Jätä se pidemmäks.",
+              "en": "Leave it longer.",
+              "hint": "Be specific about each part. It prevents the classic disaster.",
+              "vi": "Để nó dài hơn nhé.",
+              "hint_vi": "Hãy nói rõ từng phần. Nó ngăn được thảm hoạ kinh điển."
+            },
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Selvä. Pestäänkö hiukset ensin?",
+              "en": "Right. Shall we wash your hair first?",
+              "vi": "Vâng. Mình gội đầu trước nhé?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo kiitos. Ja paljonko tää maksaa?",
+              "en": "Yes please. And how much does this cost?",
+              "hint": "Ask before the scissors start. Prices vary a lot.",
+              "vi": "Vâng cảm ơn. Và cái này bao nhiêu tiền ạ?",
+              "hint_vi": "Hỏi trước khi cây kéo bắt đầu. Giá khác nhau rất nhiều."
+            },
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Kolmekytkaks, pesu sisältyy. …Noin. Onks tää hyvä?",
+              "en": "Thirty-two, wash included. …There. Is this good?",
+              "vi": "Ba mươi hai, gồm gội đầu. …Đó. Thế này ổn không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hetkinen — sivuilta vähän lyhyempi vielä.",
+              "en": "Hold on — a bit shorter on the sides still.",
+              "hint": "Interrupt the moment something isn't right. Completely normal.",
+              "vi": "Chờ đã — hai bên ngắn thêm một chút nữa.",
+              "hint_vi": "Ngắt ngay khi có gì không đúng. Hoàn toàn bình thường."
+            },
+            {
+              "speaker": "Kampaaja",
+              "is_your_turn": false,
+              "fi": "Totta kai. Näin?",
+              "en": "Of course. Like this?",
+              "vi": "Tất nhiên rồi. Thế này ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Toi riittää, kiitos. Tosi hyvä!",
+              "en": "That's enough, thanks. Really good!",
+              "hint": "Stop them there, then say you're happy. Both matter.",
+              "vi": "Thế là đủ ạ, cảm ơn. Tốt lắm!",
+              "hint_vi": "Dừng họ ở đó, rồi nói là bạn hài lòng. Cả hai đều quan trọng."
+            }
+          ],
+          "title_vi": "Có được kiểu tóc bạn muốn",
+          "scenario_vi": "Dùng ảnh và con số, hỏi giá, và chỉnh lại giữa lúc cắt.",
+          "your_role_vi": "Bạn, đang ngồi trên ghế",
+          "partner_role_vi": "Người thợ làm tóc"
+        }
+      ],
+      "title_vi": "Ở tiệm cắt tóc",
+      "subtitle_vi": "Nói rõ bạn muốn gì — và dừng nó lại đúng lúc",
+      "warmup_situation_vi": "Bạn đang ngồi trên ghế. Người thợ hỏi bạn muốn kiểu gì. Trong đầu bạn có một hình dung rất rõ và khoảng bốn trong số những từ cần để mô tả nó.",
+      "warmup_question_vi": "Bạn mang gì theo — và câu nào dừng được cây kéo?",
+      "rescue_vi": "Chờ đã — ngắn thêm một chút nữa ạ.",
+      "rescue_note_vi": "Bạn có thể dừng hoặc điều chỉnh ở bất cứ lúc nào và đó là chuyện hoàn toàn bình thường. Thợ cắt tóc thích bị ngắt giữa lúc cắt hơn nhiều so với một khách im lặng mà không hài lòng lúc cuối. Hãy lên tiếng ngay khi có gì không đúng."
+    },
+    {
+      "slug": "repairs-and-workmen",
+      "number": "10.5",
+      "title": "Repairs and workmen",
+      "subtitle": "Mikä siinä on vikana? Paljonks se maksaa?",
+      "warmup_situation": "Something is broken. Someone is coming to look at it. You need to describe a fault you don't fully understand, in a language you don't fully control, and then understand a price.",
+      "warmup_question": "What do you say when you can't name the problem — and what do you ask before any work starts?",
+      "rescue_fi": "Mä en tiedä mikä siinä on vikana. Mä näytän sulle.",
+      "rescue_en": "I don't know what's wrong with it. I'll show you.",
+      "rescue_note": "Showing beats describing every time with a physical fault. Say this, then demonstrate the problem — turn the tap, press the button, make the noise happen. A repairman diagnoses from behaviour, not from your vocabulary.",
+      "vocab": [
+        {
+          "fi": "korjata",
+          "en": "to repair",
+          "pos": "verb",
+          "vi": "sửa chữa"
+        },
+        {
+          "fi": "korjaus",
+          "en": "a repair",
+          "pos": "noun",
+          "vi": "việc sửa chữa"
+        },
+        {
+          "fi": "huolto",
+          "en": "servicing, maintenance",
+          "pos": "noun",
+          "vi": "bảo dưỡng"
+        },
+        {
+          "fi": "asentaja",
+          "en": "fitter, technician",
+          "pos": "noun",
+          "vi": "thợ lắp đặt, kỹ thuật viên"
+        },
+        {
+          "fi": "putkimies",
+          "en": "plumber",
+          "pos": "noun",
+          "vi": "thợ sửa ống nước"
+        },
+        {
+          "fi": "sähköasentaja",
+          "en": "electrician",
+          "pos": "noun",
+          "vi": "thợ điện"
+        },
+        {
+          "fi": "vika",
+          "en": "fault",
+          "pos": "noun",
+          "vi": "lỗi, sự cố"
+        },
+        {
+          "fi": "mikä siinä on vikana",
+          "en": "what's wrong with it",
+          "pos": "phrase",
+          "vi": "nó bị gì"
+        },
+        {
+          "fi": "rikki",
+          "en": "broken",
+          "pos": "adjective",
+          "vi": "bị hỏng"
+        },
+        {
+          "fi": "ei toimi",
+          "en": "doesn't work",
+          "pos": "phrase",
+          "vi": "không hoạt động"
+        },
+        {
+          "fi": "vuotaa",
+          "en": "to leak",
+          "pos": "verb",
+          "note": "'Hana vuotaa' = the tap is leaking. Report leaks immediately.",
+          "vi": "chảy, rò rỉ",
+          "note_vi": "«Hana vuotaa» = vòi nước bị rò. Hãy báo rò rỉ ngay lập tức."
+        },
+        {
+          "fi": "tukossa",
+          "en": "blocked",
+          "pos": "adverb",
+          "note": "'Viemäri on tukossa' = the drain is blocked.",
+          "vi": "bị tắc",
+          "note_vi": "«Viemäri on tukossa» = đường ống thoát bị tắc."
+        },
+        {
+          "fi": "viemäri",
+          "en": "drain",
+          "pos": "noun",
+          "vi": "đường ống thoát nước"
+        },
+        {
+          "fi": "hana",
+          "en": "tap",
+          "pos": "noun",
+          "vi": "vòi nước"
+        },
+        {
+          "fi": "lämmitys",
+          "en": "heating",
+          "pos": "noun",
+          "vi": "hệ thống sưởi"
+        },
+        {
+          "fi": "patteri",
+          "en": "radiator",
+          "pos": "noun",
+          "vi": "lò sưởi, radiator"
+        },
+        {
+          "fi": "sähköt",
+          "en": "the electricity",
+          "pos": "noun",
+          "note": "'Sähköt katkes' = the power went out.",
+          "vi": "điện",
+          "note_vi": "«Sähköt katkes» = mất điện."
+        },
+        {
+          "fi": "sulake",
+          "en": "fuse",
+          "pos": "noun",
+          "vi": "cầu chì"
+        },
+        {
+          "fi": "outo ääni",
+          "en": "a strange noise",
+          "pos": "phrase",
+          "note": "A completely valid diagnosis. Then make the noise for them.",
+          "vi": "một tiếng kêu lạ",
+          "note_vi": "Một cách chẩn đoán hoàn toàn hợp lệ. Rồi hãy bắt chước tiếng đó cho họ nghe."
+        },
+        {
+          "fi": "haju",
+          "en": "a smell",
+          "pos": "noun",
+          "vi": "một cái mùi"
+        },
+        {
+          "fi": "milloin se alkoi",
+          "en": "when did it start",
+          "pos": "phrase",
+          "vi": "nó bắt đầu khi nào"
+        },
+        {
+          "fi": "arvio",
+          "en": "estimate",
+          "pos": "noun",
+          "note": "Ask for one in writing before work starts. Always.",
+          "vi": "bản ước tính",
+          "note_vi": "Hãy xin một bản bằng văn bản trước khi công việc bắt đầu. Luôn luôn."
+        },
+        {
+          "fi": "kustannusarvio",
+          "en": "cost estimate",
+          "pos": "noun",
+          "vi": "bản dự toán chi phí"
+        },
+        {
+          "fi": "tuntiveloitus",
+          "en": "hourly rate",
+          "pos": "noun",
+          "note": "Often 60–90 €/h plus VAT. Ask for the figure.",
+          "vi": "phí theo giờ",
+          "note_vi": "Thường 60–90 €/giờ cộng thuế. Hãy hỏi con số."
+        },
+        {
+          "fi": "matkakulut",
+          "en": "travel costs",
+          "pos": "noun",
+          "note": "Often charged separately. Ask.",
+          "vi": "phí đi lại",
+          "note_vi": "Thường được tính riêng. Hãy hỏi."
+        },
+        {
+          "fi": "varaosa",
+          "en": "spare part",
+          "pos": "noun",
+          "vi": "phụ tùng thay thế"
+        },
+        {
+          "fi": "takuu",
+          "en": "warranty",
+          "pos": "noun",
+          "vi": "bảo hành"
+        },
+        {
+          "fi": "kotitalousvähennys",
+          "en": "household tax deduction",
+          "pos": "noun",
+          "note": "You can deduct part of labour costs from tax. Ask for an itemised invoice.",
+          "vi": "khoản giảm thuế cho việc nhà",
+          "note_vi": "Bạn được trừ một phần chi phí công vào thuế. Hãy xin hoá đơn tách khoản."
+        },
+        {
+          "fi": "lasku",
+          "en": "invoice",
+          "pos": "noun",
+          "vi": "hoá đơn"
+        },
+        {
+          "fi": "erittely",
+          "en": "itemisation",
+          "pos": "noun",
+          "vi": "sự tách khoản chi tiết"
+        },
+        {
+          "fi": "sopiiko aika",
+          "en": "does the time suit",
+          "pos": "phrase",
+          "vi": "giờ đó có được không"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä en tiedä mikä siinä on vikana. Mä näytän sulle.",
+          "en": "I don't know what's wrong with it. I'll show you.",
+          "when_to_use": "Then demonstrate. Showing beats describing every time.",
+          "register": "casual",
+          "vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem.",
+          "when_to_use_vi": "Rồi làm hiện tượng đó ra. Cho xem luôn hiệu quả hơn mô tả."
+        },
+        {
+          "fi": "Se pitää outoa ääntä. Tällaista.",
+          "en": "It's making a strange noise. Like this.",
+          "when_to_use": "Imitate the noise. Repairmen genuinely diagnose from this.",
+          "register": "casual",
+          "vi": "Nó kêu một tiếng lạ. Kiểu như thế này.",
+          "when_to_use_vi": "Hãy bắt chước tiếng đó. Thợ thật sự chẩn đoán được từ đó."
+        },
+        {
+          "fi": "Hana vuotaa keittiössä.",
+          "en": "The kitchen tap is leaking.",
+          "when_to_use": "Report leaks immediately — water damage escalates fast and expensively.",
+          "register": "neutral",
+          "vi": "Vòi nước trong bếp bị rò.",
+          "when_to_use_vi": "Báo rò rỉ ngay — hư hại do nước leo thang rất nhanh và rất tốn kém."
+        },
+        {
+          "fi": "Viemäri on tukossa.",
+          "en": "The drain is blocked.",
+          "when_to_use": "Very common. Say which drain.",
+          "register": "neutral",
+          "vi": "Đường ống thoát bị tắc.",
+          "when_to_use_vi": "Rất thường gặp. Hãy nói rõ ống nào."
+        },
+        {
+          "fi": "Se alko noin viikko sitten.",
+          "en": "It started about a week ago.",
+          "when_to_use": "They will ask. Have the timeline ready.",
+          "register": "casual",
+          "vi": "Nó bắt đầu khoảng một tuần trước.",
+          "when_to_use_vi": "Họ sẽ hỏi. Hãy chuẩn bị sẵn mốc thời gian."
+        },
+        {
+          "fi": "Saanks mä kustannusarvion ennen kun te aloitatte?",
+          "en": "Could I get a cost estimate before you start?",
+          "when_to_use": "Always ask. A completely standard and expected request.",
+          "register": "polite",
+          "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?",
+          "when_to_use_vi": "Luôn hỏi. Một yêu cầu hoàn toàn chuẩn mực và được mong đợi."
+        },
+        {
+          "fi": "Mikä on teidän tuntiveloitus?",
+          "en": "What's your hourly rate?",
+          "when_to_use": "Ask for the figure, and whether VAT is included.",
+          "register": "neutral",
+          "vi": "Phí theo giờ của bên anh là bao nhiêu ạ?",
+          "when_to_use_vi": "Hãy hỏi con số, và hỏi xem đã gồm thuế chưa."
+        },
+        {
+          "fi": "Tuleeko matkakuluja päälle?",
+          "en": "Are there travel costs on top?",
+          "when_to_use": "Often yes, as a separate line. Ask before booking.",
+          "register": "neutral",
+          "vi": "Có tính thêm phí đi lại không ạ?",
+          "when_to_use_vi": "Thường là có, thành một khoản riêng. Hãy hỏi trước khi đặt hẹn."
+        },
+        {
+          "fi": "Kauanko se kestää?",
+          "en": "How long will it take?",
+          "when_to_use": "For planning, and because time often equals money here.",
+          "register": "neutral",
+          "vi": "Mất bao lâu ạ?",
+          "when_to_use_vi": "Để lên kế hoạch, và vì ở đây thời gian thường đồng nghĩa với tiền."
+        },
+        {
+          "fi": "Onks korjauksella takuu?",
+          "en": "Is there a warranty on the repair?",
+          "when_to_use": "Usually yes on the work. Get it stated.",
+          "register": "neutral",
+          "vi": "Việc sửa có được bảo hành không ạ?",
+          "when_to_use_vi": "Thường là có với phần công. Hãy để họ nói rõ ra."
+        },
+        {
+          "fi": "Voinks mä saada erittelyn laskussa?",
+          "en": "Could I have an itemised invoice?",
+          "when_to_use": "Needed for the household tax deduction. Ask for it upfront.",
+          "register": "polite",
+          "vi": "Tôi xin hoá đơn có tách khoản được không ạ?",
+          "when_to_use_vi": "Cần cho khoản giảm thuế việc nhà. Hãy hỏi ngay từ đầu."
+        },
+        {
+          "fi": "Sopiiks torstai aamupäivä?",
+          "en": "Does Thursday morning work?",
+          "when_to_use": "Propose a specific window. Workmen give ranges; pin them down.",
+          "register": "casual",
+          "vi": "Sáng thứ Năm có được không ạ?",
+          "when_to_use_vi": "Hãy đề xuất một khung giờ cụ thể. Thợ hay nói khoảng; hãy chốt lại."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Calling a plumber",
+          "setting": "A leaking tap. Duc describes it by demonstration and asks about cost.",
+          "speed": "slow",
+          "note": "Cost estimate, hourly rate, travel costs, itemised invoice. All four before booking.",
+          "lines": [
+            {
+              "speaker": "Putkimies",
+              "fi": "Haloo, LVI-Palvelu.",
+              "en": "Hello, plumbing services.",
+              "vi": "Xin nghe, Dịch vụ nước và sưởi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Päivää! Meillä vuotaa keittiön hana.",
+              "en": "Good day! Our kitchen tap is leaking.",
+              "vi": "Chào anh! Nhà tôi vòi nước bếp bị rò."
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Selvä. Vuotaako se hanasta vai alta, kaapista?",
+              "en": "Right. Is it leaking from the tap or from underneath, in the cupboard?",
+              "vi": "Vâng. Nó rò ở vòi hay rò từ bên dưới, trong tủ ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä en oo varma. Kaapissa on vettä.",
+              "en": "I'm not sure. There's water in the cupboard.",
+              "vi": "Tôi không chắc. Trong tủ có nước."
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Okei, se voi olla liitos. Milloin se alkoi?",
+              "en": "Okay, it might be a joint. When did it start?",
+              "vi": "Vâng, có thể là chỗ nối. Nó bắt đầu khi nào ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Noin viikko sitten, mut nyt se on pahempi.",
+              "en": "About a week ago, but now it's worse.",
+              "vi": "Khoảng một tuần trước, nhưng giờ nặng hơn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Saanks mä kustannusarvion ennen kun te aloitatte?",
+              "en": "Could I get a cost estimate before you start?",
+              "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?"
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Joo. Mä katon sen paikan päällä ja kerron hinnan ennen töitä.",
+              "en": "Yeah. I'll look at it on site and give you the price before any work.",
+              "vi": "Được ạ. Tôi xem tại chỗ rồi báo giá trước khi làm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Mikä on teidän tuntiveloitus?",
+              "en": "Good. What's your hourly rate?",
+              "vi": "Tốt. Phí theo giờ của bên anh là bao nhiêu ạ?"
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Kaheksankymmentä euroa tunti, sisältää alvin.",
+              "en": "Eighty euros an hour, VAT included.",
+              "vi": "Tám mươi euro một giờ, đã gồm thuế ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tuleeko matkakuluja päälle?",
+              "en": "Are there travel costs on top?",
+              "vi": "Có tính thêm phí đi lại không ạ?"
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Kolmekymmentä euroa kertaluontoisesti.",
+              "en": "Thirty euros as a one-off.",
+              "vi": "Ba mươi euro một lần ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Ja voinks mä saada erittelyn laskussa? Mä haluun kotitalousvähennyksen.",
+              "en": "Right. And could I have an itemised invoice? I want the household tax deduction.",
+              "vi": "Vâng. Và tôi xin hoá đơn có tách khoản được không ạ? Tôi muốn khấu trừ thuế việc nhà."
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Totta kai, me erotellaan työ ja materiaalit. Sopiiks torstai aamupäivä?",
+              "en": "Of course, we separate labour and materials. Does Thursday morning work?",
+              "vi": "Tất nhiên rồi, bên tôi tách riêng công và vật liệu. Sáng thứ Năm có được không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii. Mihin aikaan tarkalleen?",
+              "en": "That works. At what time exactly?",
+              "vi": "Được. Chính xác mấy giờ ạ?"
+            },
+            {
+              "speaker": "Putkimies",
+              "fi": "Kaheksan ja kymmenen välillä. Mä soitan ennen kun mä tulen.",
+              "en": "Between eight and ten. I'll call before I come.",
+              "vi": "Khoảng từ tám đến mười giờ. Tôi gọi trước khi đến ạ."
+            }
+          ],
+          "title_vi": "Gọi thợ sửa ống nước",
+          "setting_vi": "Một vòi nước bị rò. Duc mô tả bằng cách chỉ cho xem và hỏi về chi phí.",
+          "note_vi": "Dự toán, phí giờ, phí đi lại, hoá đơn tách khoản. Cả bốn trước khi đặt hẹn."
+        },
+        {
+          "title": "Showing instead of describing",
+          "setting": "The technician has arrived. Duc doesn't have the words, so he demonstrates.",
+          "speed": "natural",
+          "note": "He makes the noise and turns the dial. Diagnosis in twenty seconds.",
+          "lines": [
+            {
+              "speaker": "Asentaja",
+              "fi": "Moi! No niin, mikä siinä on vikana?",
+              "en": "Hi! Right then, what's wrong with it?",
+              "vi": "Chào anh! Nào, nó bị gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä en tiedä mikä siinä on vikana. Mä näytän sulle.",
+              "en": "I don't know what's wrong with it. I'll show you.",
+              "vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kun mä laitan sen päälle, se pitää outoa ääntä. Tällaista — rrrr.",
+              "en": "When I turn it on, it makes a strange noise. Like this — rrrr.",
+              "vi": "Khi tôi bật nó lên, nó kêu một tiếng lạ. Kiểu như thế này — rrrr."
+            },
+            {
+              "speaker": "Asentaja",
+              "fi": "Ahaa. Ja pyöriikö rumpu?",
+              "en": "Ah. And does the drum turn?",
+              "vi": "À. Thế cái lồng có quay không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vähän, mut hitaasti. Ja siitä tulee outo haju.",
+              "en": "A bit, but slowly. And there's a strange smell from it.",
+              "vi": "Có quay một chút, nhưng chậm. Và có mùi lạ toả ra."
+            },
+            {
+              "speaker": "Asentaja",
+              "fi": "Kuulostaa laakerilta. Mä katon.",
+              "en": "Sounds like a bearing. I'll have a look.",
+              "vi": "Nghe như vòng bi. Tôi xem thử."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Onks se kallis korjata?",
+              "en": "Is that expensive to repair?",
+              "vi": "Sửa cái đó có đắt không ạ?"
+            },
+            {
+              "speaker": "Asentaja",
+              "fi": "Varaosa on noin sata, ja työ pari tuntia. Mä sanon tarkan hinnan kun mä avaan sen.",
+              "en": "The part is about a hundred, and the work a couple of hours. I'll give you an exact price when I open it up.",
+              "vi": "Phụ tùng khoảng một trăm, công khoảng hai tiếng. Tôi báo giá chính xác khi mở nó ra."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Sano ennen kun sä aloitat, niin mä päätän.",
+              "en": "Right. Tell me before you start and I'll decide.",
+              "vi": "Vâng. Anh nói trước khi bắt đầu, để tôi quyết định."
+            },
+            {
+              "speaker": "Asentaja",
+              "fi": "Totta kai. Onks korjaus järkevää? Kone on kaheksan vuotta vanha.",
+              "en": "Of course. Is repairing it sensible? The machine is eight years old.",
+              "vi": "Tất nhiên rồi. Mà sửa có đáng không ạ? Máy này tám năm rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä kysymys. Mitä sä suosittelet?",
+              "en": "Good question. What do you recommend?",
+              "vi": "Câu hỏi hay đấy. Anh khuyên thế nào?"
+            },
+            {
+              "speaker": "Asentaja",
+              "fi": "Rehellisesti: korjaa nyt, mut varaudu uuteen parin vuoden sisällä.",
+              "en": "Honestly: repair it now, but be prepared for a new one within a couple of years.",
+              "vi": "Nói thật: sửa bây giờ, nhưng chuẩn bị tinh thần mua máy mới trong vài năm tới."
+            }
+          ],
+          "title_vi": "Cho xem thay vì mô tả",
+          "setting_vi": "Kỹ thuật viên đã đến. Duc không có từ, nên anh làm hiện tượng đó ra.",
+          "note_vi": "Anh bắt chước tiếng kêu và vặn cái núm. Chẩn đoán trong hai mươi giây."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Book a repair on good terms",
+          "scenario": "Describe the fault by demonstration, then get estimate, rate, travel costs and itemisation.",
+          "your_role": "You, with a leaking tap",
+          "partner_role": "A plumber on the phone",
+          "turns": [
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Haloo, LVI-Palvelu.",
+              "en": "Hello, plumbing services.",
+              "vi": "Xin nghe, Dịch vụ nước và sưởi."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Päivää! Meillä vuotaa keittiön hana.",
+              "en": "Good day! Our kitchen tap is leaking.",
+              "hint": "Report leaks immediately. Water damage escalates fast.",
+              "vi": "Chào anh! Nhà tôi vòi nước bếp bị rò.",
+              "hint_vi": "Báo rò rỉ ngay lập tức. Hư hại do nước leo thang rất nhanh."
+            },
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Vuotaako se hanasta vai alta?",
+              "en": "Is it leaking from the tap or from underneath?",
+              "vi": "Nó rò ở vòi hay rò từ bên dưới ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä en oo varma. Kaapissa on vettä.",
+              "en": "I'm not sure. There's water in the cupboard.",
+              "hint": "Describe what you observe, not what you think the cause is.",
+              "vi": "Tôi không chắc. Trong tủ có nước.",
+              "hint_vi": "Mô tả điều bạn quan sát được, đừng mô tả điều bạn đoán là nguyên nhân."
+            },
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Okei. Milloin se alkoi?",
+              "en": "Okay. When did it start?",
+              "vi": "Vâng. Nó bắt đầu khi nào ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Noin viikko sitten, mut nyt se on pahempi.",
+              "en": "About a week ago, but now it's worse.",
+              "hint": "Timeline plus direction of travel. Both matter.",
+              "vi": "Khoảng một tuần trước, nhưng giờ nặng hơn.",
+              "hint_vi": "Mốc thời gian cộng chiều hướng. Cả hai đều quan trọng."
+            },
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Selvä, mä tulen katsomaan.",
+              "en": "Right, I'll come and look.",
+              "vi": "Vâng, tôi đến xem."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Saanks mä kustannusarvion ennen kun te aloitatte?",
+              "en": "Could I get a cost estimate before you start?",
+              "hint": "Always ask. Completely standard and expected.",
+              "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?",
+              "hint_vi": "Luôn hỏi. Hoàn toàn chuẩn mực và được mong đợi."
+            },
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Joo, mä kerron hinnan ennen töitä. Tuntiveloitus on 80 euroa.",
+              "en": "Yeah, I'll give the price before any work. Hourly rate is 80 euros.",
+              "vi": "Được, tôi báo giá trước khi làm. Phí giờ là 80 euro ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Tuleeko matkakuluja päälle?",
+              "en": "Are there travel costs on top?",
+              "hint": "Often yes, as a separate charge. Ask before booking.",
+              "vi": "Có tính thêm phí đi lại không ạ?",
+              "hint_vi": "Thường là có, thành khoản riêng. Hãy hỏi trước khi đặt hẹn."
+            },
+            {
+              "speaker": "Putkimies",
+              "is_your_turn": false,
+              "fi": "Kolmekymmentä euroa.",
+              "en": "Thirty euros.",
+              "vi": "Ba mươi euro ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Ja voinks mä saada erittelyn laskussa?",
+              "en": "Right. And could I have an itemised invoice?",
+              "hint": "Needed for the household tax deduction. Ask upfront.",
+              "vi": "Vâng. Và tôi xin hoá đơn có tách khoản được không ạ?",
+              "hint_vi": "Cần cho khoản giảm thuế việc nhà. Hãy hỏi ngay từ đầu."
+            }
+          ],
+          "title_vi": "Đặt một lần sửa chữa với điều kiện tốt",
+          "scenario_vi": "Mô tả sự cố bằng cách cho xem, rồi lấy dự toán, phí giờ, phí đi lại và hoá đơn tách khoản.",
+          "your_role_vi": "Bạn, với một vòi nước bị rò",
+          "partner_role_vi": "Thợ sửa ống nước qua điện thoại"
+        }
+      ],
+      "title_vi": "Sửa chữa và thợ đến nhà",
+      "subtitle_vi": "Mikä siinä on vikana? Paljonks se maksaa?",
+      "warmup_situation_vi": "Có thứ gì đó bị hỏng. Có người đang đến xem. Bạn phải mô tả một sự cố mà chính bạn cũng không hiểu hết, bằng một ngôn ngữ bạn cũng chưa nắm hết, rồi sau đó phải hiểu được một cái giá.",
+      "warmup_question_vi": "Bạn nói gì khi không gọi được tên vấn đề — và bạn hỏi gì trước khi công việc bắt đầu?",
+      "rescue_vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem.",
+      "rescue_note_vi": "Với một sự cố vật lý thì cho xem luôn hiệu quả hơn mô tả. Hãy nói câu này rồi làm hiện tượng đó ra — mở vòi nước, bấm cái nút, làm cho tiếng ồn xuất hiện. Người thợ chẩn đoán từ hành vi, không phải từ vốn từ của bạn."
+    },
+    {
+      "slug": "transport",
+      "number": "10.6",
+      "title": "Car, bus, train and taxi",
+      "subtitle": "Tickets, delays and directions",
+      "warmup_situation": "The screen says your train is 25 minutes late and something else you can't read. There's an announcement. Everyone around you starts walking towards a different platform.",
+      "warmup_question": "What do you ask, and who do you ask — when everyone else clearly knows something you don't?",
+      "rescue_fi": "Anteeks, mitä ne juuri sano? Mä en kuullu.",
+      "rescue_en": "Sorry, what did they just say? I didn't catch it.",
+      "rescue_note": "Ask the nearest passenger, not a member of staff — they're closer, they just heard it, and they will tell you. Finns are reserved about starting conversations but genuinely helpful when asked a direct practical question.",
+      "vocab": [
+        {
+          "fi": "juna",
+          "en": "train",
+          "pos": "noun",
+          "vi": "tàu hoả"
+        },
+        {
+          "fi": "bussi",
+          "en": "bus",
+          "pos": "noun",
+          "vi": "xe buýt"
+        },
+        {
+          "fi": "ratikka",
+          "en": "tram",
+          "pos": "noun",
+          "vi": "tàu điện mặt đất"
+        },
+        {
+          "fi": "metro",
+          "en": "metro",
+          "pos": "noun",
+          "vi": "tàu điện ngầm"
+        },
+        {
+          "fi": "lippu",
+          "en": "ticket",
+          "pos": "noun",
+          "vi": "vé"
+        },
+        {
+          "fi": "kertalippu",
+          "en": "single ticket",
+          "pos": "noun",
+          "vi": "vé lượt"
+        },
+        {
+          "fi": "kausilippu",
+          "en": "season ticket",
+          "pos": "noun",
+          "vi": "vé theo kỳ"
+        },
+        {
+          "fi": "matkakortti",
+          "en": "travel card",
+          "pos": "noun",
+          "note": "In Helsinki, the HSL app has largely replaced it.",
+          "vi": "thẻ đi lại",
+          "note_vi": "Ở Helsinki, app HSL phần lớn đã thay thế nó."
+        },
+        {
+          "fi": "vyöhyke",
+          "en": "zone",
+          "pos": "noun",
+          "note": "Helsinki has zones A–D. Buy the right ones or you're fined.",
+          "vi": "vùng giá vé",
+          "note_vi": "Helsinki có các vùng A–D. Mua đúng vùng, không thì bị phạt."
+        },
+        {
+          "fi": "tarkastaja",
+          "en": "ticket inspector",
+          "pos": "noun",
+          "note": "The fine is 80 €. They do check.",
+          "vi": "nhân viên kiểm vé",
+          "note_vi": "Tiền phạt là 80 €. Họ có kiểm tra thật."
+        },
+        {
+          "fi": "asema",
+          "en": "station",
+          "pos": "noun",
+          "vi": "nhà ga"
+        },
+        {
+          "fi": "laituri",
+          "en": "platform",
+          "pos": "noun",
+          "vi": "sân ga"
+        },
+        {
+          "fi": "raide",
+          "en": "track",
+          "pos": "noun",
+          "vi": "đường ray"
+        },
+        {
+          "fi": "pysäkki",
+          "en": "stop",
+          "pos": "noun",
+          "vi": "điểm dừng"
+        },
+        {
+          "fi": "vaihtaa",
+          "en": "to change (transport)",
+          "pos": "verb",
+          "vi": "đổi tuyến, chuyển xe"
+        },
+        {
+          "fi": "myöhässä",
+          "en": "late, delayed",
+          "pos": "adverb",
+          "vi": "trễ, chậm"
+        },
+        {
+          "fi": "myöhästyy",
+          "en": "is delayed",
+          "pos": "verb",
+          "vi": "bị chậm"
+        },
+        {
+          "fi": "peruttu",
+          "en": "cancelled",
+          "pos": "adjective",
+          "vi": "bị huỷ"
+        },
+        {
+          "fi": "korvaava kuljetus",
+          "en": "replacement transport",
+          "pos": "noun",
+          "note": "Usually a bus. Listen for this in announcements.",
+          "vi": "phương tiện thay thế",
+          "note_vi": "Thường là xe buýt. Hãy nghe từ này trong các thông báo."
+        },
+        {
+          "fi": "aikataulu",
+          "en": "timetable",
+          "pos": "noun",
+          "vi": "thời gian biểu"
+        },
+        {
+          "fi": "seuraava",
+          "en": "next",
+          "pos": "adjective",
+          "vi": "tiếp theo"
+        },
+        {
+          "fi": "lähtee",
+          "en": "departs",
+          "pos": "verb",
+          "vi": "khởi hành"
+        },
+        {
+          "fi": "saapuu",
+          "en": "arrives",
+          "pos": "verb",
+          "vi": "đến"
+        },
+        {
+          "fi": "kuulutus",
+          "en": "announcement",
+          "pos": "noun",
+          "vi": "thông báo phát thanh"
+        },
+        {
+          "fi": "paikkalippu",
+          "en": "seat reservation",
+          "pos": "noun",
+          "note": "Required on long-distance trains. Your seat number is on the ticket.",
+          "vi": "vé có chỗ ngồi",
+          "note_vi": "Bắt buộc trên tàu đường dài. Số ghế ghi trên vé."
+        },
+        {
+          "fi": "vaunu",
+          "en": "carriage",
+          "pos": "noun",
+          "vi": "toa tàu"
+        },
+        {
+          "fi": "taksi",
+          "en": "taxi",
+          "pos": "noun",
+          "vi": "taxi"
+        },
+        {
+          "fi": "taksitolppa",
+          "en": "taxi rank",
+          "pos": "noun",
+          "vi": "điểm đón taxi"
+        },
+        {
+          "fi": "kyyti",
+          "en": "ride",
+          "pos": "noun",
+          "vi": "chuyến đi"
+        },
+        {
+          "fi": "paljonko matka maksaa",
+          "en": "how much is the fare",
+          "pos": "phrase",
+          "note": "Taxi prices vary by company here. Ask before getting in.",
+          "vi": "chuyến đi bao nhiêu tiền",
+          "note_vi": "Giá taxi ở đây khác nhau tuỳ hãng. Hãy hỏi trước khi lên xe."
+        },
+        {
+          "fi": "ruuhka",
+          "en": "traffic jam",
+          "pos": "noun",
+          "vi": "tắc đường"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Anteeks, mitä ne juuri sano? Mä en kuullu.",
+          "en": "Sorry, what did they just say? I didn't catch it.",
+          "when_to_use": "Ask the nearest passenger. They just heard it and will tell you.",
+          "register": "casual",
+          "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.",
+          "when_to_use_vi": "Hỏi người khách gần nhất. Họ vừa nghe được và sẽ nói cho bạn."
+        },
+        {
+          "fi": "Miltä laiturilta juna Tampereelle lähtee?",
+          "en": "Which platform does the train to Tampere leave from?",
+          "when_to_use": "Platforms change, especially when there's a delay.",
+          "register": "neutral",
+          "vi": "Tàu đi Tampere khởi hành từ sân ga nào ạ?",
+          "when_to_use_vi": "Sân ga có thay đổi, nhất là khi có chậm chuyến."
+        },
+        {
+          "fi": "Onks tää juna myöhässä?",
+          "en": "Is this train delayed?",
+          "when_to_use": "The screens sometimes lag behind reality. Ask a person.",
+          "register": "casual",
+          "vi": "Tàu này có bị chậm không ạ?",
+          "when_to_use_vi": "Màn hình đôi khi chậm hơn thực tế. Hãy hỏi một người."
+        },
+        {
+          "fi": "Meneeks tää bussi keskustaan?",
+          "en": "Does this bus go to the centre?",
+          "when_to_use": "Ask the driver as you board. Faster than reading the route.",
+          "register": "casual",
+          "vi": "Xe buýt này có đi trung tâm không ạ?",
+          "when_to_use_vi": "Hỏi tài xế khi lên xe. Nhanh hơn đọc lộ trình."
+        },
+        {
+          "fi": "Mistä mä ostan lipun?",
+          "en": "Where do I buy a ticket?",
+          "when_to_use": "In Helsinki, the app. Elsewhere a machine, a kiosk or the driver.",
+          "register": "neutral",
+          "vi": "Tôi mua vé ở đâu ạ?",
+          "when_to_use_vi": "Ở Helsinki thì dùng app. Nơi khác thì máy bán vé, kiosk hoặc tài xế."
+        },
+        {
+          "fi": "Mitkä vyöhykkeet mä tarvitsen?",
+          "en": "Which zones do I need?",
+          "when_to_use": "Ask before travelling. The fine for the wrong zone is 80 euros.",
+          "register": "neutral",
+          "vi": "Tôi cần những vùng nào ạ?",
+          "when_to_use_vi": "Hỏi trước khi đi. Tiền phạt sai vùng là 80 euro."
+        },
+        {
+          "fi": "Missä mun pitää vaihtaa?",
+          "en": "Where do I need to change?",
+          "when_to_use": "Get the stop name, and ideally write it down.",
+          "register": "neutral",
+          "vi": "Tôi phải đổi xe ở đâu ạ?",
+          "when_to_use_vi": "Lấy tên điểm dừng, và tốt nhất là ghi lại."
+        },
+        {
+          "fi": "Montako pysäkkiä siihen on?",
+          "en": "How many stops is it?",
+          "when_to_use": "Easier to track than a street name you've never heard.",
+          "register": "casual",
+          "vi": "Còn bao nhiêu điểm dừng nữa ạ?",
+          "when_to_use_vi": "Dễ theo hơn một tên phố mà bạn chưa nghe bao giờ."
+        },
+        {
+          "fi": "Voitsä sanoa kun me ollaan perillä?",
+          "en": "Could you tell me when we're there?",
+          "when_to_use": "Ask the driver. They usually will, and remember.",
+          "register": "polite",
+          "vi": "Anh nói giúp khi nào tới nhé?",
+          "when_to_use_vi": "Hỏi tài xế. Họ thường sẽ nói, và họ nhớ."
+        },
+        {
+          "fi": "Onks tää paikka vapaa?",
+          "en": "Is this seat free?",
+          "when_to_use": "On a train. Reserved seats are marked on a screen above them.",
+          "register": "casual",
+          "vi": "Chỗ này trống không ạ?",
+          "when_to_use_vi": "Trên tàu. Ghế đã đặt được hiện trên màn hình nhỏ phía trên."
+        },
+        {
+          "fi": "Paljonko matka maksaa keskustaan?",
+          "en": "How much is the fare to the centre?",
+          "when_to_use": "Taxi prices vary by company here. Always ask before getting in.",
+          "register": "neutral",
+          "vi": "Đi ra trung tâm bao nhiêu tiền ạ?",
+          "when_to_use_vi": "Giá taxi ở đây khác nhau tuỳ hãng. Luôn hỏi trước khi lên xe."
+        },
+        {
+          "fi": "Kauanko siihen menee ruuhkassa?",
+          "en": "How long does it take in traffic?",
+          "when_to_use": "For taxis and planning. You'll get an honest estimate.",
+          "register": "casual",
+          "vi": "Lúc tắc đường thì mất bao lâu ạ?",
+          "when_to_use_vi": "Cho taxi và để lên kế hoạch. Bạn sẽ nhận được ước tính thật."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A delay and a platform change",
+          "setting": "The main station. An announcement Duc didn't catch, and everyone moving.",
+          "speed": "slow",
+          "note": "He asks the nearest passenger rather than hunting for staff. Much faster.",
+          "lines": [
+            {
+              "speaker": "Kuulutus",
+              "fi": "Huomio! Juna numero 74 Tampereelle lähtee tänään raiteelta yhdeksän, ei raiteelta kolme.",
+              "en": "Attention! Train number 74 to Tampere departs today from track nine, not track three.",
+              "vi": "Xin chú ý! Tàu số 74 đi Tampere hôm nay khởi hành từ đường ray số chín, không phải đường ray số ba."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, mitä ne juuri sano? Mä en kuullu.",
+              "en": "Sorry, what did they just say? I didn't catch it.",
+              "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được."
+            },
+            {
+              "speaker": "Matkustaja",
+              "fi": "Tampereen juna menee raiteelta yhdeksän. Se vaihtui.",
+              "en": "The Tampere train goes from track nine. It changed.",
+              "vi": "Tàu Tampere đi từ đường ray số chín. Nó đổi rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai, kiitos! Onks se myöhässä?",
+              "en": "Oh, thanks! Is it delayed?",
+              "vi": "À, cảm ơn anh! Nó có bị chậm không ạ?"
+            },
+            {
+              "speaker": "Matkustaja",
+              "fi": "Joo, noin kakskyt minuuttia.",
+              "en": "Yeah, about twenty minutes.",
+              "vi": "Có, khoảng hai mươi phút."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Missä on raide yhdeksän?",
+              "en": "Right. Where's track nine?",
+              "vi": "Vâng. Đường ray số chín ở đâu ạ?"
+            },
+            {
+              "speaker": "Matkustaja",
+              "fi": "Tuolta perältä, vasemmalle. Mä meen kans sinne, tuu perässä.",
+              "en": "Down at the far end, to the left. I'm going there too, follow me.",
+              "vi": "Ở phía cuối kia, rẽ trái. Tôi cũng đi đường đó, anh đi theo tôi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos tosi paljon!",
+              "en": "Thanks very much!",
+              "vi": "Cảm ơn anh nhiều!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks vielä — mulla on paikkalippu vaunuun 5. Missä se on?",
+              "en": "Sorry, one more thing — I have a seat reservation in carriage 5. Where is that?",
+              "vi": "Xin lỗi thêm một câu — tôi có vé chỗ ngồi ở toa số 5. Nó ở đâu ạ?"
+            },
+            {
+              "speaker": "Matkustaja",
+              "fi": "Vaunujen numerot on ovissa. Viitonen on yleensä keskellä.",
+              "en": "The carriage numbers are on the doors. Five is usually in the middle.",
+              "vi": "Số toa ghi ở cửa. Toa số năm thường ở giữa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä tietää. Kiitos avusta!",
+              "en": "Good to know. Thanks for the help!",
+              "vi": "Biết vậy hay. Cảm ơn anh đã giúp!"
+            }
+          ],
+          "title_vi": "Một chuyến chậm và một lần đổi sân ga",
+          "setting_vi": "Nhà ga chính. Một thông báo mà Duc không nghe được, và mọi người đang di chuyển.",
+          "note_vi": "Anh hỏi người khách gần nhất thay vì đi tìm nhân viên. Nhanh hơn nhiều."
+        },
+        {
+          "title": "Bus, zones and a taxi",
+          "setting": "Three short exchanges. Zones matter; the fine is 80 euros.",
+          "speed": "natural",
+          "note": "Asking the driver as you board is faster than reading any route map.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Meneeks tää bussi keskustaan?",
+              "en": "Hi! Does this bus go to the centre?",
+              "vi": "Chào anh! Xe buýt này có đi trung tâm không ạ?"
+            },
+            {
+              "speaker": "Kuljettaja",
+              "fi": "Menee. Onks sulla lippu?",
+              "en": "It does. Do you have a ticket?",
+              "vi": "Có ạ. Anh có vé chưa?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo. Mitkä vyöhykkeet mä tarvitsen?",
+              "en": "I don't. Which zones do I need?",
+              "vi": "Chưa. Tôi cần những vùng nào ạ?"
+            },
+            {
+              "speaker": "Kuljettaja",
+              "fi": "AB riittää. Osta se appista, se on halvempi.",
+              "en": "AB is enough. Buy it on the app, it's cheaper.",
+              "vi": "AB là đủ. Anh mua trên app, rẻ hơn ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Ja voitsä sanoa kun me ollaan perillä?",
+              "en": "Right. And could you tell me when we're there?",
+              "vi": "Vâng. Và anh nói giúp khi nào tới nhé?"
+            },
+            {
+              "speaker": "Kuljettaja",
+              "fi": "Joo, mä sanon.",
+              "en": "Yeah, I'll tell you.",
+              "vi": "Được, tôi sẽ nói ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Paljonko matka maksaa rautatieasemalle?",
+              "en": "Hi! How much is the fare to the railway station?",
+              "vi": "Chào anh! Đi ra ga tàu bao nhiêu tiền ạ?"
+            },
+            {
+              "speaker": "Taksikuljettaja",
+              "fi": "Noin kakskytviis euroa. Kolmekymmentä jos on ruuhkaa.",
+              "en": "About twenty-five euros. Thirty if there's traffic.",
+              "vi": "Khoảng hai mươi lăm euro. Ba mươi nếu tắc đường ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kauanko siihen menee nyt?",
+              "en": "How long does it take now?",
+              "vi": "Giờ này thì mất bao lâu ạ?"
+            },
+            {
+              "speaker": "Taksikuljettaja",
+              "fi": "Vartti, tähän aikaan. Käykö kortti?",
+              "en": "Fifteen minutes, at this hour. Card okay?",
+              "vi": "Mười lăm phút, vào giờ này. Thẻ được không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo. Mennään!",
+              "en": "Yeah. Let's go!",
+              "vi": "Được. Đi thôi!"
+            }
+          ],
+          "title_vi": "Xe buýt, vùng giá vé và một chuyến taxi",
+          "setting_vi": "Ba đoạn trao đổi ngắn. Vùng giá vé quan trọng; tiền phạt là 80 euro.",
+          "note_vi": "Hỏi tài xế khi lên xe nhanh hơn đọc bất kỳ bản đồ lộ trình nào."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Handle a delay and a platform change",
+          "scenario": "Ask a fellow passenger what was announced, then find your platform and carriage.",
+          "your_role": "You, on the concourse",
+          "partner_role": "Another passenger",
+          "turns": [
+            {
+              "speaker": "Kuulutus",
+              "is_your_turn": false,
+              "fi": "Huomio! Juna Tampereelle lähtee raiteelta yhdeksän.",
+              "en": "Attention! The train to Tampere departs from track nine.",
+              "vi": "Xin chú ý! Tàu đi Tampere khởi hành từ đường ray số chín."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Anteeks, mitä ne juuri sano? Mä en kuullu.",
+              "en": "Sorry, what did they just say? I didn't catch it.",
+              "hint": "Ask the nearest passenger. They just heard it.",
+              "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.",
+              "hint_vi": "Hỏi người khách gần nhất. Họ vừa nghe được."
+            },
+            {
+              "speaker": "Matkustaja",
+              "is_your_turn": false,
+              "fi": "Tampereen juna menee raiteelta yhdeksän. Se vaihtui.",
+              "en": "The Tampere train goes from track nine. It changed.",
+              "vi": "Tàu Tampere đi từ đường ray số chín. Nó đổi rồi."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ai, kiitos! Onks se myöhässä?",
+              "en": "Oh, thanks! Is it delayed?",
+              "hint": "Ask the second question while you have them.",
+              "vi": "À, cảm ơn anh! Nó có bị chậm không ạ?",
+              "hint_vi": "Hỏi câu thứ hai khi họ còn ở đó."
+            },
+            {
+              "speaker": "Matkustaja",
+              "is_your_turn": false,
+              "fi": "Joo, noin kakskyt minuuttia.",
+              "en": "Yeah, about twenty minutes.",
+              "vi": "Có, khoảng hai mươi phút."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Missä on raide yhdeksän?",
+              "en": "Right. Where's track nine?",
+              "hint": "Practical and specific. They'll point or walk you there.",
+              "vi": "Vâng. Đường ray số chín ở đâu ạ?",
+              "hint_vi": "Thực tế và cụ thể. Họ sẽ chỉ hoặc dẫn bạn đi."
+            },
+            {
+              "speaker": "Matkustaja",
+              "is_your_turn": false,
+              "fi": "Tuolta perältä, vasemmalle.",
+              "en": "Down at the far end, to the left.",
+              "vi": "Ở phía cuối kia, rẽ trái."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos! Mulla on paikkalippu vaunuun 5 — missä se on?",
+              "en": "Thanks! I have a seat reservation in carriage 5 — where's that?",
+              "hint": "Seat reservations are compulsory on long-distance trains.",
+              "vi": "Cảm ơn anh! Tôi có vé chỗ ngồi ở toa số 5 — nó ở đâu ạ?",
+              "hint_vi": "Vé chỗ ngồi là bắt buộc trên tàu đường dài."
+            },
+            {
+              "speaker": "Matkustaja",
+              "is_your_turn": false,
+              "fi": "Numerot on ovissa. Viitonen on keskellä.",
+              "en": "The numbers are on the doors. Five is in the middle.",
+              "vi": "Số toa ghi ở cửa. Toa năm ở giữa."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvä tietää. Kiitos avusta!",
+              "en": "Good to know. Thanks for the help!",
+              "hint": "They went out of their way. Acknowledge it.",
+              "vi": "Biết vậy hay. Cảm ơn anh đã giúp!",
+              "hint_vi": "Họ đã đi thêm một bước vì bạn. Hãy ghi nhận nó."
+            }
+          ],
+          "title_vi": "Xử lý một chuyến chậm và một lần đổi sân ga",
+          "scenario_vi": "Hỏi một khách khác xem vừa thông báo gì, rồi tìm sân ga và toa của bạn.",
+          "your_role_vi": "Bạn, ở sảnh nhà ga",
+          "partner_role_vi": "Một hành khách khác"
+        }
+      ],
+      "title_vi": "Xe hơi, xe buýt, tàu và taxi",
+      "subtitle_vi": "Vé, chậm chuyến và hỏi đường",
+      "warmup_situation_vi": "Màn hình báo tàu của bạn trễ 25 phút và một thứ gì nữa mà bạn không đọc được. Có một thông báo phát ra. Mọi người quanh bạn bắt đầu đi về phía một sân ga khác.",
+      "warmup_question_vi": "Bạn hỏi gì, và hỏi ai — khi rõ ràng mọi người khác biết điều gì đó mà bạn không biết?",
+      "rescue_vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.",
+      "rescue_note_vi": "Hãy hỏi người khách đứng gần nhất, đừng đi tìm nhân viên — họ ở gần hơn, họ vừa nghe được, và họ sẽ nói cho bạn. Người Phần Lan dè dặt trong việc mở lời nhưng thật sự sẵn lòng giúp khi được hỏi một câu thực tế trực tiếp."
+    }
+  ],
+  "title_vi": "Việc vặt và dịch vụ",
+  "subtitle_vi": "Bưu điện, ngân hàng, hàng chờ điện thoại: những trao đổi nhỏ cộng dồn lại.",
+  "description_vi": "Đây là những việc vặt sẽ đổ bể khi tiếng Phần Lan của bạn chưa chính xác: một bưu kiện bạn không lấy được, một lịch hẹn ngân hàng bạn không giải thích được, một menu điện thoại không có lựa chọn cho tình huống của bạn, một kiểu tóc bạn không muốn. Sáu bài về thứ tiếng Phần Lan hành chính và thực tế giúp cuộc sống hằng ngày chạy được — bao gồm môi trường nghe khó nhất trong cả khoá học, là hàng chờ điện thoại."
+}

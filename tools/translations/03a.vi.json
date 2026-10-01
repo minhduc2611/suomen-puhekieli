@@ -1,0 +1,337 @@
+{
+  "module": {
+    "title_vi": "Hội thoại ở nhà trẻ và trường học",
+    "subtitle_vi": "Những trao đổi ngắn lúc đón con và chuyện trò với phụ huynh.",
+    "description_vi": "Đây là những cuộc hội thoại ba mươi giây bạn có hai lần mỗi ngày, mọi ngày trong tuần, suốt nhiều năm — và chúng nói về chính con bạn, nên việc đơ ra ở đây bực bội hơn nhiều so với ở quầy thu ngân. Chương này bao gồm trao đổi lúc gửi và đón con, hiểu bản báo cáo cuối ngày nói rất nhanh của cô giáo, báo con ốm, buổi họp phụ huynh, và tin nhắn Wilma. Từ vựng ở đây rất đặc thù và đáng học chính xác: kuravaatteet, lepohetki, vasukeskustelu."
+  },
+  "lessons": {
+    "drop-off-and-pickup": {
+      "lesson": {
+        "title_vi": "Gửi con và đón con",
+        "subtitle_vi": "Miten päivä meni? Nukkuiks se?",
+        "warmup_situation_vi": "Bạn đến lúc 16:20. Một cô giáo ngẩng lên và nói một tràng thân thiện, rất nhanh, về ngày hôm nay của con bạn. Bạn mỉm cười, nói «joo», rồi ra về mà không biết con mình có ăn trưa hay không.",
+        "warmup_question_vi": "Ba câu hỏi nào giúp bạn nắm cả ngày trong hai mươi giây?",
+        "rescue_vi": "Hôm nay con ổn chứ ạ?",
+        "rescue_note_vi": "Một câu hỏi có/không, và câu trả lời của nó dễ hiểu hơn nhiều so với câu hỏi mở. Nếu câu trả lời không phải một chữ «joo» đơn giản, bạn biết là cần hỏi thêm — và bạn đã mua được thời gian để nghĩ ra câu hỏi tiếp theo."
+      },
+      "vocab": [
+        { "vi": "nhà trẻ, trường mầm non", "note_vi": "Khi nói thường rút thành «päikky»." },
+        { "vi": "nhà trẻ (tiếng lóng)" },
+        { "vi": "lớp tiền tiểu học (6 tuổi)", "note_vi": "Năm học bắt buộc trước khi vào lớp 1. Ai cũng nói «eskari»." },
+        { "vi": "cô/chú chăm trẻ" },
+        { "vi": "giáo viên", "note_vi": "Chức danh đầy đủ: varhaiskasvatuksen opettaja. Không ai nói ra miệng cả câu đó." },
+        { "vi": "nhóm lớp", "note_vi": "Trẻ được xếp vào các nhóm có tên — Oravat, Nallet, Perhoset." },
+        { "vi": "đưa (đến đâu đó)", "note_vi": "«Mä vien sen päikkyyn» = tôi sẽ đưa con đến nhà trẻ." },
+        { "vi": "đi đón, lấy về", "note_vi": "«Kuka hakee?» = ai đi đón? Câu hỏi được hỏi nhiều nhất trong đời sống gia đình Phần Lan." },
+        { "vi": "ở lại" },
+        { "vi": "ngủ" },
+        { "vi": "giờ nghỉ trưa", "literal_vi": "khoảnh-khắc-nghỉ", "note_vi": "Thường sau bữa trưa. Trẻ lớn hơn thì nằm nghỉ mà không ngủ." },
+        { "vi": "giấc ngủ trưa" },
+        { "vi": "bữa xế chiều", "note_vi": "Khoảng 14 giờ. Đằng nào đến lúc đón con bạn cũng sẽ đói lại." },
+        { "vi": "giờ ra ngoài trời", "note_vi": "Diễn ra trong mọi loại thời tiết. Mọi loại." },
+        { "vi": "quần áo đi mưa ngoài", "literal_vi": "quần-áo-bùn", "note_vi": "Trang bị bắt buộc. Thiếu là bạn sẽ được nhắc." },
+        { "vi": "quần đi mưa" },
+        { "vi": "ủng cao su" },
+        { "vi": "dép đi trong nhà", "note_vi": "Bắt buộc. Giày ngoài luôn được cởi ở cửa, không ngoại lệ." },
+        { "vi": "quần áo thay" },
+        { "vi": "ba lô" },
+        { "vi": "ngăn tủ riêng", "note_vi": "Mỗi bé có một ngăn ở hành lang. Kiểm tra hằng ngày." },
+        { "vi": "hành lang, lối vào" },
+        { "vi": "bữa sáng" },
+        { "vi": "bữa trưa", "note_vi": "Khoảng 11 giờ. Sớm hơn bạn tưởng." },
+        { "vi": "chuyến đi chơi, dã ngoại", "note_vi": "Để ý mấy cái này — thường cần thêm quần áo hoặc đến sớm hơn." },
+        { "vi": "mệt" },
+        { "vi": "vui vẻ" },
+        { "vi": "khóc" }
+      ],
+      "phrases": [
+        { "vi": "Chào cô! Tôi đến đón Eeva.", "when_to_use_vi": "Câu mở đầu chuẩn khi đón con. Hãy nói rõ tên bé." },
+        { "vi": "Hôm nay con thế nào ạ?", "when_to_use_vi": "Câu hỏi mở. Bạn sẽ nhận được câu trả lời đầy đủ, mà đó lại là phần khó." },
+        { "vi": "Hôm nay con ổn chứ ạ?", "when_to_use_vi": "Bản có/không. Câu trả lời dễ hiểu hơn nhiều, và là điểm khởi đầu tốt hơn." },
+        { "vi": "Con có ngủ trưa không ạ?", "when_to_use_vi": "Quyết định cả buổi tối của bạn. Ngày nào cũng hỏi câu này." },
+        { "vi": "Con ăn có tốt không ạ?", "when_to_use_vi": "Câu hỏi quan trọng thứ hai. «Söi» = đã ăn, «ei syöny» = không ăn." },
+        { "vi": "Mọi thứ ổn cả chứ ạ?", "when_to_use_vi": "Câu hỏi bao quát. Mời họ nhắc đến bất cứ chuyện gì không ổn." },
+        { "vi": "Hôm nay tôi gửi con khoảng tám giờ.", "when_to_use_vi": "Báo họ kế hoạch. «noin» = khoảng, và bao giờ cũng là khoảng." },
+        { "vi": "Hôm nay tôi đón con sớm hơn, khoảng ba giờ.", "when_to_use_vi": "Nói lúc gửi con, đừng đợi đến ba giờ. Họ sắp xếp cả ngày theo đó." },
+        { "vi": "Hôm nay vợ tôi đón con.", "when_to_use_vi": "Luôn báo khi người đón khác với thường lệ. Chuyện này quan trọng." },
+        { "vi": "Con có quần áo đi mưa ở đây không ạ?", "when_to_use_vi": "Kiểm tra trước khi mưa, đừng sau. «Onks sillä» dùng được cho mọi món đồ." },
+        { "vi": "Tôi có mang quần áo thay đến.", "when_to_use_vi": "Bỏ vào ngăn tủ và nói ra. Đỡ được một cuộc gọi về sau." },
+        { "vi": "Hẹn mai gặp lại! Chào cô!", "when_to_use_vi": "Câu ra về của bạn, nói với cô giáo và với cả phòng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đón con, bản đầy đủ",
+          "setting_vi": "16:20. Một cô giáo đang dọn dẹp. Duc nắm được cả ngày qua năm câu hỏi.",
+          "note_vi": "Để ý anh ấy hỏi ba câu cụ thể thay vì một câu mở. Dễ theo hơn rất nhiều.",
+          "lines": [
+            { "vi": "Chào cô! Tôi đến đón Eeva." },
+            { "vi": "Chào anh! Vâng, bé đang chơi đằng kia. Eeva ơi, bố đến rồi!", "note_vi": "«iskä» = bố, «äiskä» = mẹ. Rất thông dụng." },
+            { "vi": "Cảm ơn cô. Hôm nay con ổn chứ ạ?" },
+            { "vi": "Rất ổn ạ. Bé chơi nhiều với Liisa." },
+            { "vi": "Hay quá. Con có ngủ trưa không ạ?" },
+            { "vi": "Có ạ, khoảng một tiếng. Vừa đủ." },
+            { "vi": "Tốt. Thế con có ăn bữa trưa không ạ?" },
+            { "vi": "Ăn tốt ạ. Bữa xế thì không nhiều lắm, nhưng bé hơi mệt." },
+            { "vi": "Vâng. Con có quần áo đi mưa ở đây không ạ? Mai trời mưa." },
+            { "vi": "Quần đi mưa thì có, nhưng thiếu ủng cao su. Anh mang đến được không ạ?" },
+            { "vi": "Vâng, sáng mai tôi mang. Cảm ơn cô!" },
+            { "vi": "Cảm ơn anh. Hẹn mai gặp lại!" }
+          ]
+        },
+        {
+          "title_vi": "Gửi con, ba mươi giây",
+          "setting_vi": "08:05. Ai cũng vội, kể cả cô giáo.",
+          "note_vi": "Gửi con nhanh hơn đón con nhiều. Nói những điều cốt yếu rồi đi.",
+          "lines": [
+            { "vi": "Chào cô! Eeva đây ạ." },
+            { "vi": "Chào Eeva! Vào đi con." },
+            { "vi": "Tôi mang ủng cao su đến rồi. Để trong ngăn tủ." },
+            { "vi": "Cảm ơn anh, tốt quá!" },
+            { "vi": "Và hôm nay mẹ bé đón, khoảng bốn giờ." },
+            { "vi": "Vâng, tôi ghi lại ạ." },
+            { "vi": "Cảm ơn cô. Đêm qua bé ngủ không ngon nên có thể hơi hay khóc.", "note_vi": "«itkusta» — từ itkuinen, hay khóc. Từ rất hữu dụng cho phụ huynh." },
+            { "vi": "Không sao đâu ạ, bọn em lo được. Chúc anh một ngày tốt lành!" },
+            { "vi": "Cảm ơn cô, cô cũng vậy. Chào Eeva nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nắm cả ngày qua năm câu hỏi",
+          "scenario_vi": "Đón con và tìm hiểu xem hôm nay thế nào, bằng các câu hỏi có/không.",
+          "your_role_vi": "Bạn, vừa đến đón con",
+          "partner_role_vi": "Một cô giáo thân thiện và nhanh nhẹn",
+          "turns": [
+            { "vi": "Chào anh! Anh đến đón Eeva ạ?" },
+            { "vi": "Chào cô! Vâng. Hôm nay con ổn chứ ạ?", "hint_vi": "Mở đầu bằng câu hỏi có/không, đừng dùng «miten päivä meni»." },
+            { "vi": "Ổn ạ. Bé chơi ngoài trời khá lâu." },
+            { "vi": "Hay quá. Con có ngủ trưa không ạ?", "hint_vi": "Câu hỏi quyết định buổi tối của bạn." },
+            { "vi": "Bé ngủ khoảng một tiếng ạ." },
+            { "vi": "Tốt. Thế con ăn có tốt không ạ?", "hint_vi": "Câu hỏi quan trọng thứ hai." },
+            { "vi": "Bữa trưa ăn tốt, bữa xế thì không lắm ạ." },
+            { "vi": "Vâng. Con có quần áo đi mưa ở đây không ạ?", "hint_vi": "Kiểm tra đồ đạc trước khi cần đến." },
+            { "vi": "Có đủ cả ạ. Anh không cần mang gì thêm." },
+            { "vi": "Tuyệt quá. Cảm ơn cô! Hẹn mai gặp lại.", "hint_vi": "Cảm ơn rồi kết thúc — hội thoại lúc đón con vốn dĩ ngắn." }
+          ]
+        }
+      ]
+    },
+    "teachers-quick-report": {
+      "lesson": {
+        "title_vi": "Hiểu bản báo cáo nhanh của cô giáo",
+        "subtitle_vi": "Ở tốc độ thật, không báo trước",
+        "warmup_situation_vi": "Bạn vừa đến và cô giáo lập tức tuôn ra bốn mươi giây tiếng Phần Lan tốc độ cao về ngày hôm nay của con bạn. Không có chỗ ngắt. Cô ấy đã quay nửa người sang phụ huynh tiếp theo.",
+        "warmup_question_vi": "Bạn không thể nghe hết từng chữ. Ba thứ nào bạn buộc phải nghe được?",
+        "rescue_vi": "Xin lỗi, tôi chưa hiểu hết. Có chuyện gì đặc biệt không ạ?",
+        "rescue_note_vi": "«Oliks jotain erityistä» là nửa sau then chốt. Nó lọc bản báo cáo bốn mươi giây xuống còn đúng một thứ bạn phải hành động, và cho phép cô giáo bỏ qua những chi tiết dễ chịu."
+      },
+      "vocab": [
+        { "vi": "đặc biệt, riêng biệt", "note_vi": "«Jotain erityistä?» = có gì đặc biệt không? Câu hỏi lọc của bạn." },
+        { "vi": "bình thường, như mọi khi", "note_vi": "«Ihan tavallinen päivä» = một ngày hoàn toàn bình thường. Câu bạn mong được nghe." },
+        { "vi": "bình tĩnh, êm ả" },
+        { "vi": "bồn chồn, không yên" },
+        { "vi": "cãi nhau, tranh giành", "note_vi": "«Pieni riita» = một vụ giành giật nhỏ. Bình thường và thường đã được giải quyết rồi." },
+        { "vi": "tai nạn" },
+        { "vi": "ngã" },
+        { "vi": "làm đau (mình)" },
+        { "vi": "vết va, chỗ bầm", "note_vi": "«Pieni kolhu polvessa» — bạn sẽ nghe câu này nhiều và nó không có nghĩa gì nghiêm trọng." },
+        { "vi": "vết bầm tím" },
+        { "vi": "cục u trên đầu" },
+        { "vi": "cắn", "note_vi": "Ở nhóm trẻ nhỏ. Chuyện đó có xảy ra. Họ luôn luôn báo cho bạn." },
+        { "vi": "đánh" },
+        { "vi": "chia sẻ" },
+        { "vi": "chơi" },
+        { "vi": "tham gia" },
+        { "vi": "tập trung" },
+        { "vi": "phát triển, tiến bộ", "note_vi": "Tích cực. «Se on kehittyny paljon» = bé tiến bộ nhiều." },
+        { "vi": "luyện tập", "note_vi": "«Me harjotellaan sitä» = bọn em đang rèn chỗ đó. Cách nói nhẹ nhàng để gọi tên một khó khăn." },
+        { "vi": "diễn ra suôn sẻ", "note_vi": "«Se sujui hyvin» = mọi thứ suôn sẻ." },
+        { "vi": "lo lắng" },
+        { "vi": "xoay xở được, ổn", "note_vi": "«Se pärjäs hyvin» = bé xoay xở tốt. Ở đây đây là lời khen cao." },
+        { "vi": "bạn" },
+        { "vi": "tổng cộng" },
+        { "vi": "ngắn gọn", "note_vi": "«Voitsä kertoa lyhyesti?» = cô nói ngắn gọn được không? Cực kỳ hữu dụng." }
+      ],
+      "phrases": [
+        { "vi": "Có chuyện gì đặc biệt không ạ?", "when_to_use_vi": "Câu hỏi tốt nhất của bạn. Lọc mọi thứ xuống còn cái quan trọng." },
+        { "vi": "Xin lỗi, cô nói ngắn gọn giúp được không ạ?", "when_to_use_vi": "Xin bản tóm tắt thay vì bản đầy đủ. Không ai phiền cả." },
+        { "vi": "Tức là mọi thứ đều ổn phải không ạ?", "when_to_use_vi": "Nhắc lại ý chính. Xác nhận rằng bạn đã nắm được phần quan trọng." },
+        { "vi": "Con có bị va đập gì không ạ?", "when_to_use_vi": "Hỏi thẳng, thay vì phát hiện vết bầm lúc tắm cho con." },
+        { "vi": "Chuyện gì đã xảy ra ạ?", "when_to_use_vi": "Sau khi họ nhắc đến một sự việc. Lấy được bản tóm tắt." },
+        { "vi": "Tôi có cần làm gì không ạ?", "when_to_use_vi": "Câu hỏi về hành động. Cắt qua mọi thứ còn lại." },
+        { "vi": "Mai tôi có cần mang gì không ạ?", "when_to_use_vi": "Hỏi câu này mỗi thứ Sáu và trước mỗi chuyến dã ngoại." },
+        { "vi": "Cô có lo lắng gì không ạ?", "when_to_use_vi": "Mời họ nêu ra điều mà vì tế nhị họ đang giữ lại." },
+        { "vi": "Cô nói lại được không, chậm hơn một chút?", "when_to_use_vi": "Thẳng thắn và hoàn toàn ổn. Giáo viên mầm non quen việc này và làm rất giỏi." },
+        { "vi": "Cô đăng lên Wilma giúp được không ạ?", "when_to_use_vi": "Có được bản viết để bạn đọc theo tốc độ của mình. Thật sự khôn ngoan." },
+        { "vi": "Nghe mừng quá. Cảm ơn cô!", "when_to_use_vi": "Khép lại một bản báo cáo tích cực cho gọn." },
+        { "vi": "Cảm ơn cô đã cho biết.", "when_to_use_vi": "Sau khi họ nêu ra chuyện khó nói. Khuyến khích họ tiếp tục làm vậy." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một bản báo cáo có chuyện",
+          "setting_vi": "Lúc đón con. Có một sự việc xảy ra và cô giáo muốn nhắc đến.",
+          "note_vi": "Để ý các câu hỏi của Duc: chuyện gì xảy ra, bé kia có sao không, tôi nên làm gì.",
+          "lines": [
+            { "vi": "Chào anh! À, em muốn kể anh nghe một chuyện." },
+            { "vi": "Vâng, cô nói đi ạ." },
+            { "vi": "Buổi sáng Eeva có cãi nhau nhỏ với Oskari. Hai bé muốn cùng một món đồ chơi." },
+            { "vi": "Vâng. Chuyện gì đã xảy ra ạ?" },
+            { "vi": "Eeva đẩy bạn một chút. Không mạnh, nhưng bọn em đã nói chuyện về việc đó." },
+            { "vi": "Vâng. Oskari có sao không ạ?" },
+            { "vi": "Bé hoàn toàn ổn ạ. Một tiếng sau hai bé đã chơi với nhau rồi." },
+            { "vi": "Tốt. Tôi có cần làm gì không ạ?" },
+            { "vi": "Không cần đâu ạ. Có lẽ anh nói chuyện với bé ở nhà, rằng mình không đẩy bạn." },
+            { "vi": "Vâng, tôi sẽ làm vậy. Cảm ơn cô đã cho biết." },
+            { "vi": "Không có gì ạ. Ngoài chuyện đó ra thì hôm nay rất ổn!" }
+          ]
+        },
+        {
+          "title_vi": "Bản báo cáo bốn mươi giây, ở tốc độ thật",
+          "setting_vi": "Lúc đón con, ba phụ huynh khác đang đợi. Cô giáo nói nhanh và không ngắt.",
+          "note_vi": "Đừng cố theo hết. Duc bắt được hai dữ kiện và một việc cần làm, rồi xác nhận.",
+          "lines": [
+            { "vi": "Chào anh! Vâng Eeva, chờ chút — hôm nay là một ngày rất tốt, các bé ra ngoài hai lần, bé ăn hết bữa trưa và cả bữa xế, ngủ hơi ngắn hơn nhưng vẫn ổn, và mai có chuyến đi rừng nên cần ủng cao su và đồ ăn mang theo ạ." },
+            { "vi": "Ừm… xin lỗi cô, tôi chưa theo kịp. Tức là hôm nay ổn ạ?", "note_vi": "«en ehtiny» — tôi chưa kịp — nhẹ nhàng hơn «tôi không hiểu»." },
+            { "vi": "Vâng, rất ổn ạ!" },
+            { "vi": "Và mai cần mang gì đó ạ?" },
+            { "vi": "Vâng, ủng cao su và đồ ăn mang theo. Đi rừng ạ." },
+            { "vi": "Ủng cao su và đồ ăn. Mấy giờ các cô khởi hành ạ?" },
+            { "vi": "Chín giờ, nên anh đưa bé đến trước đó một chút nhé." },
+            { "vi": "Vâng. Cô đăng lên Wilma giúp tôi được không ạ?" },
+            { "vi": "Em đăng rồi ạ!" },
+            { "vi": "Tốt quá, tôi sẽ đọc. Cảm ơn cô!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Lọc một bản báo cáo nói nhanh",
+          "scenario_vi": "Bạn chỉ nghe được chừng một nửa. Hãy rút ra hai dữ kiện quan trọng và xác nhận lại.",
+          "your_role_vi": "Bạn, đang đón con, mệt mỏi",
+          "partner_role_vi": "Một cô giáo nói rất nhanh",
+          "turns": [
+            { "vi": "Chào anh! Hôm nay tốt lắm, ra ngoài hai lần, ăn tốt, ngủ ngắn, và mai cần đồ ăn mang theo với ủng cao su vì có chuyến đi chơi ạ." },
+            { "vi": "Xin lỗi cô, tôi chưa theo kịp. Tức là hôm nay ổn ạ?", "hint_vi": "Xác nhận điều lớn nhất trước — còn lại đều là chi tiết." },
+            { "vi": "Vâng, rất ổn ạ!" },
+            { "vi": "Tốt. Mai tôi có cần mang gì không ạ?", "hint_vi": "Giờ mới hỏi về việc cần làm — phần bạn phải hành động." },
+            { "vi": "Vâng, đồ ăn mang theo và ủng cao su. Có chuyến đi rừng ạ." },
+            { "vi": "Đồ ăn và ủng cao su. Mấy giờ ạ?", "hint_vi": "Nhắc lại danh sách, rồi hỏi giờ." },
+            { "vi": "Anh đưa bé đến trước chín giờ một chút nhé." },
+            { "vi": "Vâng. Cô đăng lên Wilma giúp được không ạ?", "hint_vi": "Có bản viết để tối nay bạn kiểm tra lại." },
+            { "vi": "Vâng em đăng ạ." },
+            { "vi": "Cảm ơn cô! Mà ngoài ra có chuyện gì đặc biệt không ạ?", "hint_vi": "Câu hỏi lọc — cơ hội cuối để họ nêu ra điều gì đó." }
+          ]
+        }
+      ]
+    },
+    "sick-days": {
+      "lesson": {
+        "title_vi": "Ngày con ốm và nghỉ học",
+        "subtitle_vi": "Se on tänään kotona kipeenä.",
+        "warmup_situation_vi": "6 giờ 50 sáng. Con bạn sốt. Bạn phải gọi hoặc nhắn cho nhà trẻ, ngay bây giờ, bằng tiếng Phần Lan, trước khi ngày làm việc của bạn bắt đầu.",
+        "warmup_question_vi": "Họ cần bốn thông tin nào — và không cần gì hơn?",
+        "rescue_vi": "Hôm nay Eeva ốm, bé không đến nhà trẻ được ạ.",
+        "rescue_note_vi": "Một câu, trọn vẹn. Tên, tình trạng, hệ quả. Bạn không nợ ai một lời chẩn đoán, và đây là tất cả những gì họ cần để ghi vào sổ điểm danh. Mọi thứ khác đều là tuỳ chọn."
+      },
+      "vocab": [
+        { "vi": "ốm, đau", "note_vi": "«Kipeenä» (cách trạng thái) = ở trạng thái ốm. «Se on kipeenä» = bé đang ốm." },
+        { "vi": "bệnh", "note_vi": "Trang trọng hơn kipeä một chút. Cả hai đều dùng được." },
+        { "vi": "bị ốm, ngã bệnh" },
+        { "vi": "sốt", "note_vi": "«Mulla on kuumetta» — cách phân từ. 38,5 là con số khiến bé phải ở nhà." },
+        { "vi": "cảm cúm" },
+        { "vi": "sổ mũi", "note_vi": "Chỉ sổ mũi thôi thì thường không phải lý do nghỉ ở nhà. Sốt mới là." },
+        { "vi": "ho" },
+        { "vi": "bụng, dạ dày" },
+        { "vi": "bệnh đường ruột", "note_vi": "Luật là 48 tiếng không triệu chứng mới được quay lại. Họ sẽ hỏi." },
+        { "vi": "tiêu chảy" },
+        { "vi": "nôn" },
+        { "vi": "viêm tai" },
+        { "vi": "đau mắt đỏ" },
+        { "vi": "thuỷ đậu" },
+        { "vi": "sự lây nhiễm" },
+        { "vi": "dễ lây" },
+        { "vi": "vắng mặt, không có ở đó" },
+        { "vi": "sự vắng mặt", "note_vi": "Từ trên Wilma. «Ilmoita poissaolo» = báo vắng mặt." },
+        { "vi": "báo, thông báo" },
+        { "vi": "thông báo" },
+        { "vi": "hồi phục" },
+        { "vi": "khỏi bệnh" },
+        { "vi": "không còn triệu chứng", "note_vi": "«Oireeton 48 tuntia» — luật quay lại sau bệnh đường ruột." },
+        { "vi": "bác sĩ" },
+        { "vi": "một ngày đêm (24 giờ)", "note_vi": "Được dùng thay cho «ngày» trong các quy định y tế. «Kaks vuorokautta» = trọn hai ngày." },
+        { "vi": "kỳ nghỉ", "note_vi": "Cũng phải báo cả những buổi nghỉ đã lên kế hoạch — nó ảnh hưởng đến việc xếp người của họ." }
+      ],
+      "phrases": [
+        { "vi": "Hôm nay Eeva ốm.", "when_to_use_vi": "Câu cốt lõi. Để ý chữ «kipeenä», ở cách trạng thái." },
+        { "vi": "Hôm nay bé không đến nhà trẻ.", "when_to_use_vi": "Hệ quả. Nói cả câu này lẫn lý do." },
+        { "vi": "Bé sốt 38,5 ạ.", "when_to_use_vi": "Hãy đưa con số. Nhà trẻ Phần Lan có ngưỡng sốt rõ ràng và họ muốn biết chỉ số." },
+        { "vi": "Bắt đầu từ đêm qua.", "when_to_use_vi": "Hữu ích để họ biết các bé khác có bị phơi nhiễm hay không." },
+        { "vi": "Bé bị bệnh đường ruột.", "when_to_use_vi": "Nói rõ điều này — nó kích hoạt quy định 48 tiếng và họ cần biết." },
+        { "vi": "Khi nào bé có thể đi học lại ạ?", "when_to_use_vi": "Hỏi thay vì đoán. Quy định khác nhau tuỳ bệnh." },
+        { "vi": "Bé đã hết triệu chứng được một ngày rồi ạ.", "when_to_use_vi": "Câu giúp con bạn được nhận lại. Học thuộc chính xác." },
+        { "vi": "Tôi cũng đã báo trên Wilma rồi ạ.", "when_to_use_vi": "Chắc ăn cả hai đường. Gọi hoặc nhắn, rồi ghi nhận lại." },
+        { "vi": "Tôi ở nhà với bé.", "when_to_use_vi": "Cho họ biết liên lạc với ai và ở đâu. Hữu ích." },
+        { "vi": "Mai bé sẽ đi học lại, nếu mọi thứ ổn.", "when_to_use_vi": "Nói nước đôi là chuyện bình thường và được mong đợi. Không ai bắt bẻ bạn." },
+        { "vi": "Tuần sau Eeva nghỉ phép ạ.", "when_to_use_vi": "Cũng báo cả những buổi nghỉ đã định. Nó ảnh hưởng đến việc xếp người." },
+        { "vi": "Trong lớp có ai bị bệnh đường ruột không ạ?", "when_to_use_vi": "Đáng hỏi. Họ sẽ cho bạn biết đang có dịch gì." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cuộc gọi lúc 6 giờ 50",
+          "setting_vi": "Sáng sớm. Duc gọi cho nhà trẻ với đứa con đang sốt trên đùi.",
+          "note_vi": "Bốn thông tin, một câu hỏi, xong trong bốn mươi giây.",
+          "lines": [
+            { "vi": "Nhà trẻ Oravat xin nghe, chào buổi sáng ạ." },
+            { "vi": "Chào cô! Tôi là Duc, bố của Eeva. Hôm nay Eeva ốm ạ.", "note_vi": "Xưng tên và cho biết mình là phụ huynh của ai. Họ có rất nhiều bé." },
+            { "vi": "Ôi tiếc quá. Bé bị sao ạ?" },
+            { "vi": "Bé sốt 38,5. Bắt đầu từ đêm qua." },
+            { "vi": "Vâng. Có triệu chứng nào khác không ạ? Đau bụng hay ho?" },
+            { "vi": "Hơi sổ mũi. Không có vấn đề về bụng." },
+            { "vi": "Vâng. Anh giữ bé ở nhà cho đến khi hết sốt được trọn một ngày nhé." },
+            { "vi": "Vâng. Tức là nếu hôm nay hết sốt thì ngày kia bé đi học được ạ?" },
+            { "vi": "Chính xác ạ. Và có ai ở nhà với bé không ạ?" },
+            { "vi": "Có, tôi ở nhà. Tôi cũng đã báo lên Wilma rồi ạ." },
+            { "vi": "Tốt ạ. Chúc Eeva mau khỏe!" },
+            { "vi": "Cảm ơn cô! Hẹn sớm gặp lại." }
+          ]
+        },
+        {
+          "title_vi": "Bệnh đường ruột và quy định 48 tiếng",
+          "setting_vi": "Cuộc gọi ngắn. Quy định ở đây nghiêm ngặt và không thương lượng.",
+          "note_vi": "«Vatsatauti» thay đổi mọi thứ. Nói từ đó ra và hãy chờ quy định.",
+          "lines": [
+            { "vi": "Oravat xin nghe, chào anh!" },
+            { "vi": "Chào cô, Duc đây, bố Eeva. Đêm qua Eeva nôn, hôm nay bé không đến ạ." },
+            { "vi": "Vâng, cảm ơn anh đã báo. Có phải bệnh đường ruột không ạ?" },
+            { "vi": "Có vẻ vậy. Hai lần trong đêm." },
+            { "vi": "Vậy thì bé phải hết triệu chứng 48 tiếng mới quay lại được ạ." },
+            { "vi": "48 tiếng, vâng. Trong lớp có ai bị bệnh đường ruột không ạ?" },
+            { "vi": "Tuần trước có hai bé ạ. Đang có dịch." },
+            { "vi": "Ồ vậy à. Thôi, khi nào bé ổn tôi sẽ báo." },
+            { "vi": "Cảm ơn anh. Chúc bé mau khỏe!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Báo con ốm",
+          "scenario_vi": "6 giờ 50 sáng và con bạn sốt. Cho họ thông tin cần thiết và hỏi quy định đi học lại.",
+          "your_role_vi": "Bạn, gọi gấp",
+          "partner_role_vi": "Cô giáo nghe máy",
+          "turns": [
+            { "vi": "Nhà trẻ Oravat xin nghe, chào buổi sáng ạ." },
+            { "vi": "Chào cô! Tôi là Duc, bố của Eeva. Hôm nay Eeva ốm ạ.", "hint_vi": "Xưng tên, cho biết mình là phụ huynh của ai, rồi vào thẳng vấn đề." },
+            { "vi": "Ôi tiếc quá. Bé bị sao ạ?" },
+            { "vi": "Bé sốt 38,5. Bắt đầu từ đêm qua.", "hint_vi": "Đưa con số — họ có ngưỡng và muốn biết chỉ số." },
+            { "vi": "Vâng. Còn triệu chứng nào khác không ạ?" },
+            { "vi": "Hơi sổ mũi, không có gì khác.", "hint_vi": "Ngắn gọn và sự kiện. Không cần chẩn đoán." },
+            { "vi": "Vâng. Ở nhà cho đến khi hết sốt được một ngày nhé ạ." },
+            { "vi": "Vâng. Tức là ngày kia bé đi học được ạ?", "hint_vi": "Nhắc lại quy định dưới dạng ngày cụ thể, chứ không phải dạng quy tắc — dễ thực hiện hơn." },
+            { "vi": "Chính xác ạ, nếu hôm nay hết sốt." },
+            { "vi": "Cảm ơn cô. Tôi cũng đã báo lên Wilma rồi ạ.", "hint_vi": "Nhắc đến bản ghi bằng văn bản — nó khép lại vòng tròn." }
+          ]
+        }
+      ]
+    }
+  }
+}

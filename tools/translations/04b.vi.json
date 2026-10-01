@@ -1,0 +1,209 @@
+{
+  "lessons": {
+    "body-parts-and-pain": {
+      "lesson": {
+        "title_vi": "Bộ phận cơ thể và cơn đau",
+        "subtitle_vi": "Tähän sattuu. Millon se alko?",
+        "warmup_situation_vi": "Bác sĩ ấn bốn chỗ trên bụng bạn và mỗi lần lại hỏi một câu. Bạn cần trả lời chính xác, nhanh, bốn lần.",
+        "warmup_question_vi": "Bạn có phân biệt được trái phải bằng tiếng Phần Lan — trong lúc căng thẳng không?",
+        "rescue_vi": "Chờ chút, để tôi nghĩ… à không, bên kia.",
+        "rescue_note_vi": "Tự sửa lại tốt hơn nhiều so với đoán bừa. «Se toinen puoli» — bên kia — vẫn dùng được ngay cả khi vasen và oikea đã bỏ rơi bạn, mà lúc bị khám thì chuyện đó hay xảy ra."
+      },
+      "vocab": [
+        { "vi": "đầu" }, { "vi": "trán" }, { "vi": "mắt" }, { "vi": "tai" }, { "vi": "mũi" },
+        { "vi": "miệng" }, { "vi": "răng" }, { "vi": "cổ (phía trước)" },
+        { "vi": "gáy, cổ (phía sau)", "note_vi": "Tiếng Phần Lan phân biệt hai từ này. «Niska on jumissa» = cổ tôi bị cứng." },
+        { "vi": "vai (hai bên)" }, { "vi": "khớp vai" },
+        { "vi": "tay, cánh tay", "note_vi": "Dùng cho cả hai. Nếu cần nói riêng cánh tay thì dùng «käsivarsi»." },
+        { "vi": "ngón tay" }, { "vi": "cổ tay" }, { "vi": "khuỷu tay" },
+        { "vi": "ngực", "note_vi": "«Rinnassa sattuu» — nói câu này là bạn sẽ được khám ngay lập tức." },
+        { "vi": "lưng" }, { "vi": "thắt lưng, lưng dưới" }, { "vi": "sườn, hông" },
+        { "vi": "hông, khung chậu" }, { "vi": "đầu gối" }, { "vi": "mắt cá chân" },
+        { "vi": "chân, bàn chân", "note_vi": "Dùng cho cả hai, giống käsi. Cần thì hãy chỉ tay." },
+        { "vi": "ngón chân" }, { "vi": "bên trái" },
+        { "vi": "bên phải", "note_vi": "Cũng có nghĩa là «đúng». Ngữ cảnh quyết định." },
+        { "vi": "cả hai" }, { "vi": "bong gân, trẹo" }, { "vi": "gãy (xương)" },
+        { "vi": "căng cơ, giãn cơ" },
+        { "vi": "bị cứng, bị kẹt", "note_vi": "Rất hay dùng cho lưng và cổ. «Selkä on jumissa»." },
+        { "vi": "nhói, như dao đâm" },
+        { "vi": "âm ỉ, giật giật", "note_vi": "Họ sẽ hỏi là kiểu nào. Hai từ này bao gần hết các trường hợp." },
+        { "vi": "bỏng rát" },
+        { "vi": "lan toả", "note_vi": "«Kipu säteilee käteen» = cơn đau lan xuống tay. Quan trọng về mặt lâm sàng." }
+      ],
+      "phrases": [
+        { "vi": "Chỗ này đau.", "when_to_use_vi": "Kèm chỉ tay. Công cụ chính của bạn." },
+        { "vi": "Đầu gối trái tôi đau.", "when_to_use_vi": "Bên + bộ phận + kipeä. Hãy nói rõ bên nào — bác sĩ cần." },
+        { "vi": "Lưng dưới tôi cứng đờ hẳn.", "when_to_use_vi": "Lời than phổ biến nhất của người Phần Lan, chỉ sau thời tiết." },
+        { "vi": "Cơn đau lan xuống chân.", "when_to_use_vi": "Quan trọng về mặt lâm sàng. Hãy nói nếu đúng vậy." },
+        { "vi": "Đó là cơn đau nhói.", "when_to_use_vi": "So với «jomottava» (âm ỉ). Họ sẽ hỏi là kiểu nào." },
+        { "vi": "Tôi bị trẹo mắt cá chân.", "when_to_use_vi": "Chấn thương thường gặp, động từ hữu dụng." },
+        { "vi": "Tôi ngã và đập đầu.", "when_to_use_vi": "Chấn thương đầu được xử lý nghiêm túc. Hãy nói thẳng." },
+        { "vi": "Nó đau khi tôi cử động chỗ đó.", "when_to_use_vi": "Đau liên quan đến cử động. Một chi tiết chẩn đoán then chốt." },
+        { "vi": "Tôi không nhấc tay lên được.", "when_to_use_vi": "Mất chức năng quan trọng hơn mức độ đau. Hãy nói điều này trước." },
+        { "vi": "Ngực tôi đau.", "when_to_use_vi": "Nói câu này là bạn được ưu tiên ngay. Đừng bao giờ nói giảm đi." },
+        { "vi": "Ở cả hai chân.", "when_to_use_vi": "Một bên hay cả hai — họ luôn hỏi." },
+        { "vi": "Nó như thế này hai tuần rồi.", "when_to_use_vi": "Lại là thời gian. Luôn chuẩn bị sẵn con số." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Buổi khám",
+          "setting_vi": "Bác sĩ khám và hỏi ở từng bước. Câu trả lời ngắn, chính xác.",
+          "note_vi": "Để ý Duc nói ít đến mức nào. Ở đây chính xác quan trọng hơn trôi chảy.",
+          "lines": [
+            { "vi": "Anh nằm xuống. Đau chỗ nào?" },
+            { "vi": "Chỗ này, sườn bên phải." },
+            { "vi": "Cơn đau nhói hay âm ỉ?" },
+            { "vi": "Nhói. Nhất là khi tôi cử động." },
+            { "vi": "Nó có lan đi đâu không?" },
+            { "vi": "Có, lan về phía lưng một chút." },
+            { "vi": "Tôi ấn đây. Chỗ này có đau không?" },
+            { "vi": "Không. Cao hơn một chút." },
+            { "vi": "Còn chỗ này?" },
+            { "vi": "Có! Chỗ đó đau." },
+            { "vi": "Vâng. Nó bắt đầu khi nào?" },
+            { "vi": "Tối hôm qua, khoảng tám giờ." },
+            { "vi": "Tốt, cảm ơn anh. Mình siêu âm cho chắc nhé." }
+          ]
+        },
+        {
+          "title_vi": "Một chấn thương, kể thật nhanh",
+          "setting_vi": "Duc trẹo mắt cá khi đá bóng. Thực tế, nhanh gọn.",
+          "note_vi": "Cơ chế chấn thương, rồi chức năng, rồi cơn đau. Đó là thứ tự bác sĩ muốn.",
+          "lines": [
+            { "vi": "Nào, chuyện gì xảy ra vậy?" },
+            { "vi": "Tôi đá bóng và trẹo mắt cá. Bên trái." },
+            { "vi": "Anh đi được không?" },
+            { "vi": "Được một chút, nhưng đau." },
+            { "vi": "Có sưng không?" },
+            { "vi": "Có, khá nhiều. Và nó tím rồi." },
+            { "vi": "Nghe như bong gân. Mình chụp X-quang để chắc là không gãy." },
+            { "vi": "Vâng. Bao lâu thì khỏi ạ?" },
+            { "vi": "Bong gân thì vài tuần. Chườm lạnh, kê cao, nghỉ ngơi." },
+            { "vi": "Chườm lạnh, kê cao, nghỉ ngơi. Vâng, cảm ơn bác sĩ." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả lời trong lúc được khám",
+          "scenario_vi": "Trả lời ngắn, chính xác về vị trí, kiểu đau và thời gian.",
+          "your_role_vi": "Bạn, trên bàn khám",
+          "partner_role_vi": "Bác sĩ",
+          "turns": [
+            { "vi": "Đau chỗ nào?" },
+            { "vi": "Chỗ này, sườn bên phải.", "hint_vi": "Chỉ tay và nói rõ bên nào. Cả hai." },
+            { "vi": "Cơn đau nhói hay âm ỉ?" },
+            { "vi": "Nhói, nhất là khi tôi cử động.", "hint_vi": "Chọn một trong hai từ, rồi thêm lúc nào đau nhất." },
+            { "vi": "Nó có lan đi đâu không?" },
+            { "vi": "Có, lan về phía lưng một chút.", "hint_vi": "Đau lan quan trọng về mặt lâm sàng. Hãy nói nếu đúng vậy." },
+            { "vi": "Tôi ấn đây. Chỗ này có đau không?" },
+            { "vi": "Không. Cao hơn một chút.", "hint_vi": "Hãy sửa lại cho họ thay vì gật đầu cho phải phép." },
+            { "vi": "Còn chỗ này? Và nó bắt đầu khi nào?" },
+            { "vi": "Có, chỗ đó đau. Nó bắt đầu từ tối qua.", "hint_vi": "Trả lời cả hai phần — đừng để câu hỏi thứ hai bị rơi mất." }
+          ]
+        }
+      ]
+    },
+    "understanding-instructions": {
+      "lesson": {
+        "title_vi": "Hiểu hướng dẫn dùng thuốc",
+        "subtitle_vi": "Liều lượng, thời gian, và «quay lại nếu…»",
+        "warmup_situation_vi": "Bác sĩ giải thích về thuốc. Bạn nghe được «kaksi», «päivässä» và cái gì đó liên quan đến đồ ăn. Bạn cầm một hộp kháng sinh và hiểu được khoảng 40% cách uống.",
+        "warmup_question_vi": "Bạn nói gì trước khi rời phòng — mỗi một lần, không ngoại lệ?",
+        "rescue_vi": "Tôi nhắc lại cho chắc: hai viên một ngày, uống cùng bữa ăn, trong bảy ngày. Đúng không ạ?",
+        "rescue_note_vi": "Đây là thói quen quan trọng nhất trong cả chương này. Bác sĩ mong đợi điều đó, nó mất mười lăm giây, và nó bắt được hiểu lầm khi bạn vẫn còn trong phòng khám chứ không phải lúc đã về nhà với một cái hộp mà bạn không đọc được."
+      },
+      "vocab": [
+        { "vi": "thuốc" },
+        { "vi": "đơn thuốc", "note_vi": "Ở Phần Lan là đơn điện tử. Nó đi thẳng đến mọi hiệu thuốc." },
+        { "vi": "liều" }, { "vi": "viên nén" }, { "vi": "viên nang" }, { "vi": "milligram" },
+        { "vi": "một lần một ngày" }, { "vi": "hai lần một ngày" }, { "vi": "ba lần một ngày" },
+        { "vi": "sáng và tối", "note_vi": "Một hướng dẫn phổ biến. Nghĩa đen là «các buổi sáng và các buổi tối»." },
+        { "vi": "uống cùng bữa ăn" }, { "vi": "lúc bụng đói" }, { "vi": "trước bữa ăn" },
+        { "vi": "liệu trình (thuốc)", "note_vi": "«Syö kuuri loppuun» = uống hết liệu trình. Họ sẽ nhấn mạnh điều này." },
+        { "vi": "đến hết, cho xong" },
+        { "vi": "tác dụng phụ" }, { "vi": "dị ứng" }, { "vi": "theo dõi, giám sát" },
+        { "vi": "tái khám", "note_vi": "«Kontrolliaika» = lịch hẹn tái khám." },
+        { "vi": "nghỉ ốm" },
+        { "vi": "giấy chứng nhận", "note_vi": "«Sairauslomatodistus» — giấy nộp cho công ty. Hãy hỏi xin rõ ràng." },
+        { "vi": "sự nghỉ ngơi" }, { "vi": "nghỉ ngơi (động từ)" }, { "vi": "tránh" },
+        { "vi": "nếu", "note_vi": "Hãy lắng nghe từ này. Mọi thứ sau nó là một điều kiện bạn phải hành động theo." },
+        { "vi": "hãy liên hệ" }, { "vi": "quay lại khám" }, { "vi": "trở nặng" },
+        { "vi": "nhắc lại" }, { "vi": "đảm bảo, xác nhận" }
+      ],
+      "phrases": [
+        { "vi": "Bác sĩ nhắc lại liều được không ạ?", "when_to_use_vi": "Đừng bao giờ rời đi khi chưa chắc. Hỏi hai lần nếu cần." },
+        { "vi": "Tôi nhắc lại cho chắc.", "when_to_use_vi": "Thói quen then chốt. Rồi nói lại toàn bộ hướng dẫn." },
+        { "vi": "Hai viên, hai lần một ngày, cùng bữa ăn ạ?", "when_to_use_vi": "Nhắc lại dưới dạng câu hỏi. Dễ cho họ xác nhận hoặc sửa." },
+        { "vi": "Uống bao nhiêu ngày ạ?", "when_to_use_vi": "Độ dài liệu trình là chi tiết hay bị bỏ sót nhất. Luôn hỏi." },
+        { "vi": "Tôi có phải uống hết liệu trình không ạ?", "when_to_use_vi": "Với kháng sinh thì câu trả lời luôn là có, kể cả khi bạn đã thấy đỡ." },
+        { "vi": "Thuốc này có tác dụng phụ không ạ?", "when_to_use_vi": "Hãy hỏi, để sau này bạn không hoảng vì một điều vốn đã được dự đoán." },
+        { "vi": "Tôi uống thuốc này cùng thuốc giảm đau được không ạ?", "when_to_use_vi": "Câu hỏi về tương tác thuốc. Quan trọng và luôn được hoan nghênh." },
+        { "vi": "Khi nào tôi cần quay lại ạ?", "when_to_use_vi": "Xác định xem có cần tái khám hay không." },
+        { "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?", "when_to_use_vi": "Câu hỏi lưới an toàn. Hãy lấy dấu hiệu cảnh báo cụ thể, đừng nhận một câu chung chung «nếu nặng hơn»." },
+        { "vi": "Tôi có cần giấy nghỉ ốm không ạ?", "when_to_use_vi": "Hỏi trước khi ra về — xin sau khó hơn nhiều." },
+        { "vi": "Bác sĩ ghi ra giấy giúp được không ạ?", "when_to_use_vi": "Nhất là với liều lượng. Bác sĩ làm việc này không chút do dự." },
+        { "vi": "Thuốc này cần đơn hay không ạ?", "when_to_use_vi": "Quyết định bạn ra quầy hay lấy trên kệ ở hiệu thuốc." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Nắm hướng dẫn cho thật chính xác",
+          "setting_vi": "Cuối buổi khám. Duc không rời đi cho đến khi đã nhắc lại mọi thứ.",
+          "note_vi": "Việc nhắc lại ở cuối chính là toàn bộ trọng tâm của bài này.",
+          "lines": [
+            { "vi": "Đây là liên cầu khuẩn, nên tôi kê kháng sinh." },
+            { "vi": "Vâng. Tôi uống thế nào ạ?" },
+            { "vi": "Một viên, ba lần một ngày, uống cùng bữa ăn." },
+            { "vi": "Uống bao nhiêu ngày ạ?" },
+            { "vi": "Bảy ngày. Và uống hết liệu trình, dù có thấy đỡ." },
+            { "vi": "Vâng. Thuốc này có tác dụng phụ không ạ?" },
+            { "vi": "Bụng có thể hơi khó chịu. Đó là bình thường." },
+            { "vi": "Tôi uống thuốc giảm đau cùng lúc được không ạ?" },
+            { "vi": "Được. Ibuprofen hoặc paracetamol đều ổn." },
+            { "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?" },
+            { "vi": "Nếu hai ngày mà sốt không hạ, hoặc nếu bị khó thở." },
+            { "vi": "Vâng. Tôi nhắc lại cho chắc: một viên, ba lần một ngày, cùng bữa ăn, bảy ngày, uống hết liệu trình. Đúng không ạ?" },
+            { "vi": "Chính xác. Anh nhắc lại thế là tốt." },
+            { "vi": "Cảm ơn bác sĩ. Và tôi có cần giấy nghỉ ốm không ạ?" },
+            { "vi": "Tôi viết cho anh. Ba ngày. Nó đi thẳng đến công ty." }
+          ]
+        },
+        {
+          "title_vi": "Bắt được một hiểu lầm",
+          "setting_vi": "Việc nhắc lại đã phát huy tác dụng. Duc đã hiểu sai.",
+          "note_vi": "Mười lăm giây nhắc lại ngăn được một tuần uống sai liều.",
+          "lines": [
+            { "vi": "Anh uống hai lần một ngày, sáng và tối, lúc bụng đói." },
+            { "vi": "Tôi nhắc lại: hai viên, hai lần một ngày, cùng bữa ăn ạ?" },
+            { "vi": "Không, không — một viên, hai lần một ngày. Và lúc bụng đói, không phải cùng bữa ăn." },
+            { "vi": "À, vâng. May mà tôi hỏi. Một viên, hai lần một ngày, lúc bụng đói." },
+            { "vi": "Chính xác. Tức là nửa tiếng trước bữa ăn." },
+            { "vi": "Nửa tiếng trước bữa ăn. Bác sĩ ghi ra giấy giúp được không ạ?" },
+            { "vi": "Được, nó cũng ghi trên đơn thuốc." },
+            { "vi": "Tốt quá. Cảm ơn bác sĩ nhiều." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đừng bao giờ rời đi mà chưa nhắc lại",
+          "scenario_vi": "Lấy liều, thời gian, điều kiện, rồi nhắc lại tất cả trước khi ra về.",
+          "your_role_vi": "Bạn, đang được kê thuốc",
+          "partner_role_vi": "Bác sĩ",
+          "turns": [
+            { "vi": "Tôi kê cho anh một loại kháng sinh." },
+            { "vi": "Vâng. Tôi uống thế nào ạ?", "hint_vi": "Hỏi cách dùng trước mọi thứ khác." },
+            { "vi": "Một viên, ba lần một ngày, cùng bữa ăn." },
+            { "vi": "Uống bao nhiêu ngày ạ?", "hint_vi": "Độ dài liệu trình là chi tiết hay bị bỏ sót nhất." },
+            { "vi": "Bảy ngày, và uống hết liệu trình." },
+            { "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?", "hint_vi": "Lấy dấu hiệu cảnh báo cụ thể, đừng nhận câu chung chung «nếu nặng hơn»." },
+            { "vi": "Nếu hai ngày mà sốt không hạ." },
+            { "vi": "Tôi nhắc lại: một viên, ba lần một ngày, cùng bữa ăn, bảy ngày. Đúng không ạ?", "hint_vi": "Nhắc lại toàn bộ hướng dẫn, dưới dạng câu hỏi. Đây là thói quen quan trọng." },
+            { "vi": "Chính xác." },
+            { "vi": "Cảm ơn bác sĩ. Tôi có cần giấy nghỉ ốm không ạ?", "hint_vi": "Hỏi ngay bây giờ — xin sau khó hơn nhiều." }
+          ]
+        }
+      ]
+    }
+  }
+}

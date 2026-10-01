@@ -1,0 +1,345 @@
+{
+  "lessons": {
+    "intensity-and-swearing": {
+      "lesson": {
+        "title_vi": "Mức độ mạnh và chuyện văng tục, có hiệu chỉnh",
+        "subtitle_vi": "Cái gì là bình thường, cái gì không, và cái gì bạn sẽ nghe thấy",
+        "warmup_situation_vi": "Một đồng nghiệp làm rơi cái thùng và nói một từ mà bạn chỉ từng đọc thấy. Không ai phản ứng. Về sau, trong một buổi họp với khách hàng, có người dùng một từ khác và cả phòng im bặt.",
+        "warmup_question_vi": "Khác nhau ở đâu — và cái ranh giới thật ra nằm ở chỗ nào?",
+        "rescue_vi": "Ôi không. / Trời đất.",
+        "rescue_note_vi": "Hai câu này bao trọn mọi tình huống bạn cần bày tỏ sự hoảng hốt, và không câu nào có thể sai trong bất cứ hoàn cảnh nào. Bài này chủ yếu là để *hiểu*: nhận ra mức độ mạnh khi nghe quan trọng hơn nhiều so với tự nói ra, và mấy lựa chọn nhẹ ở trên sẽ dùng được cho bạn nhiều năm."
+      },
+      "vocab": [
+        { "vi": "từ tục", "note_vi": "Chuyện văng tục của người Phần Lan nổi tiếng là thường xuyên, và cũng nổi tiếng là nhẹ về tác động." },
+        { "vi": "văng tục, nói tục" },
+        { "vi": "từ mạnh, từ nhấn" },
+        { "vi": "ôi không", "note_vi": "Hoàn toàn an toàn ở mọi nơi, kể cả với trẻ con và khách hàng." },
+        { "vi": "trời đất", "note_vi": "An toàn trong mọi hoàn cảnh. Hơi cổ và khá đáng yêu." },
+        { "vi": "ôi trời ơi", "note_vi": "Nhẹ, ấm, hơi kiểu các bà. Hoàn toàn an toàn." },
+        { "vi": "ưứ, eo", "note_vi": "Ghê. «Hyi että» = eo, kinh thật. Rất nhẹ." },
+        { "vi": "chết thật", "note_vi": "Nhẹ. Chấp nhận được ở phần lớn nơi làm việc. Đại khái như «damn»." },
+        { "vi": "trời ạ", "note_vi": "Còn nhẹ hơn nữa. Dạng đã làm mềm của hitto. An toàn hầu như mọi nơi." },
+        { "vi": "trời", "note_vi": "Rất nhẹ, hơi cổ. Hoàn toàn vô hại." },
+        { "vi": "ôi dào" },
+        { "vi": "(mạnh) mẹ nó", "note_vi": "Từ nổi tiếng nhất. Thật sự mạnh. Phổ biến giữa bạn bè, tuyệt đối không dùng với khách hàng." },
+        { "vi": "(đã làm mềm) khỉ thật", "note_vi": "Dạng làm mềm của perkele. An toàn hơn nhiều." },
+        { "vi": "(rất mạnh)", "note_vi": "Mạnh. Hãy nhận ra nó; bạn không cần dùng." },
+        { "vi": "(rất mạnh)", "note_vi": "Từ mạnh nhất trong số các từ thông dụng. Cực kỳ thường xuyên giữa bạn bè, tuyệt đối không ở chỗ làm hay với người lạ. Hiểu, đừng nói." },
+        { "vi": "(rất mạnh, kiểu hoảng hốt)", "note_vi": "Bạn sẽ nghe câu này. Đừng nói với ai bạn không thân." },
+        { "vi": "cực, kinh khủng", "note_vi": "Nghĩa chữ là «hoàn toàn heo». Là từ nhấn, không phải từ tục. «Ihan sika hyvä.»" },
+        { "vi": "thật, rất", "note_vi": "Từ nhấn hằng ngày. Hãy dùng cái này, đừng với tới các lựa chọn mạnh hơn." },
+        { "vi": "hoàn toàn, khá" },
+        { "vi": "thật sự", "note_vi": "Trang trọng hơn. Viết thì ổn, nói thì hơi cứng." },
+        { "vi": "cực kỳ, điên đảo", "note_vi": "«Älyttömän hyvä» = tốt điên đảo. Mạnh mà hoàn toàn sạch." },
+        { "vi": "khủng khiếp", "note_vi": "«Hirveän kiva» = tử tế khủng khiếp. Nghĩa tích cực dù từ nghe tiêu cực." },
+        { "vi": "kinh khủng", "note_vi": "Cùng mẫu. «Kauheen hyvää» = ngon kinh khủng." },
+        { "vi": "không thể tin được" },
+        { "vi": "tuyệt đối" },
+        { "vi": "hoàn toàn" },
+        { "vi": "không chút nào" },
+        { "vi": "đúng mực, chuyên nghiệp", "note_vi": "Đúng cái phong cách bạn muốn ở chỗ làm. «Pidetään tää asiallisena.»" }
+      ],
+      "phrases": [
+        { "vi": "Ôi không.", "when_to_use_vi": "An toàn trong mọi tình huống, với mọi người. Câu bày tỏ hoảng hốt mặc định của bạn." },
+        { "vi": "Trời đất.", "when_to_use_vi": "An toàn trong mọi hoàn cảnh, hơi cổ, khá đáng yêu." },
+        { "vi": "Eo, kinh thật.", "when_to_use_vi": "Ghê, mức nhẹ. Nói trước mặt trẻ con và đồng nghiệp đều ổn." },
+        { "vi": "Trời ạ.", "when_to_use_vi": "Rất nhẹ. An toàn ở gần như mọi nơi làm việc." },
+        { "vi": "Chết thật, tôi quên mất nó.", "when_to_use_vi": "Nhẹ và phổ biến giữa đồng nghiệp ở chỗ làm." },
+        { "vi": "Khỉ thật.", "when_to_use_vi": "Dạng làm mềm của perkele. An toàn hơn nhiều mà vẫn có sức biểu cảm." },
+        { "vi": "Nó cực kỳ tốt.", "when_to_use_vi": "Là từ nhấn, không phải từ tục. Suồng sã nhưng sạch." },
+        { "vi": "Nó tốt điên đảo.", "when_to_use_vi": "Mạnh và hoàn toàn sạch. Tốt hơn là với tới một từ tục." },
+        { "vi": "Tử tế khủng khiếp!", "when_to_use_vi": "Nghĩa tích cực dù nghĩa chữ là tiêu cực. Rất Phần Lan." },
+        { "vi": "Cái đó thật sự nặng.", "when_to_use_vi": "«Tosi» đã đủ sức nặng. Bạn ít khi cần hơn." },
+        { "vi": "Mình giữ chuyện này đúng mực nhé.", "when_to_use_vi": "Nếu cuộc trò chuyện đi trệch. Trực tiếp và hoàn toàn chấp nhận được." },
+        { "vi": "Xin lỗi, cái đó là vô ý.", "when_to_use_vi": "Nếu một từ mạnh lỡ tuột ra sai chỗ. Nói thế là đủ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cùng một việc, ba căn phòng",
+          "setting_vi": "Có người làm rơi cái thùng. Hãy xem phong cách đổi theo người nghe.",
+          "note_vi": "Đây là toàn bộ bài học: từ ngữ phụ thuộc hoàn toàn vào việc ai đang có mặt.",
+          "lines": [
+            { "vi": "(rất mạnh)", "note_vi": "Giữa bạn thân. Hoàn toàn không đáng chú ý trong bối cảnh đó." },
+            { "vi": "Có chuyện gì à?" },
+            { "vi": "Không có gì, tôi chỉ làm rơi cái thùng." },
+            { "vi": "Chết thật. Xin lỗi.", "note_vi": "Cùng một việc, chỗ làm bình thường. Nhẹ và chẳng ai để ý." },
+            { "vi": "Bạn cần giúp không?" },
+            { "vi": "Trời đất, xin lỗi.", "note_vi": "Có khách hàng ở đó. Không gì mạnh hơn, và thế là quá đủ." },
+            { "vi": "Không sao, chuyện thường mà." },
+            { "vi": "Này Jussi, tôi để ý là bạn nói những từ khác nhau ở những chỗ khác nhau." },
+            { "vi": "Haha, đúng. Với bạn bè thì gì cũng được. Ở chỗ làm thì «hitto». Với khách hàng thì không gì cả." },
+            { "vi": "Tôi dùng gì, nếu tôi không chắc?" },
+            { "vi": "«Voi ei» và «hyvänen aika». Hai câu đó không bao giờ sai." },
+            { "vi": "Rõ rồi. Còn nếu tôi muốn nói cái gì đó rất tốt?" },
+            { "vi": "«Älyttömän hyvä» hoặc «ihan sika hyvä». Cả hai đều không phải từ tục." }
+          ]
+        },
+        {
+          "title_vi": "Từ nhấn sạch, ở cường độ tối đa",
+          "setting_vi": "Cách nói cho ra vẻ dứt khoát mà không phải với tới từ nào mạnh.",
+          "note_vi": "Mọi từ nhấn ở đây đều hoàn toàn sạch, và cái nào cũng thật sự mạnh.",
+          "lines": [
+            { "vi": "Buổi hoà nhạc đó thế nào?" },
+            { "vi": "Tốt điên đảo. Hay nhất tôi từng xem." },
+            { "vi": "Thật à? Đông người không?" },
+            { "vi": "Cực kỳ đông. Và nóng kinh khủng." },
+            { "vi": "Haha. Nhưng vẫn đáng chứ?" },
+            { "vi": "Tuyệt đối. Tôi bị thuyết phục hoàn toàn." },
+            { "vi": "Hay đấy! Năm nay tôi chẳng đi buổi hoà nhạc nào cả." },
+            { "vi": "Tiếc quá. Lần sau đi cùng nhé." },
+            { "vi": "Rất sẵn lòng! Nhắn cho tôi nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nói dứt khoát mà không văng tục",
+          "scenario_vi": "Phản ứng đầy cảm xúc chỉ bằng các từ nhấn sạch, rồi hỏi về phong cách nói.",
+          "your_role_vi": "Bạn, đang kể về một chuyện hay",
+          "partner_role_vi": "Anni, người hỏi",
+          "turns": [
+            { "vi": "Buổi hoà nhạc đó thế nào?" },
+            { "vi": "Tốt điên đảo. Hay nhất tôi từng xem.", "hint_vi": "Mạnh và hoàn toàn sạch. Tốt hơn là với tới một từ tục." },
+            { "vi": "Thật à? Đông người không?" },
+            { "vi": "Cực kỳ đông. Và nóng kinh khủng.", "hint_vi": "«Ihan sika» là từ nhấn, không phải từ tục. «Kauheen» ở đây mang nghĩa tích cực." },
+            { "vi": "Nhưng vẫn đáng chứ?" },
+            { "vi": "Tuyệt đối. Tôi bị thuyết phục hoàn toàn.", "hint_vi": "«Ehdottomasti» và «täysin» đều mạnh và đều sạch." },
+            { "vi": "Hay đấy!" },
+            { "vi": "Này, tôi nói gì nếu tôi rất thất vọng? Tôi không muốn nói sai từ nào.", "hint_vi": "Hỏi về phong cách nói là cách an toàn nhất để học nó." },
+            { "vi": "«Voi ei» hoặc «hyvänen aika». Hai câu đó không bao giờ sai." },
+            { "vi": "Rõ rồi, tôi cứ dùng mấy câu đó. Cảm ơn!", "hint_vi": "Kết luận đúng. Ở đây hiểu quan trọng hơn nói ra." }
+          ]
+        }
+      ]
+    },
+    "everyday-slang": {
+      "lesson": {
+        "title_vi": "Tiếng lóng bạn sẽ nghe hằng ngày",
+        "subtitle_vi": "kiva, siisti, tosi, jees",
+        "warmup_situation_vi": "Có người nói «Se oli ihan jees, mut se mesta oli aika siisti.» Bạn đã học tiếng Phần Lan một năm và nhận ra được khoảng một từ.",
+        "warmup_question_vi": "Những từ hằng ngày nào không bao giờ xuất hiện trong sách giáo khoa — và những từ nào bạn thật sự nên dùng?",
+        "rescue_vi": "Từ đó nghĩa là gì?",
+        "rescue_note_vi": "Tiếng lóng là lĩnh vực duy nhất mà hỏi thẳng luôn hiệu quả, vì người Phần Lan thích giải thích nó và thường hơi ngạc nhiên khi biết từ đó không phải chuẩn. Hỏi mỗi lần một từ, trong một năm bạn sẽ thu về cả bộ từ vựng hằng ngày."
+      },
+      "vocab": [
+        { "vi": "hay, dễ thương", "note_vi": "Từ tích cực được dùng nhiều nhất trong tiếng Phần Lan nói. Cứ dùng thoải mái." },
+        { "vi": "ổn, được", "note_vi": "Từ tiếng Anh «yes». «Ihan jees» = hoàn toàn ổn." },
+        { "vi": "ngầu, xịn", "note_vi": "Nghĩa chữ là «sạch». Trong khẩu ngữ nó nghĩa là ngầu hoặc ấn tượng." },
+        { "vi": "ngầu, đỉnh", "note_vi": "Nghĩa chữ là «ngọt». Hơi cổ nhưng vẫn phổ biến." },
+        { "vi": "hay phát điên", "note_vi": "Nghĩa chữ là «tốt đến bệnh». Nghiêng về giới trẻ nhưng dùng rộng rãi." },
+        { "vi": "chỗ, địa điểm", "note_vi": "Tiếng lóng Helsinki cho paikka. Rất phổ biến trong khẩu ngữ." },
+        { "vi": "việc làm, công việc" },
+        { "vi": "bạn, thằng bạn" },
+        { "vi": "chung, cùng nhau", "note_vi": "«Kimppakyyti» = đi xe chung. «Kimppakamu» = bạn cùng nhà." },
+        { "vi": "cảm giác, không khí", "note_vi": "«Hyvä fiilis» = không khí tốt. Dùng liên tục." },
+        { "vi": "ở nhà", "note_vi": "Tiếng lóng Helsinki cho kotona." },
+        { "vi": "thành phố (Helsinki)", "note_vi": "Chính là Helsinki, và do người Helsinki nói." },
+        { "vi": "tàu điện", "note_vi": "Tiếng lóng Helsinki cho ratikka." },
+        { "vi": "xe buýt", "note_vi": "Tiếng lóng Helsinki cho bussi." },
+        { "vi": "đồ ăn" },
+        { "vi": "cà phê (dịp gặp nhau)", "note_vi": "«Mennään kahveille» = đi cà phê đi." },
+        { "vi": "một chút xíu", "note_vi": "Dạng nhỏ của vähän. Ấm hơn và rất phổ biến." },
+        { "vi": "kiểu, khoảng", "note_vi": "«Tyyliin kymmeneltä» = khoảng mười giờ. Ước lượng và suồng sã." },
+        { "vi": "đại khái" },
+        { "vi": "lo xong việc", "note_vi": "«Mä hoidan homman» = tôi lo được. Tự tin và suồng sã." },
+        { "vi": "việc, chuyện", "note_vi": "Cực kỳ linh hoạt. «Mikä homma?» = có chuyện gì?" },
+        { "vi": "thứ, chuyện", "note_vi": "Còn linh hoạt hơn homma. Dùng khi bạn không nhớ ra danh từ." },
+        { "vi": "một câu đùa", "note_vi": "«Se oli vaan läppä» = chỉ đùa thôi." },
+        { "vi": "quậy, làm bừa" },
+        { "vi": "nghỉ ngơi, chill" },
+        { "vi": "đi chơi, tụ tập" },
+        { "vi": "chào", "note_vi": "Nghiêng về vùng Tampere. Ấm và mang màu địa phương." },
+        { "vi": "chào nhé", "note_vi": "Vui vẻ và hơi kiểu cũ." },
+        { "vi": "cảm ơn nhé", "note_vi": "Dạng suồng sã của kiitos. Dùng với bạn bè và đồng nghiệp." },
+        { "vi": "thôi thì, nào" }
+      ],
+      "phrases": [
+        { "vi": "Nó hoàn toàn ổn.", "when_to_use_vi": "Tán thành ở mức nhẹ. Thật thà, phổ biến và hơi nhàn nhạt." },
+        { "vi": "Cái chỗ đó khá ngầu.", "when_to_use_vi": "«Mesta» và «siisti» đi cùng nhau thì rất kiểu Helsinki." },
+        { "vi": "Hay thật!", "when_to_use_vi": "Phản ứng tích cực an toàn và hữu dụng nhất của bạn. Hãy dùng mỗi ngày." },
+        { "vi": "Ở đây không khí tốt thật.", "when_to_use_vi": "Một lời khen thật về một chỗ hay một sự kiện." },
+        { "vi": "Mình đi cà phê không?", "when_to_use_vi": "«Kahveille» như một dịp gặp, không phải một thức uống. Rất thành ngữ." },
+        { "vi": "Tôi sẽ ở nhà khoảng sáu giờ.", "when_to_use_vi": "Hai từ lóng và một mốc giờ mơ hồ. Khẩu ngữ hoàn toàn bình thường." },
+        { "vi": "Tôi lo được.", "when_to_use_vi": "Tự tin và suồng sã. Nghe thì thích mà nói cũng hay." },
+        { "vi": "Có chuyện gì thế?", "when_to_use_vi": "Khi bạn tới giữa một chuyện bạn chưa hiểu. Thân thiện." },
+        { "vi": "Chỉ đùa thôi mà.", "when_to_use_vi": "Nếu câu bạn nói rơi xuống sai chỗ. Thường được chấp nhận ngay." },
+        { "vi": "Chờ chút xíu.", "when_to_use_vi": "«Pikkasen» ấm hơn «vähän». Rất phổ biến." },
+        { "vi": "Hay mình cứ chill ở nhà?", "when_to_use_vi": "Một kế hoạch cuối tuần trọn vẹn và rất phổ biến." },
+        { "vi": "Cảm ơn nhé! Chào.", "when_to_use_vi": "Cách chào kết suồng sã. «Moro» dùng được cho cả gặp và chia tay." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một câu mà một năm trước bạn không thể phân tích",
+          "setting_vi": "Hai đồng nghiệp lúc 16:30. Gần như không có chữ tiếng Phần Lan sách vở nào.",
+          "note_vi": "Đọc một lượt, rồi đọc phần ghi chú. Mọi từ lóng ở đây là hằng ngày, không phải chỉ của giới trẻ.",
+          "lines": [
+            { "vi": "Chào! Công việc thế nào?", "note_vi": "moro = chào, duuni = công việc" },
+            { "vi": "Hoàn toàn ổn. Hơi bận, nhưng không khí tốt.", "note_vi": "jees = ổn, fiilis = không khí" },
+            { "vi": "Hay. Đi cà phê một chút không?", "note_vi": "kahveille = đi cà phê (dịp), pikkasen = một chút xíu" },
+            { "vi": "Ừ, nhưng tôi có kiểu mười phút. Tôi còn một việc dở dang.", "note_vi": "tyyliin = khoảng, homma = việc" },
+            { "vi": "Thừa đủ. Việc gì thế?", "note_vi": "Mikä homma = có chuyện gì / việc gì" },
+            { "vi": "Cái việc khách hàng đó. Hôm nay tôi lo xong.", "note_vi": "juttu = chuyện, hoitaa = lo xong" },
+            { "vi": "Ngầu. Này, bạn đến cái chỗ mới ở Kallio chưa?", "note_vi": "siisti = ngầu, mesta = chỗ" },
+            { "vi": "Chưa. Nó có ngon không?" },
+            { "vi": "Đồ ăn hay phát điên. Và khá rẻ.", "note_vi": "sairaan hyvä = hay phát điên, safka = đồ ăn" },
+            { "vi": "Nghe hay đấy. Đi lúc nào không?" },
+            { "vi": "Ừ! Thứ Sáu tôi ở nhà, nhưng thứ Bảy được.", "note_vi": "himassa = ở nhà" },
+            { "vi": "Nhất trí. Tôi đi tàu điện đến.", "note_vi": "spora = tàu điện" },
+            { "vi": "Tốt. Cảm ơn nhé, gặp lại!" }
+          ]
+        },
+        {
+          "title_vi": "Hỏi mỗi lần một từ",
+          "setting_vi": "Chiến lược dựng nên bộ từ vựng này. Hỏi, đừng đoán.",
+          "note_vi": "Người Phần Lan thích giải thích tiếng lóng và thường ngạc nhiên khi biết nó không phải chuẩn.",
+          "lines": [
+            { "vi": "Cái đó khá đỉnh đấy." },
+            { "vi": "«Makee» nghĩa là gì? Tôi biết nó là «makea», nhưng…" },
+            { "vi": "Haha, đúng. Nó nghĩa là «ngầu» hoặc «tuyệt». Không nói về đồ ăn." },
+            { "vi": "À ra vậy. Nó có hơi cổ không?" },
+            { "vi": "Hơi, đúng. «Siisti» giờ phổ biến hơn." },
+            { "vi": "Rõ rồi, tôi sẽ dùng từ đó. Còn «mesta» là gì?" },
+            { "vi": "Là chỗ. Tiếng lóng Helsinki. «Hyvä mesta» = một chỗ hay." },
+            { "vi": "Tôi dùng được không, hay nó nghe sai khi tôi nói?" },
+            { "vi": "Cứ dùng đi! Nghe hoàn toàn ổn. Bạn sống ở Helsinki mà." },
+            { "vi": "Cảm ơn nhé. Tôi sẽ hỏi một từ mỗi ngày, thế là học nhanh." },
+            { "vi": "Hệ thống tốt đấy. Cứ hỏi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Dùng tiếng lóng, và hỏi về nó",
+          "scenario_vi": "Trả lời bằng tiếng lóng hằng ngày, rồi hỏi về một từ bạn chưa biết.",
+          "your_role_vi": "Bạn, lúc 16:30",
+          "partner_role_vi": "Jussi, một đồng nghiệp",
+          "turns": [
+            { "vi": "Chào! Công việc thế nào?" },
+            { "vi": "Hoàn toàn ổn. Hơi bận, nhưng không khí tốt.", "hint_vi": "«Jees» và «fiilis» đều là từ hằng ngày, không chỉ của giới trẻ." },
+            { "vi": "Hay. Đi cà phê một chút không?" },
+            { "vi": "Ừ, nhưng tôi có kiểu mười phút.", "hint_vi": "«Tyyliin» cho một lượng ước chừng. Rất suồng sã và tự nhiên." },
+            { "vi": "Thừa đủ. Bạn còn việc gì dở dang?" },
+            { "vi": "Cái việc khách hàng đó. Hôm nay tôi lo xong.", "hint_vi": "«Juttu» và «hoitaa» hai từ này bao phủ một lượng khổng lồ." },
+            { "vi": "Ngầu. Bạn đến cái chỗ mới ở Kallio chưa?" },
+            { "vi": "«Mesta» nghĩa là gì?", "hint_vi": "Hỏi mỗi lần một từ. Người Phần Lan thích giải thích tiếng lóng." },
+            { "vi": "Là chỗ. Tiếng lóng Helsinki." },
+            { "vi": "À, cảm ơn nhé. Tôi chưa đến — nó là chỗ hay không?", "hint_vi": "Dùng từ mới ngay lập tức. Đó là cách nó đọng lại." }
+          ]
+        }
+      ]
+    },
+    "elision-drills": {
+      "lesson": {
+        "title_vi": "Bài luyện nuốt âm",
+        "subtitle_vi": "Mitä sinä teet → Mitä sä teet → Mitsä teet",
+        "warmup_situation_vi": "Bạn hiểu từng chữ khi nó được viết ra và gần như không hiểu gì khi nó được nói ở tốc độ bình thường. Đó không phải do từ vựng của bạn. Đó là vì các từ đã dính vào nhau.",
+        "warmup_question_vi": "Chính xác thì chuyện gì xảy ra với từ tiếng Phần Lan khi nói nhanh — và bạn có học nghe được nó không?",
+        "rescue_vi": "Bạn nói lại câu đó lần nữa, từng chữ một, được không?",
+        "rescue_note_vi": "«Sana sanalta» — từng chữ một — là một yêu cầu chính xác và thật sự hữu ích. Nó cho người kia biết vấn đề là chỗ dính chữ, không phải từ vựng, nên họ sẽ tách các từ ra thay vì chỉ nói chậm cả câu."
+      },
+      "vocab": [
+        { "vi": "sự nuốt âm, sự dính chữ", "note_vi": "Từ chuyên môn cho hiện tượng đang xảy ra. Đáng biết." },
+        { "vi": "từng chữ một", "note_vi": "Yêu cầu thật sự có tác dụng. Tốt hơn «chậm hơn nữa»." },
+        { "vi": "bạn đang làm gì (dạng viết)" },
+        { "vi": "(dạng nói, bước 1)" },
+        { "vi": "(dạng nói, nhanh)", "note_vi": "mitä sinä → mitä sä → mitsä. Ba chặng, cùng một câu hỏi." },
+        { "vi": "bạn có… phải không (dạng viết)" },
+        { "vi": "bạn có… phải không (dạng nói)", "note_vi": "oletko sinä → ootko sä → ootsä. Hãy học cái đích cuối." },
+        { "vi": "tôi không biết (dạng viết)" },
+        { "vi": "tôi chả biết (dạng nói)", "note_vi": "en mä tiedä → emmä tiiä. Phần phủ định dính vào đại từ." },
+        { "vi": "chúng tôi không có (dạng viết)" },
+        { "vi": "chúng tôi không có (dạng nói)" },
+        { "vi": "bạn có thể (dạng viết)" },
+        { "vi": "bạn có thể (dạng nói)" },
+        { "vi": "bạn có đến không (dạng viết)" },
+        { "vi": "bạn đến không (dạng nói)" },
+        { "vi": "mình đi nhé (dạng viết)" },
+        { "vi": "mình đi nhé (dạng nói)" },
+        { "vi": "chữ -n cuối biến mất", "note_vi": "sitten → sitte, kymmenen → kymmene. Xảy ra liên tục trong khẩu ngữ." },
+        { "vi": "chữ -i cuối biến mất", "note_vi": "uusi → uus, pieni → pien. Rất phổ biến." },
+        { "vi": "chữ d biến mất", "note_vi": "meidän → meiän, tiedä → tiiä, yhden → yhen." },
+        { "vi": "ts dính lại", "note_vi": "voitko sinä → voitsä. Chữ -t của động từ cộng với sä." },
+        { "vi": "vâng (dạng viết)" },
+        { "vi": "ừ (dạng nói)" },
+        { "vi": "chỉ (dạng viết)" },
+        { "vi": "chỉ (dạng nói)" },
+        { "vi": "đỏ (dạng viết)" },
+        { "vi": "đỏ (dạng nói)", "note_vi": "Mọi tính từ -ainen đều biến đổi như thế. punainen → punanen, hauskainen → hauskanen." },
+        { "vi": "ở trên cao (dạng viết)" },
+        { "vi": "ở trên cao (dạng nói)", "note_vi": "Đuôi -lla cũng co lại. Hãy lắng nghe nó." }
+      ],
+      "phrases": [
+        { "vi": "Bạn nói nó từng chữ một được không?", "when_to_use_vi": "Chính xác hơn «chậm hơn nữa». Nó nhắm đúng vào vấn đề thật." },
+        { "vi": "Bạn đang làm gì?", "when_to_use_vi": "Cùng câu hỏi, hai phong cách. Hãy học nghe ra cái thứ nhất." },
+        { "vi": "Bạn xong chưa?", "when_to_use_vi": "Đuôi -tsä là chỗ dính chữ phổ biến nhất trong tiếng Phần Lan nói." },
+        { "vi": "Tôi không biết.", "when_to_use_vi": "Ba thay đổi một lúc: en mä → emmä, tiedä → tiiä." },
+        { "vi": "Chúng tôi không có.", "when_to_use_vi": "Đuôi co lại, «ole» thành «oo». Cực kỳ phổ biến." },
+        { "vi": "Bạn đi cùng không?", "when_to_use_vi": "tuletko sinä → tuuks sä → tuuksä. Ba chặng." },
+        { "vi": "Mình đi cà phê nhé?", "when_to_use_vi": "-kö thành -ks trong gần như mọi câu hỏi nói." },
+        { "vi": "Nó màu đỏ.", "when_to_use_vi": "Mọi tính từ -ainen đều mất chữ i khi nói. Cả một quy luật trong một từ." },
+        { "vi": "Ừ, tôi đến.", "when_to_use_vi": "Ba chỗ co trong ba từ. Hoàn toàn bình thường." },
+        { "vi": "Tôi đi sau mười giờ.", "when_to_use_vi": "Mọi chữ -n cuối đều rụng. Hãy nghe xem nó ngắn lại bao nhiêu." },
+        { "vi": "Bạn nói chậm hơn được không?", "when_to_use_vi": "Chính lời yêu cầu đó, trong đúng phong cách bạn đang tập nghe." },
+        { "vi": "Giờ thì tôi nghe ra rồi!", "when_to_use_vi": "Hãy nói nó khi một chỗ dính chữ bỗng sáng ra. Nó đến theo từng bước nhảy." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cùng một cuộc trò chuyện, ba tốc độ",
+          "setting_vi": "Dạng viết, dạng nói, dạng nhanh. Nội dung y hệt nhau.",
+          "note_vi": "Đọc cả ba. Cái thứ ba là cái bạn sẽ thật sự nghe thấy, và nó vẫn là những câu đó.",
+          "lines": [
+            { "vi": "Chào! Tối nay bạn làm gì?", "note_vi": "Dạng viết. Rõ ràng, và không ai nói như thế." },
+            { "vi": "Tôi chưa biết. Bạn có đến cùng không?" },
+            { "vi": "Chào! Tối nay bạn làm gì?", "note_vi": "Dạng nói, chặng một. sinä → sä." },
+            { "vi": "Tôi chưa biết. Bạn đến cùng không?", "note_vi": "tiedä → tiiä, tuletko sinä → tuuksä, kanssa → kans." },
+            { "vi": "Chào! Tối nay làm gì?", "note_vi": "mitä sä → mitsä. Chữ -a cuối của iltana nhoè đi." },
+            { "vi": "Chả biết. Đến không?", "note_vi": "en mä → emmä. Đây là cái bạn thật sự nghe thấy." },
+            { "vi": "Chờ đã — bạn nói câu đó từng chữ một được không?" },
+            { "vi": "Được. «En… mä… tiedä… vielä.» Bốn từ." },
+            { "vi": "À ra thế! Tôi nghe nó thành một từ." },
+            { "vi": "Đúng, nó là «emmä». Nó là hai từ, nhưng nghe như một." },
+            { "vi": "Giờ thì tôi nghe ra rồi! Còn chỗ nào giống thế nữa không?" },
+            { "vi": "Nhiều. «Ootsä», «voitsä», «tuuksä». Tất cả là động từ cộng sä." }
+          ]
+        },
+        {
+          "title_vi": "Luyện: nghe ra chỗ dính chữ",
+          "setting_vi": "Phát từng câu, rồi đọc ghi chú. Nhắm mắt thì tốt hơn.",
+          "note_vi": "Hãy nghe chỗ dính chữ, không phải từ vựng. Bạn đã biết hết những từ này rồi.",
+          "lines": [
+            { "vi": "Bạn ở nhà không?", "note_vi": "oletko sinä → ootsä. Bốn âm tiết thành hai." },
+            { "vi": "Bạn giúp được không?", "note_vi": "Chữ -t của voit cộng với sä thành một âm." },
+            { "vi": "Tôi không biết.", "note_vi": "Phần phủ định dính vào đại từ, và chữ d bay mất." },
+            { "vi": "Chúng tôi không có.", "note_vi": "-llä co lại, ole → oo." },
+            { "vi": "Mình đi nhé?", "note_vi": "-kö → -ks trong gần như mọi câu hỏi nói." },
+            { "vi": "Sau mười giờ.", "note_vi": "Cả hai chữ -n cuối đơn giản là biến mất." },
+            { "vi": "Nó màu đỏ.", "note_vi": "Mọi tính từ -ainen đều như vậy." },
+            { "vi": "Ừ, tôi đến.", "note_vi": "Ba từ, ba chỗ co." },
+            { "vi": "Được rồi. Tôi cứ tưởng từ vựng của tôi tệ, nhưng ra là chuyện này." },
+            { "vi": "Chính xác. Từ thì bạn biết rồi. Giờ bạn chỉ đang học nghe ra chúng." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xin nghe lại từng chữ một",
+          "scenario_vi": "Nghe một câu bị dính chữ, xin tách ra, và gọi tên điều bạn vừa học.",
+          "your_role_vi": "Bạn, đang tập nghe",
+          "partner_role_vi": "Anni, đang nói bình thường",
+          "turns": [
+            { "vi": "Chả biết nữa, bạn đến cùng không?" },
+            { "vi": "Chờ đã — bạn nói câu đó từng chữ một được không?", "hint_vi": "Chính xác hơn «chậm hơn nữa». Nó nhắm đúng vào vấn đề thật." },
+            { "vi": "Được. «En… mä… tiedä… vielä.»" },
+            { "vi": "À ra thế! Tôi nghe nó thành một từ.", "hint_vi": "Gọi tên điều vừa xảy ra làm lần sau dễ bắt hơn." },
+            { "vi": "Đúng, nó là «emmä». Hai từ, nghe như một." },
+            { "vi": "Giờ thì tôi nghe ra rồi! Còn chỗ nào giống thế nữa không?", "hint_vi": "Hãy hỏi về quy luật, không chỉ về một từ." },
+            { "vi": "Nhiều. «Ootsä», «voitsä», «tuuksä». Động từ cộng sä." },
+            { "vi": "Tức là «oletko sinä» thành «ootsä». Thế đúng không?", "hint_vi": "Nhắc lại quy luật. Đó là cách một quy luật trở nên dùng được." },
+            { "vi": "Chính xác. Thế bạn đến cùng không?" },
+            { "vi": "Ừ, tôi đến! Và câu đó tôi nghe ra ngay lần đầu.", "hint_vi": "Nó đến theo từng bước nhảy. Hãy nói to ra khi bạn nhận thấy." }
+          ]
+        }
+      ]
+    }
+  }
+}

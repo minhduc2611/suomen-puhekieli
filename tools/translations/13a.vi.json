@@ -1,0 +1,324 @@
+{
+  "module": {
+    "title_vi": "Chất keo: nghe như một con người, không như một quyển sách giáo khoa",
+    "subtitle_vi": "Chương xuyên suốt — học lúc nào cũng được, sau chương 00.",
+    "description_vi": "Mọi thứ trong chương này là thứ tách biệt tiếng Phần Lan đúng với tiếng Phần Lan tự nhiên. Những từ đệm mua cho bạn thời gian suy nghĩ, những từ làm mềm giúp bạn không nghe cộc, những tiểu từ phản ứng giữ cho cuộc trò chuyện sống, cách hiệu chỉnh mức độ mạnh và chuyện văng tục, tiếng lóng hằng ngày, và những chỗ nuốt âm làm cho lời nói nhanh trở nên nhanh. Không phần nào thuộc về một tình huống riêng, nên nó là một chương riêng — và nên quay lại nhiều lần khi phần tiếng Phần Lan còn lại của bạn tiến bộ hơn."
+  },
+  "lessons": {
+    "fillers": {
+      "lesson": {
+        "title_vi": "Từ đệm và sự ngập ngừng",
+        "subtitle_vi": "niinku, tota, silleen, kai, vissiin",
+        "warmup_situation_vi": "Bạn biết các từ. Bạn chỉ cần thêm bốn giây để ghép chúng thành một câu. Trong bốn giây im lặng đó, người kia chuyển sang tiếng Anh.",
+        "warmup_question_vi": "Bạn nói gì trong lúc đang nghĩ — và vì sao nó ngăn được cú chuyển ngôn ngữ?",
+        "rescue_vi": "Ừm… chờ chút, tôi đang nghĩ.",
+        "rescue_note_vi": "Sự im lặng là tín hiệu khiến người Phần Lan chuyển sang tiếng Anh vì tử tế. Tiếng động — bất cứ tiếng động nào — là tín hiệu rằng bạn vẫn đang xử lý. «Tota» không phải khuyết điểm trong tiếng Phần Lan của bạn: nó là thứ giữ bạn ở lại trong đó."
+      },
+      "vocab": [
+        { "vi": "kiểu như", "note_vi": "Giống hệt «like» tiếng Anh. Cùng chức năng, cùng tần suất, cùng tiếng xấu nhè nhẹ." },
+        { "vi": "ừm, thì", "note_vi": "Từ để suy nghĩ. Bắt đầu câu bằng nó là bạn nghe như đang tìm chữ." },
+        { "vi": "ừm, để xem", "note_vi": "Bản dài hơn. Mua thêm một nhịp." },
+        { "vi": "à, ừ", "note_vi": "Từ «um» của tiếng Phần Lan. Nghe bản xứ vì nó đúng là bản xứ." },
+        { "vi": "mmm" },
+        { "vi": "thì, à", "note_vi": "Mở đầu phần lớn câu nói. Không phải «no» phủ định tiếng Anh." },
+        { "vi": "kiểu như thế", "note_vi": "«Se oli silleen... outoa» = nó kiểu như... lạ lạ." },
+        { "vi": "một loại", "note_vi": "Mua thời gian và thay thế cho một danh từ bạn không tìm ra." },
+        { "vi": "bằng cách nào đó, hơi hơi", "note_vi": "«Se oli jotenkin kiva» = nó hay hay thế nào đó. Vừa làm mềm vừa trì hoãn." },
+        { "vi": "nói thế nào nhỉ", "note_vi": "Một câu trọn vẹn chỉ để mua thời gian. Người bản xứ dùng liên tục." },
+        { "vi": "cái đó gọi là gì nhỉ" },
+        { "vi": "chắc là, có lẽ", "note_vi": "Làm nhẹ cả câu. «Se on kai ok.»" },
+        { "vi": "nghe nói là, hình như", "note_vi": "Thông tin nghe lại. «Se on vissiin kipeä.»" },
+        { "vi": "có lẽ, chắc chắn" },
+        { "vi": "có lẽ", "note_vi": "Trang trọng hơn «varmaan». Dùng khi viết thì ổn." },
+        { "vi": "có thể" },
+        { "vi": "hay là, ý tôi là", "note_vi": "Tự sửa giữa câu. Cực kỳ phổ biến." },
+        { "vi": "à không, ý tôi là", "note_vi": "Công cụ sửa nhanh nhất trong ngôn ngữ này. Thiết yếu cho người học." },
+        { "vi": "ý tôi là, tức là" },
+        { "vi": "đúng, chính xác", "note_vi": "Đọc là «yust»." },
+        { "vi": "theo một cách nào đó" }, { "vi": "về nguyên tắc, cơ bản là" },
+        { "vi": "thật ra" }, { "vi": "thực tế là" }, { "vi": "chờ chút" }, { "vi": "đợi đã" },
+        { "vi": "tôi đang nghĩ", "note_vi": "Hãy nói to ra. Nó ngăn cú chuyển sang tiếng Anh ngay lập tức." }
+      ],
+      "phrases": [
+        { "vi": "Ừm… để tôi nghĩ một chút.", "when_to_use_vi": "Nước đi cốt lõi. Nó mua năm giây và ngăn cú chuyển sang tiếng Anh." },
+        { "vi": "Nói thế nào nhỉ…", "when_to_use_vi": "Một câu trọn vẹn để mua thời gian. Người bản xứ dùng liên tục." },
+        { "vi": "Nó kiểu như… lạ lạ thế nào đó.", "when_to_use_vi": "Hai từ đệm trong một câu mà nghe hoàn toàn bản xứ." },
+        { "vi": "Nó là một loại… cái đó gọi là gì nhỉ…", "when_to_use_vi": "Khi danh từ không ra. Sẽ có người cung cấp nó." },
+        { "vi": "Thì, kiểu như là…", "when_to_use_vi": "Ba từ đệm mà bạn chưa nói gì cả. Như thế là ổn." },
+        { "vi": "Chắc là ổn.", "when_to_use_vi": "«Kai» làm nhẹ cả câu. Rất Phần Lan." },
+        { "vi": "Nghe nói anh ấy bị ốm.", "when_to_use_vi": "«Vissiin» đánh dấu thông tin nghe lại. Hữu ích và chính xác." },
+        { "vi": "À không, tôi nói cái kia.", "when_to_use_vi": "Công cụ sửa nhanh nhất trong ngôn ngữ này. Hãy học sớm." },
+        { "vi": "Hay là, không hẳn.", "when_to_use_vi": "Tự sửa mà không phải bắt đầu lại." },
+        { "vi": "Chờ chút, đợi đã.", "when_to_use_vi": "Mua một khoảng ngắt sạch. Không ai chiếm lượt nói của bạn." },
+        { "vi": "Thật ra tôi không biết.", "when_to_use_vi": "«Oikeestaan» làm mềm lời thừa nhận và nghe tự nhiên." },
+        { "vi": "Nó cơ bản là cùng một chuyện.", "when_to_use_vi": "Một lời rào đón mà cũng là một luận điểm thật. Rất hay gặp trong tiếng Phần Lan công việc." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Nghĩ thành tiếng mà không mất lượt nói",
+          "setting_vi": "Một câu hỏi Duc chưa nghĩ tới. Anh lấp mọi khoảng trống.",
+          "note_vi": "Đếm số từ đệm. Không ai chuyển sang tiếng Anh ở bất cứ điểm nào, và đó chính là lý do.",
+          "lines": [
+            { "vi": "Bạn nghĩ gì về bản kế hoạch mới đó?" },
+            { "vi": "À… ừm. Câu hỏi hay đấy.", "note_vi": "Mua được ba giây, không có khoảng lặng." },
+            { "vi": "Bạn cứ thong thả." },
+            { "vi": "Thì, nói thế nào nhỉ… nó kiểu như cơ bản là tốt." },
+            { "vi": "Nhưng?" },
+            { "vi": "Nhưng cái tiến độ thì kiểu như… hơi không thực tế thế nào đó." },
+            { "vi": "Không thực tế ở chỗ nào?" },
+            { "vi": "Ừm… cái giai đoạn kiểm thử. Nghe nói nó mất nhiều thời gian hơn mức đã tính." },
+            { "vi": "Ồ, bạn nói chuyện với Jussi rồi à?" },
+            { "vi": "Ừ. À không — tôi không thật sự nói chuyện, nhưng tôi đọc bản ước tính của anh ấy." },
+            { "vi": "Vâng. Bạn đề xuất thế nào?" },
+            { "vi": "Chắc là thêm hai tuần? Thật ra ba tuần thì an toàn hơn." },
+            { "vi": "Điểm hay đấy. Mình nói ba tuần nhé." }
+          ]
+        },
+        {
+          "title_vi": "Cùng câu trả lời đó mà không có từ đệm",
+          "setting_vi": "Nó nghe thế nào khi bạn để các khoảng trống im lặng.",
+          "note_vi": "Các khoảng ngắt dài y như nhau. Chỉ có điều giờ chúng trống rỗng, và ngôn ngữ bị chuyển.",
+          "lines": [
+            { "vi": "Bạn nghĩ gì về bản kế hoạch mới đó?" },
+            { "vi": "…", "note_vi": "Bốn giây. Đây chính là thời điểm đó." },
+            { "vi": "(chuyển sang tiếng Anh) Mình nói tiếng Anh nếu như thế dễ hơn nhé?" },
+            { "vi": "Không không — ừm, tôi chỉ đang nghĩ thôi.", "note_vi": "Gỡ được, nhưng anh đã phải tiêu một câu cho việc đó." },
+            { "vi": "Ồ xin lỗi! Bạn nói tiếp đi." },
+            { "vi": "Nó kiểu như tốt, nhưng cái tiến độ thì hơi không thực tế thế nào đó." },
+            { "vi": "Vâng. Lần sau bạn cứ nói «tota», thế là tôi biết bạn đang nghĩ." },
+            { "vi": "Haha, lời khuyên hay. Tôi sẽ làm vậy." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Lấp mọi khoảng trống",
+          "scenario_vi": "Trả lời một câu hỏi bạn chưa chuẩn bị, dùng một từ đệm mỗi lần bạn cần thời gian.",
+          "your_role_vi": "Bạn, đang nghĩ tại chỗ",
+          "partner_role_vi": "Anni, người hỏi",
+          "turns": [
+            { "vi": "Bạn nghĩ gì về bản kế hoạch mới đó?" },
+            { "vi": "À… ừm. Câu hỏi hay đấy.", "hint_vi": "Tiếng động, không phải im lặng. Đây là thứ ngăn cú chuyển sang tiếng Anh." },
+            { "vi": "Bạn cứ thong thả." },
+            { "vi": "Thì, nói thế nào nhỉ… nó kiểu như cơ bản là tốt.", "hint_vi": "Một câu trọn vẹn để mua thời gian, rồi mới đến câu trả lời thật." },
+            { "vi": "Nhưng?" },
+            { "vi": "Nhưng cái tiến độ thì kiểu như… hơi không thực tế thế nào đó.", "hint_vi": "Hai từ đệm bên trong một luận điểm thật. Hoàn toàn bản xứ." },
+            { "vi": "Không thực tế ở chỗ nào?" },
+            { "vi": "Ừm… nghe nói giai đoạn kiểm thử mất nhiều thời gian hơn.", "hint_vi": "«Vissiin» đánh dấu là thông tin nghe lại. Vừa chính xác vừa tự nhiên." },
+            { "vi": "Ồ, bạn nói chuyện với Jussi rồi à?" },
+            { "vi": "À không — không thật sự, nhưng tôi đọc bản ước tính của anh ấy.", "hint_vi": "«Eiku» sửa lại mà không phải bắt đầu lại câu." },
+            { "vi": "Vâng. Bạn đề xuất thế nào?" },
+            { "vi": "Chắc là thêm hai tuần? Thật ra ba tuần thì an toàn hơn.", "hint_vi": "Rào đón, rồi tự sửa lên. Nghe như một quan điểm đang hình thành thật." }
+          ]
+        }
+      ]
+    },
+    "softeners": {
+      "lesson": {
+        "title_vi": "Những từ làm mềm",
+        "subtitle_vi": "vähän, ehkä, just, semmonen",
+        "warmup_situation_vi": "Bạn nói «Tää on huono.» Nó đúng và bạn có ý giúp. Cả phòng im lặng.",
+        "warmup_question_vi": "Tiếng Phần Lan thẳng thắn — vậy sao câu đó lại rơi xuống tệ, và một từ nào đã có thể cứu nó?",
+        "rescue_vi": "Xin lỗi, ý tôi là nó hơi dở. Hơi thôi.",
+        "rescue_note_vi": "«Vähän» là từ có đòn bẩy lớn nhất trong chương này. Tiếng Phần Lan thẳng thắn về nội dung nhưng liên tục làm mềm *mức độ*, và một chữ «vähän» biến một lời phán xét thành một nhận xét. Người học thường có phần thẳng thắn đúng mà thiếu phần làm mềm."
+      },
+      "vocab": [
+        { "vi": "một chút", "note_vi": "Từ làm mềm quan trọng nhất trong tiếng Phần Lan. Đặt nó trước mọi lời phê." },
+        { "vi": "khá", "note_vi": "«Aika hyvä» = khá tốt. Lạ là nó mềm hơn «hyvä»." },
+        { "vi": "tương đối" }, { "vi": "phần nào" },
+        { "vi": "có thể, có lẽ", "note_vi": "Biến một đề xuất thành một lựa chọn. «Ehkä me voitais…»" },
+        { "vi": "chắc là" }, { "vi": "có lẽ" }, { "vi": "thế nào đó" },
+        { "vi": "một loại", "note_vi": "«Se on semmonen vähän hankala» — làm mềm hai lớp, rất tự nhiên." },
+        { "vi": "đúng, chính xác" },
+        { "vi": "chỉ, chỉ là", "note_vi": "«Mä vaan kysyn» = tôi chỉ hỏi thôi. Gỡ hết phần gai góc." },
+        { "vi": "khá, hoàn toàn", "note_vi": "«Ihan hyvä» = cũng ổn. Lời khen nhạt, và thật thà." },
+        { "vi": "bạn có thể… không", "note_vi": "Thể điều kiện làm mềm lời đề nghị vừa đủ mà không phải hạ mình." },
+        { "vi": "tôi có thể… không" },
+        { "vi": "tôi xin đề xuất", "note_vi": "Thể điều kiện là công cụ làm mềm chính trong tiếng Phần Lan công việc." },
+        { "vi": "sẽ là" },
+        { "vi": "theo tôi thì", "note_vi": "Đóng khung một khẳng định thành một quan điểm. Làm được rất nhiều việc." },
+        { "vi": "tôi nghĩ là" }, { "vi": "tôi chợt nghĩ đến" }, { "vi": "tôi không chắc, nhưng" },
+        { "vi": "sửa cho tôi nếu tôi sai" },
+        { "vi": "nhỏ", "note_vi": "«Yks pieni juttu» = một việc nhỏ. Hạ thấp trước khi bạn kịp bắt đầu." },
+        { "vi": "nhanh", "note_vi": "«Yks nopee kysymys» = một câu hỏi nhanh. Hứa sẽ ngắn." },
+        { "vi": "nếu tiện" }, { "vi": "nếu bạn có thời gian" }, { "vi": "không gấp" },
+        { "vi": "quá nhiều", "note_vi": "Đừng làm mềm quá tay. Hai từ làm mềm là đủ; năm cái thì nghe như đang né." }
+      ],
+      "phrases": [
+        { "vi": "Cái này hơi dở.", "when_to_use_vi": "Một chữ «vähän» biến lời phán xét thành nhận xét. Hãy dùng mỗi lần." },
+        { "vi": "Nó khá tốt.", "when_to_use_vi": "«Aika» là lời khen thật trong tiếng Phần Lan, không phải chê. Hãy tin nó." },
+        { "vi": "Nó cũng ổn.", "when_to_use_vi": "Nhạt và thật thà. Không ai nghe ra sự nhiệt tình — và đúng là vậy." },
+        { "vi": "Tôi chỉ hỏi thôi.", "when_to_use_vi": "Gỡ hết phần gai góc khỏi một câu hỏi nghe như thách thức." },
+        { "vi": "Có thể mình thử cách khác được không?", "when_to_use_vi": "«Ehkä» cộng thể điều kiện biến lời chỉnh sửa thành một lựa chọn." },
+        { "vi": "Theo tôi thì nó không hẳn hiệu quả.", "when_to_use_vi": "Đóng khung thành quan điểm và «ihan» làm mềm phần phủ định. Hai công cụ một lúc." },
+        { "vi": "Tôi không chắc, nhưng ở đây có rủi ro không nhỉ?", "when_to_use_vi": "Cho phép bạn nêu một điểm nghiêm trọng mà không phải khẳng định chắc chắn." },
+        { "vi": "Sửa cho tôi nếu tôi sai nhé.", "when_to_use_vi": "Thật sự làm dịu không khí trong một cuộc họp, và thường thì bạn sai thật." },
+        { "vi": "Còn một việc nhỏ nữa.", "when_to_use_vi": "Hạ thấp điều sắp nói trước khi bạn bắt đầu. Rất hữu ích." },
+        { "vi": "Bạn xem cái này được không, nếu có thời gian?", "when_to_use_vi": "Thể điều kiện cộng «jos ehdit». Lịch sự mà không xu xoa." },
+        { "vi": "Không gấp đâu.", "when_to_use_vi": "Thêm vào khi đúng vậy. Thật sự tử tế và chẳng tốn gì." },
+        { "vi": "Nó là một chuyện hơi khó xử.", "when_to_use_vi": "Làm mềm hai lớp. Tự nhiên, và hữu ích trước tin xấu." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cùng một lời phê, ba cách nói",
+          "setting_vi": "Nhận xét về bản nháp của đồng nghiệp. Hãy theo dõi nhiệt độ thay đổi.",
+          "note_vi": "Nội dung y hệt nhau trong cả ba. Chỉ các từ làm mềm là khác.",
+          "lines": [
+            { "vi": "Cái này dở. Cấu trúc không hiệu quả.", "note_vi": "Đúng, có ý giúp, và rơi xuống như một cái tát." },
+            { "vi": "…Được." },
+            { "vi": "Cái này hơi dở. Cấu trúc không hẳn hiệu quả.", "note_vi": "Hai từ làm mềm. Cùng thông điệp, tiếp nhận hoàn toàn khác." },
+            { "vi": "Ừ, tôi cũng đang nghĩ về chỗ đó. Bạn sẽ đổi nó thế nào?" },
+            { "vi": "Theo tôi thì cấu trúc không hẳn hiệu quả. Tôi không chắc, nhưng có thể chương hai nên đặt trước?" },
+            { "vi": "Ồ, ý hay đấy. Tôi thử xem." },
+            { "vi": "Và ngoài ra thì nó khá tốt. Còn một việc nhỏ nữa — bạn kiểm tra lại mấy con số đó được không?" },
+            { "vi": "Ừ, tất nhiên. Chúng sai à?" },
+            { "vi": "Một con số nhìn hơi lạ. Tôi chỉ hỏi thôi, tôi không chắc." },
+            { "vi": "May mà bạn nói. Tôi xem lại. Cảm ơn bạn!" }
+          ]
+        },
+        {
+          "title_vi": "Làm mềm quá tay",
+          "setting_vi": "Kiểu thất bại còn lại. Năm từ làm mềm và không có thông điệp nào.",
+          "note_vi": "Hai từ làm mềm là đủ. Năm cái thì chẳng ai biết bạn đang đề nghị gì.",
+          "lines": [
+            { "vi": "À, xin lỗi, tôi không biết, nhưng có lẽ nếu lúc nào bạn có chút thời gian, thì bạn có thể có lẽ xem giúp cái đó không?" },
+            { "vi": "…Xem cái gì? Và bạn cần nó khi nào?" },
+            { "vi": "À đúng rồi. Xin lỗi. Ừm — bạn xem bản báo cáo đó trước thứ Tư được không?" },
+            { "vi": "Ừ, dễ mà. Bạn cứ nói thẳng như thế." },
+            { "vi": "Tôi sợ nó nghe thô." },
+            { "vi": "Không hề. Một lời đề nghị rõ ràng là lịch sự. Một lời đề nghị mơ hồ mới là khó chịu." },
+            { "vi": "Bài học hay. Tức là một chữ «vähän» là đủ." },
+            { "vi": "Chính xác. Một cái là đủ." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đưa nhận xét khó một cách mềm mại",
+          "scenario_vi": "Phê một bản nháp bằng các từ làm mềm, khen phần được, và đưa ra một lời đề nghị rõ ràng.",
+          "your_role_vi": "Bạn, đang nhận xét",
+          "partner_role_vi": "Anni, người viết bản nháp",
+          "turns": [
+            { "vi": "Bạn thấy bản nháp đó thế nào?" },
+            { "vi": "Theo tôi thì cấu trúc không hẳn hiệu quả.", "hint_vi": "«Mun mielestä» cộng «ihan». Hai công cụ, một câu." },
+            { "vi": "Ừ, tôi cũng đang nghĩ vậy. Bạn sẽ đổi nó thế nào?" },
+            { "vi": "Tôi không chắc, nhưng có thể chương hai nên đặt trước?", "hint_vi": "Một đề xuất đóng khung thành lựa chọn, không phải lời chỉnh sửa." },
+            { "vi": "Ồ, ý hay đấy." },
+            { "vi": "Và ngoài ra thì nó khá tốt.", "hint_vi": "«Aika hyvä» là lời khen thật trong tiếng Phần Lan. Hãy tin nó." },
+            { "vi": "Cảm ơn bạn! Còn gì nữa không?" },
+            { "vi": "Còn một việc nhỏ — bạn kiểm tra lại mấy con số đó được không?", "hint_vi": "«Yks pieni juttu» hạ thấp trước khi bạn bắt đầu." },
+            { "vi": "Chúng sai à?" },
+            { "vi": "Một con số nhìn hơi lạ. Tôi chỉ hỏi thôi.", "hint_vi": "«Mä vaan kysyn» gỡ hết phần gai góc. Rồi ngừng làm mềm." }
+          ]
+        }
+      ]
+    },
+    "reactions": {
+      "lesson": {
+        "title_vi": "Đồng ý, nghi ngờ, phản ứng",
+        "subtitle_vi": "Just joo. Nii varmaan. Eiks niin?",
+        "warmup_situation_vi": "Có người kể cho bạn một chuyện thú vị. Bạn nói «joo». Họ đợi. Bạn nói «joo» lần nữa. Cuộc trò chuyện chết vì bị bỏ mặc.",
+        "warmup_question_vi": "Chữ «joo» có thể mang bao nhiêu nghĩa khác nhau — và còn những gì khác để dùng?",
+        "rescue_vi": "Ồ thế à, thật không?",
+        "rescue_note_vi": "Phản ứng hai nhịp an toàn nhất trong tiếng Phần Lan: trước là «ồ», rồi mới «thật à». Nó dùng được cho tuyệt đối mọi tin tức, tích cực hay tiêu cực, và nó luôn làm người kia nói thêm thông tin."
+      },
+      "vocab": [
+        { "vi": "ừ, vâng", "note_vi": "Vâng trung tính. Giọng phẳng nghĩa là «tôi nghe rồi», không hơn." },
+        { "vi": "ờ thì, vâng", "note_vi": "Kéo dài = đồng ý kèm dè dặt. Hãy nghe nó trước một chữ «nhưng»." },
+        { "vi": "ừ, ờ", "note_vi": "«Tôi đang nghe, nói tiếp đi.» Tiếng nghe chủ động chính." },
+        { "vi": "ừừ (chưa thuyết phục)", "note_vi": "Kéo dài và hạ giọng = «hừm, tôi không chắc về chuyện đó»." },
+        { "vi": "ừ, chắc rồi (mỉa)", "note_vi": "Nghi ngờ mỉa mai. Ngữ điệu làm hết việc. Dùng cẩn thận." },
+        { "vi": "à ra vậy / ừ, sao cũng được", "note_vi": "Ấm áp hay mỉa mai hoàn toàn tuỳ ngữ điệu. Hãy nghe nhiều trước khi dùng." },
+        { "vi": "ồ thế à", "note_vi": "Phản ứng phổ biến nhất trong tiếng Phần Lan. Quan tâm vừa phải, luôn an toàn." },
+        { "vi": "ồ" }, { "vi": "thật sự, thật à" },
+        { "vi": "không thể nào", "note_vi": "Dành cho bất ngờ thật. Dùng nhiều thì nghe như diễn." },
+        { "vi": "chà" },
+        { "vi": "trời đất", "note_vi": "Hốt hoảng nhẹ. An toàn trong mọi hoàn cảnh." },
+        { "vi": "ôi không" }, { "vi": "tiếc quá" }, { "vi": "may mà" },
+        { "vi": "đúng thế", "note_vi": "Đồng tình ấm áp với một lời than. Cả nước đều yêu câu này." },
+        { "vi": "đời là thế" }, { "vi": "đúng, thật" }, { "vi": "cùng ý kiến" },
+        { "vi": "đúng không?", "note_vi": "Câu hỏi đuôi. Biến một nhận định thành một nhận định chung." },
+        { "vi": "hay bạn thấy thế nào?", "note_vi": "Mời người ta phản đối. Thân thiện hơn nghe tưởng." },
+        { "vi": "kiểu như gì?", "note_vi": "Xin một ví dụ. Giữ cho một câu trả lời mơ hồ đi tiếp." },
+        { "vi": "sao cơ?" }, { "vi": "kể thêm đi" }, { "vi": "vậy à" },
+        { "vi": "thú vị đấy", "note_vi": "Người Phần Lan nói khi họ thấy thế thật, không phải để lấp chỗ." },
+        { "vi": "tôi không biết đấy" }, { "vi": "điểm hay đấy" }
+      ],
+      "phrases": [
+        { "vi": "Ồ thế à, thật không?", "when_to_use_vi": "Phản ứng hai nhịp an toàn. Dùng được cho mọi tin tức." },
+        { "vi": "Ừ, ừ. Kể tiếp đi.", "when_to_use_vi": "Nghe chủ động. Cứ vài câu lại «nii» một cái, không thì họ ngừng kể." },
+        { "vi": "Ờ thì, vâng, nhưng…", "when_to_use_vi": "Phản đối nhẹ nhàng. Chữ joo kéo dài làm phần làm mềm." },
+        { "vi": "Đúng thế. Đời là vậy.", "when_to_use_vi": "Đồng tình với một lời than. Cặp câu Phần Lan nhất từng có." },
+        { "vi": "Không thể nào!", "when_to_use_vi": "Chỉ dành cho bất ngờ thật. Dùng nhiều thì nghe như diễn." },
+        { "vi": "Tiếc quá.", "when_to_use_vi": "Tin xấu nhỏ. Không dùng cho chuyện tang sự." },
+        { "vi": "Kiểu như gì?", "when_to_use_vi": "Khi ai đó nói mơ hồ. Giúp bạn có một ví dụ cụ thể." },
+        { "vi": "Sao cơ?", "when_to_use_vi": "Nhờ ai đó khai triển một ý kiến. Trung tính, không gây hấn." },
+        { "vi": "Đó là điểm hay đấy.", "when_to_use_vi": "Ở đây nói thật lòng, không phải để kéo dài thời gian." },
+        { "vi": "Thú vị đấy. Tôi không biết chuyện đó.", "when_to_use_vi": "Người Phần Lan nói «mielenkiintosta» là có ý thật. Nó không phải từ đệm." },
+        { "vi": "Cái đó hay thật, đúng không?", "when_to_use_vi": "«Eiks niin» mời người ta đồng ý và biến quan điểm thành chung." },
+        { "vi": "Theo tôi thì có. Hay bạn thấy thế nào?", "when_to_use_vi": "Mời người ta phản đối một cách công khai. Thân thiện hơn nghe tưởng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một câu chuyện được giữ sống chỉ bằng phản ứng",
+          "setting_vi": "Duc gần như không góp nội dung gì mà cuộc trò chuyện vẫn nở rộ.",
+          "note_vi": "Đếm số từ của anh ấy. Anh nói khoảng hai mươi từ và câu chuyện kéo dài bốn phút.",
+          "lines": [
+            { "vi": "Hôm qua ở chỗ làm bọn tôi có một ngày khá điên." },
+            { "vi": "Ồ thế à? Chuyện gì xảy ra?" },
+            { "vi": "Thì, cả hệ thống sập lúc mười giờ." },
+            { "vi": "Ôi không." },
+            { "vi": "Và bọn tôi có một cuộc họp khách hàng lớn lúc mười hai giờ." },
+            { "vi": "Không thể nào. Các bạn làm gì?" },
+            { "vi": "Jussi làm lại toàn bộ bài thuyết trình bằng tay, trên giấy." },
+            { "vi": "Chà. Nó có hiệu quả không?" },
+            { "vi": "Khách hàng thích nó hơn cả bản gốc." },
+            { "vi": "Haha, đúng thế thật! Lúc nào chẳng vậy." },
+            { "vi": "Đúng thế. Giờ Jussi muốn làm mọi bài thuyết trình trên giấy." },
+            { "vi": "Ừừ. Cái đó có lẽ không mở rộng được.", "note_vi": "Chữ «nii-i» kéo dài làm phần nghi ngờ. Một cách nhẹ nhàng." },
+            { "vi": "Haha, tôi cũng nói đúng câu đó. Điểm hay đấy." }
+          ]
+        },
+        {
+          "title_vi": "Cùng những tiểu từ, ngữ điệu khác nhau",
+          "setting_vi": "Bốn đoạn trao đổi. Từ ngữ y hệt nhau; ý nghĩa thì không.",
+          "note_vi": "Ngữ điệu gánh toàn bộ ý nghĩa ở đây. Hãy nghe chúng nhiều lần trước khi dùng.",
+          "lines": [
+            { "vi": "Tôi hứa hôm nay tôi làm xong." },
+            { "vi": "Ừ, sao cũng được.", "note_vi": "Giọng phẳng và hạ xuống = nghi ngờ thân thiện. Chỉ giữa bạn bè." },
+            { "vi": "Giờ tôi hiểu nó hoạt động thế nào rồi!" },
+            { "vi": "À ra vậy! Tốt.", "note_vi": "Giọng lên và ấm = sự nhận ra thật. Cùng hai chữ đó." },
+            { "vi": "Dự án đó chắc chắn xong tuần sau." },
+            { "vi": "Ừ, chắc rồi.", "note_vi": "Mỉa mai công khai. Chỉ dùng khi quan hệ cho phép." },
+            { "vi": "Này, thật đấy! Mọi thứ gần xong hết rồi." },
+            { "vi": "Ờ thì, vâng. Thôi, để xem.", "note_vi": "Nghi ngờ nhưng đã bỏ đi phần gai góc. Bản an toàn hơn." },
+            { "vi": "Haha, bạn không tin tôi." },
+            { "vi": "Tin chứ. Một chút." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Giữ một câu chuyện sống chỉ bằng phản ứng",
+          "scenario_vi": "Việc của bạn là phản ứng và hỏi. Gần như không góp nội dung của riêng bạn.",
+          "your_role_vi": "Bạn, đang lắng nghe",
+          "partner_role_vi": "Anni, đang kể chuyện",
+          "turns": [
+            { "vi": "Hôm qua ở chỗ làm bọn tôi có một ngày khá điên." },
+            { "vi": "Ồ thế à? Chuyện gì xảy ra?", "hint_vi": "Phản ứng, rồi mở cửa. Hai nước đi trong bốn chữ." },
+            { "vi": "Cả hệ thống sập lúc mười giờ." },
+            { "vi": "Ôi không.", "hint_vi": "Hai chữ. Một đóng góp trọn vẹn." },
+            { "vi": "Và bọn tôi có một cuộc họp khách hàng lớn lúc mười hai giờ." },
+            { "vi": "Không thể nào. Các bạn làm gì?", "hint_vi": "Đẩy phản ứng mạnh hơn khi câu chuyện leo thang." },
+            { "vi": "Jussi làm lại toàn bộ bài thuyết trình trên giấy." },
+            { "vi": "Chà. Nó có hiệu quả không?", "hint_vi": "Một từ phản ứng cộng một câu hỏi. Mẫu đáng tin cậy." },
+            { "vi": "Khách hàng thích nó hơn cả bản gốc!" },
+            { "vi": "Haha, đúng thế thật! Lúc nào chẳng vậy.", "hint_vi": "«Just joo» ấm — giọng lên, không phẳng." },
+            { "vi": "Giờ Jussi muốn làm mọi bài thuyết trình trên giấy." },
+            { "vi": "Ừừ. Cái đó có lẽ không mở rộng được.", "hint_vi": "Chữ «nii-i» kéo dài làm phần nghi ngờ giúp bạn, một cách nhẹ nhàng." }
+          ]
+        }
+      ]
+    }
+  }
+}

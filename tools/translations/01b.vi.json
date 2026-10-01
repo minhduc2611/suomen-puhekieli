@@ -1,0 +1,221 @@
+{
+  "lessons": {
+    "work-and-life": {
+      "lesson": {
+        "title_vi": "Công việc và đời sống hằng ngày",
+        "subtitle_vi": "Mitä sä teet työksesi?",
+        "warmup_situation_vi": "Ai đó hỏi bạn làm nghề gì. Bạn nói chức danh bằng tiếng Anh và cuộc trò chuyện tắt ngấm.",
+        "warmup_question_vi": "Bạn có thể mô tả việc mình thực sự làm bằng năm từ tiếng Phần Lan đơn giản không?",
+        "rescue_vi": "Tôi làm gì đó với máy tính — khó giải thích bằng tiếng Phần Lan lắm!",
+        "rescue_note_vi": "Thừa nhận giới hạn trong khi vẫn trả lời sẽ giữ bạn ở lại tiếng Phần Lan. Cách còn lại — chuyển sang tiếng Anh để giải thích công việc cho tử tế — thường kết thúc luôn phần tiếng Phần Lan của buổi tối."
+      },
+      "vocab": [
+        { "vi": "công việc" },
+        { "vi": "việc làm (tiếng lóng)", "note_vi": "Rất hay gặp khi nói. «Mä meen duuniin» = tôi đi làm đây." },
+        { "vi": "ở chỗ làm", "note_vi": "«Mä oon töissä» = tôi đang ở chỗ làm / tôi có việc làm." },
+        { "vi": "nơi làm việc, chỗ làm" },
+        { "vi": "nghề nghiệp" },
+        { "vi": "công ty (thân mật)", "note_vi": "«Yritys» là từ trung tính, «firma» là từ dùng khi nói." },
+        { "vi": "công ty, doanh nghiệp" },
+        { "vi": "sếp" },
+        { "vi": "đồng nghiệp" },
+        { "vi": "sinh viên, học sinh" },
+        { "vi": "đã nghỉ hưu" },
+        { "vi": "thất nghiệp", "note_vi": "Nói ra không ngại ngùng gì ở đây. Người Phần Lan bàn chuyện này công khai." },
+        { "vi": "làm việc từ xa", "literal_vi": "công-việc-từ-xa" },
+        { "vi": "từ xa", "note_vi": "«Mä teen etänä tänään.»" },
+        { "vi": "văn phòng" },
+        { "vi": "ca làm" },
+        { "vi": "lương", "note_vi": "Người Phần Lan không hỏi lương nhau. Đừng hỏi." },
+        { "vi": "kỳ nghỉ" },
+        { "vi": "nghỉ hè", "note_vi": "Bốn tuần trong tháng Bảy. Cả nước đóng cửa." },
+        { "vi": "sự vội vã, bận rộn", "note_vi": "«Mulla on kiire» = tôi đang bận." },
+        { "vi": "chán" },
+        { "vi": "thú vị" },
+        { "vi": "nặng nhọc, vất vả", "note_vi": "«Raskas työ» = công việc vất vả, về thể chất hoặc tinh thần." },
+        { "vi": "thích", "note_vi": "«Mä tykkään siitä» = tôi thích nó." },
+        { "vi": "giáo viên" },
+        { "vi": "y tá, người chăm sóc" },
+        { "vi": "kỹ sư" },
+        { "vi": "lập trình viên", "note_vi": "Tiếng lóng, ai cũng hiểu." },
+        { "vi": "nhân viên bán hàng" },
+        { "vi": "ngành xây dựng", "note_vi": "«-ala» = ngành. Ravintola-ala, IT-ala, hoitoala." }
+      ],
+      "phrases": [
+        { "vi": "Bạn làm nghề gì?", "when_to_use_vi": "Bản trung tính. Được hỏi muộn hơn trong cuộc trò chuyện so với tiếng Anh." },
+        { "vi": "Bạn làm việc gì?", "when_to_use_vi": "Bản thân mật. Dùng với người cùng tuổi trong bối cảnh thoải mái." },
+        { "vi": "Bạn làm ở đâu?", "when_to_use_vi": "Thường được hỏi thay cho «bạn làm nghề gì» — người Phần Lan quan tâm nơi làm cũng ngang chức danh." },
+        { "vi": "Tôi là lập trình viên.", "when_to_use_vi": "Nghề nghiệp không cần mạo từ. Mä oon opettaja, mä oon hoitaja." },
+        { "vi": "Tôi làm trong ngành IT.", "when_to_use_vi": "Khi chức danh chính xác của bạn không dịch được. Nói ngành là đủ." },
+        { "vi": "Tôi là sinh viên.", "when_to_use_vi": "Thêm môn học: «Mä opiskelen suomee.»" },
+        { "vi": "Tôi làm từ xa hai ngày một tuần.", "when_to_use_vi": "Một chủ đề chắc chắn kéo được chuyện ở Phần Lan lúc này." },
+        { "vi": "Bạn có thích công việc của mình không?", "when_to_use_vi": "Ở đây đây là câu hỏi thật, và bạn sẽ nhận câu trả lời thật, dù tích cực hay không." },
+        { "vi": "Ừ, khá thích. Có lúc bận, nhưng ổn.", "when_to_use_vi": "Câu trả lời thành thật kiểu Phần Lan. Hào hứng không dè dặt nghe kỳ lắm." },
+        { "vi": "Tuần này tôi bận lắm.", "when_to_use_vi": "Được chấp nhận rộng rãi vừa như lời giải thích vừa như lời từ chối." },
+        { "vi": "Khi nào bạn được nghỉ?", "when_to_use_vi": "Câu hỏi ấm áp hơn là hỏi về chính công việc. Người Phần Lan sáng mắt lên." },
+        { "vi": "Công việc của tôi hơi khó giải thích.", "when_to_use_vi": "Mua được một tiếng cười và một câu hỏi tiếp, thay vì một khoảng lặng ngượng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Bạn làm nghề gì?",
+          "setting_vi": "Hai người ở một buổi nướng ngoài trời, ly trên tay.",
+          "lines": [
+            { "vi": "Thế bạn làm nghề gì?" },
+            { "vi": "Tôi là lập trình viên. Tôi làm trong ngành IT." },
+            { "vi": "Ồ thế à, bạn làm ở đâu?" },
+            { "vi": "Ở một công ty nhỏ trong trung tâm. Còn bạn?" },
+            { "vi": "Tôi là giáo viên. Ở trường tiểu học." },
+            { "vi": "Chà. Có vất vả không?" },
+            { "vi": "Có, nhưng tôi thích lắm. Bọn trẻ dễ thương." },
+            { "vi": "Nghe hay đấy. Tôi có hai đứa, ba tuổi và sáu tuổi." },
+            { "vi": "À, vậy là bạn hiểu ý tôi rồi!" },
+            { "vi": "Ừ, tôi hiểu chứ. Việc của bạn khó hơn việc của tôi." }
+          ]
+        },
+        {
+          "title_vi": "Tốc độ thật, với một công việc không dịch nổi",
+          "setting_vi": "Giờ nghỉ cà phê. Có người hỏi và Duc không tìm ra chữ.",
+          "note_vi": "Anh ấy không hề chuyển sang tiếng Anh. Hãy xem anh ấy làm gì thay vào đó.",
+          "lines": [
+            { "vi": "Ở chỗ làm bạn thực sự làm gì thế?" },
+            { "vi": "Ừm… cái đó hơi khó giải thích." },
+            { "vi": "Cứ nói đơn giản thôi." },
+            { "vi": "Thì, tôi làm phần mềm. Kiểu như ứng dụng ấy." },
+            { "vi": "À cho điện thoại hả?" },
+            { "vi": "À không… cho web. Cho mấy ngân hàng.", "note_vi": "«Eiku» bẻ lái mà không mất đà." },
+            { "vi": "À ra thế, tức là bạn là lập trình viên." },
+            { "vi": "Đúng rồi, từ đó đấy! Cảm ơn.", "note_vi": "Để người kia cung cấp từ giùm là một chiến thuật giao tiếp thật sự, không phải thất bại." },
+            { "vi": "Chán hay vui?" },
+            { "vi": "Có lúc cả hai.", "note_vi": "«kumpaaki» = kumpaakin, «cả hai»." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Giải thích công việc bằng tiếng Phần Lan đơn giản",
+          "scenario_vi": "Mô tả việc bạn làm mà không dùng tiếng Anh và không dùng chức danh.",
+          "your_role_vi": "Bạn, ở buổi nướng ngoài trời",
+          "partner_role_vi": "Sanna, thật sự tò mò",
+          "turns": [
+            { "vi": "Bạn làm nghề gì?" },
+            { "vi": "Tôi làm trong ngành IT.", "hint_vi": "Bắt đầu từ ngành — luôn dễ hơn chức danh." },
+            { "vi": "Ồ thế à. Bạn làm gì ở đó?" },
+            { "vi": "Tôi làm phần mềm. Cái này hơi khó giải thích bằng tiếng Phần Lan!", "hint_vi": "Nói bản đơn giản, rồi gọi tên cái khó thay vì chuyển sang tiếng Anh." },
+            { "vi": "Không sao đâu. Bạn có thích nó không?" },
+            { "vi": "Ừ, khá thích. Có lúc bận, nhưng ổn.", "hint_vi": "Tích cực nhưng có dè dặt — hào hứng không giới hạn nghe kỳ trong tiếng Phần Lan." },
+            { "vi": "Ai cũng vậy cả. Tôi là giáo viên." },
+            { "vi": "Chà, có vất vả không?", "hint_vi": "Phản ứng và hỏi lại một câu thật." }
+          ]
+        }
+      ]
+    },
+    "keeping-it-going": {
+      "lesson": {
+        "title_vi": "Giữ cho câu chuyện tiếp tục",
+        "subtitle_vi": "Ai jaa! Oikeesti? Entä sä?",
+        "warmup_situation_vi": "Bạn trả lời một câu hỏi trót lọt. Rồi im lặng. Bạn hoảng và trả lời lại câu đó, dài hơn.",
+        "warmup_question_vi": "Đến lượt ai — và từ bé xíu nào đã có thể trao lượt lại cho họ?",
+        "rescue_vi": "Còn bạn?",
+        "rescue_note_vi": "Hai chữ. Nó biến mọi câu bạn vừa trả lời thành một câu hỏi cho họ, mua cho bạn ba mươi giây để nghe, và không thể nói sai được. Nếu chỉ học được một thứ từ chương này, hãy học câu này."
+      },
+      "vocab": [
+        { "vi": "còn bạn? / thế còn bạn?", "note_vi": "Công cụ giao tiếp hữu dụng nhất trong cả thứ tiếng này." },
+        { "vi": "thật sự, thật ra" },
+        { "vi": "ồ thế à, vậy hả" },
+        { "vi": "ồ vậy sao" },
+        { "vi": "không thể nào", "literal_vi": "không phải thật" },
+        { "vi": "ồ, chà" },
+        { "vi": "hay, dễ thương" },
+        { "vi": "chuyện đùa", "note_vi": "«Ei voi olla vitsi!» = Bạn đùa à!" },
+        { "vi": "ôi không" },
+        { "vi": "ôi tiếc quá" },
+        { "vi": "điều đáng tiếc" },
+        { "vi": "may mà" },
+        { "vi": "tiếc là, đáng tiếc" },
+        { "vi": "kể thêm đi" },
+        { "vi": "sao cơ, theo nghĩa nào" },
+        { "vi": "kiểu như gì", "note_vi": "Xin một ví dụ. Giữ cho câu trả lời mơ hồ đi tiếp." },
+        { "vi": "ví dụ" },
+        { "vi": "bạn cũng thế, tôi cũng vậy", "note_vi": "Câu đáp cho «hauska tutustua» hay «hyvää viikonloppua»." },
+        { "vi": "đúng thế, quả vậy", "note_vi": "Đồng tình với một lời than. Ấm áp." },
+        { "vi": "đúng, thật", "note_vi": "«Totta!» đứng một mình = «chuẩn đấy»." },
+        { "vi": "tôi cũng vậy", "literal_vi": "cùng một chuyện" },
+        { "vi": "tôi cũng thế", "note_vi": "«Mäki» khi nói nhanh." },
+        { "vi": "thú vị" },
+        { "vi": "kể tiếp đi" }
+      ],
+      "phrases": [
+        { "vi": "Còn bạn?", "when_to_use_vi": "Sau khi trả lời bất cứ điều gì. Luôn luôn. Đây là quy tắc giữ cho chuyện phiếm Phần Lan sống sót." },
+        { "vi": "Ồ thế à! Thật không?", "when_to_use_vi": "Phản ứng hai nhịp mặc định. Đầu tiên là «ồ», rồi mới «thật à»." },
+        { "vi": "Không thể nào!", "when_to_use_vi": "Dành cho bất ngờ thật. Dùng nhiều quá sẽ nghe như diễn." },
+        { "vi": "Kể thêm đi.", "when_to_use_vi": "Khi bạn muốn nghe cả câu chuyện. Thẳng thắn, và người Phần Lan hiểu đúng nghĩa đen." },
+        { "vi": "Kiểu như gì?", "when_to_use_vi": "Khi ai đó nói điều gì mơ hồ. Lấy được một ví dụ cụ thể và thêm thời gian để nghe." },
+        { "vi": "Sao cơ?", "when_to_use_vi": "Nhờ ai đó khai triển một ý kiến. Trung tính, không gây hấn." },
+        { "vi": "Ôi tiếc quá.", "when_to_use_vi": "Cho tin xấu nhỏ — một chuyến đi bị huỷ, một cái máy giặt hỏng. Không dùng cho tang sự." },
+        { "vi": "May mà mọi chuyện ổn cả.", "when_to_use_vi": "Khép lại câu chuyện hơi đáng lo của ai đó bằng một nốt tích cực." },
+        { "vi": "Tôi cũng vậy.", "when_to_use_vi": "Tìm điểm chung. Rồi thêm một chi tiết để nó không thành ngõ cụt." },
+        { "vi": "Đúng thế. Đời là vậy.", "when_to_use_vi": "Đồng tình với một lời than. Cặp câu Phần Lan nhất từng có." },
+        { "vi": "Nghe hay đấy.", "when_to_use_vi": "Phản ứng với kế hoạch của ai đó. «Kuulostaa» + -lta: kivalta, hyvältä, rankalta." },
+        { "vi": "Thú vị đấy. Tôi không biết chuyện đó.", "when_to_use_vi": "Thật lòng. Người Phần Lan nói «mielenkiintosta» khi họ thấy thế thật, không phải để lấp chỗ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một cuộc trò chuyện được giữ sống",
+          "setting_vi": "Hai phụ huynh đợi bên ngoài nhà trẻ.",
+          "note_vi": "Mỗi lượt đều hoặc phản ứng, hoặc trả câu hỏi lại. Không ai chỉ trả lời suông.",
+          "lines": [
+            { "vi": "Hôm nay lạnh thật đấy." },
+            { "vi": "Đúng thế. Tôi để quên găng tay ở nhà." },
+            { "vi": "Ôi tiếc quá! Bạn về có xa không?" },
+            { "vi": "Không, đi bộ mười lăm phút. Còn bạn?" },
+            { "vi": "Tôi đi ô tô. Tôi ở Espoo." },
+            { "vi": "Ồ thế à, xa thật! Sao lại chọn nhà trẻ này?" },
+            { "vi": "Tôi làm việc ngay bên cạnh đây. Như vậy tiện hơn." },
+            { "vi": "Hợp lý. Bạn làm gì ở đó?" },
+            { "vi": "Tôi là y tá, ở trạm y tế đằng kia." },
+            { "vi": "Chà. Có vất vả không?" },
+            { "vi": "Có lúc vất vả. Nhưng tôi thích. Còn bạn, bạn làm gì?" },
+            { "vi": "Tôi là lập trình viên. Nhẹ hơn việc của bạn nhiều!" }
+          ]
+        },
+        {
+          "title_vi": "Chỉ toàn phản ứng",
+          "setting_vi": "Ai đó kể chuyện. Phần của bạn rất ngắn.",
+          "note_vi": "Duc đóng góp tổng cộng khoảng mười hai từ và cuộc trò chuyện vẫn thành công.",
+          "lines": [
+            { "vi": "Hôm qua nhà tôi có một chuyến đi siêu thị kinh khủng." },
+            { "vi": "Ồ thế à? Chuyện gì vậy?" },
+            { "vi": "Thì, đứa nhỏ ném hộp sữa xuống sàn." },
+            { "vi": "Ôi không!" },
+            { "vi": "Rồi đứa lớn bắt đầu khóc ở quầy thu ngân." },
+            { "vi": "Không thể nào. Thế bạn làm gì?" },
+            { "vi": "Tôi cứ trả tiền rồi đi ra. Không nói gì cả." },
+            { "vi": "Đúng thế. Đôi khi đó là cách duy nhất." },
+            { "vi": "Đúng! Bạn từng ở trong hoàn cảnh đó chưa?" },
+            { "vi": "Nhiều lần rồi. Tôi cũng vậy." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đừng bao giờ để nó chết",
+          "scenario_vi": "Người đối diện trả lời cộc lốc. Việc của bạn là giữ cho câu chuyện chạy, chỉ bằng phản ứng và «entä sä».",
+          "your_role_vi": "Bạn, đang giữ mạch chuyện",
+          "partner_role_vi": "Riikka, trả lời cộc lốc",
+          "turns": [
+            { "vi": "Lạnh quá đi mất." },
+            { "vi": "Đúng thế. Tôi quên găng tay rồi.", "hint_vi": "Đồng tình, rồi thêm một chi tiết nhỏ về bản thân." },
+            { "vi": "Ôi tiếc quá." },
+            { "vi": "Không sao đâu. Bạn về nhà có xa không?", "hint_vi": "Gạt đi, rồi hỏi họ một câu." },
+            { "vi": "Có, tôi ở Espoo." },
+            { "vi": "Ồ thế à, thật không? Bạn đến đây bằng gì?", "hint_vi": "Phản ứng hai nhịp, rồi một câu hỏi tiếp." },
+            { "vi": "Bằng ô tô. Tôi làm việc ngay bên cạnh." },
+            { "vi": "Hợp lý. Bạn làm gì ở đó?", "hint_vi": "Bình luận, rồi đào sâu thêm một tầng." },
+            { "vi": "Tôi là y tá." },
+            { "vi": "Chà, nể thật. Bạn có thích không?", "hint_vi": "Phản ứng có cảm xúc, rồi hỏi về trải nghiệm chứ không phải dữ kiện." }
+          ]
+        }
+      ]
+    }
+  }
+}

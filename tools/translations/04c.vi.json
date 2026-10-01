@@ -1,0 +1,333 @@
+{
+  "lessons": {
+    "at-the-pharmacy": {
+      "lesson": {
+        "title_vi": "Ở hiệu thuốc",
+        "subtitle_vi": "Onks tähän jotain ilman reseptiä?",
+        "warmup_situation_vi": "Bạn đứng ở apteekki với cái họng đau và không có đơn thuốc. Dược sĩ hỏi ba câu trước khi gợi ý bất cứ thứ gì, và bạn không ngờ mình bị phỏng vấn.",
+        "warmup_question_vi": "Tại sao họ hỏi nhiều thế — và họ cần biết những gì?",
+        "rescue_vi": "Tôi không biết mình cần gì. Chị tư vấn giúp được không ạ?",
+        "rescue_note_vi": "Dược sĩ Phần Lan được đào tạo bài bản và thật sự tư vấn chứ không chỉ bán hàng. Đưa vấn đề cho họ thay vì hỏi một sản phẩm cụ thể thường giúp bạn nhận được thứ tốt hơn và rẻ hơn. Câu này là một lời mời, và họ sẽ nhận lời."
+      },
+      "vocab": [
+        { "vi": "hiệu thuốc", "note_vi": "Biển chữ thập xanh. Thuốc kê đơn chỉ mua ở đây, không bao giờ ở siêu thị." },
+        { "vi": "dược sĩ" },
+        { "vi": "đơn thuốc", "note_vi": "Dạng điện tử. Chỉ cần đưa giấy tờ — họ tìm trong hệ thống." },
+        { "vi": "đơn thuốc điện tử" },
+        { "vi": "không cần đơn, bán tự do" },
+        { "vi": "thuốc không kê đơn" },
+        { "vi": "thuốc giảm đau" },
+        { "vi": "paracetamol", "note_vi": "Panadol, Para-Tabs. Lựa chọn nhẹ nhất." },
+        { "vi": "ibuprofen", "note_vi": "Burana là nhãn hiệu mà người Phần Lan nào cũng nhắc tên." },
+        { "vi": "Burana (ibuprofen)", "note_vi": "Phổ biến đến mức được dùng như từ chung cho ibuprofen." },
+        { "vi": "viên ngậm đau họng" },
+        { "vi": "thuốc ho" },
+        { "vi": "thuốc xịt mũi" },
+        { "vi": "thuốc nhỏ mắt" },
+        { "vi": "thuốc mỡ, kem bôi" },
+        { "vi": "băng dán cá nhân" },
+        { "vi": "băng gạc" },
+        { "vi": "nhiệt kế" },
+        { "vi": "vitamin" },
+        { "vi": "vitamin D", "note_vi": "Được khuyến nghị cho tất cả mọi người ở đây, từ tháng Mười đến tháng Ba. Thật đấy." },
+        { "vi": "phần Kela chi trả", "note_vi": "Nhà nước trả một phần tiền thuốc kê đơn, tự động tính ở quầy." },
+        { "vi": "thẻ Kela", "note_vi": "Nhớ mang theo. Đó là cách phần chi trả được áp dụng." },
+        { "vi": "được chi trả một phần" },
+        { "vi": "lựa chọn rẻ hơn", "note_vi": "Họ bắt buộc phải mời bạn loại tương đương rẻ nhất. Hãy đồng ý." },
+        { "vi": "thuốc generic tương đương" },
+        { "vi": "liều dùng" },
+        { "vi": "hàm lượng", "note_vi": "400 mg hay 600 mg. Họ sẽ hỏi bạn được kê loại nào." },
+        { "vi": "thai kỳ" },
+        { "vi": "cho con bú" }
+      ],
+      "phrases": [
+        { "vi": "Tôi có đơn thuốc. Đây là thẻ Kela của tôi.", "when_to_use_vi": "Đơn thuốc là điện tử — chỉ cần thẻ hoặc giấy tờ tuỳ thân." },
+        { "vi": "Có thuốc nào cho triệu chứng này mà không cần đơn không ạ?", "when_to_use_vi": "Câu hỏi chính khi mua thuốc tự do. Mô tả vấn đề ngay sau đó." },
+        { "vi": "Tôi không biết mình cần gì. Chị tư vấn giúp được không ạ?", "when_to_use_vi": "Dược sĩ Phần Lan thật sự tư vấn. Hãy để họ làm việc đó." },
+        { "vi": "Tôi bị đau họng và hơi sốt.", "when_to_use_vi": "Mô tả triệu chứng, đừng kể tên sản phẩm. Bạn sẽ được tư vấn tốt hơn." },
+        { "vi": "Thuốc cho con tôi, bé bốn tuổi.", "when_to_use_vi": "Luôn nói tuổi. Liều cho trẻ em hoàn toàn khác." },
+        { "vi": "Có loại nào rẻ hơn không ạ?", "when_to_use_vi": "Họ có nghĩa vụ mời loại generic rẻ nhất. Hãy đồng ý." },
+        { "vi": "Cái này hàm lượng bao nhiêu ạ?", "when_to_use_vi": "Ibuprofen có loại 200, 400 và 600 mg. Hãy biết mình được kê loại nào." },
+        { "vi": "Tôi uống cái này thế nào ạ?", "when_to_use_vi": "Cứ hỏi, dù bác sĩ đã nói rồi. Dược sĩ sẽ giải thích lại, rõ hơn." },
+        { "vi": "Tôi uống cái này cùng Burana được không ạ?", "when_to_use_vi": "Câu hỏi về tương tác thuốc. Họ kiểm tra đàng hoàng." },
+        { "vi": "Tôi đang mang thai — thuốc này có an toàn không ạ?", "when_to_use_vi": "Luôn nói ra. Nó thay đổi thứ họ có thể đưa cho bạn." },
+        { "vi": "Kela có chi trả cái này không ạ?", "when_to_use_vi": "Nó được áp dụng tự động, nhưng biết món nào đủ điều kiện thì vẫn tốt." },
+        { "vi": "Ở đây có bán nhiệt kế không ạ?", "when_to_use_vi": "Hiệu thuốc cũng bán thiết bị. Thay danh từ bằng bất cứ thứ gì." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Không có đơn, chỉ mô tả vấn đề",
+          "setting_vi": "Quầy hiệu thuốc. Duc đau họng và không biết mua gì.",
+          "note_vi": "Anh mô tả triệu chứng và để dược sĩ chọn. Đó là nước đi đúng.",
+          "lines": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị. Họng tôi đau lắm. Có thuốc nào cho cái này mà không cần đơn không ạ?" },
+            { "vi": "Có chứ ạ. Anh có sốt không?" },
+            { "vi": "Hơi sốt, 37,8." },
+            { "vi": "Bị bao lâu rồi ạ?" },
+            { "vi": "Hai ngày." },
+            { "vi": "Vâng. Anh có bệnh nền hay đang dùng thuốc gì không ạ?" },
+            { "vi": "Không có gì cả." },
+            { "vi": "Tốt. Tôi gợi ý viên ngậm đau họng và ibuprofen cho đau và sốt." },
+            { "vi": "Vâng. Tôi uống ibuprofen thế nào ạ?" },
+            { "vi": "400 miligam, tối đa ba lần một ngày, uống cùng bữa ăn." },
+            { "vi": "400 miligam, tối đa ba lần, cùng bữa ăn. Có loại nào rẻ hơn không ạ?" },
+            { "vi": "Có ạ, loại generic này rẻ hơn ba euro. Cùng hoạt chất." },
+            { "vi": "Vậy lấy loại đó. Và nếu không đỡ thì sao ạ?" },
+            { "vi": "Nếu ba ngày nữa họng vẫn đau thì anh đi khám bác sĩ nhé." }
+          ]
+        },
+        {
+          "title_vi": "Lấy thuốc theo đơn, và một món cho trẻ con",
+          "setting_vi": "Trao đổi nhanh ở quầy. Đơn điện tử làm mọi thứ nhanh gọn.",
+          "note_vi": "Để ý tuổi của đứa trẻ thay đổi mọi thứ thế nào.",
+          "lines": [
+            { "vi": "Chào anh, lấy theo đơn ạ?" },
+            { "vi": "Vâng. Thẻ Kela đây ạ." },
+            { "vi": "Cảm ơn anh… vâng, kháng sinh. Bác sĩ đã nói liều chưa ạ?" },
+            { "vi": "Rồi ạ, một viên ba lần một ngày, bảy ngày." },
+            { "vi": "Đúng rồi. Và nhớ uống hết liệu trình. Kela chi trả một phần, còn 8,40 ạ." },
+            { "vi": "Thẻ nhé. À còn một việc nữa — tôi cần thuốc hạ sốt cho con tôi." },
+            { "vi": "Bé mấy tuổi ạ?" },
+            { "vi": "Bốn tuổi, nặng khoảng 17 cân." },
+            { "vi": "May mà anh nói cân nặng. Dung dịch paracetamol này phù hợp. Liều tính theo cân nặng ạ." },
+            { "vi": "Chị chỉ giúp tôi xem liều ở chỗ nào được không ạ?" },
+            { "vi": "Trên hộp này ạ, và tôi đánh dấu cân nặng của bé vào đây." },
+            { "vi": "Cảm ơn chị, như vậy giúp tôi nhiều lắm." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xin tư vấn mà không kể tên sản phẩm",
+          "scenario_vi": "Mô tả triệu chứng, trả lời các câu hỏi của họ, và hỏi xin loại rẻ hơn.",
+          "your_role_vi": "Bạn, đang đau họng",
+          "partner_role_vi": "Dược sĩ",
+          "turns": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị. Họng tôi đau. Có thuốc nào cho cái này mà không cần đơn không ạ?", "hint_vi": "Mô tả vấn đề, đừng kể tên sản phẩm." },
+            { "vi": "Có chứ ạ. Anh có sốt không?" },
+            { "vi": "Hơi sốt, 37,8. Hai ngày rồi ạ.", "hint_vi": "Trả lời kèm cả con số lẫn thời gian kéo dài." },
+            { "vi": "Anh có bệnh nền hay thuốc nào khác đang dùng không ạ?" },
+            { "vi": "Không có gì cả.", "hint_vi": "Họ hỏi để kiểm tra tương tác thuốc. Trả lời thật và ngắn gọn." },
+            { "vi": "Tôi gợi ý viên ngậm họng và ibuprofen." },
+            { "vi": "Vâng. Tôi uống thế nào ạ?", "hint_vi": "Luôn hỏi liều, kể cả với thuốc không kê đơn." },
+            { "vi": "400 mg, tối đa ba lần một ngày, cùng bữa ăn." },
+            { "vi": "400 mg, tối đa ba lần. Có loại nào rẻ hơn không ạ?", "hint_vi": "Nhắc lại, rồi hỏi loại generic. Họ bắt buộc phải mời." }
+          ]
+        }
+      ]
+    },
+    "child-at-the-doctor": {
+      "lesson": {
+        "title_vi": "Đưa con đi khám bác sĩ",
+        "subtitle_vi": "Nói thay cho người chưa nói được cho mình",
+        "warmup_situation_vi": "Con bạn bốn tuổi, đang khó chịu và không giải thích được. Bác sĩ hỏi bạn bé bị gì. Bạn đang dịch nỗi khổ của một đứa trẻ sang ngôn ngữ thứ hai, trong lúc căng thẳng, và bạn phải nói cho đúng.",
+        "warmup_question_vi": "Mọi buổi khám nhi đều bắt đầu bằng năm dữ kiện nào?",
+        "rescue_vi": "Tôi kể những gì tôi quan sát được.",
+        "rescue_note_vi": "Câu này chuyển nhiệm vụ từ chẩn đoán sang quan sát, mà đó chính là điều bác sĩ muốn ở một phụ huynh. Bạn không cần từ vựng y khoa để nói «từ hôm qua bé không ăn» hay «bé cứ kéo tai mãi» — và chính những quan sát đó mới dẫn tới chẩn đoán."
+      },
+      "vocab": [
+        { "vi": "đứa trẻ" }, { "vi": "em bé sơ sinh" }, { "vi": "trẻ mới biết đi" }, { "vi": "tuổi" },
+        { "vi": "bé bốn tuổi", "note_vi": "Số tuổi + -vuotias. Kaksivuotias, kuusivuotias." },
+        { "vi": "cân nặng", "note_vi": "Hãy biết cân nặng của con bằng kilogam. Liều thuốc nhi phụ thuộc vào đó." },
+        { "vi": "phòng khám sức khoẻ trẻ em", "note_vi": "Phòng khám miễn phí mà mọi trẻ em Phần Lan đều đến. Nơi đầu tiên bạn gọi cho những việc không khẩn." },
+        { "vi": "y tá sức khoẻ cộng đồng", "note_vi": "Đầu mối chính của bạn ở neuvola. Rất am hiểu và dễ liên lạc." },
+        { "vi": "vắc-xin" }, { "vi": "việc tiêm chủng" }, { "vi": "chương trình tiêm chủng" },
+        { "vi": "hay khóc, mau nước mắt", "note_vi": "Từ dùng cho đứa trẻ khóc nhiều hơn bình thường. Rất hữu dụng." },
+        { "vi": "lả đi, mềm nhũn", "note_vi": "Một từ mà bác sĩ xem rất nghiêm túc khi nói về trẻ. Chỉ dùng khi đúng." },
+        { "vi": "bồn chồn, không yên" },
+        { "vi": "không ăn", "note_vi": "Một quan sát then chốt. Hãy nói rõ bao lâu rồi." },
+        { "vi": "không uống", "note_vi": "Nghiêm trọng hơn không ăn. Hãy nói ngay lập tức." },
+        { "vi": "mất nước" },
+        { "vi": "bỉm, tã", "note_vi": "«Kuinka monta märkää vaippaa?» — họ sẽ hỏi. Hãy đếm." },
+        { "vi": "ướt" },
+        { "vi": "tai (cách phân từ)", "note_vi": "«Se vetää korvaa» = bé cứ kéo tai. Dấu hiệu viêm tai kinh điển." },
+        { "vi": "kéo" }, { "vi": "phát ban" }, { "vi": "nốt, mụn nhỏ" }, { "vi": "mảng, đốm" },
+        { "vi": "thở" }, { "vi": "tiếng thở khò khè" }, { "vi": "ngủ không ngon" },
+        { "vi": "nhận thấy, để ý" }, { "vi": "theo dõi" }, { "vi": "dỗ dành, trấn an" }
+      ],
+      "phrases": [
+        { "vi": "Bé bốn tuổi và nặng 17 cân.", "when_to_use_vi": "Hãy nói điều này trước. Mọi quyết định trong nhi khoa đều dựa vào tuổi và cân nặng." },
+        { "vi": "Tôi kể những gì tôi quan sát được.", "when_to_use_vi": "Câu định khung của bạn. Bạn quan sát; họ chẩn đoán." },
+        { "vi": "Bé sốt hai ngày rồi.", "when_to_use_vi": "Dữ kiện mở đầu tiêu chuẩn. Thêm chỉ số cao nhất." },
+        { "vi": "Từ hôm qua bé không ăn gì.", "when_to_use_vi": "Cụ thể và hữu ích. Luôn nói rõ từ khi nào." },
+        { "vi": "Bé gần như không uống gì cả.", "when_to_use_vi": "Khẩn hơn việc không ăn. Hãy nói sớm và rõ." },
+        { "vi": "Bé cứ kéo tai suốt.", "when_to_use_vi": "Quan sát kinh điển về viêm tai. Bác sĩ hành động dựa trên đó." },
+        { "vi": "Bé rất hay khóc và lả đi.", "when_to_use_vi": "«Veltto» là từ bác sĩ cân nhắc rất kỹ. Chỉ dùng nếu đúng." },
+        { "vi": "Bé bị phát ban ở bụng.", "when_to_use_vi": "Hãy nói ở đâu. Vị trí quan trọng với phát ban." },
+        { "vi": "Hôm nay ba cái bỉm ướt.", "when_to_use_vi": "Thước đo mức nước trong cơ thể. Hãy đếm trước khi đi." },
+        { "vi": "Bé thở hơi khò khè.", "when_to_use_vi": "Nâng mức khẩn cấp. Đừng bao giờ nói giảm điều này." },
+        { "vi": "Tôi cho bé uống paracetamol lúc tám giờ.", "when_to_use_vi": "Luôn nói bạn đã cho uống gì và lúc nào. Nó ảnh hưởng đến thứ họ cho tiếp theo." },
+        { "vi": "Ở tuổi này như vậy có bình thường không ạ?", "when_to_use_vi": "Câu hỏi để yên tâm. Cứ hỏi — câu trả lời thường là có." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một bé bốn tuổi bị ốm",
+          "setting_vi": "Phòng khám. Duc nói thay cho Eeva, bé đang ngồi trên đùi anh.",
+          "note_vi": "Anh đưa ra quan sát, không đưa ra giả thuyết. Đó đúng là thứ được mong đợi.",
+          "lines": [
+            { "vi": "Nào, Eeva bị làm sao ạ?" },
+            { "vi": "Tôi kể những gì tôi quan sát được. Bé sốt hai ngày rồi, cao nhất là 39,2." },
+            { "vi": "Vâng. Bé mấy tuổi và nặng bao nhiêu ạ?" },
+            { "vi": "Bốn tuổi, khoảng 17 cân." },
+            { "vi": "Tốt. Bé có ăn và uống không ạ?" },
+            { "vi": "Từ hôm qua bé không ăn. Có uống một chút, nhưng không nhiều." },
+            { "vi": "Hôm nay bao nhiêu bỉm ướt hoặc bao nhiêu lần đi vệ sinh ạ?" },
+            { "vi": "Ba lần. Ít hơn bình thường." },
+            { "vi": "Vâng. Còn triệu chứng nào khác không ạ?" },
+            { "vi": "Bé cứ kéo tai trái suốt. Và rất hay khóc." },
+            { "vi": "Quan sát tốt đấy. Để tôi xem tai… Vâng, tai trái bị viêm rồi." },
+            { "vi": "À. Bé có cần kháng sinh không ạ?" },
+            { "vi": "Trường hợp này thì có. Liều theo cân nặng, tôi sẽ tính." },
+            { "vi": "Cảm ơn bác sĩ. Tôi cho bé uống paracetamol lúc tám giờ — khi nào tôi cho uống tiếp được ạ?" },
+            { "vi": "Cách bốn tiếng một lần, tối đa bốn lần trong hai mươi tư giờ." }
+          ]
+        },
+        {
+          "title_vi": "Một cuộc gọi tới neuvola",
+          "setting_vi": "Không khẩn cấp, nhưng đáng lo. Y tá sức khoẻ cộng đồng là nơi gọi đầu tiên hợp lý.",
+          "note_vi": "Neuvola miễn phí, am hiểu và dễ liên lạc. Hãy dùng nó.",
+          "lines": [
+            { "vi": "Neuvola, Virtanen xin nghe." },
+            { "vi": "Chào chị! Duc đây, bố của Eeva. Tôi có một câu hỏi ạ." },
+            { "vi": "Vâng, anh cứ nói." },
+            { "vi": "Eeva bị phát ban ở bụng. Không sốt, bé vẫn ăn và chơi bình thường." },
+            { "vi": "Ban đỏ hay nhạt màu ạ? Có ngứa không?" },
+            { "vi": "Đỏ, những nốt nhỏ. Có vẻ không ngứa." },
+            { "vi": "Nhà mình có dùng chất giặt tẩy mới hay món ăn mới nào không ạ?" },
+            { "vi": "À… có, tuần trước nhà tôi đổi nước giặt." },
+            { "vi": "Rất có thể là do đó. Anh đổi lại và theo dõi vài ngày nhé." },
+            { "vi": "Vâng. Thế nếu không đỡ thì sao ạ?" },
+            { "vi": "Anh gọi lại, hoặc đưa bé đến. Và đến ngay nếu bé bị sốt." },
+            { "vi": "Cảm ơn chị nhiều lắm. Tôi nhẹ cả người." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nói thay cho con bạn",
+          "scenario_vi": "Nêu tuổi, cân nặng, triệu chứng, những gì bạn quan sát được, và những gì bạn đã cho uống.",
+          "your_role_vi": "Bạn, cùng đứa con đang ốm",
+          "partner_role_vi": "Bác sĩ",
+          "turns": [
+            { "vi": "Eeva bị làm sao ạ?" },
+            { "vi": "Tôi kể những gì tôi quan sát được. Bé sốt hai ngày rồi.", "hint_vi": "Định khung là quan sát, rồi đưa dữ kiện đầu tiên." },
+            { "vi": "Bé mấy tuổi và nặng bao nhiêu ạ?" },
+            { "vi": "Bốn tuổi, khoảng 17 cân.", "hint_vi": "Hãy biết cân nặng. Mọi liều thuốc nhi đều dựa vào đó." },
+            { "vi": "Bé có ăn và uống không ạ?" },
+            { "vi": "Từ hôm qua bé không ăn. Có uống một chút.", "hint_vi": "Luôn nói rõ từ khi nào." },
+            { "vi": "Còn triệu chứng nào khác không ạ?" },
+            { "vi": "Bé cứ kéo tai trái suốt và rất hay khóc.", "hint_vi": "Một quan sát về hành vi có giá trị hơn một phỏng đoán về chẩn đoán." },
+            { "vi": "Quan sát tốt đấy. Để tôi xem tai." },
+            { "vi": "Tôi cho bé uống paracetamol lúc tám giờ.", "hint_vi": "Nói bạn đã cho uống gì và lúc nào. Nó ảnh hưởng đến bước tiếp theo." }
+          ]
+        }
+      ]
+    },
+    "emergencies-and-112": {
+      "lesson": {
+        "title_vi": "Trường hợp khẩn cấp và số 112",
+        "subtitle_vi": "Tarvitaan ambulanssi. Osote on…",
+        "warmup_situation_vi": "Có chuyện thật sự xảy ra. Bạn phải gọi 112 và bạn có lẽ chỉ có mười lăm giây suy nghĩ tỉnh táo trước khi hoảng loạn ập đến.",
+        "warmup_question_vi": "Điều đầu tiên bạn nói là gì — và điều gì tuyệt đối không được làm?",
+        "rescue_vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?",
+        "rescue_note_vi": "Đây là bài duy nhất trong cả khoá học mà chuyển sang tiếng Anh là nước đi đúng, chứ không phải thất bại. Tổng đài viên 112 của Phần Lan nói tiếng Anh, được đào tạo cho việc này, và thà nhận một bản báo cáo chính xác bằng tiếng Anh còn hơn một bản rối rắm bằng tiếng Phần Lan. Hãy nói câu này trong năm giây đầu rồi đi tiếp."
+      },
+      "vocab": [
+        { "vi": "số khẩn cấp", "note_vi": "112 cho tất cả: xe cứu thương, cảnh sát, cứu hoả. Miễn phí từ mọi máy." },
+        { "vi": "trung tâm ứng cứu khẩn cấp" },
+        { "vi": "xe cứu thương" }, { "vi": "xe cứu hoả" }, { "vi": "cảnh sát" },
+        { "vi": "tai nạn" }, { "vi": "tình huống khẩn cấp" },
+        { "vi": "địa chỉ", "note_vi": "Thứ đầu tiên họ cần. Hãy thuộc lòng địa chỉ của bạn, và đọc được thật chậm." },
+        { "vi": "đường phố" }, { "vi": "tầng (nhà)" },
+        { "vi": "mã cửa", "note_vi": "Hãy nói ra. Nó tiết kiệm được vài phút ở cửa." },
+        { "vi": "bất tỉnh", "note_vi": "Từ làm thay đổi mọi thứ. Nếu đúng thì nói trước tiên." },
+        { "vi": "còn tỉnh táo" },
+        { "vi": "thở", "note_vi": "«Hengittääkö hän?» — họ sẽ hỏi ngay. Hãy kiểm tra trước khi trả lời." },
+        { "vi": "cơn đau tim" }, { "vi": "đột quỵ" }, { "vi": "cơn co giật" },
+        { "vi": "chảy máu" }, { "vi": "vết bỏng" }, { "vi": "ngộ độc" }, { "vi": "nghẹn, sặc" },
+        { "vi": "hồi sức tim phổi (CPR)", "note_vi": "Tổng đài viên sẽ hướng dẫn bạn từng bước. Hãy làm đúng theo." },
+        { "vi": "ép tim" },
+        { "vi": "giữ máy", "note_vi": "Họ sẽ nói câu này. Đừng cúp máy cho đến khi được bảo." },
+        { "vi": "đừng cúp máy" }, { "vi": "bình tĩnh lại" },
+        { "vi": "đường dây tư vấn y tế", "note_vi": "Cho trường hợp gấp nhưng KHÔNG nguy hiểm tính mạng. Gọi số này trước khi đến päivystys." },
+        { "vi": "trung tâm thông tin chống độc", "note_vi": "0800 147 111. Miễn phí, 24 giờ. Hãy lưu lại nếu bạn có con nhỏ." }
+      ],
+      "phrases": [
+        { "vi": "Trung tâm cấp cứu, có chuyện gì ạ?", "when_to_use_vi": "Cách cuộc gọi mở đầu. Hãy trả lời thẳng câu này trước tiên." },
+        { "vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?", "when_to_use_vi": "Nói câu này trong năm giây đầu. Tổng đài viên nói tiếng Anh và được đào tạo cho việc đó." },
+        { "vi": "Chúng tôi cần xe cứu thương.", "when_to_use_vi": "Rõ ràng và không mơ hồ. Nói ngay thứ bạn cần." },
+        { "vi": "Địa chỉ là Mannerheimintie 15, tầng ba.", "when_to_use_vi": "Địa chỉ trước, rồi tầng. Hãy tập đọc địa chỉ của bạn thật chậm và rõ." },
+        { "vi": "Mã cửa là 1234.", "when_to_use_vi": "Hãy chủ động nói ra. Nó tiết kiệm vài phút ở cửa." },
+        { "vi": "Người đó bất tỉnh.", "when_to_use_vi": "Nếu đúng, hãy nói trước tiên. Không có gì quan trọng bằng." },
+        { "vi": "Người đó vẫn thở.", "when_to_use_vi": "Kiểm tra rồi mới trả lời. Họ sẽ hỏi chỉ sau vài giây." },
+        { "vi": "Người đó không thở.", "when_to_use_vi": "Tổng đài viên sẽ hướng dẫn CPR ngay lập tức. Hãy nghe và làm theo." },
+        { "vi": "Con tôi nuốt phải cái gì đó.", "when_to_use_vi": "Nói rõ là gì, nếu bạn biết. Cũng nên gọi trung tâm chống độc: 0800 147 111." },
+        { "vi": "Tôi đang ở tại chỗ cùng với người đó.", "when_to_use_vi": "Cho họ biết có người ở đó và có thể làm theo hướng dẫn." },
+        { "vi": "Số của tôi là 040 123 4567.", "when_to_use_vi": "Phòng khi cuộc gọi bị ngắt. Hãy đọc thật rõ." },
+        { "vi": "Tôi sẽ giữ máy.", "when_to_use_vi": "Đừng bao giờ cúp máy trước. Hãy đợi đến khi họ nói bạn có thể." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Gọi 112",
+          "setting_vi": "Một tình huống khẩn cấp thật. Mỗi chữ trong ba mươi giây đầu đều quan trọng.",
+          "note_vi": "Địa chỉ, chuyện gì xảy ra, tình trạng. Theo thứ tự đó. Hãy nghe tổng đài viên và chỉ trả lời đúng điều được hỏi.",
+          "lines": [
+            { "vi": "Trung tâm cấp cứu, có chuyện gì ạ?" },
+            { "vi": "Người hàng xóm của tôi ngã và đập đầu. Anh ấy bất tỉnh. Chúng tôi cần xe cứu thương." },
+            { "vi": "Địa chỉ là gì ạ?" },
+            { "vi": "Mannerheimintie 15, tầng ba. Mã cửa là 1234." },
+            { "vi": "Vâng, xe đang trên đường. Anh ấy có thở không ạ?" },
+            { "vi": "Chờ chút… có, anh ấy đang thở.", "note_vi": "Kiểm tra rồi mới trả lời. Đừng bao giờ đoán." },
+            { "vi": "Tốt. Anh ấy có phản ứng gì không ạ?" },
+            { "vi": "Không. Tôi gọi mà anh ấy không trả lời." },
+            { "vi": "Đừng di chuyển anh ấy. Hãy lật anh ấy sang tư thế nằm nghiêng an toàn, tôi hướng dẫn." },
+            { "vi": "Vâng, tôi làm ngay." },
+            { "vi": "Tên và số điện thoại của anh là gì ạ?" },
+            { "vi": "Duc Nguyen, 040 123 4567." },
+            { "vi": "Cảm ơn anh. Anh giữ máy, đừng cúp nhé." },
+            { "vi": "Tôi sẽ giữ máy." }
+          ]
+        },
+        {
+          "title_vi": "Chuyển sang tiếng Anh, một cách đúng đắn",
+          "setting_vi": "Một tình huống khẩn cấp khác. Duc đưa ra quyết định đúng ngay lập tức.",
+          "note_vi": "Đây là nơi duy nhất trong cả khoá học mà chuyển ngôn ngữ là nước đi đúng. Hãy làm trong năm giây đầu.",
+          "lines": [
+            { "vi": "Trung tâm cấp cứu, có chuyện gì ạ?" },
+            { "vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?" },
+            { "vi": "(chuyển sang tiếng Anh ngay) Vâng, tất nhiên. Có chuyện gì ạ?" },
+            { "vi": "Con tôi nuốt phải cái gì đó và đang ho dữ dội.", "note_vi": "Anh đưa ra dữ kiện bằng bất cứ ngôn ngữ nào bật ra nhanh nhất. Giờ thì cả hai đều được." },
+            { "vi": "Bé có thở không ạ?" },
+            { "vi": "Có, bé thở và đang ho. Địa chỉ là Mannerheimintie 15, tầng ba." },
+            { "vi": "Tốt, ho là dấu hiệu tốt. Xe đang đến. Bé mấy tuổi ạ?" },
+            { "vi": "Bốn tuổi. Tôi đang ở tại chỗ cùng bé." },
+            { "vi": "Đừng cố dùng ngón tay móc ra. Anh giữ máy nhé." },
+            { "vi": "Vâng. Tôi sẽ giữ máy." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Thực hiện một cuộc gọi 112",
+          "scenario_vi": "Báo một tình huống khẩn cấp: chuyện gì xảy ra, ở đâu, và tình trạng của nạn nhân.",
+          "your_role_vi": "Bạn, đang gọi 112",
+          "partner_role_vi": "Tổng đài viên cấp cứu",
+          "turns": [
+            { "vi": "Trung tâm cấp cứu, có chuyện gì ạ?" },
+            { "vi": "Người hàng xóm của tôi ngã và bất tỉnh. Chúng tôi cần xe cứu thương.", "hint_vi": "Chuyện gì xảy ra, tình trạng, thứ bạn cần. Ba dữ kiện, một câu." },
+            { "vi": "Địa chỉ là gì ạ?" },
+            { "vi": "Mannerheimintie 15, tầng ba. Mã cửa là 1234.", "hint_vi": "Địa chỉ, tầng, mã cửa. Chủ động nói mã — nó tiết kiệm vài phút." },
+            { "vi": "Xe đang trên đường. Anh ấy có thở không ạ?" },
+            { "vi": "Chờ chút… có, anh ấy đang thở.", "hint_vi": "Kiểm tra rồi mới trả lời. Đừng bao giờ đoán ở câu hỏi này." },
+            { "vi": "Tốt. Anh ấy có phản ứng gì không ạ?" },
+            { "vi": "Không, tôi gọi mà anh ấy không trả lời.", "hint_vi": "Mô tả chính xác điều bạn quan sát được." },
+            { "vi": "Tên và số điện thoại của anh là gì ạ?" },
+            { "vi": "Duc Nguyen, 040 123 4567. Tôi sẽ giữ máy.", "hint_vi": "Đưa cả hai, rồi xác nhận là bạn giữ máy. Đừng bao giờ cúp trước." }
+          ]
+        }
+      ]
+    }
+  }
+}

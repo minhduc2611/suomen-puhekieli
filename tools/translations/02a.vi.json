@@ -1,0 +1,220 @@
+{
+  "module": {
+    "title_vi": "Gọi món và trò chuyện ở nhà hàng",
+    "subtitle_vi": "Vượt qua «yksi kahvi, kiitos»: xử lý những câu hỏi ngược lại.",
+    "description_vi": "Gọi món là nửa dễ. Nửa khó là bốn câu hỏi bắn ngược lại bạn — ăn ở đây hay mang đi, còn gì nữa không, lấy hoá đơn không, thẻ hay tiền mặt — do một người làm việc này ba trăm lần mỗi ngày bắn ra thật nhanh. Các bài này luyện câu trả lời đến mức thành phản xạ, rồi chuyển sang dị ứng, sửa món gọi nhầm, chia tiền, và những luật bất thành văn của bữa trưa buffet kiểu Phần Lan."
+  },
+  "lessons": {
+    "ordering-naturally": {
+      "lesson": {
+        "title_vi": "Gọi món một cách tự nhiên",
+        "subtitle_vi": "Mä ottaisin… Saisinko…",
+        "warmup_situation_vi": "Bạn đã tập «Minä haluan yhden kahvin.» Ngữ pháp hoàn hảo. Nghe cũng như một con robot ra lệnh đòi cà phê.",
+        "warmup_question_vi": "Người Phần Lan thật sự nói gì — và tại sao lại dùng thể điều kiện?",
+        "rescue_vi": "Chờ chút, tôi vẫn đang nghĩ.",
+        "rescue_note_vi": "Mua cho bạn thời gian ở quầy mà không phải hoảng lên gọi đại thứ đầu tiên bạn đọc được. Sau câu này không ai giục bạn — hàng người phía sau sẽ đợi mà không kêu ca, một điều rất Phần Lan."
+      },
+      "vocab": [
+        { "vi": "lấy, nhận", "note_vi": "Động từ dùng để gọi món. «Mä otan» = tôi lấy." },
+        { "vi": "tôi sẽ lấy (thể điều kiện)", "note_vi": "Thể điều kiện. Nhẹ hơn và phổ biến hơn «otan» rất nhiều khi gọi món." },
+        { "vi": "được, nhận được" },
+        { "vi": "tôi xin được… có được không", "note_vi": "Cách gọi món lịch sự nhất. Nghĩa đen là «liệu tôi có được»." },
+        { "vi": "muốn", "note_vi": "Tránh «haluan» khi gọi món — nghe cộc. Hãy dùng ottaisin hoặc saisinko." },
+        { "vi": "cà phê" },
+        { "vi": "trà" },
+        { "vi": "sữa" },
+        { "vi": "nước", "note_vi": "Nước máy ở đâu cũng miễn phí và rất ngon. «Hanavettä» = nước máy." },
+        { "vi": "bia", "note_vi": "«Kalja» là từ thân mật. «Yks iso» = một cốc lớn (bia), ở đâu cũng hiểu." },
+        { "vi": "bánh mì" },
+        { "vi": "salad" },
+        { "vi": "súp" },
+        { "vi": "suất, phần ăn" },
+        { "vi": "thực đơn", "note_vi": "Hoặc chỉ «lista». Nói «menu» cũng hiểu." },
+        { "vi": "bữa trưa", "note_vi": "Thường từ 11–14 giờ, giá cố định gồm bánh mì, salad và cà phê." },
+        { "vi": "món trong ngày" },
+        { "vi": "to, lớn" },
+        { "vi": "nhỏ" },
+        { "vi": "một" },
+        { "vi": "hai" },
+        { "vi": "cảm ơn, làm ơn", "note_vi": "Làm cả hai việc. Gắn vào cuối bất kỳ lời gọi món nào là nó thành lịch sự." },
+        { "vi": "gợi ý, giới thiệu" },
+        { "vi": "đặt món, gọi món" }
+      ],
+      "phrases": [
+        { "vi": "Cho tôi một cà phê.", "when_to_use_vi": "Câu gọi món mặc định. Chính thể điều kiện «ottaisin» làm nó nghe bình thường chứ không phải ra lệnh." },
+        { "vi": "Cho tôi một cà phê lớn được không?", "literal_vi": "liệu tôi có được một cà phê lớn", "when_to_use_vi": "Lịch sự hơn một bậc. Hợp khi nói với người lạ." },
+        { "vi": "Cho tôi một bia, cảm ơn.", "literal_vi": "cho tôi một bia, cảm ơn", "when_to_use_vi": "Kiểu quán bar. Không có động từ nào cả — rất tự nhiên ở quầy." },
+        { "vi": "Hai cà phê và một trà, cảm ơn.", "when_to_use_vi": "Gọi cho cả nhóm. «kahvii» = kahvia, cách phân từ rút gọn." },
+        { "vi": "Bạn gợi ý món gì?", "when_to_use_vi": "Người Phần Lan trả lời thành thật, và sẽ nói nếu hôm nay món nào không ngon." },
+        { "vi": "Món trong ngày là gì?", "when_to_use_vi": "Vào bữa trưa. Thường đáng tiền nhất và đã nấu sẵn." },
+        { "vi": "Ở đây có thực đơn không?", "when_to_use_vi": "Nhiều nơi để thực đơn trên bảng hoặc mã QR, nên đây là câu hỏi thật." },
+        { "vi": "Cho tôi giống họ.", "when_to_use_vi": "Lối thoát khi bạn không đọc nổi thực đơn. Chỉ tay kín đáo thôi." },
+        { "vi": "Cái đó có phải món chay không?", "when_to_use_vi": "«Kasvis» trên thực đơn nghĩa là món chay. «Vegaani» là thuần chay." },
+        { "vi": "Tôi lấy món đó mà không có hành được không?", "when_to_use_vi": "«ilman» + cách phân từ. ilman juustoa, ilman kastiketta, ilman lihaa." },
+        { "vi": "Và cho tôi nước máy nữa ạ.", "when_to_use_vi": "Luôn miễn phí, luôn được phục vụ không đắn đo. Hỏi xin là hoàn toàn bình thường." },
+        { "vi": "Thế thôi ạ, cảm ơn.", "literal_vi": "nó ở trong đó, cảm ơn", "when_to_use_vi": "Chốt lại phần gọi món. Chặn vòng lặp «còn gì nữa không?»." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Ở quầy quán cà phê",
+          "setting_vi": "Một quán cà phê trong thành phố, giữa buổi sáng, phía sau bạn có vài người xếp hàng.",
+          "note_vi": "Để ý mọi lời gọi món đều dùng thể điều kiện hoặc không có động từ nào cả.",
+          "lines": [
+            { "vi": "Chào! Anh dùng gì ạ?", "note_vi": "Câu chào chuẩn ở quầy. Nghĩa đen là «sẽ có gì đây»." },
+            { "vi": "Chào! Cho tôi một cà phê lớn." },
+            { "vi": "Vâng. Có sữa không ạ?" },
+            { "vi": "Không, cảm ơn. Nhưng cho tôi thêm một bánh quế nữa được không?", "note_vi": "korvapuusti — bánh quế cuộn kinh điển của Phần Lan. Nghĩa đen là «cái tai bị tát»." },
+            { "vi": "Tất nhiên rồi. Còn gì nữa không ạ?" },
+            { "vi": "Không, thế thôi. Cảm ơn." },
+            { "vi": "Sáu euro năm mươi." },
+            { "vi": "Thẻ.", "note_vi": "Một từ. Ở đây không ai cần cả câu." },
+            { "vi": "Của anh đây. Chúc một ngày tốt lành!" },
+            { "vi": "Cảm ơn, chị cũng vậy!" }
+          ]
+        },
+        {
+          "title_vi": "Bữa trưa, nhanh, kèm một lời gợi ý",
+          "setting_vi": "Một quán ăn trưa đông khách lúc 11:45. Hàng dài và ai cũng nhanh.",
+          "note_vi": "Cả đoạn trao đổi dài mười một giây. Hãy nghe xem bao nhiêu thứ bị lược đi.",
+          "lines": [
+            { "vi": "Chào, dùng gì ạ?" },
+            { "vi": "Hôm nay chị gợi ý món gì?" },
+            { "vi": "Món súp cá hồi kia ngon lắm ạ." },
+            { "vi": "Được, cho tôi món đó." },
+            { "vi": "Bánh mì và salad đã tính trong giá rồi ạ.", "note_vi": "«kuuluu hintaan» = đã bao gồm. Chuẩn mực ở bữa trưa." },
+            { "vi": "Tốt. Và nước máy nữa." },
+            { "vi": "Vâng, anh tự lấy ở đằng kia. Ăn ở đây hay mang đi ạ?" },
+            { "vi": "Ở đây." },
+            { "vi": "Rõ rồi. Mười ba năm mươi.", "note_vi": "«viiskyt» = viisikymmentä. Số đếm bị rút ngắn không thương tiếc." },
+            { "vi": "Thẻ, cảm ơn." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Gọi một cà phê và một cái bánh",
+          "scenario_vi": "Gọi hai món, từ chối sữa, và chốt lại phần gọi món cho gọn.",
+          "your_role_vi": "Bạn, đang đứng ở quầy",
+          "partner_role_vi": "Nhân viên phục vụ",
+          "turns": [
+            { "vi": "Chào! Anh dùng gì ạ?" },
+            { "vi": "Chào! Cho tôi một cà phê lớn.", "hint_vi": "Dùng thể điều kiện «ottaisin», đừng dùng «haluan»." },
+            { "vi": "Vâng. Có sữa không ạ?" },
+            { "vi": "Không, cảm ơn. Và cho tôi một bánh quế được không?", "hint_vi": "Từ chối, rồi thêm món thứ hai bằng «saisinko»." },
+            { "vi": "Còn gì nữa không ạ?" },
+            { "vi": "Không, thế thôi. Cảm ơn.", "hint_vi": "Chốt lại để họ chuyển sang tính tiền." },
+            { "vi": "Sáu năm mươi. Thẻ hay tiền mặt ạ?" },
+            { "vi": "Thẻ, cảm ơn.", "hint_vi": "Một từ là đủ — không cần cả câu." }
+          ]
+        }
+      ]
+    },
+    "unexpected-follow-ups": {
+      "lesson": {
+        "title_vi": "Những câu hỏi ngược bạn không ngờ tới",
+        "subtitle_vi": "Täällä vai mukaan? Tuleeko muuta? Kuitti mukaan?",
+        "warmup_situation_vi": "Phần gọi món của bạn trôi chảy hoàn hảo. Rồi họ bắn ba câu hỏi trong bốn giây và bạn đơ ra, thế là cả cuộc hội thoại sập xuống thành tiếng Anh.",
+        "warmup_question_vi": "Cả nước chỉ có khoảng sáu câu hỏi kiểu này thôi. Nếu bạn biết hết thì sao?",
+        "rescue_vi": "Xin lỗi, chị nhắc lại được không?",
+        "rescue_note_vi": "Đủ ngắn để bật ra ngay, trước khi hoảng. Ở quầy bạn cần câu sửa chữa ngắn nhất có thể — một lời xin lỗi dài dòng sẽ ngốn mất đúng mấy giây bạn cần để trả lời."
+      },
+      "vocab": [
+        { "vi": "ở đây" },
+        { "vi": "mang đi, đem theo", "note_vi": "«Täällä vai mukaan?» = ăn tại chỗ hay mang về. Câu hỏi ở quầy phổ biến nhất." },
+        { "vi": "hay (trong câu hỏi)", "note_vi": "«Vai» đưa ra lựa chọn; «tai» chỉ liệt kê. Câu hỏi ở quầy luôn dùng vai." },
+        { "vi": "gì nữa, cái khác" },
+        { "vi": "còn gì nữa không?", "literal_vi": "có cái khác đến không" },
+        { "vi": "hoá đơn" },
+        { "vi": "túi", "note_vi": "Giá 20–40 xu và họ sẽ hỏi. Trả lời có hoặc không thật nhanh." },
+        { "vi": "thẻ" },
+        { "vi": "bằng thẻ", "note_vi": "Đuôi -lla = «bằng phương tiện». Kortilla, käteisellä, puhelimella." },
+        { "vi": "tiền mặt" },
+        { "vi": "bằng tiền mặt", "note_vi": "Ngày càng hiếm. Nhiều nơi chỉ nhận thẻ." },
+        { "vi": "thanh toán không tiếp xúc" },
+        { "vi": "thẻ khách hàng thân thiết", "note_vi": "S-Etukortti hoặc K-Plussa. Lần nào họ cũng hỏi." },
+        { "vi": "thẻ tích điểm" },
+        { "vi": "thẻ ưu đãi (rút gọn)" },
+        { "vi": "có cần không" },
+        { "vi": "túi giấy" },
+        { "vi": "túi nhựa" },
+        { "vi": "đây (của anh/chị)" },
+        { "vi": "của anh đây / không có gì", "literal_vi": "hãy tốt" },
+        { "vi": "thế có được không?" },
+        { "vi": "có hâm nóng không?", "note_vi": "Được hỏi về bánh ngọt và đồ mang đi." },
+        { "vi": "vào cùng một túi" }
+      ],
+      "phrases": [
+        { "vi": "Ăn ở đây hay mang đi?", "when_to_use_vi": "Lần nào bạn cũng sẽ nghe câu này. Trả lời: «Täällä» hoặc «Mukaan». Một từ." },
+        { "vi": "Ở đây, cảm ơn.", "when_to_use_vi": "Ăn tại chỗ. Đó là toàn bộ câu trả lời." },
+        { "vi": "Mang đi, cảm ơn.", "when_to_use_vi": "Khi bạn đem theo." },
+        { "vi": "Còn gì nữa không?", "when_to_use_vi": "Được hỏi sau mỗi món. «Ei kiitos» là chốt." },
+        { "vi": "Không cảm ơn, thế thôi ạ.", "when_to_use_vi": "Dấu chấm hết cho phần gọi món của bạn." },
+        { "vi": "Anh/chị có thẻ khách hàng thân thiết không?", "when_to_use_vi": "Cửa hàng nào cũng hỏi, lần nào cũng hỏi. Nếu không: «Ei oo.» Hai âm tiết là xong." },
+        { "vi": "Tôi không có.", "when_to_use_vi": "Câu trả lời cho mọi câu hỏi «onko sinulla» mà bạn phải từ chối." },
+        { "vi": "Anh/chị có cần túi không?", "when_to_use_vi": "Túi mất tiền, nên đây là câu hỏi thật chứ không phải phép lịch sự." },
+        { "vi": "Vâng, cho một túi ạ.", "when_to_use_vi": "Nếu bạn cần. Không thì «Ei tarvita» — không cần đâu." },
+        { "vi": "Lấy hoá đơn không?", "when_to_use_vi": "«Joo kiitos» hoặc «Ei tarvii». Giữ lại cho những thứ bạn có thể đem trả." },
+        { "vi": "Không cần đâu.", "when_to_use_vi": "Từ chối túi, hoá đơn, hay lời giúp xách đồ. Cực kỳ hữu dụng." },
+        { "vi": "Có hâm nóng lên không ạ?", "when_to_use_vi": "Được hỏi về bánh mì ngọt, bánh ngọt và hộp đồ mang đi. «Joo kiitos» hoặc «Ei kiitos»." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Tất cả các câu hỏi cùng một lúc",
+          "setting_vi": "Quầy một tiệm bánh. Nhân viên thân thiện và hỏi rất kỹ.",
+          "note_vi": "Đây là trọn bộ. Thật sự không còn mấy câu nữa đâu.",
+          "lines": [
+            { "vi": "Chào! Anh dùng gì ạ?" },
+            { "vi": "Chào. Hai bánh quế và một cà phê." },
+            { "vi": "Vâng. Có hâm nóng mấy cái bánh không ạ?" },
+            { "vi": "Vâng, làm ơn." },
+            { "vi": "Còn gì nữa không ạ?" },
+            { "vi": "Không cảm ơn, thế thôi." },
+            { "vi": "Ăn ở đây hay mang đi ạ?" },
+            { "vi": "Cà phê ở đây, bánh mang đi.", "note_vi": "Bạn có thể tách ra. Hoàn toàn bình thường." },
+            { "vi": "Rõ rồi. Anh có thẻ khách hàng thân thiết không?" },
+            { "vi": "Không có." },
+            { "vi": "Không sao ạ. Chín hai mươi. Lấy hoá đơn không ạ?" },
+            { "vi": "Không cần. Thẻ nhé." }
+          ]
+        },
+        {
+          "title_vi": "Vẫn thế, ở tốc độ thật",
+          "setting_vi": "Giờ cao điểm bữa trưa. Nhân viên nhập ba câu hỏi vào một hơi thở.",
+          "note_vi": "Các câu hỏi dính vào nhau. Ở tốc độ này «Täällävaimukaan» là một từ.",
+          "lines": [
+            { "vi": "Chào, dùng gì ạ?" },
+            { "vi": "Một cà phê và một cái bánh." },
+            { "vi": "Ởđâyhaymangđi?", "note_vi": "Bốn từ nén thành một. Hãy nghe nhịp điệu, đừng nghe từng chữ." },
+            { "vi": "Ở đây." },
+            { "vi": "Gì nữa?", "note_vi": "Rút xuống còn đúng một từ." },
+            { "vi": "Không, cảm ơn." },
+            { "vi": "Thẻ ưu đãi?" },
+            { "vi": "Không có." },
+            { "vi": "Năm hai mươi. Hoá đơn?" },
+            { "vi": "Không cần, cảm ơn." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Sống sót qua trọn bộ câu hỏi",
+          "scenario_vi": "Gọi một món, rồi trả lời mọi câu hỏi ngược, mỗi câu một hai từ thôi.",
+          "your_role_vi": "Bạn, ở quầy tiệm bánh",
+          "partner_role_vi": "Một nhân viên nhanh nhẹn và thân thiện",
+          "turns": [
+            { "vi": "Chào! Anh dùng gì ạ?" },
+            { "vi": "Chào. Cho tôi một cà phê và một cái bánh.", "hint_vi": "Gọi hai món trong một câu." },
+            { "vi": "Có hâm nóng cái bánh không ạ?" },
+            { "vi": "Vâng, làm ơn.", "hint_vi": "Hai từ. Đừng nghĩ nhiều." },
+            { "vi": "Ăn ở đây hay mang đi ạ?" },
+            { "vi": "Ở đây.", "hint_vi": "Một từ là câu trả lời trọn vẹn." },
+            { "vi": "Anh có thẻ khách hàng thân thiết không?" },
+            { "vi": "Không có.", "hint_vi": "Câu từ chối chuẩn cho mọi câu hỏi «anh có… không»." },
+            { "vi": "Sáu euro. Lấy hoá đơn không ạ?" },
+            { "vi": "Không cần. Thẻ nhé, cảm ơn.", "hint_vi": "Từ chối hoá đơn và nói luôn cách thanh toán trong một lượt." }
+          ]
+        }
+      ]
+    }
+  }
+}

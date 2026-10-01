@@ -1,0 +1,213 @@
+{
+  "module": {
+    "title_vi": "Chuyện phiếm với người mới gặp",
+    "subtitle_vi": "Cách mở lời, giữ mạch, và không đơ ở câu hỏi thứ hai.",
+    "description_vi": "Chuyện phiếm kiểu Phần Lan ngắn hơn bạn tưởng và chân thành hơn bạn tưởng. Không có nghĩa vụ phải lấp khoảng lặng, nhưng có nghĩa vụ phải trả lời cho tử tế. Sáu bài này cho bạn trọn bộ trình tự chuẩn — tên, quê quán, công việc, phản ứng, thời tiết — cộng thêm nước đi cứu bạn khi vốn tiếng Phần Lan cạn giữa chừng."
+  },
+  "lessons": {
+    "hi-and-names": {
+      "lesson": {
+        "title_vi": "Chào hỏi và tên",
+        "subtitle_vi": "Moi! Mä oon Duc. Mikä sun nimi on?",
+        "warmup_situation_vi": "Một người bạn giới thiệu bạn với ba người cùng lúc. Ai cũng nói tên mình. Bạn chẳng bắt được cái nào.",
+        "warmup_question_vi": "Bạn hỏi lại ngay, hay né tránh gọi tên họ suốt cả buổi tối?",
+        "rescue_vi": "Xin lỗi, tên bạn là gì ấy nhỉ?",
+        "rescue_note_vi": "Đuôi «-kaan» mang nghĩa «lại lần nữa» — nó hàm ý bạn đã được cho biết rồi mà quên, nghe thân thiện hơn là hàm ý bạn chưa bao giờ nghe. Người Phần Lan hỏi nhau câu này suốt."
+      },
+      "vocab": [
+        { "vi": "chào", "note_vi": "Câu mặc định. Dùng được lúc 7 giờ sáng lẫn 11 giờ đêm, với sếp lẫn với trẻ con." },
+        { "vi": "chào / xin chào", "note_vi": "Trung tính hơn moi một chút. Cửa hàng và văn phòng thiên về hei." },
+        { "vi": "chào (thân mật)", "note_vi": "Chân chất hơn, ấm hơn. Hay gặp giữa đàn ông, và nói chung ở miền bắc." },
+        { "vi": "chào / tạm biệt", "note_vi": "Vui vẻ. Cũng dùng để chia tay." },
+        { "vi": "tạm biệt", "note_vi": "Lặp lại là biến lời chào thành lời chia tay. Chỉ có tác dụng khi lặp." },
+        { "vi": "tạm biệt" },
+        { "vi": "tên" },
+        { "vi": "tên riêng" },
+        { "vi": "họ" },
+        { "vi": "rất vui được làm quen", "note_vi": "Thường rút thành «hauska tutustuu» hoặc chỉ «hauska»." },
+        { "vi": "làm quen" },
+        { "vi": "giới thiệu" },
+        { "vi": "bạn bè, bạn bè thường", "note_vi": "Từ hằng ngày. «Ystävä» là bạn thân thiết, nghiêm túc hơn." },
+        { "vi": "bạn thân" },
+        { "vi": "đồng nghiệp", "literal_vi": "bạn-làm-việc" },
+        { "vi": "hàng xóm" },
+        { "vi": "người quen / quen thuộc" },
+        { "vi": "ai" },
+        { "vi": "là gì ấy nhỉ", "note_vi": "Đuôi -kaan/-kään = «nhắc lại giùm». Mikä se olikaan?" },
+        { "vi": "hay, dễ thương", "note_vi": "Từ khen được dùng nhiều nhất trong tiếng Phần Lan nói." },
+        { "vi": "hẹn gặp lại", "literal_vi": "chúng ta sẽ được nhìn thấy nhau" },
+        { "vi": "hoan nghênh, chào mừng" }
+      ],
+      "phrases": [
+        { "vi": "Chào, tôi là Duc.", "when_to_use_vi": "Câu mặc định. Chìa tay hay không đều được." },
+        { "vi": "Bạn tên gì?", "when_to_use_vi": "Hỏi ngay sau khi nói tên mình, không phải trước." },
+        { "vi": "Rất vui được làm quen!", "when_to_use_vi": "Nói một lần, lúc đầu. Người Phần Lan không nhắc lại lúc chia tay." },
+        { "vi": "Xin lỗi, tên bạn là gì ấy nhỉ?", "when_to_use_vi": "Bất cứ lúc nào trong một tiếng đầu. Không ai phiền. Đợi đến tiếng thứ ba mới tệ." },
+        { "vi": "Viết thế nào ạ?", "when_to_use_vi": "Tên Phần Lan viết đúng như nghe, nên hỏi câu này cho thấy bạn đang chú ý." },
+        { "vi": "Đây là bạn tôi, Anni.", "when_to_use_vi": "Giới thiệu hai người với nhau. Rồi lùi lại — họ tự lo được." },
+        { "vi": "Mình gặp nhau rồi, đúng không?", "when_to_use_vi": "Khi thấy một khuôn mặt quen. An toàn hơn là giả vờ nhớ." },
+        { "vi": "Tôi là đồng nghiệp của Anni.", "when_to_use_vi": "Giải thích bạn là ai ở một bữa tiệc — người Phần Lan muốn biết mối liên hệ, không phải lý lịch của bạn." },
+        { "vi": "Cứ gọi tôi là Duc.", "when_to_use_vi": "Nếu tên bạn bị đọc trẹo, hãy đưa ra bản ngắn. Không ai phật lòng cả." },
+        { "vi": "Gặp bạn vui quá!", "when_to_use_vi": "Dành cho người bạn đã quen. Ấm hơn là chỉ «moi»." },
+        { "vi": "Hẹn gặp lại!", "when_to_use_vi": "Lời chào tạm biệt chuẩn giữa những người còn gặp lại nhau." },
+        { "vi": "Nói chuyện vui lắm. Tạm biệt nhé!", "when_to_use_vi": "Kết thúc một cuộc trò chuyện lần đầu cho đàng hoàng. Hai câu ngắn là xong." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Được giới thiệu ở một bữa tiệc",
+          "setting_vi": "Anni giới thiệu Duc với bạn của cô, Mikko.",
+          "lines": [
+            { "vi": "Này Mikko! Đây là Duc, đồng nghiệp của tớ." },
+            { "vi": "Chào Duc, tôi là Mikko. Rất vui được làm quen." },
+            { "vi": "Rất vui được làm quen! Xin lỗi, bạn tên gì ấy nhỉ?" },
+            { "vi": "Mikko. M-I-K-K-O.", "note_vi": "Người Phần Lan đánh vần rất sẵn lòng. Hai chữ k — giữ âm đó lâu hơn." },
+            { "vi": "Mikko. Rõ rồi. Tôi là Duc." },
+            { "vi": "Duc. Viết thế nào?" },
+            { "vi": "D-U-C. Đó là tên Việt Nam." },
+            { "vi": "À hay đấy. Bạn quen Anni thế nào?" },
+            { "vi": "Bọn tôi làm việc cùng nhau." },
+            { "vi": "Ồ thế à! Thôi, chào mừng nhé." }
+          ]
+        },
+        {
+          "title_vi": "Ba cái tên cùng lúc",
+          "setting_vi": "Vẫn bữa tiệc đó, bốn mươi phút sau, ồn hơn.",
+          "note_vi": "Không ai nhắc lại. Để ý cách Duc hỏi lại mà không xin lỗi tới hai lần.",
+          "lines": [
+            { "vi": "Duc ơi, đây là Jussi, Sanna và Riikka." },
+            { "vi": "Chào! Tôi là Duc." },
+            { "vi": "Chào." },
+            { "vi": "Chào bạn." },
+            { "vi": "Xin lỗi, tôi không nghe rõ — bạn là?", "note_vi": "Ngắn, thẳng, không lạy lục. Đây là mức xin lỗi vừa đủ." },
+            { "vi": "Riikka." },
+            { "vi": "Riikka, ừ. Tôi kém nhớ tên lắm.", "note_vi": "«kaa» = kanssa, «với»." },
+            { "vi": "Tôi cũng thế. Không sao đâu.", "note_vi": "«mäki» = mä myös, «tôi cũng vậy»." },
+            { "vi": "Bạn quen Anni thế nào?" },
+            { "vi": "Từ chỗ làm. Bọn tôi cùng một nhóm.", "note_vi": "«duuni» = công việc, tiếng lóng. «samas» = samassa." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Làm quen ở một bữa tiệc",
+          "scenario_vi": "Bạn được giới thiệu với một người lạ. Hãy lấy tên họ, cho tên mình, và tìm ra mối liên hệ chung.",
+          "your_role_vi": "Bạn, vừa mới đến",
+          "partner_role_vi": "Mikko, bạn của bạn bạn",
+          "turns": [
+            { "vi": "Chào! Tôi là Mikko." },
+            { "vi": "Chào Mikko, tôi là Duc. Rất vui được làm quen.", "hint_vi": "Nhắc lại tên họ — làm vậy giúp bạn nhớ." },
+            { "vi": "Tôi cũng vậy! Bạn quen Anni thế nào?" },
+            { "vi": "Bọn tôi làm việc cùng nhau. Còn bạn?", "hint_vi": "Trả lời, rồi đẩy ngược câu hỏi ngay." },
+            { "vi": "Bọn tôi là bạn cũ, từ hồi đi học." },
+            { "vi": "Ồ thế à, vậy là lâu rồi!", "hint_vi": "Phản ứng với điều họ vừa nói, thay vì nhảy sang câu hỏi mới." },
+            { "vi": "Ừ, lâu quá rồi. Thôi, đi lấy gì uống đi!" },
+            { "vi": "Ừ tôi đi đây. Nói chuyện vui lắm, Mikko!", "hint_vi": "Kết lại bằng tên họ — nghe rất được, và chốt luôn cái tên vào trí nhớ." }
+          ]
+        }
+      ]
+    },
+    "where-youre-from": {
+      "lesson": {
+        "title_vi": "Bạn từ đâu đến",
+        "subtitle_vi": "Mistä sä oot kotoisin? Kauanks sä oot asunu Suomessa?",
+        "warmup_situation_vi": "Bạn sẽ được hỏi câu này nhiều hơn bất kỳ câu nào khác ở Phần Lan. Có lẽ vài lần mỗi tuần, trong nhiều năm.",
+        "warmup_question_vi": "Bạn đã có sẵn một câu trả lời dẫn đi đâu đó chưa — hay một câu làm cuộc trò chuyện tắt ngấm?",
+        "rescue_vi": "Chuyện đó dài lắm!",
+        "rescue_note_vi": "Một câu trả lời hoàn hảo khi sự thật rắc rối, hoặc khi bạn đơn giản không muốn kể lịch sử nhập cư của mình cho một người lạ ở trạm xe buýt. Nói kèm nụ cười, nó khép chủ đề lại một cách ấm áp."
+      },
+      "vocab": [
+        { "vi": "từ đâu" },
+        { "vi": "gốc gác từ", "note_vi": "«Mistä sä oot kotoisin?» là cụm cố định. Học nguyên cụm." },
+        { "vi": "quê hương, nước nhà" },
+        { "vi": "người nước ngoài", "note_vi": "Trung tính, không phải lời xúc phạm, dù «maahanmuuttaja» (người nhập cư) thì trang trọng hơn." },
+        { "vi": "sống, cư trú" },
+        { "vi": "đã sống" },
+        { "vi": "chuyển nhà", "note_vi": "Cũng có nghĩa «thay đổi». Ngữ cảnh tự phân biệt." },
+        { "vi": "sinh ra" },
+        { "vi": "lớn lên" },
+        { "vi": "bao lâu" },
+        { "vi": "năm" },
+        { "vi": "năm (sau con số)", "note_vi": "Kaks vuotta, viis vuotta. Cách phân từ sau số đếm." },
+        { "vi": "tháng" },
+        { "vi": "tiếng mẹ đẻ", "literal_vi": "tiếng-của-mẹ" },
+        { "vi": "người Phần Lan, thuộc Phần Lan" },
+        { "vi": "người Việt Nam", "note_vi": "Quốc tịch = tên nước + -lainen/-läinen." },
+        { "vi": "thủ đô" },
+        { "vi": "thành phố, thị trấn" },
+        { "vi": "ở miền nam" },
+        { "vi": "ở miền bắc" },
+        { "vi": "ban đầu, vốn dĩ" },
+        { "vi": "họ hàng" },
+        { "vi": "nỗi nhớ", "note_vi": "«Mulla on ikävä kotiin» = tôi nhớ nhà." },
+        { "vi": "thấy thoải mái ở đâu đó, hợp chỗ", "note_vi": "Không có từ tương đương trong tiếng Anh hay tiếng Việt. «Viihdytsä Suomessa?» = Bạn sống ở đây có ổn không? Bạn sẽ được hỏi câu này rất nhiều." }
+      ],
+      "phrases": [
+        { "vi": "Bạn từ đâu đến?", "when_to_use_vi": "Chính là câu đó. Học như một âm liền không ngắt." },
+        { "vi": "Tôi từ Việt Nam.", "when_to_use_vi": "Tên nước + -sta/-stä. Suomesta, Ruotsista, Virosta." },
+        { "vi": "Tôi sinh ra ở Hà Nội, nhưng đã sống ở Phần Lan năm năm.", "when_to_use_vi": "Câu trả lời hai phần. Cho họ hai thứ để hỏi tiếp thay vì một." },
+        { "vi": "Bạn sống ở đây bao lâu rồi?", "when_to_use_vi": "Câu hỏi tiếp theo tự động. Hãy có sẵn con số." },
+        { "vi": "Hơn ba năm.", "when_to_use_vi": "«Reilu» = hơn một chút. «Vajaa» = kém một chút. Cả hai đều nghe tự nhiên và mơ hồ một cách dễ chịu." },
+        { "vi": "Tôi chuyển đến đây vì công việc.", "literal_vi": "vì lý do công việc", "when_to_use_vi": "Lý do phổ biến nhất, và nó khép gọn phần hỏi tiếp." },
+        { "vi": "Vợ tôi là người Phần Lan.", "when_to_use_vi": "Lý do phổ biến còn lại. Thay bằng: mies (chồng), puoliso (bạn đời), avopuoliso (bạn đời sống chung)." },
+        { "vi": "Bạn sống ở Phần Lan có ổn không?", "when_to_use_vi": "Bạn sẽ bị hỏi câu này không biết bao nhiêu lần. Không có bản dịch nào chuẩn, và câu trả lời được mong đợi là có." },
+        { "vi": "Vâng, rất ổn. Trừ mùa đông.", "when_to_use_vi": "Câu đùa này lần nào cũng trúng. Người Phần Lan thấy mùa đông của họ buồn cười." },
+        { "vi": "Tiếng mẹ đẻ của tôi là tiếng Việt.", "when_to_use_vi": "Tên ngôn ngữ viết thường trong tiếng Phần Lan và thường khác tên nước: Vietnam → vietnam, Suomi → suomi." },
+        { "vi": "Thỉnh thoảng tôi nhớ nhà.", "when_to_use_vi": "Một câu trả lời thành thật. Người Phần Lan đáp lại tốt — họ sẽ không thương hại, chỉ gật đầu." },
+        { "vi": "Còn bạn, bạn người quanh đây à?", "when_to_use_vi": "Đẩy ngược lại. «Täältä päin» = quanh vùng này, mơ hồ một cách dễ chịu." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đoạn hội thoại chuẩn",
+          "setting_vi": "Một người hàng xóm ngồi trên ghế đá trước toà nhà.",
+          "note_vi": "Đúng cuộc trò chuyện này sẽ xảy ra với bạn hàng chục lần. Hãy học nó như một quy trình.",
+          "lines": [
+            { "vi": "Chào! Bạn là người hàng xóm mới, đúng không?" },
+            { "vi": "Vâng, tôi là Duc. Chào bác!" },
+            { "vi": "Eeva. Bạn từ đâu đến?" },
+            { "vi": "Tôi từ Việt Nam, từ Hà Nội." },
+            { "vi": "Ồ hay quá! Bạn sống ở Phần Lan bao lâu rồi?" },
+            { "vi": "Hơn năm năm. Đầu tiên ở Tampere, giờ ở đây." },
+            { "vi": "À, Tampere! Thế bạn sống ở Phần Lan có ổn không?" },
+            { "vi": "Vâng, rất ổn. Trừ mùa đông." },
+            { "vi": "Haha, bọn tôi cũng vậy. Sao mùa đông bạn không ở đây?" },
+            { "vi": "Có chứ! Tôi chỉ than thở về nó thôi.", "note_vi": "«Oonhan mä» — đuôi -han nghĩa là «tất nhiên là có». Rất Phần Lan." },
+            { "vi": "Vậy thì bạn đã thành người Phần Lan rồi còn gì." }
+          ]
+        },
+        {
+          "title_vi": "Vẫn thế, nhưng nén lại",
+          "setting_vi": "Đứng xếp hàng. Chín mươi giây.",
+          "lines": [
+            { "vi": "Bạn mới ở đây à?" },
+            { "vi": "Vâng, bọn tôi chuyển đến tháng trước.", "note_vi": "«sitte» = sitten. Chữ -n cuối rụng liên tục." },
+            { "vi": "Từ đâu?", "note_vi": "Hai từ thay vì năm." },
+            { "vi": "Từ Tampere. Nhưng gốc là từ Việt Nam." },
+            { "vi": "Ồ thế à. Ở Phần Lan lâu chưa?", "note_vi": "Động từ biến mất hoàn toàn." },
+            { "vi": "Năm năm." },
+            { "vi": "Mà bạn nói tiếng Phần Lan giỏi đấy." },
+            { "vi": "Cảm ơn! Vẫn đang học." },
+            { "vi": "Thì ai chẳng thế. Tạm biệt nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả lời câu hỏi bạn sẽ bị hỏi mãi mãi",
+          "scenario_vi": "Dựng một câu trả lời hai phần mời gọi câu hỏi tiếp theo thay vì khép chủ đề.",
+          "your_role_vi": "Bạn, bị hỏi lần thứ một trăm",
+          "partner_role_vi": "Eeva, một người hàng xóm thân thiện",
+          "turns": [
+            { "vi": "Bạn từ đâu đến?" },
+            { "vi": "Tôi từ Việt Nam, nhưng tôi sống ở đây năm năm rồi.", "hint_vi": "Hai dữ kiện, không phải một. Cho họ chỗ để bám vào." },
+            { "vi": "Ồ năm năm rồi cơ à! Sao bạn lại đến Phần Lan?" },
+            { "vi": "Vì công việc. Tôi xin được việc ở đây.", "hint_vi": "Nói lý do thật đơn giản — không cần kể cả câu chuyện." },
+            { "vi": "Hay đấy. Thế bạn sống ở đây có ổn không?" },
+            { "vi": "Vâng, rất ổn. Trừ mùa đông!", "hint_vi": "Trả lời có, rồi đùa về mùa đông. Lần nào cũng trúng." },
+            { "vi": "Haha, ai cũng nói thế." },
+            { "vi": "Còn bạn, bạn người quanh đây à?", "hint_vi": "Đẩy câu hỏi lại — đây là thứ giữ cho chuyện phiếm sống." }
+          ]
+        }
+      ]
+    }
+  }
+}

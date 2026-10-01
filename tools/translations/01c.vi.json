@@ -1,0 +1,217 @@
+{
+  "lessons": {
+    "weather-and-weekends": {
+      "lesson": {
+        "title_vi": "Thời tiết và cuối tuần",
+        "subtitle_vi": "Onpa kylmä! Mitä teit viikonloppuna?",
+        "warmup_situation_vi": "Hôm nay là thứ Hai. Bốn người khác nhau hỏi cuối tuần của bạn thế nào. Bạn nói «hyvä» bốn lần.",
+        "warmup_question_vi": "Đáng lẽ bạn có thể nói gì — mất mười giây và cho họ cái gì đó để đáp lại?",
+        "rescue_vi": "Không có gì đặc biệt — một cuối tuần yên bình thôi.",
+        "rescue_note_vi": "Một câu trả lời trọn vẹn và hoàn hảo về mặt xã giao, không cần chuẩn bị và không cần một cuối tuần thú vị. «Rauhallinen» (yên bình) ở Phần Lan là lời khen, không phải lời xin lỗi."
+      },
+      "vocab": [
+        { "vi": "thời tiết" },
+        { "vi": "lạnh" },
+        { "vi": "nóng" },
+        { "vi": "ấm" },
+        { "vi": "mát" },
+        { "vi": "mưa / tuyết rơi", "note_vi": "Một động từ cho cả hai. «Sataa vettä» = mưa, «sataa lunta» = tuyết." },
+        { "vi": "tuyết" },
+        { "vi": "mưa tuyết", "note_vi": "Từ bị ghét nhất trong vốn từ thời tiết tiếng Phần Lan." },
+        { "vi": "trời rét dưới 0 độ", "note_vi": "«Kaks astetta pakkasta» = âm hai độ." },
+        { "vi": "mặt trời" },
+        { "vi": "có nắng" },
+        { "vi": "nhiều mây" },
+        { "vi": "có gió" },
+        { "vi": "trơn", "note_vi": "Một chủ đề an toàn thật sự, được nói hằng ngày từ tháng Mười một đến tháng Tư." },
+        { "vi": "tối", "note_vi": "Lời than thật sự của mùa đông. Không phải cái lạnh — mà là bóng tối." },
+        { "vi": "sáng sủa" },
+        { "vi": "độ" },
+        { "vi": "cuối tuần" },
+        { "vi": "thứ Bảy" },
+        { "vi": "Chủ nhật" },
+        { "vi": "nhà gỗ nghỉ hè", "note_vi": "Trung tâm của văn hoá Phần Lan. «Me mentiin mökille» giải thích trọn một cuối tuần." },
+        { "vi": "nghỉ ngơi" },
+        { "vi": "yên bình, tĩnh lặng", "note_vi": "Lời khen cao dành cho một cuối tuần." },
+        { "vi": "bận rộn" },
+        { "vi": "dọn dẹp" },
+        { "vi": "ra ngoài trời", "note_vi": "Không có từ tương đương. Bao gồm đi bộ, trượt tuyết, đứng trong rừng." },
+        { "vi": "một buổi đi bộ hoặc chạy", "note_vi": "«Mä kävin lenkillä» = tôi đi dạo/chạy một vòng." },
+        { "vi": "không có gì đặc biệt" }
+      ],
+      "phrases": [
+        { "vi": "Hôm nay lạnh quá!", "when_to_use_vi": "Đuôi «-pa» biến nó thành câu cảm thán. Onpa kaunis! Onpa hyvää!" },
+        { "vi": "Thời tiết đẹp quá!", "when_to_use_vi": "Dành cho ba ngày đẹp trời. Nói với người lạ — họ sẽ đồng tình." },
+        { "vi": "Lại mưa rồi.", "when_to_use_vi": "Chữ «taas» gánh cả lời than. Ai cũng hiểu." },
+        { "vi": "Hôm nay âm mười độ.", "when_to_use_vi": "Người Phần Lan trích đúng con số. Nói mơ hồ về nhiệt độ bị coi là đáng ngờ." },
+        { "vi": "Thời tiết kiểu này kinh khủng thật.", "when_to_use_vi": "«Keli» là thời tiết-xét-theo-điều-kiện — để lái xe, đi bộ, ra ngoài." },
+        { "vi": "Cẩn thận, đằng kia trơn đấy.", "when_to_use_vi": "Một sự tử tế thật sự từ tháng Mười một trở đi. Nói với bất cứ ai." },
+        { "vi": "Cuối tuần bạn làm gì?", "when_to_use_vi": "Sáng thứ Hai nào cũng vậy, với tất cả mọi người." },
+        { "vi": "Không có gì đặc biệt.", "when_to_use_vi": "Một câu trả lời trọn vẹn và chấp nhận được. Nhưng hãy thêm một chi tiết sau nó." },
+        { "vi": "Bọn tôi đi nhà gỗ.", "when_to_use_vi": "Giải thích và biện minh cho trọn một cuối tuần, không cần hỏi thêm." },
+        { "vi": "Tôi chỉ nghỉ ngơi và dọn dẹp thôi.", "when_to_use_vi": "Thành thật, bình thường, và hoàn toàn được nói ra miệng ở đây." },
+        { "vi": "Cuối tuần tới bạn làm gì?", "when_to_use_vi": "Bản hướng về phía trước — thường là mở đầu thật sự cho một lời mời." },
+        { "vi": "Chúc cuối tuần vui vẻ!", "when_to_use_vi": "Nói vào thứ Sáu với tất cả mọi người, kể cả bác tài xe buýt. Đáp lại: «Kiitos, samoin!»" }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Sáng thứ Hai",
+          "setting_vi": "Bếp văn phòng, ấm nước đang sôi.",
+          "lines": [
+            { "vi": "Chào! Cuối tuần thế nào?" },
+            { "vi": "Cũng ổn, cảm ơn. Bọn tôi đi nhà gỗ." },
+            { "vi": "Ồ hay đấy! Ở vùng nào?" },
+            { "vi": "Gần Hämeenlinna. Nhà gỗ của bố vợ tôi." },
+            { "vi": "Thời tiết trên đó có đẹp không?" },
+            { "vi": "Không. Mưa suốt cả thứ Bảy." },
+            { "vi": "Ôi tiếc quá. Ở đây thời tiết cũng kinh khủng." },
+            { "vi": "Ừ. Nhưng Chủ nhật thì nắng, và bọn tôi ở ngoài trời cả ngày." },
+            { "vi": "Thế thì tốt rồi! Thế còn sauna?" },
+            { "vi": "Tối nào cũng có. Tất nhiên rồi." },
+            { "vi": "Giờ thì bạn nói chuyện y như người Phần Lan." }
+          ]
+        },
+        {
+          "title_vi": "Nói chuyện thời tiết với người lạ",
+          "setting_vi": "Một nhà chờ xe buýt tháng Hai. Hai người lạ, một chủ đề.",
+          "note_vi": "Người lạ ở Phần Lan hiếm khi bắt chuyện — nhưng thời tiết là giấy phép. Hãy dùng nó.",
+          "lines": [
+            { "vi": "Trời ơi. Lạnh thật đấy." },
+            { "vi": "Lạnh thật. Âm bao nhiêu độ vậy bác?" },
+            { "vi": "Âm mười tám, đài nói thế.", "note_vi": "«kaheksantoista» = kahdeksantoista." },
+            { "vi": "Trời đất. Mà xe buýt lại muộn." },
+            { "vi": "Đúng vậy. Cứ rét là thế." },
+            { "vi": "Đúng thế. Thôi, sắp sang xuân rồi." },
+            { "vi": "Sắp. Còn ba tháng nữa." },
+            { "vi": "Haha. Đời là thế." },
+            { "vi": "Nó đến kia rồi. Chúc bác một ngày tốt lành!" },
+            { "vi": "Cảm ơn, bác cũng vậy nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Sáng thứ Hai, bốn lần",
+          "scenario_vi": "Trả lời «cuối tuần thế nào» bằng một câu cho người kia chỗ để bám vào.",
+          "your_role_vi": "Bạn, đứng bên máy pha cà phê",
+          "partner_role_vi": "Jussi, người hỏi",
+          "turns": [
+            { "vi": "Chào! Cuối tuần thế nào?" },
+            { "vi": "Cũng ổn, cảm ơn. Bọn tôi đi nhà gỗ. Còn bạn?", "hint_vi": "Đánh giá, một chi tiết, rồi trả lại. Ba phần." },
+            { "vi": "Không có gì đặc biệt. Dọn dẹp với nghỉ ngơi thôi." },
+            { "vi": "Nghe yên bình đấy. Thế cũng tốt mà.", "hint_vi": "«Rauhallinen» ở đây là lời khen — hãy dùng nó và nói thật lòng." },
+            { "vi": "Đúng thế. Trên nhà gỗ thời tiết có đẹp không?" },
+            { "vi": "Thứ Bảy mưa, nhưng Chủ nhật thì nắng.", "hint_vi": "Chia cuối tuần làm đôi — câu trả lời sẽ đầy đặn hơn." },
+            { "vi": "Thế thì tốt. Ở đây mưa suốt." },
+            { "vi": "Ôi tiếc quá. Thôi, sắp sang xuân rồi!", "hint_vi": "Thông cảm, rồi kết lại bằng sự lạc quan về thời tiết. Luôn an toàn." }
+          ]
+        }
+      ]
+    },
+    "switching-languages": {
+      "lesson": {
+        "title_vi": "Câu cứu nguy: chuyển ngôn ngữ một cách khéo léo",
+        "subtitle_vi": "Mà không kết thúc cuộc trò chuyện",
+        "warmup_situation_vi": "Bạn đã nói được ba câu tiếng Phần Lan. Rồi bạn đụng tường. Họ nhận ra, mỉm cười tử tế, và chuyển sang tiếng Anh trôi chảy. Phần tiếng Phần Lan của buổi tối kết thúc.",
+        "warmup_question_vi": "Làm sao nhận sự giúp đỡ cho một từ mà không mất cả cuộc trò chuyện?",
+        "rescue_vi": "Mình nói cái đó bằng tiếng Anh thôi, rồi tiếp tục bằng tiếng Phần Lan nhé.",
+        "rescue_note_vi": "Cả bài học gói trong một câu. Bạn mượn tiếng Anh cho một từ, không phải cho cuộc trò chuyện. Nói câu này một lần và phần lớn người Phần Lan sẽ chủ động giúp bạn ở lại với tiếng Phần Lan."
+      },
+      "vocab": [
+        { "vi": "tiếp tục" },
+        { "vi": "mình tiếp tục nào" },
+        { "vi": "đổi, chuyển" },
+        { "vi": "luyện tập" },
+        { "vi": "bài tập, sự luyện tập" },
+        { "vi": "học" },
+        { "vi": "thử, cố gắng" },
+        { "vi": "mình thử nào" },
+        { "vi": "dễ hơn" },
+        { "vi": "khó hơn" },
+        { "vi": "sự kiên nhẫn" },
+        { "vi": "chậm" },
+        { "vi": "trôi chảy" },
+        { "vi": "giúp đỡ" },
+        { "vi": "sửa, chữa", "note_vi": "«Korjaa mua!» = Sửa cho tôi! Người Phần Lan sẽ không sửa nếu không được mời." },
+        { "vi": "lỗi sai" },
+        { "vi": "lộn xộn, rối trí" },
+        { "vi": "cả hai" },
+        { "vi": "những từ (phân từ số nhiều)" },
+        { "vi": "giữa chừng" },
+        { "vi": "ngôn ngữ, cái lưỡi" },
+        { "vi": "kiên nhẫn" },
+        { "vi": "cảm ơn vì đã kiên nhẫn" }
+      ],
+      "phrases": [
+        { "vi": "Mình tiếp tục bằng tiếng Phần Lan nhé, tôi muốn luyện.", "when_to_use_vi": "Nước đi cốt lõi. Nói thật ấm áp và ngay sau khi họ đổi ngôn ngữ." },
+        { "vi": "Cái đó tiếng Phần Lan nói thế nào?", "when_to_use_vi": "Mượn từ tiếng Anh, rồi hỏi từ tiếng Phần Lan. Cuối cùng bạn có cả hai." },
+        { "vi": "«Deadline» tiếng Phần Lan là gì?", "when_to_use_vi": "Thả thẳng từ tiếng Anh vào. Ai cũng làm thế, kể cả người Phần Lan." },
+        { "vi": "Câu này tôi nói bằng tiếng Anh nhé, xin lỗi.", "when_to_use_vi": "Báo trước một ngoại lệ dài một câu, thay vì lặng lẽ bỏ hẳn tiếng Phần Lan." },
+        { "vi": "Bạn cứ nói tiếng Phần Lan, tôi trả lời bằng tiếng Anh nếu không nói được.", "when_to_use_vi": "Một chiến thuật thật sự. Khả năng nghe tiến nhanh ngay cả khi khả năng nói còn chậm." },
+        { "vi": "Tôi hiểu nhiều hơn tôi nói được.", "when_to_use_vi": "Giải thích vì sao họ nên tiếp tục nói tiếng Phần Lan với bạn. Rất hiệu quả." },
+        { "vi": "Sửa cho tôi nếu tôi nói sai nhé.", "when_to_use_vi": "Người Phần Lan sẽ không sửa nếu chưa được mời — như thế là bất lịch sự. Đây chính là lời mời." },
+        { "vi": "Thế đúng không?", "when_to_use_vi": "Kiểm tra nhanh giữa câu. Giữ cho bạn đi tiếp." },
+        { "vi": "Tôi rối tinh cả lên rồi.", "when_to_use_vi": "Tự cười mình giữa câu. Mua được rất nhiều thiện cảm và cho phép bạn bắt đầu lại." },
+        { "vi": "Mình bắt đầu lại từ đầu nhé.", "when_to_use_vi": "Khi một câu sụp đổ. Bắt đầu lại là bình thường, không phải thất bại." },
+        { "vi": "Cảm ơn vì đã kiên nhẫn!", "when_to_use_vi": "Cuối một cuộc trò chuyện chậm chạp. Người ta thật sự trân trọng, và lần sau họ sẽ nói tiếng Phần Lan với bạn." },
+        { "vi": "Hẹn gặp lại — và lần sau lại nói tiếng Phần Lan nhé!", "when_to_use_vi": "Lời kết. Đặt trước cuộc trò chuyện lần sau ngay từ bây giờ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Họ đổi, bạn đổi ngược lại",
+          "setting_vi": "Một đồng nghiệp thấy bạn đang vật lộn và nhiệt tình đổi ngôn ngữ.",
+          "note_vi": "Việc đổi ngôn ngữ là sự tử tế. Từ chối nó cũng là sự tử tế. Cả hai đều đúng.",
+          "lines": [
+            { "vi": "Tôi muốn hỏi về… ừm… về cái dự án đó, và cái…" },
+            { "vi": "(bằng tiếng Anh) Mình nói tiếng Anh cho dễ nhé?" },
+            { "vi": "Cảm ơn, nhưng mình tiếp tục bằng tiếng Phần Lan nhé. Tôi muốn luyện." },
+            { "vi": "Ừ tất nhiên rồi! Cứ nói chậm thôi." },
+            { "vi": "Tôi muốn hỏi về… tiến độ của dự án?" },
+            { "vi": "Về tiến độ, đúng rồi. Tháng sau là xong." },
+            { "vi": "Được rồi. Thế «deadline» tiếng Phần Lan là gì?" },
+            { "vi": "Määräaika. Hoặc takaraja, cũng có người dùng." },
+            { "vi": "Määräaika. Được rồi. Thế cái määräaika đó là khi nào?" },
+            { "vi": "Ngày mười sáu. Tốt lắm! Bạn học nhanh đấy." },
+            { "vi": "Cảm ơn vì đã kiên nhẫn." },
+            { "vi": "Không có gì. Từ giờ mình luôn nói tiếng Phần Lan nhé?" }
+          ]
+        },
+        {
+          "title_vi": "Mượn một từ, giữ lại phần còn lại",
+          "setting_vi": "Ở cửa hàng. Duc không biết một từ và không dừng lại.",
+          "note_vi": "Trộn một từ tiếng Anh vào câu tiếng Phần Lan không phải gian lận. Người Phần Lan làm thế suốt.",
+          "lines": [
+            { "vi": "Chào! Tôi đang tìm cái kiểu… gọi là gì nhỉ…" },
+            { "vi": "Vâng?" },
+            { "vi": "Cái dùng để mở chai ấy. Corkscrew.", "note_vi": "Mô tả bằng tiếng Phần Lan trước, tiếng Anh chỉ là phương án dự phòng." },
+            { "vi": "À cái mở nút chai! Vâng, ở kệ đằng kia ạ." },
+            { "vi": "Korkkiruuvi. Từ hay đấy. Cảm ơn!" },
+            { "vi": "Không có gì. Anh nói giỏi lắm!" },
+            { "vi": "Cảm ơn. Tôi hiểu nhiều hơn tôi nói được." },
+            { "vi": "Lúc nào cũng vậy mà. Chúc một ngày tốt lành!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Từ chối tiếng Anh, giữ lại người bạn",
+          "scenario_vi": "Họ chuyển sang tiếng Anh để giúp bạn. Hãy nhận sự giúp đỡ cho một từ, và từ chối nó cho cả cuộc trò chuyện.",
+          "your_role_vi": "Bạn, mới ba câu đã bí",
+          "partner_role_vi": "Sanna, đang cố tỏ ra tử tế",
+          "turns": [
+            { "vi": "(bằng tiếng Anh) Mình chuyển sang tiếng Anh nếu như thế dễ hơn cho bạn nhé?" },
+            { "vi": "Cảm ơn, nhưng mình tiếp tục bằng tiếng Phần Lan nhé. Tôi muốn luyện.", "hint_vi": "Cảm ơn trước — họ đang tử tế. Rồi mới từ chối." },
+            { "vi": "Ừ tất nhiên rồi! Cứ nói chậm thôi." },
+            { "vi": "Tôi hiểu nhiều hơn tôi nói được, nên bạn cứ nói bình thường đi.", "hint_vi": "Nói cho họ biết cách giúp bạn — không thì họ sẽ tự đoán, và đoán sai." },
+            { "vi": "Rõ rồi. Thế bạn muốn hỏi gì?" },
+            { "vi": "«Deadline» tiếng Phần Lan là gì?", "hint_vi": "Mượn đúng một từ tiếng Anh, đặt bên trong một câu tiếng Phần Lan." },
+            { "vi": "Määräaika." },
+            { "vi": "Määräaika. Sửa cho tôi nếu tôi nói sai nhé.", "hint_vi": "Nhắc lại từ mới, rồi mời họ sửa — người Phần Lan không sửa khi chưa được mời." },
+            { "vi": "Hoàn toàn đúng rồi đấy! Tốt lắm." },
+            { "vi": "Cảm ơn vì đã kiên nhẫn. Lần sau lại nói tiếng Phần Lan nhé!", "hint_vi": "Kết lại bằng cách đặt lịch cho cuộc trò chuyện tiếng Phần Lan tiếp theo." }
+          ]
+        }
+      ]
+    }
+  }
+}

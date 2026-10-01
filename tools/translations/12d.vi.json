@@ -1,0 +1,212 @@
+{
+  "lessons": {
+    "negotiating-and-saying-no": {
+      "lesson": {
+        "title_vi": "Đàm phán và nói không",
+        "subtitle_vi": "Sự thẳng thắn kiểu Phần Lan mà không nghe thô",
+        "warmup_situation_vi": "Một khách hàng muốn giảm giá 30% và rút hạn sớm hai tuần. Không điều nào khả thi. Bạn phải nói ra, bằng tiếng Phần Lan, mà không phá hỏng một quan hệ bạn muốn giữ.",
+        "warmup_question_vi": "Người Phần Lan nói không thế nào — và vì sao một lời không rõ ràng được đón nhận tốt hơn một cái «có thể» mơ hồ?",
+        "rescue_vi": "Rất tiếc là điều đó không khả thi. Nhưng tôi sẽ nói điều gì khả thi.",
+        "rescue_note_vi": "Hai câu: một lời không rõ ràng, rồi ngay lập tức một phương án khác. Văn hoá doanh nghiệp Phần Lan coi một lời không thẳng thắn là sự tôn trọng thời gian của người kia — điều phá hoại niềm tin ở đây là cái «có thể» mơ hồ làm mất ba tuần."
+      },
+      "vocab": [
+        { "vi": "đàm phán" }, { "vi": "cuộc đàm phán" }, { "vi": "điều kiện, điều khoản" }, { "vi": "hợp đồng" },
+        { "vi": "giảm giá" }, { "vi": "giá" },
+        { "vi": "biên lợi nhuận", "note_vi": "Ở đây bạn nêu biên lợi nhuận làm lý do được. Nó được tôn trọng, không bị coi là thô." },
+        { "vi": "không khả thi", "note_vi": "Rõ ràng và dứt khoát. Tử tế hơn nhiều so với một cái «có thể» vô tận." },
+        { "vi": "rất tiếc là" }, { "vi": "tôi không thể" },
+        { "vi": "tôi không hứa", "note_vi": "Tốt hơn hứa rồi không giữ được. Được tôn trọng rất cao ở đây." },
+        { "vi": "khả thi, thực tế" }, { "vi": "không thực tế" },
+        { "vi": "phương án khác", "note_vi": "Luôn mang theo một cái. Một lời không kèm phương án là một cuộc đàm phán." },
+        { "vi": "sự thoả hiệp" }, { "vi": "gặp nhau ở giữa" },
+        { "vi": "nếu các anh… thì chúng tôi…", "note_vi": "Cấu trúc trao đổi. Đừng bao giờ nhượng bộ mà không có nó." },
+        { "vi": "phạm vi công việc", "note_vi": "Cắt phạm vi thay vì cắt giá. Nước đi chuẩn kiểu Phần Lan." },
+        { "vi": "cắt bớt, tỉa bớt" }, { "vi": "chia thành giai đoạn" }, { "vi": "tiến độ" }, { "vi": "chất lượng" },
+        { "vi": "rủi ro" }, { "vi": "thật lòng mà nói" },
+        { "vi": "lý lẽ, căn cứ", "note_vi": "Một lời không mà không có lý do thì nghe như tuỳ tiện. Có lý do thì được chấp nhận." },
+        { "vi": "tôi hiểu" }, { "vi": "tôi trân trọng" }, { "vi": "cuối cùng, sau chót" },
+        { "vi": "ổn với chúng tôi" },
+        { "vi": "cái bắt tay", "note_vi": "Vẫn là cách một thoả thuận được đóng lại ở đây, kể cả sau khi có hợp đồng." }
+      ],
+      "phrases": [
+        { "vi": "Rất tiếc là điều đó không khả thi.", "when_to_use_vi": "Rõ ràng và dứt khoát. Tử tế hơn nhiều so với một cái «có thể» vô tận." },
+        { "vi": "Nhưng tôi sẽ nói điều gì khả thi.", "when_to_use_vi": "Luôn nối sau một lời không bằng câu này. Nó biến từ chối thành đàm phán." },
+        { "vi": "Thật lòng mà nói, ba mươi phần trăm là không thực tế.", "when_to_use_vi": "Nêu con số và bác bỏ nó thẳng thắn. Rồi giải thích." },
+        { "vi": "Biên lợi nhuận của chúng tôi không chịu được mức đó.", "when_to_use_vi": "Nêu biên lợi nhuận ở đây được tôn trọng, không bị coi là thô. Đó là lý do thật." },
+        { "vi": "Nếu các anh ký hợp đồng dài hơn thì chúng tôi có thể nhượng về giá.", "when_to_use_vi": "Cấu trúc trao đổi. Đừng bao giờ nhượng bộ mà không nhận lại gì." },
+        { "vi": "Mình cắt phạm vi thay vì cắt giá được không?", "when_to_use_vi": "Nước đi chuẩn kiểu Phần Lan. Bảo vệ giá trị cho cả hai bên." },
+        { "vi": "Tôi không hứa điều đó, vì tôi không giữ được.", "when_to_use_vi": "Được tôn trọng rất cao ở đây. Tốt hơn hứa rồi không làm được." },
+        { "vi": "Sớm hơn hai tuần sẽ có nghĩa là chất lượng bị ảnh hưởng.", "when_to_use_vi": "Nêu cái được cái mất thay vì chỉ từ chối cái ngày." },
+        { "vi": "Tôi hiểu tình hình của các anh.", "when_to_use_vi": "Nói một lần, chân thành, trước khi nói không. Không phải ba lần." },
+        { "vi": "Thế nào thì là đủ với các anh?", "when_to_use_vi": "Thường hé ra rằng họ cần ít hơn điều họ đã yêu cầu." },
+        { "vi": "Đây là đề xuất cuối cùng của chúng tôi.", "when_to_use_vi": "Chỉ nói khi đúng vậy. Người Phần Lan hiểu theo nghĩa chữ." },
+        { "vi": "Ổn với chúng tôi. Mình thống nhất thế nhé?", "when_to_use_vi": "Đóng lại một cách rõ ràng. Rồi cái bắt tay." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Hai yêu cầu bất khả thi, hai câu trả lời rõ ràng",
+          "setting_vi": "Một cuộc gọi đàm phán. Khách hàng xin giảm giá và rút hạn sớm.",
+          "note_vi": "Anh nói không hai lần, mỗi lần đưa một lý do, và mỗi lần mang theo một phương án.",
+          "lines": [
+            { "vi": "Đề xuất tốt đấy, nhưng chúng tôi cần giảm giá ba mươi phần trăm." },
+            { "vi": "Tôi hiểu tình hình của các anh. Nhưng thật lòng mà nói, ba mươi phần trăm là không thực tế — biên lợi nhuận của chúng tôi không chịu được." },
+            { "vi": "Hừm. Vậy điều gì khả thi?" },
+            { "vi": "Hai phương án. Nếu các anh ký hợp đồng hai năm thì chúng tôi nhượng được mười phần trăm." },
+            { "vi": "Còn phương án kia?" },
+            { "vi": "Chúng ta cắt phạm vi. Bỏ mô-đun thứ hai ra khỏi giai đoạn đầu — nó giảm giá mười tám phần trăm." },
+            { "vi": "Phương án thứ hai nghe tốt hơn. Nhưng chúng tôi cũng cần nó sớm hơn hai tuần." },
+            { "vi": "Tôi không hứa điều đó, vì tôi không giữ được. Sớm hơn hai tuần sẽ có nghĩa là kiểm thử dở dang và chất lượng bị ảnh hưởng." },
+            { "vi": "Tôi trân trọng sự thật thà. Nhiều người hứa rồi trễ hạn." },
+            { "vi": "Thế nào thì là đủ với các anh? Nếu các anh chỉ cần phần báo cáo sớm hơn thì điều đó khả thi." },
+            { "vi": "Thật á? Vâng, thế là đủ. Chúng tôi cần nó cho cuộc họp ban lãnh đạo." },
+            { "vi": "Vậy thì khả thi. Tức là: phạm vi nhẹ hơn, rẻ hơn mười tám phần trăm, và phần báo cáo sớm hơn hai tuần. Như thế có được không ạ?" },
+            { "vi": "Ổn với chúng tôi. Mình thống nhất thế." },
+            { "vi": "Tốt. Mai tôi gửi bản đề xuất cập nhật." }
+          ]
+        },
+        {
+          "title_vi": "Nói không trong nội bộ",
+          "setting_vi": "Một đồng nghiệp nhờ một việc bạn không làm được.",
+          "note_vi": "Cùng cấu trúc đó cũng hiệu quả trong nội bộ. Không, lý do, phương án.",
+          "lines": [
+            { "vi": "Duc, bạn làm xong cái này trước thứ Sáu được không?" },
+            { "vi": "Rất tiếc là không được. Cùng lúc đó tôi có bản giao cho khách hàng." },
+            { "vi": "Được. Khi nào thì bạn làm được?" },
+            { "vi": "Thứ Tư tuần sau. Hoặc nếu gấp thì tôi làm được một nửa trước thứ Sáu." },
+            { "vi": "Nửa nào?" },
+            { "vi": "Phần phân tích. Phần tóm tắt cần nhiều thời gian hơn." },
+            { "vi": "Phần phân tích là đủ cho thứ Sáu. Phần còn lại tuần sau." },
+            { "vi": "Chốt. Tôi không hứa phần tóm tắt cho thứ Sáu, nhưng phân tích thì sẽ có." },
+            { "vi": "Cảm ơn bạn đã nói thẳng. Nó giúp cho việc lên kế hoạch." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nói không hai lần, và giữ được thoả thuận",
+          "scenario_vi": "Từ chối một mức giảm giá và một mốc hạn, đưa ra lý do, và mang theo phương án cả hai lần.",
+          "your_role_vi": "Bạn, trong một cuộc gọi đàm phán",
+          "partner_role_vi": "Khách hàng",
+          "turns": [
+            { "vi": "Chúng tôi cần giảm giá ba mươi phần trăm." },
+            { "vi": "Tôi hiểu tình hình của các anh. Nhưng thật lòng, ba mươi phần trăm là không thực tế.", "hint_vi": "Ghi nhận một lần, rồi từ chối rõ ràng. Đừng nói vòng." },
+            { "vi": "Vậy điều gì khả thi?" },
+            { "vi": "Nếu các anh ký hợp đồng hai năm thì chúng tôi nhượng được mười phần trăm.", "hint_vi": "Cấu trúc trao đổi. Đừng nhượng bộ mà không nhận lại gì." },
+            { "vi": "Có phương án nào khác không?" },
+            { "vi": "Mình cắt phạm vi thay vì cắt giá được không? Nó giảm giá mười tám phần trăm.", "hint_vi": "Cắt phạm vi thay vì giá là nước đi chuẩn kiểu Phần Lan." },
+            { "vi": "Tốt hơn. Nhưng chúng tôi cần nó sớm hơn hai tuần." },
+            { "vi": "Tôi không hứa điều đó, vì tôi không giữ được. Chất lượng sẽ bị ảnh hưởng.", "hint_vi": "Được tôn trọng rất cao ở đây. Tốt hơn hứa rồi không làm được." },
+            { "vi": "Tôi trân trọng sự thật thà." },
+            { "vi": "Thế nào thì là đủ với các anh? Nếu chỉ cần phần báo cáo sớm hơn thì khả thi.", "hint_vi": "Điều này thường hé ra rằng họ cần ít hơn điều đã yêu cầu." },
+            { "vi": "Vâng, thế là đủ." },
+            { "vi": "Tức là: phạm vi nhẹ hơn, rẻ hơn mười tám phần trăm, báo cáo sớm hơn. Được không ạ?", "hint_vi": "Tóm tắt trọn gói và đóng lại một cách rõ ràng." }
+          ]
+        }
+      ]
+    },
+    "business-rescue-move": {
+      "lesson": {
+        "title_vi": "Câu cứu nguy: giữ cho tiếng Phần Lan tiếp tục ở chỗ làm",
+        "subtitle_vi": "Mä puhun suomee vielä vähän huonosti, mut yritetään!",
+        "warmup_situation_vi": "Tiếng Phần Lan của bạn đủ cho phòng cà phê nhưng chưa đủ cho một cuộc đàm phán với khách hàng. Ở chỗ làm, mọi người sẽ chuyển sang tiếng Anh ngay khi bạn ngập ngừng — vĩnh viễn, và với ý tốt nhất.",
+        "warmup_question_vi": "Làm sao giữ cho cả công ty nói tiếng Phần Lan với bạn khi tiếng Anh dễ hơn cho mọi người?",
+        "rescue_vi": "Tôi nói tiếng Phần Lan vẫn còn kém, nhưng mình cứ thử!",
+        "rescue_note_vi": "Chữ «mut yritetään» là thứ làm câu này hiệu quả. Nó gọi tên giới hạn rồi từ chối coi đó là kết luận, điều vừa làm dịu không khí vừa thật sự có sức thuyết phục. Hãy nói nó trong tuần đầu và cả đội sẽ điều chỉnh theo bạn thay vì đi vòng quanh bạn."
+      },
+      "vocab": [
+        { "vi": "luyện tập" }, { "vi": "học" }, { "vi": "tiến bộ" }, { "vi": "trình độ ngôn ngữ" },
+        { "vi": "ngôn ngữ làm việc", "note_vi": "Nhiều công ty Phần Lan tuyên bố đó là tiếng Anh. Hành lang thì không đồng ý." },
+        { "vi": "chuyển sang tiếng Anh" }, { "vi": "mình tiếp tục bằng tiếng Phần Lan nhé" },
+        { "vi": "mình cứ thử", "note_vi": "Từ biến một giới hạn thành một kế hoạch." },
+        { "vi": "chậm hơn" }, { "vi": "nhắc lại đi" },
+        { "vi": "sửa cho tôi", "note_vi": "Người Phần Lan không sửa nếu chưa được mời. Đây chính là lời mời." },
+        { "vi": "từ điển" },
+        { "vi": "từ vựng chuyên môn", "note_vi": "Hãy nhờ một đồng nghiệp cho bạn mười từ mà công việc bạn thật sự cần." },
+        { "vi": "thuật ngữ" }, { "vi": "nói thế nào" }, { "vi": "không chính thức" },
+        { "vi": "trong email", "note_vi": "Tiếng Phần Lan viết là chỗ tốt để bắt đầu. Bạn có thời gian soạn." },
+        { "vi": "trong cuộc họp" },
+        { "vi": "một đối một", "note_vi": "Dễ hơn nhóm rất nhiều. Hãy chủ động tạo ra những cuộc trò chuyện này." },
+        { "vi": "sự kiên nhẫn" }, { "vi": "cảm ơn vì đã kiên nhẫn" }, { "vi": "không sao đâu" },
+        { "vi": "từng chút một" },
+        { "vi": "mục tiêu", "note_vi": "Hãy nói ra một mục tiêu với một đồng nghiệp. Nó biến họ thành đồng minh của bạn." },
+        { "vi": "việc học ngôn ngữ" },
+        { "vi": "khoá học ngôn ngữ", "note_vi": "Nhiều công ty trả tiền cho một khoá. Hãy hỏi." },
+        { "vi": "người sử dụng lao động" }, { "vi": "hỗ trợ" }, { "vi": "động viên" }, { "vi": "tôi xoay được" }
+      ],
+      "phrases": [
+        { "vi": "Tôi nói tiếng Phần Lan vẫn còn kém, nhưng mình cứ thử!", "when_to_use_vi": "Hãy nói trong tuần đầu tiên. Cả đội sẽ điều chỉnh theo bạn." },
+        { "vi": "Bạn cứ nói tiếng Phần Lan, tôi trả lời tiếng Anh nếu không nói được.", "when_to_use_vi": "Một chiến lược thật. Khả năng nghe tiến bộ trước khả năng nói rất lâu." },
+        { "vi": "Tôi hiểu nhiều hơn tôi nói được.", "when_to_use_vi": "Giải thích vì sao họ nên tiếp tục nói tiếng Phần Lan với bạn." },
+        { "vi": "Mình tiếp tục bằng tiếng Phần Lan nhé, tôi muốn luyện.", "when_to_use_vi": "Khi họ chuyển sang tiếng Anh vì tử tế. Hãy từ chối một cách ấm áp." },
+        { "vi": "Trong các cuộc họp bạn nói chậm hơn một chút được không?", "when_to_use_vi": "Hãy nhờ cả đội một lần, tập thể. Họ thật sự điều chỉnh." },
+        { "vi": "Sửa cho tôi nếu tôi nói sai nhé.", "when_to_use_vi": "Người Phần Lan không sửa nếu chưa được mời. Đây chính là lời mời." },
+        { "vi": "«Deadline» tiếng Phần Lan nói thế nào?", "when_to_use_vi": "Hỏi từng từ một. Bạn sẽ thu góp vốn từ của công việc mình rất nhanh." },
+        { "vi": "Mười từ tôi cần trong công việc này là những từ nào?", "when_to_use_vi": "Hãy hỏi một đồng nghiệp câu này. Một câu hỏi tuyệt vời và cụ thể." },
+        { "vi": "Tôi viết email bằng tiếng Phần Lan, như thế dễ hơn cho tôi.", "when_to_use_vi": "Tiếng Phần Lan viết là chỗ tốt để bắt đầu. Bạn có thời gian soạn." },
+        { "vi": "Mình nói riêng hai người nhé? Trong nhóm tôi không theo kịp.", "when_to_use_vi": "Dễ hơn rất nhiều. Hãy chủ động tạo ra những cuộc trò chuyện này." },
+        { "vi": "Công ty có hỗ trợ khoá học tiếng không ạ?", "when_to_use_vi": "Nhiều nơi có mà không quảng cáo. Hãy hỏi thẳng bộ phận nhân sự." },
+        { "vi": "Cảm ơn bạn đã kiên nhẫn. Từng chút một!", "when_to_use_vi": "Kết một cuộc trò chuyện chậm bằng câu này và mai họ sẽ thử lại." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đặt ra luật chơi trong tuần đầu",
+          "setting_vi": "Buổi họp đội đầu tiên. Duc nói ra cách anh muốn làm việc.",
+          "note_vi": "Ba mươi giây hướng dẫn rõ ràng định hình hai năm tiếp theo.",
+          "lines": [
+            { "vi": "Chào mừng vào đội, Duc! Bọn mình có thể họp bằng tiếng Anh." },
+            { "vi": "Cảm ơn bạn! Nhưng tôi mong là mình họp bằng tiếng Phần Lan." },
+            { "vi": "Thật á? Như thế có được không?" },
+            { "vi": "Tôi nói tiếng Phần Lan vẫn còn kém, nhưng mình cứ thử! Tôi hiểu nhiều hơn tôi nói được." },
+            { "vi": "Vâng. Cứ nói nếu bọn mình nói quá nhanh nhé." },
+            { "vi": "Cảm ơn. Hai điều nhờ: bạn nói chậm hơn một chút, và sửa cho tôi nếu tôi nói sai." },
+            { "vi": "Sửa thật á? Bọn mình thường không sửa ai cả." },
+            { "vi": "Ừ, tôi biết. Nhưng tôi muốn học, nên như thế giúp được." },
+            { "vi": "Tốt, bọn mình sẽ làm vậy. Và nếu có chỗ nào quan trọng, bọn mình nói thêm bằng tiếng Anh." },
+            { "vi": "Tuyệt vời. Và một câu hỏi: mười từ tôi cần trong công việc này là những từ nào?" },
+            { "vi": "Haha, câu hỏi hay! Hôm nay tôi làm cho bạn một danh sách." },
+            { "vi": "Cảm ơn bạn nhiều. Từng chút một!" }
+          ]
+        },
+        {
+          "title_vi": "Một năm sau",
+          "setting_vi": "Cùng đội đó. Chiến lược đã có hiệu quả.",
+          "note_vi": "Cuộc gọi khách hàng vẫn bằng tiếng Anh. Mọi thứ khác thì không. Đó là kết quả thực tế.",
+          "lines": [
+            { "vi": "Duc, mai bạn dẫn cuộc họp khách hàng đó. Tiếng Phần Lan hay tiếng Anh?" },
+            { "vi": "Tiếng Phần Lan. Lần trước tôi cũng dẫn bằng tiếng Phần Lan." },
+            { "vi": "Đúng thế. Một năm trước bạn sẽ không tin được." },
+            { "vi": "Tôi sẽ không tin. Đàm phán thì tôi vẫn làm bằng tiếng Anh, nếu là những vụ lớn." },
+            { "vi": "Hoàn toàn hợp lý. Điều gì giúp nhiều nhất?" },
+            { "vi": "Chuyện các bạn không chuyển sang tiếng Anh. Và những giờ nghỉ cà phê." },
+            { "vi": "Giờ nghỉ cà phê?" },
+            { "vi": "Ừ. Ở đó dễ nói, và ở đó nói sai cũng chẳng sao." },
+            { "vi": "Tôi sẽ kể chuyện đó cho người mới tiếp theo." },
+            { "vi": "Bạn kể đi. Và kể cả cái câu «mut yritetään» nữa." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đặt ra luật chơi về ngôn ngữ trong tuần đầu",
+          "scenario_vi": "Xin nói tiếng Phần Lan, giải thích vì sao nó sẽ hiệu quả, và đưa ra hai điều nhờ cụ thể.",
+          "your_role_vi": "Bạn, mới vào đội",
+          "partner_role_vi": "Anni, người quản lý của bạn",
+          "turns": [
+            { "vi": "Chào mừng vào đội! Bọn mình có thể họp bằng tiếng Anh." },
+            { "vi": "Cảm ơn bạn! Nhưng tôi mong là mình họp bằng tiếng Phần Lan.", "hint_vi": "Hãy nói trong tuần đầu. Nó định hình hai năm tiếp theo." },
+            { "vi": "Thật á? Như thế có được không?" },
+            { "vi": "Tôi nói tiếng Phần Lan vẫn còn kém, nhưng mình cứ thử!", "hint_vi": "«Mut yritetään» là thứ làm câu này có sức thuyết phục chứ không chỉ khiêm tốn." },
+            { "vi": "Vâng, mình thử xem." },
+            { "vi": "Tôi hiểu nhiều hơn tôi nói được, nên bạn cứ nói bình thường.", "hint_vi": "Nói cho họ biết cách giúp bạn. Không thì họ sẽ đoán sai." },
+            { "vi": "Vâng. Cứ nói nếu bọn mình nói quá nhanh." },
+            { "vi": "Cảm ơn. Và sửa cho tôi nếu tôi nói sai nhé.", "hint_vi": "Người Phần Lan không sửa nếu chưa được mời. Đây là lời mời." },
+            { "vi": "Bọn mình thường không sửa, nhưng bọn mình làm được." },
+            { "vi": "Cảm ơn. Và mười từ tôi cần trong công việc này là những từ nào?", "hint_vi": "Một câu hỏi cụ thể tuyệt vời. Hãy hỏi trong tuần đầu." },
+            { "vi": "Haha, câu hỏi hay! Tôi làm một danh sách." },
+            { "vi": "Cảm ơn bạn đã kiên nhẫn. Từng chút một!", "hint_vi": "Kết bằng câu này và mai họ sẽ thử lại." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "module": {
+    "title_vi": "Tiệc tùng và sự kiện xã giao",
+    "subtitle_vi": "Trụ lại trong cuộc trò chuyện khi nó trở nên nhanh và ồn.",
+    "description_vi": "Một bữa tiệc Phần Lan là môi trường nghe khó nhất bạn sẽ đối mặt: nhanh, chồng chéo, ồn ào, và đầy những tham chiếu bạn không có. Chương này ít nói về việc phải nói gì hơn là về cách trụ lại trong đó — đến nơi cho đẹp, nhập vào một nhóm mà không cắt ngang, nắm chủ đề thay vì từng chữ, xử lý chuyện nâng ly và sauna, và ra về đúng lúc theo đúng cách."
+  },
+  "lessons": {
+    "arriving": {
+      "lesson": {
+        "title_vi": "Lúc đến nơi",
+        "subtitle_vi": "Kiitos kutsusta! Mä toin tällasen.",
+        "warmup_situation_vi": "Bạn đứng ở cửa với một chai rượu trong túi. Bên trong ồn ào, giày dép khắp nơi, và bạn đã nhận ra ai cũng quen nhau.",
+        "warmup_question_vi": "Bốn việc đầu tiên bạn làm là gì — và theo thứ tự nào?",
+        "rescue_vi": "Tôi tìm đồ uống ở đâu ạ?",
+        "rescue_note_vi": "Một câu hỏi thực tế giúp bạn di chuyển, cho ai đó một cách dễ dàng để giúp bạn, và thường kết thúc bằng việc bạn đứng trong bếp — nơi diễn ra những cuộc trò chuyện một-đối-một vừa sức ở mọi bữa tiệc Phần Lan."
+      },
+      "vocab": [
+        { "vi": "lời mời" }, { "vi": "mời" }, { "vi": "buổi tiệc, lễ mừng" },
+        { "vi": "bữa tiệc (tiếng lóng)", "note_vi": "Thân mật. «Bileissä» = ở bữa tiệc." },
+        { "vi": "chủ nhà (nam)" }, { "vi": "chủ nhà (nữ)" }, { "vi": "khách" },
+        { "vi": "cởi giày", "note_vi": "Ngay lập tức, ở cửa, luôn luôn. Chuyện này không thương lượng ở bất cứ đâu tại Phần Lan." },
+        { "vi": "hành lang, lối vào" }, { "vi": "giá treo áo" }, { "vi": "quà mang đến" },
+        { "vi": "rượu vang" }, { "vi": "rượu vang sủi" }, { "vi": "bia" },
+        { "vi": "không cồn", "note_vi": "Hoàn toàn bình thường khi muốn. Ở Phần Lan không ai ép rượu." },
+        { "vi": "đồ uống" }, { "vi": "đồ nhấm nháp" }, { "vi": "phục vụ, dọn ra" },
+        { "vi": "nhà bếp", "note_vi": "Nơi diễn ra những cuộc trò chuyện thật. Hãy đi về phía đó." },
+        { "vi": "phòng khách" }, { "vi": "ban công" },
+        { "vi": "muộn", "note_vi": "Đến muộn 15 phút so với giờ hẹn là bình thường. Một tiếng thì không." },
+        { "vi": "đúng giờ" }, { "vi": "giới thiệu" }, { "vi": "quen mặt, quen biết" },
+        { "vi": "nhận ra" }, { "vi": "tiếng ồn" },
+        { "vi": "không khí, bầu không khí", "note_vi": "«Hyvä tunnelma» = không khí tốt. Một lời khen thường dành cho chủ nhà." }
+      ],
+      "phrases": [
+        { "vi": "Cảm ơn bạn đã mời!", "when_to_use_vi": "Câu đầu tiên khi bước qua cửa, giày đang cởi ra trong lúc nói." },
+        { "vi": "Mình mang cái này đến.", "literal_vi": "mình mang loại thứ này", "when_to_use_vi": "Câu tặng quà kiểu Phần Lan hoàn hảo — khiêm tốn, không rườm rà." },
+        { "vi": "Áo khoác mình để đâu?", "when_to_use_vi": "Thực tế, và nó cho chủ nhà một việc để làm cho bạn." },
+        { "vi": "Mình cởi giày nhé?", "when_to_use_vi": "Câu trả lời luôn là có. Cứ hỏi — nó cho thấy bạn biết luật." },
+        { "vi": "Nhà đẹp quá!", "when_to_use_vi": "Lời khen mở đầu tiêu chuẩn. Chân thành và dễ nói." },
+        { "vi": "Tôi tìm đồ uống ở đâu?", "when_to_use_vi": "Giúp bạn di chuyển và đưa bạn vào bếp. Rất chiến lược." },
+        { "vi": "Nhà có đồ uống không cồn không?", "when_to_use_vi": "Hỏi là chuyện hoàn toàn bình thường. Không ai ép bạn uống rượu." },
+        { "vi": "Xin lỗi, bọn mình đến hơi muộn.", "when_to_use_vi": "Mười lăm phút thì không cần xin lỗi. Một tiếng thì cần." },
+        { "vi": "Ở đây có những ai vậy?", "when_to_use_vi": "Hỏi chủ nhà từ sớm. Nó cho bạn một bản đồ căn phòng." },
+        { "vi": "Bạn giới thiệu mình với ai đó được không?", "when_to_use_vi": "Hoàn toàn có thể hỏi thẳng chủ nhà. Họ sẽ vui lòng." },
+        { "vi": "Không khí ở đây vui quá!", "when_to_use_vi": "Một lời khen thật dành cho chủ nhà và dễ nói." },
+        { "vi": "Mình chẳng quen ai ở đây cả.", "when_to_use_vi": "Thành thật và làm dịu không khí. Sẽ có người lập tức dẫn bạn đi đâu đó." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Bước qua cửa",
+          "setting_vi": "Hành lang. Áo khoác, giày dép, một chai trong túi, tiếng ồn vọng ra từ trong nhà.",
+          "note_vi": "Bốn nước đi theo thứ tự: cảm ơn, quà, giày, đồ uống.",
+          "lines": [
+            { "vi": "Chào! Chào mừng, vào đi!" },
+            { "vi": "Chào! Cảm ơn bạn đã mời. Mình mang cái này đến." },
+            { "vi": "Ôi cảm ơn! Bày vẽ làm gì." },
+            { "vi": "Không có gì đâu. Mình cởi giày nhé?" },
+            { "vi": "Ừ cảm ơn. Áo khoác treo lên giá kia." },
+            { "vi": "Vâng. Nhà đẹp quá!" },
+            { "vi": "Cảm ơn! Bọn mình chuyển đến đây hồi mùa xuân." },
+            { "vi": "Ồ thế à. Này, mình tìm đồ uống ở đâu?" },
+            { "vi": "Trong bếp có đủ cả. Và đồ không cồn ở trong tủ lạnh." },
+            { "vi": "Tuyệt. Mà ở đây có những ai vậy?" },
+            { "vi": "Đồng nghiệp của mình và vài người hàng xóm. Lại đây, mình giới thiệu cho." },
+            { "vi": "Cảm ơn, thế thì tốt quá. Mình chẳng quen ai ở đây cả!" }
+          ]
+        },
+        {
+          "title_vi": "Đến muộn, và đi một mình",
+          "setting_vi": "Bốn mươi phút sau giờ bắt đầu. Mọi người đã đang trò chuyện.",
+          "note_vi": "Ngắn, vui vẻ, không xin lỗi dài dòng. Rồi đi thẳng vào bếp.",
+          "lines": [
+            { "vi": "Chào! Xin lỗi, hơi muộn." },
+            { "vi": "Không sao! May mà bạn đến." },
+            { "vi": "Cảm ơn. Đây, quà nhỏ." },
+            { "vi": "Cảm ơn! Áo khoác để đằng kia." },
+            { "vi": "Ừ. Trong bếp có đồ uống không?" },
+            { "vi": "Có, cứ vào đi. Jussi đang ở trong đó." },
+            { "vi": "Tốt, mình quen cậu ấy. Không khí ở đây vui quá!" },
+            { "vi": "Đúng không? Cứ vào đi, mình ra ngay." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đến một bữa tiệc Phần Lan",
+          "scenario_vi": "Cảm ơn, quà, giày, đồ uống — theo thứ tự, rồi nhờ được giới thiệu.",
+          "your_role_vi": "Bạn, đang ở cửa",
+          "partner_role_vi": "Anni, chủ nhà",
+          "turns": [
+            { "vi": "Chào! Chào mừng, vào đi!" },
+            { "vi": "Chào! Cảm ơn bạn đã mời. Mình mang cái này đến.", "hint_vi": "«Tällasen» hạ thấp món quà xuống, và đó chính là điều đúng." },
+            { "vi": "Ôi cảm ơn! Bày vẽ làm gì." },
+            { "vi": "Không có gì đâu. Mình cởi giày nhé?", "hint_vi": "Câu trả lời luôn là có — hỏi cho thấy bạn biết luật." },
+            { "vi": "Ừ cảm ơn. Áo khoác treo lên giá kia." },
+            { "vi": "Vâng. Nhà đẹp quá!", "hint_vi": "Lời khen mở đầu tiêu chuẩn. Dễ nói và chân thành." },
+            { "vi": "Cảm ơn! Bọn mình chuyển đến hồi mùa xuân." },
+            { "vi": "Ồ thế à. Mình tìm đồ uống ở đâu?", "hint_vi": "Giúp bạn di chuyển và vào bếp. Chiến lược." },
+            { "vi": "Trong bếp có đủ cả." },
+            { "vi": "Cảm ơn. Bạn giới thiệu mình với ai đó được không? Mình chẳng quen ai ở đây.", "hint_vi": "Thành thật và làm dịu không khí. Chủ nhà rất vui khi được nhờ." }
+          ]
+        }
+      ]
+    },
+    "joining-a-group": {
+      "lesson": {
+        "title_vi": "Nhập vào một nhóm",
+        "subtitle_vi": "Mà không cắt ngang",
+        "warmup_situation_vi": "Bốn người đứng thành vòng tròn, đang nói dở, đang cười. Bạn quen sơ sơ một người trong số đó. Bạn đã lảng vảng cạnh bàn đồ ăn sáu phút rồi.",
+        "warmup_question_vi": "Làm sao để lọt vào vòng tròn đó — và khi vào rồi thì nói gì?",
+        "rescue_vi": "Xin lỗi, mình cắt ngang rồi. Các bạn cứ tiếp tục đi.",
+        "rescue_note_vi": "Nếu bạn canh sai thời điểm, câu này sửa nó hoàn toàn và tức thì. Người Phần Lan không phật ý vì một lần cắt ngang được thừa nhận — và nói câu đó khiến bạn trông tự tin về mặt xã giao, chứ không vụng về."
+      },
+      "vocab": [
+        { "vi": "nhóm, đám người", "note_vi": "Từ chỉ một nhóm người đang tụ tập. «Hyvä porukka» = đám bạn hay." },
+        { "vi": "nhập vào, tham gia" }, { "vi": "cuộc trò chuyện" }, { "vi": "cắt ngang" },
+        { "vi": "làm phiền", "note_vi": "«Häiritsenks mä?» = mình có làm phiền không?" },
+        { "vi": "thời điểm thích hợp" },
+        { "vi": "khoảng ngắt, quãng nghỉ", "note_vi": "Hãy đợi một khoảng. Hội thoại Phần Lan có những quãng nghỉ thật — hãy tận dụng." },
+        { "vi": "chủ đề" }, { "vi": "chủ đề trò chuyện" }, { "vi": "trò chuyện, tán gẫu" },
+        { "vi": "theo dõi, đi theo" }, { "vi": "lắng nghe" }, { "vi": "tham gia vào" },
+        { "vi": "hỏi" }, { "vi": "cười" }, { "vi": "chuyện đùa" }, { "vi": "câu chuyện" },
+        { "vi": "nhân tiện", "note_vi": "Từ để nhập cuộc của bạn. «Muuten…» báo hiệu một đóng góp mới một cách lịch sự." },
+        { "vi": "nhân nói đến chuyện đó" }, { "vi": "đúng vậy, chính xác" }, { "vi": "cùng ý kiến" },
+        { "vi": "có chuyện gì đây", "note_vi": "Một cách nhẹ nhàng, thân thiện để bước vào một nhóm." },
+        { "vi": "bạn đồng hành, nhóm", "note_vi": "«Saanks mä liittyä seuraan?» = mình nhập hội được không?" },
+        { "vi": "một mình" }, { "vi": "cùng, được tính vào" }, { "vi": "bên ngoài, bị gạt ra" }
+      ],
+      "phrases": [
+        { "vi": "Có chuyện gì đây?", "when_to_use_vi": "Nhẹ nhàng và thân thiện. Cách dễ nhất để bước vào một nhóm." },
+        { "vi": "Mình nhập hội được không?", "when_to_use_vi": "Trang trọng hơn một chút. Không ai nói không đâu." },
+        { "vi": "Mình có làm phiền không?", "when_to_use_vi": "Hỏi rồi đợi một nhịp. Họ sẽ dịch ra nhường chỗ." },
+        { "vi": "Các bạn đang nói chuyện gì thế?", "when_to_use_vi": "Cho bạn chủ đề ngay lập tức, mà đó là thứ bạn cần nhất." },
+        { "vi": "À, về chủ đề gì vậy?", "when_to_use_vi": "Khi bạn bắt được rằng họ đang bàn chuyện gì đó nhưng chưa rõ là gì." },
+        { "vi": "Mình cứ nghe một lát đã.", "when_to_use_vi": "Hoàn toàn chấp nhận được. Lắng nghe ở đây cũng là tham gia." },
+        { "vi": "Nhân tiện, mình đang thắc mắc một chuyện…", "when_to_use_vi": "«Muuten» là tín hiệu nhập cuộc cho một đóng góp mới." },
+        { "vi": "Chuyện đó hay đấy. Kể thêm đi.", "when_to_use_vi": "Giữ bạn ở trong nhóm mà không cần nói nhiều." },
+        { "vi": "Mình đồng ý.", "when_to_use_vi": "Một đóng góp trọn vẹn. Hai chữ và bạn đang tham gia." },
+        { "vi": "Xin lỗi, mình không theo kịp lắm.", "when_to_use_vi": "Thành thật. Sẽ có người tóm tắt cho bạn, thường là rất tử tế." },
+        { "vi": "Xin lỗi, mình cắt ngang rồi. Các bạn cứ tiếp tục.", "when_to_use_vi": "Sửa hoàn toàn một lần nhập cuộc sai thời điểm. Khiến bạn trông tự tin." },
+        { "vi": "Mình đi lấy thêm đồ uống.", "when_to_use_vi": "Câu rút lui khỏi một nhóm. Không cần giải thích gì." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lọt vào vòng tròn",
+          "setting_vi": "Bốn người đang nói chuyện. Duc đợi một quãng ngắt rồi bước vào.",
+          "note_vi": "Anh hỏi chủ đề trước. Đó là thứ hữu ích nhất anh có thể lấy được.",
+          "lines": [
+            { "vi": "Chào! Có chuyện gì đây?" },
+            { "vi": "Chào Duc! Bọn mình vừa nói về cái tuyến tàu điện mới." },
+            { "vi": "À, cái tuyến chạy đến Kalasatama hả?" },
+            { "vi": "Đúng tuyến đó. Bạn đi thử chưa?" },
+            { "vi": "Một lần. Nhanh thật đấy." },
+            { "vi": "Ừ, nhưng nó tốn kinh khủng." },
+            { "vi": "Xin lỗi, mình không theo kịp — cái gì tốn cơ?" },
+            { "vi": "Việc xây nó. Nó vượt ngân sách." },
+            { "vi": "À ra vậy. Thì cái gì chẳng vượt ngân sách." },
+            { "vi": "Haha, đúng thế!" },
+            { "vi": "Nhân tiện, nó có mở rộng thêm nữa không?" },
+            { "vi": "Có, năm sau. Hôm qua mình vừa đọc về nó." }
+          ]
+        },
+        {
+          "title_vi": "Nhập cuộc sai thời điểm, và cách sửa",
+          "setting_vi": "Duc bước vào đúng lúc câu chuyện đang đến đoạn gây cười. Vẫn cứu được.",
+          "note_vi": "Một câu là gỡ được. Để ý chẳng ai phiền lòng gì cả.",
+          "lines": [
+            { "vi": "Chào! Này, các bạn biết nhà vệ sinh ở đâu không?" },
+            { "vi": "…rồi cậu ta ngã thẳng vào cái bánh kem!" },
+            { "vi": "Ối. Xin lỗi, mình cắt ngang rồi. Các bạn cứ tiếp tục đi." },
+            { "vi": "Haha, không sao đâu. Kể xong rồi mà." },
+            { "vi": "Nhà vệ sinh ở cuối hành lang kia." },
+            { "vi": "Cảm ơn. Này, cái bánh kem đó rồi sao?" },
+            { "vi": "Chuyện dài lắm. Quay lại đây rồi bọn mình kể cho." },
+            { "vi": "Mình quay lại ngay. Đừng kể khi không có mình đấy!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nhập vào một cuộc trò chuyện đang diễn ra",
+          "scenario_vi": "Bước vào, nắm chủ đề, thừa nhận khi mất mạch, và đóng góp một lần.",
+          "your_role_vi": "Bạn, đang bước vào một nhóm",
+          "partner_role_vi": "Jussi và Sanna, đang nói chuyện dở",
+          "turns": [
+            { "vi": "Chào! Có chuyện gì đây?", "hint_vi": "Nhẹ nhàng và thân thiện. Cách bước vào dễ nhất có thể." },
+            { "vi": "Chào! Bọn mình đang nói về tuyến tàu điện mới." },
+            { "vi": "À, cái tuyến chạy đến Kalasatama hả?", "hint_vi": "Cho thấy bạn đã nắm chủ đề. Đó là tấm vé vào cửa." },
+            { "vi": "Đúng tuyến đó. Bạn đi thử chưa?" },
+            { "vi": "Một lần. Nhanh thật đấy.", "hint_vi": "Ngắn cũng được. Bạn không cần diễn thuyết." },
+            { "vi": "Ừ, nhưng nó tốn kinh khủng." },
+            { "vi": "Xin lỗi, mình không theo kịp — cái gì tốn cơ?", "hint_vi": "Hỏi ngay thay vì gật gù cho qua." },
+            { "vi": "Việc xây nó. Nó vượt ngân sách." },
+            { "vi": "À ra vậy. Thì cái gì chẳng vượt ngân sách.", "hint_vi": "Một đóng góp an toàn, ai cũng đồng tình." },
+            { "vi": "Haha, đúng thế!" }
+          ]
+        }
+      ]
+    },
+    "surviving-fast-speech": {
+      "lesson": {
+        "title_vi": "Sống sót qua lời nói tốc độ cao",
+        "subtitle_vi": "Nắm chủ đề, đừng nắm từng chữ",
+        "warmup_situation_vi": "Sáu người, ba cuộc trò chuyện chồng lên nhau, nhạc, và ai đó đang kể chuyện ở tốc độ tối đa trong khi mọi người cười ở đúng những chỗ bạn bỏ lỡ.",
+        "warmup_question_vi": "Bạn sẽ không hiểu hết. Vậy bạn thật sự đang nghe để tìm cái gì?",
+        "rescue_vi": "Ở đây mình chẳng nghe được gì! Mình ra chỗ khác một chút nhé?",
+        "rescue_note_vi": "Đổ lỗi cho tiếng ồn thay vì cho tiếng Phần Lan của bạn, mà như vậy là trung thực — tiếng ồn thật sự là một nửa vấn đề. Nó đưa bạn đến một góc yên tĩnh hơn và thường biến cuộc trò chuyện sáu người thành hai người, mà cái đó thì bạn xử lý được."
+      },
+      "vocab": [
+        { "vi": "tiếng ồn" }, { "vi": "tiếng ồn ào" },
+        { "vi": "nghe thấy", "note_vi": "Khác với ymmärtää. «En kuule» là lời thừa nhận dễ hơn nhiều so với «en ymmärrä»." },
+        { "vi": "hiểu" }, { "vi": "nhanh" }, { "vi": "theo kịp" }, { "vi": "mất mạch chuyện" },
+        { "vi": "chủ đề", "note_vi": "Thứ duy nhất bạn buộc phải nắm được. Mọi thứ khác đều có thể dựng lại." },
+        { "vi": "từ khoá" }, { "vi": "sang một bên, chỗ yên tĩnh hơn" }, { "vi": "yên tĩnh hơn" },
+        { "vi": "ban công", "note_vi": "Nơi yên tĩnh nhất ở mọi bữa tiệc. Hãy ra đó." },
+        { "vi": "cười" }, { "vi": "mỉm cười" }, { "vi": "gật đầu" },
+        { "vi": "giả vờ", "note_vi": "Đừng. Gật gù theo điều bạn không nghe được rốt cuộc sẽ phản tác dụng." },
+        { "vi": "làm cho mệt", "note_vi": "«Mua väsyttää kuunnella» — nghe bằng ngôn ngữ thứ hai thật sự vắt kiệt sức. Hãy nói ra." },
+        { "vi": "tập trung" }, { "vi": "quãng nghỉ" }, { "vi": "hít thở, nghỉ lấy hơi" },
+        { "vi": "rối rắm, khó hiểu" }, { "vi": "bản tóm tắt" }, { "vi": "ngắn gọn" }, { "vi": "đổi chủ đề" },
+        { "vi": "chỉ hai đứa mình", "note_vi": "Một-đối-một dễ hơn rất nhiều. Hãy chủ động tạo ra tình huống đó." }
+      ],
+      "phrases": [
+        { "vi": "Ở đây mình chẳng nghe được gì!", "when_to_use_vi": "Đổ lỗi cho tiếng ồn. Nó đúng một nửa và hoàn toàn được chấp nhận." },
+        { "vi": "Mình ra chỗ yên tĩnh hơn nhé?", "when_to_use_vi": "Biến cuộc trò chuyện sáu người thành hai người. Nước đi hay nhất của bạn." },
+        { "vi": "Giờ các bạn đang nói về gì thế?", "when_to_use_vi": "Hỏi chủ đề bất cứ khi nào bạn mất nó. Không ai phiền khi bị hỏi." },
+        { "vi": "Mình mất mạch rồi.", "when_to_use_vi": "Thành thật, và ai cũng hiểu cảm giác đó, kể cả người bản xứ." },
+        { "vi": "Bạn kể ngắn gọn xem chuyện đó là gì được không?", "when_to_use_vi": "Hỏi riêng một người thật nhỏ, đừng hỏi cả nhóm." },
+        { "vi": "Mình hiểu được một nửa.", "when_to_use_vi": "Thành thật, cụ thể và hơi buồn cười. Nó giúp bạn được tóm tắt lại." },
+        { "vi": "Các bạn nói chậm hơn chút nhé, mình vẫn đang học.", "when_to_use_vi": "Nói một lần với cả nhóm và họ sẽ thật sự điều chỉnh." },
+        { "vi": "Nghe tiếng Phần Lan cả tối làm mình kiệt sức.", "when_to_use_vi": "Hoàn toàn đúng và người Phần Lan đáp lại bằng sự cảm thông thật sự." },
+        { "vi": "Mình ra ban công lấy hơi một lát.", "when_to_use_vi": "Nghỉ giải lao là chính đáng. Không ai nghĩ ngợi gì đâu." },
+        { "vi": "Lần này mình theo kịp rồi!", "when_to_use_vi": "Hãy nói ra khi điều đó xảy ra. Mọi người sẽ mừng cho bạn." },
+        { "vi": "Mình nói chuyện riêng hai đứa nhé?", "when_to_use_vi": "Một-đối-một dễ hơn rất nhiều. Cứ đề nghị thẳng." },
+        { "vi": "Cái đó nghĩa là gì?", "when_to_use_vi": "Chỉ vào một từ và hỏi người đứng cạnh thân thiện. Nhanh và cụ thể." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mất mạch rồi lấy lại được",
+          "setting_vi": "Phòng khách, sáu người, nhạc đang bật. Duc bỏ lỡ nguyên một câu chuyện.",
+          "note_vi": "Anh thừa nhận hai lần và cả hai lần đều hiệu quả hơn là giả vờ.",
+          "lines": [
+            { "vi": "…rồi cậu ta bảo là biết từ đầu, và bọn mình kiểu «hả?!»" },
+            { "vi": "Haha!" },
+            { "vi": "Xin lỗi, mình mất mạch rồi. Các bạn đang nói về gì thế?" },
+            { "vi": "Về anh trai của Jussi. Ông ấy chuyển sang Tây Ban Nha mà chẳng nói với ai." },
+            { "vi": "Không thể nào! Khi nào?" },
+            { "vi": "Năm ngoái. Đến Giáng sinh nhà mới biết." },
+            { "vi": "Chà. Rồi, lần này mình theo kịp rồi." },
+            { "vi": "Haha, tốt! Bọn mình nói nhanh quá." },
+            { "vi": "Hơi hơi. Với lại ở đây ồn quá. Mình ra chỗ khác một chút nhé?" },
+            { "vi": "Ừ, ra ban công đi. Ngoài đó nghe được." }
+          ]
+        },
+        {
+          "title_vi": "Trên ban công, một đối một",
+          "setting_vi": "Hai người, yên tĩnh, lạnh. Tiếng Phần Lan của Duc chạy tốt hơn hẳn ở đây.",
+          "note_vi": "Cùng một người, cùng một ngôn ngữ, trải nghiệm hoàn toàn khác. Hãy chủ động tạo ra điều này.",
+          "lines": [
+            { "vi": "Nào, ngoài này nghe rõ hơn nhiều." },
+            { "vi": "Ừ. Xin lỗi, mình không giỏi trong nhóm đông lắm." },
+            { "vi": "Chẳng ai giỏi cả. Nhất là bằng ngôn ngữ thứ hai." },
+            { "vi": "Đúng thế. Nghe tiếng Phần Lan cả tối làm mình kiệt sức." },
+            { "vi": "Mình tin. Mà bạn vẫn nói tốt lắm." },
+            { "vi": "Cảm ơn. Một đối một thì dễ hơn nhiều." },
+            { "vi": "Vậy thì mình nói chuyện ở đây. Mà bạn làm nghề gì?" },
+            { "vi": "Mình là lập trình viên. Còn bạn?" },
+            { "vi": "Mình là kiến trúc sư. Mà mình cũng lạnh, nhưng thế này vẫn hơn." },
+            { "vi": "Chắc chắn rồi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Gỡ lại khi đã mất mạch chuyện",
+          "scenario_vi": "Thừa nhận là bạn mất mạch, lấy lại chủ đề, và chuyển đến chỗ nghe được.",
+          "your_role_vi": "Bạn, giữa ba cuộc trò chuyện chồng chéo",
+          "partner_role_vi": "Sanna, thông cảm",
+          "turns": [
+            { "vi": "…rồi ông ấy chuyển sang Tây Ban Nha mà chẳng nói với ai!" },
+            { "vi": "Xin lỗi, mình mất mạch rồi. Các bạn đang nói về gì thế?", "hint_vi": "Hỏi chủ đề. Đó là thứ duy nhất bạn cần." },
+            { "vi": "Về anh trai của Jussi. Ông ấy đột nhiên chuyển sang Tây Ban Nha." },
+            { "vi": "Không thể nào! Khi nào?", "hint_vi": "Phản ứng, rồi hỏi một câu cụ thể." },
+            { "vi": "Năm ngoái. Đến Giáng sinh nhà mới biết." },
+            { "vi": "Chà. Rồi, lần này mình theo kịp rồi!", "hint_vi": "Hãy nói ra khi điều đó xảy ra. Mọi người mừng cho bạn." },
+            { "vi": "Haha, tốt! Bọn mình nói nhanh quá." },
+            { "vi": "Hơi hơi. Với lại ở đây ồn quá — mình ra chỗ khác nhé?", "hint_vi": "Đổ lỗi cho tiếng ồn, rồi biến sáu người thành hai." }
+          ]
+        }
+      ]
+    }
+  }
+}

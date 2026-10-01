@@ -1,0 +1,203 @@
+{
+  "lessons": {
+    "chatting-with-regulars": {
+      "lesson": {
+        "title_vi": "Trò chuyện với những người tập quen",
+        "subtitle_vi": "Mitä sä treenaat?",
+        "warmup_situation_vi": "Vẫn bốn người đó, thứ Ba và thứ Năm nào cũng có mặt lúc 18 giờ. Sau ba tháng, một người gật đầu với bạn. Sau năm tháng, một người bắt chuyện.",
+        "warmup_question_vi": "Câu hỏi nào mở đầu mọi cuộc trò chuyện trong phòng gym ở Phần Lan?",
+        "rescue_vi": "Xin lỗi, mình hơi hụt hơi.",
+        "rescue_note_vi": "Một lý do hoàn toàn chính đáng để trả lời ngắn hoặc hoãn cuộc trò chuyện, và thường là thật. Ở phòng gym không ai mong một cuộc nói chuyện dài giữa các set — những đoạn trao đổi ngắn chính là toàn bộ hình thức xã giao ở đây."
+      },
+      "vocab": [
+        { "vi": "tập luyện", "note_vi": "«Mitä sä treenaat?» = hôm nay bạn tập gì? Câu mở đầu tiêu chuẩn." },
+        { "vi": "buổi tập" }, { "vi": "buổi tập (số nhiều)" }, { "vi": "người tập quen, khách thường" },
+        { "vi": "thường xuyên" }, { "vi": "mấy lần một tuần" }, { "vi": "lịch tập thường ngày" },
+        { "vi": "chương trình tập" },
+        { "vi": "ngày tập chân", "note_vi": "Một câu đùa phổ quát ở đây cũng như mọi nơi. Nói ra là được thông cảm." },
+        { "vi": "thân trên" }, { "vi": "thân dưới" }, { "vi": "lưng" }, { "vi": "ngực" },
+        { "vi": "cơ tay trước" }, { "vi": "cơ bụng" }, { "vi": "đẩy ngực trên ghế" },
+        { "vi": "squat, gánh đùi" }, { "vi": "deadlift, nâng tạ từ sàn" }, { "vi": "hít đất kiểu treo (pull-up)" },
+        { "vi": "khu tập tạ" }, { "vi": "sức bền" }, { "vi": "sức mạnh" }, { "vi": "thể lực cơ bắp" },
+        { "vi": "thể lực, tình trạng", "note_vi": "«Mun kunto on huono» = mình đang xuống thể lực. Nói một cách vui vẻ." },
+        { "vi": "hụt hơi, thở dốc" }, { "vi": "đau cơ" }, { "vi": "cứng, bị kẹt" },
+        { "vi": "sự hồi phục" }, { "vi": "protein" }, { "vi": "sự tiến bộ" }
+      ],
+      "phrases": [
+        { "vi": "Hôm nay bạn tập gì?", "when_to_use_vi": "Câu mở đầu phổ quát ở phòng gym. Hãy học câu này trước tiên." },
+        { "vi": "Hôm nay là ngày tập chân.", "when_to_use_vi": "Lúc nào cũng gây phản ứng. Câu đùa phổ quát, ai cũng hiểu." },
+        { "vi": "Bạn đi tập mấy lần một tuần?", "when_to_use_vi": "Câu hỏi tiếp theo tiêu chuẩn. Trả lời bằng con số." },
+        { "vi": "Mình đi ba lần một tuần.", "when_to_use_vi": "Đơn giản và đủ. Không cần biện minh gì." },
+        { "vi": "Mình thấy bạn ở đây thường xuyên.", "when_to_use_vi": "Cách một tình bạn phòng gym kiểu Phần Lan thật sự bắt đầu. Nói và nói thật lòng." },
+        { "vi": "Dạo này thể lực mình kém lắm.", "when_to_use_vi": "Nói một cách vui vẻ. Ai cũng tự nhận thế và nó gắn kết hai người." },
+        { "vi": "Mình đau cơ kinh khủng luôn.", "when_to_use_vi": "Điểm chung phổ quát. Chắc chắn được thông cảm." },
+        { "vi": "Bạn có theo chương trình tập nào không?", "when_to_use_vi": "Một câu hỏi thật và người ta thích trả lời nó." },
+        { "vi": "Bạn tiến bộ thế nào?", "when_to_use_vi": "Quan tâm thật sự, và người Phần Lan trả lời thành thật." },
+        { "vi": "Xin lỗi, mình hơi hụt hơi.", "when_to_use_vi": "Lý do chính đáng để nói ngắn. Thường là thật." },
+        { "vi": "Chúc tập vui nhé!", "when_to_use_vi": "Câu chia tay tiêu chuẩn giữa những người tập gym. Lần nào cũng dùng." },
+        { "vi": "Hẹn gặp thứ Năm nhé!", "when_to_use_vi": "Gọi tên cái nhịp mà cả hai vốn đã có. Nó làm hai người thành «bạn tập quen»." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Cuộc trò chuyện thật sự đầu tiên",
+          "setting_vi": "Giữa các set. Hai người đã gật đầu chào nhau suốt nhiều tháng.",
+          "note_vi": "Mất ba tháng để bắt đầu và chín mươi giây để diễn ra.",
+          "lines": [
+            { "vi": "Chào. Mình thấy bạn ở đây thường xuyên." },
+            { "vi": "Chào! Mình cũng thấy bạn. Mình đi thứ Ba với thứ Năm." },
+            { "vi": "Giống mình. Mình là Jukka." },
+            { "vi": "Duc. Hôm nay bạn tập gì?" },
+            { "vi": "Lưng với tay trước. Còn bạn?" },
+            { "vi": "Hôm nay là ngày tập chân. Xin lỗi trước nhé." },
+            { "vi": "Haha, mai bạn không đi nổi đâu." },
+            { "vi": "Đúng thế. Bạn có theo chương trình tập nào không?" },
+            { "vi": "Có, huấn luyện viên soạn cho mình. Nó hiệu quả lắm." },
+            { "vi": "Ồ thế à. Có lẽ mình cũng nên làm vậy. Thể lực mình kém lắm." },
+            { "vi": "Trông bạn ổn mà. Nhưng mình vẫn khuyên nên làm." },
+            { "vi": "Cảm ơn. Thôi, chúc tập vui nhé!" },
+            { "vi": "Bạn cũng vậy. Hẹn gặp thứ Năm." }
+          ]
+        },
+        {
+          "title_vi": "Những đoạn trao đổi ngắn trong một tuần",
+          "setting_vi": "Bốn lần gặp ngắn. Đây là toàn bộ hình thức của tình bạn phòng gym ở đây.",
+          "note_vi": "Không đoạn nào dài hơn hai dòng. Như thế là đúng, không phải lạnh nhạt.",
+          "lines": [
+            { "vi": "Chào Duc! Hôm nay gì đây?" },
+            { "vi": "Thân trên. Còn bạn?" },
+            { "vi": "Chân. Mình đổi ngày cho nhau rồi." },
+            { "vi": "Haha, chúc may mắn nhé." },
+            { "vi": "Chào! Mình đau cơ kinh khủng từ hôm qua." },
+            { "vi": "Đó là dấu hiệu tốt. Bạn làm đúng cái gì đó rồi." },
+            { "vi": "Chẳng có cảm giác như thế đâu!" },
+            { "vi": "Haha. Chúc tập vui!" },
+            { "vi": "Xin lỗi, mình hơi hụt hơi. Lát nói chuyện nhé." },
+            { "vi": "Ừ ừ, bạn cứ tập đi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Bắt chuyện với một người tập quen",
+          "scenario_vi": "Bắt đầu cuộc trò chuyện giữa các set, giữ cho nó ngắn, và gọi tên cái nhịp chung.",
+          "your_role_vi": "Bạn, giờ đã là người tập quen",
+          "partner_role_vi": "Jukka, một người tập quen khác",
+          "turns": [
+            { "vi": "Chào. Mình thấy bạn ở đây thường xuyên." },
+            { "vi": "Chào! Mình cũng thấy bạn. Mình đi thứ Ba với thứ Năm.", "hint_vi": "Xác nhận, rồi nêu cái nhịp cụ thể mà hai người chia sẻ." },
+            { "vi": "Giống mình. Mình là Jukka." },
+            { "vi": "Duc. Hôm nay bạn tập gì?", "hint_vi": "Câu mở đầu phổ quát ở phòng gym. Dùng ngay." },
+            { "vi": "Lưng với tay trước. Còn bạn?" },
+            { "vi": "Hôm nay là ngày tập chân. Xin lỗi trước nhé.", "hint_vi": "Câu đùa phổ quát. Lần nào cũng trúng." },
+            { "vi": "Haha, mai bạn không đi nổi đâu." },
+            { "vi": "Đúng thế. Thôi, chúc tập vui nhé!", "hint_vi": "Kết lại sau chín mươi giây. Đó là độ dài đúng." },
+            { "vi": "Bạn cũng vậy!" },
+            { "vi": "Hẹn gặp thứ Năm.", "hint_vi": "Gọi tên cái nhịp chung làm hai người thành bạn tập quen." }
+          ]
+        }
+      ]
+    },
+    "talking-to-a-trainer": {
+      "lesson": {
+        "title_vi": "Nói chuyện với huấn luyện viên",
+        "subtitle_vi": "Mục tiêu, chấn thương, và chỗ nào thật sự đau",
+        "warmup_situation_vi": "Bạn đã đặt một buổi với huấn luyện viên cá nhân. Họ hỏi mục tiêu của bạn là gì và bạn có chấn thương nào không. Cả hai câu trả lời đều quan trọng và trả lời mơ hồ là phí cả buổi.",
+        "warmup_question_vi": "Làm sao mô tả chính xác một chấn thương cũ khi bạn không biết từ giải phẫu?",
+        "rescue_vi": "Em chỉ chỗ cho chị — chỗ này đau khi em làm thế này.",
+        "rescue_note_vi": "Hãy chỉ tay và làm mẫu động tác đó. Huấn luyện viên sẽ nhận ra ngay từ vị trí và chuyển động, và cách này hữu ích hơn nhiều so với bất cứ từ nào bạn đang thiếu. Hãy làm mẫu, rồi để họ gọi tên nó."
+      },
+      "vocab": [
+        { "vi": "huấn luyện viên" },
+        { "vi": "huấn luyện viên cá nhân", "note_vi": "Thường chỉ gọi là «PT». Ai cũng hiểu." },
+        { "vi": "mục tiêu" }, { "vi": "chương trình tập" }, { "vi": "kế hoạch" },
+        { "vi": "giảm cân" }, { "vi": "tăng cơ" }, { "vi": "trở nên khoẻ hơn" },
+        { "vi": "cải thiện thể lực" }, { "vi": "thể lực tim mạch" }, { "vi": "khả năng vận động linh hoạt" },
+        { "vi": "kỹ thuật động tác", "note_vi": "Thứ giá trị nhất mà huấn luyện viên mang lại cho bạn. Hãy hỏi về nó." },
+        { "vi": "chấn thương" }, { "vi": "một lần bị thương" }, { "vi": "chấn thương cũ" },
+        { "vi": "ca phẫu thuật", "note_vi": "Hãy nói nếu bạn từng mổ. Nó thay đổi cả chương trình tập." },
+        { "vi": "khớp" }, { "vi": "gân" }, { "vi": "cơ" }, { "vi": "đĩa đệm cột sống" },
+        { "vi": "giới hạn, hạn chế" },
+        { "vi": "tránh", "note_vi": "«Mun pitää välttää kyykkyjä» = em phải tránh động tác squat." },
+        { "vi": "bị đau" }, { "vi": "trở nên đau nhức" }, { "vi": "gây căng, gây áp lực" },
+        { "vi": "cẩn thận" },
+        { "vi": "động tác thay thế", "note_vi": "Thứ bạn cần nếu một động tác gây đau. Hãy xin một cái." },
+        { "vi": "tiến bộ" }, { "vi": "buổi theo dõi tiếp" }, { "vi": "thực tế, khả thi" }
+      ],
+      "phrases": [
+        { "vi": "Mục tiêu của em là khoẻ hơn.", "when_to_use_vi": "Một mục tiêu rõ ràng tốt hơn ba mục tiêu mơ hồ. Hãy chọn một." },
+        { "vi": "Em muốn cải thiện thể lực và độ linh hoạt.", "when_to_use_vi": "Một câu trả lời thực tế và được đón nhận tốt với phần lớn mọi người." },
+        { "vi": "Em có một chấn thương cũ ở lưng.", "when_to_use_vi": "Nói câu này ngay từ đầu, đừng đợi đến lúc đau mới nói." },
+        { "vi": "Em mổ cách đây ba năm.", "when_to_use_vi": "Bối cảnh quan trọng. Nó thay đổi cả chương trình tập." },
+        { "vi": "Em chỉ chỗ cho chị — chỗ này đau.", "when_to_use_vi": "Chỉ tay và làm mẫu. Tốt hơn bất cứ từ nào đang thiếu." },
+        { "vi": "Nó đau lên khi em tập squat.", "when_to_use_vi": "Gọi tên động tác, không chỉ gọi tên cơn đau. Đó là thứ họ cần." },
+        { "vi": "Động tác này có cái thay thế không ạ?", "when_to_use_vi": "Luôn hỏi thay vì cố chịu đau mà tập tiếp." },
+        { "vi": "Em làm thế này đúng không ạ?", "when_to_use_vi": "Kỹ thuật là thứ giá trị nhất mà bạn đang trả tiền để có." },
+        { "vi": "Mục tiêu này có khả thi không ạ?", "when_to_use_vi": "Huấn luyện viên Phần Lan trả lời câu này rất thật. Một sự thật hữu ích." },
+        { "vi": "Em nên tập mấy lần một tuần ạ?", "when_to_use_vi": "Lấy một con số mà bạn thật sự giữ được." },
+        { "vi": "Chị soạn cho em một chương trình tập được không ạ?", "when_to_use_vi": "Xin bản viết để sau này bạn tự theo được." },
+        { "vi": "Khi nào mình xem lại cái này ạ?", "when_to_use_vi": "Đặt buổi theo dõi tiếp trước khi bạn ra về." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Buổi đầu tiên",
+          "setting_vi": "Một huấn luyện viên với cái bảng kẹp giấy. Mục tiêu trước, chấn thương sau.",
+          "note_vi": "Duc nêu một mục tiêu rõ ràng và một chấn thương trung thực. Một buổi tốt chỉ cần có vậy.",
+          "lines": [
+            { "vi": "Chào em! Nào, mục tiêu của em là gì?" },
+            { "vi": "Em muốn khoẻ hơn và cải thiện thể lực." },
+            { "vi": "Tốt. Có gì cụ thể không, hay chung chung?" },
+            { "vi": "Chung chung. Nhưng nhất là cái lưng — nó hay bị cứng." },
+            { "vi": "Vâng. Em có chấn thương hay hạn chế nào không?" },
+            { "vi": "Có, em có chấn thương cũ ở thắt lưng. Bắt đầu từ năm năm trước." },
+            { "vi": "Đã điều trị gì chưa? Mổ hay vật lý trị liệu?" },
+            { "vi": "Vật lý trị liệu, không mổ. Giờ đỡ nhiều rồi." },
+            { "vi": "Tốt. Khi nào nó đau lên?" },
+            { "vi": "Nó đau lên khi em tập squat. Em chỉ chỗ cho chị — chỗ này." },
+            { "vi": "À, chỗ đó. Được, mình tập squat nhẹ hơn và xem kỹ thuật trước." },
+            { "vi": "Vâng. Động tác đó có cái thay thế không ạ?" },
+            { "vi": "Có nhiều lắm. Nhưng thử kỹ thuật đúng trước đã — thường thế là đủ." },
+            { "vi": "Vâng. Chị soạn cho em một chương trình tập được không ạ?" },
+            { "vi": "Được, sau buổi này chị đưa lên app cho em." }
+          ]
+        },
+        {
+          "title_vi": "Giữa buổi, có chỗ đau",
+          "setting_vi": "Đang tập nửa buổi. Duc dừng lại thay vì cố chịu.",
+          "note_vi": "Dừng lại và mô tả là nước đi đúng. Huấn luyện viên muốn bạn làm đúng như vậy.",
+          "lines": [
+            { "vi": "Này, chờ đã. Cái này cảm giác không đúng." },
+            { "vi": "May mà em nói. Chỗ nào?" },
+            { "vi": "Ở khớp vai này. Nó đau khi em nâng cao hơn tầm này." },
+            { "vi": "Em làm lại xem… được, chị thấy rồi. Giảm tạ đi." },
+            { "vi": "Thế này ạ?" },
+            { "vi": "Đúng. Giờ cảm giác đỡ hơn không?" },
+            { "vi": "Đỡ hơn nhiều. Động tác này phải cảm thấy ở cơ nào ạ?" },
+            { "vi": "Ở phía sau này, không phải ở vai. Nếu cảm thấy ở vai thì tạ quá nặng." },
+            { "vi": "Giờ em hiểu rồi. Cảm ơn chị." },
+            { "vi": "Cứ nói ngay nếu có gì cảm giác không đúng nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Buổi đầu với huấn luyện viên",
+          "scenario_vi": "Nêu một mục tiêu rõ ràng, mô tả chấn thương cũ bằng cách làm mẫu, và xin chương trình tập bằng văn bản.",
+          "your_role_vi": "Bạn, ở buổi PT đầu tiên",
+          "partner_role_vi": "Huấn luyện viên",
+          "turns": [
+            { "vi": "Chào em! Mục tiêu của em là gì?" },
+            { "vi": "Em muốn khoẻ hơn và cải thiện thể lực.", "hint_vi": "Một mục tiêu rõ ràng tốt hơn ba mục tiêu mơ hồ." },
+            { "vi": "Tốt. Em có chấn thương hay hạn chế nào không?" },
+            { "vi": "Có, em có chấn thương cũ ở thắt lưng.", "hint_vi": "Nói ngay từ đầu, đừng đợi đến lúc đau mới nói." },
+            { "vi": "Đã điều trị gì chưa?" },
+            { "vi": "Vật lý trị liệu, không mổ. Giờ đỡ rồi.", "hint_vi": "Tiền sử điều trị quan trọng không kém bản thân chấn thương." },
+            { "vi": "Khi nào nó đau lên?" },
+            { "vi": "Khi em tập squat. Em chỉ chỗ cho chị — chỗ này.", "hint_vi": "Gọi tên động tác và chỉ tay. Tốt hơn bất cứ từ nào đang thiếu." },
+            { "vi": "À. Mình xem kỹ thuật trước." },
+            { "vi": "Vâng. Chị soạn cho em một chương trình tập được không ạ?", "hint_vi": "Xin bản viết để sau này bạn tự theo được." }
+          ]
+        }
+      ]
+    }
+  }
+}

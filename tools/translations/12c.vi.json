@@ -1,0 +1,220 @@
+{
+  "lessons": {
+    "networking": {
+      "lesson": {
+        "title_vi": "Kết nối ở các sự kiện",
+        "subtitle_vi": "Câu mở đầu, và Pidetään yhteyttä!",
+        "warmup_situation_vi": "Giờ nghỉ cà phê ở một hội thảo. Bốn mươi người, gần như ai cũng đã đứng thành đôi, và một cái thẻ có tên bạn trên đó. Bạn có mười tám phút.",
+        "warmup_question_vi": "Người Phần Lan thật sự mở lời với một người lạ ở sự kiện công việc thế nào?",
+        "rescue_vi": "Bạn từng đến đây chưa?",
+        "rescue_note_vi": "Câu mở đầu kết nối hoàn hảo kiểu Phần Lan: thực tế, trả lời được bằng một chữ, và nói về tình huống chung chứ không về ai trong hai người. Nó không đòi hỏi sự nhiệt tình từ ai và nó luôn dẫn đến đâu đó."
+      },
+      "vocab": [
+        { "vi": "sự kiện" }, { "vi": "hội thảo, hội nghị" }, { "vi": "buổi hội thảo chuyên đề" },
+        { "vi": "hội chợ triển lãm" }, { "vi": "kết nối, mở rộng quan hệ" }, { "vi": "việc kết nối" },
+        { "vi": "thẻ tên", "note_vi": "Hãy đọc nó. Gọi tên người ta rất có giá trị." },
+        { "vi": "bài thuyết trình" }, { "vi": "người trình bày" }, { "vi": "chương trình" }, { "vi": "giờ nghỉ" },
+        { "vi": "phần phục vụ cà phê" }, { "vi": "gian hàng" }, { "vi": "đáng chú ý, hấp dẫn" }, { "vi": "thú vị" },
+        { "vi": "bạn thấy thế nào", "note_vi": "Về bài nói vừa rồi. Một câu mở đầu đáng tin và dễ." },
+        { "vi": "cùng ngành" },
+        { "vi": "người quen chung", "note_vi": "Tìm ra một người thay đổi hoàn toàn cuộc trò chuyện." },
+        { "vi": "LinkedIn", "note_vi": "Tiền tệ thật sự ở đây. «Lisätäänks LinkedInissä?»" },
+        { "vi": "thêm (làm liên hệ)" }, { "vi": "danh thiếp" },
+        { "vi": "mình giữ liên lạc nhé", "note_vi": "Ở đây thường được nói theo nghĩa thật. Hãy liên hệ lại trong một tuần." },
+        { "vi": "mình nhắn tin nhé" }, { "vi": "mình sẽ liên lạc" }, { "vi": "mình hẹn một buổi gặp nhé" },
+        { "vi": "rất vui được làm quen" }, { "vi": "một mình" }, { "vi": "nhập vào nhóm" },
+        { "vi": "đi lấy cà phê", "note_vi": "Câu rút lui phổ quát khỏi bất cứ cuộc trò chuyện nào." }
+      ],
+      "phrases": [
+        { "vi": "Bạn từng đến đây chưa?", "when_to_use_vi": "Câu mở đầu hoàn hảo. Thực tế, trả lời được, nói về tình huống chứ không về bạn." },
+        { "vi": "Bạn thấy bài nói vừa rồi thế nào?", "when_to_use_vi": "Luôn dẫn đến đâu đó, và cả hai đều có chất liệu để nói." },
+        { "vi": "Chào bạn, mình là Duc. Mình làm ở…", "when_to_use_vi": "Tên cộng công ty. Đọc thẻ tên của họ và gọi tên họ lại." },
+        { "vi": "Mình có cùng ngành không?", "when_to_use_vi": "Xác định nhanh cuộc trò chuyện này có hữu ích cho cả hai hay không." },
+        { "vi": "Ồ, bạn biết Anni! Bọn mình làm việc cùng nhau.", "when_to_use_vi": "Một người quen chung thay đổi hoàn toàn cuộc trò chuyện." },
+        { "vi": "Mình nhập hội được không?", "when_to_use_vi": "Cho một nhóm hai hoặc ba người. Ở sự kiện không ai nói không." },
+        { "vi": "Các bạn làm gì?", "when_to_use_vi": "Hãy hỏi trước khi nói về mình. Đó là thứ tự tốt hơn." },
+        { "vi": "Cái đó nghe hay đấy. Kể thêm đi.", "when_to_use_vi": "Giữ bạn trong cuộc trò chuyện mà không cần nói nhiều." },
+        { "vi": "Mình kết nối trên LinkedIn nhé?", "when_to_use_vi": "Tiền tệ thật sự ở các sự kiện Phần Lan. Làm ngay tại chỗ." },
+        { "vi": "Mình giữ liên lạc nhé!", "when_to_use_vi": "Ở đây thường là thật lòng. Hãy liên hệ lại trong một tuần." },
+        { "vi": "Mình hẹn cà phê lúc nào đó tháng sau nhé?", "when_to_use_vi": "Cụ thể hơn là mơ hồ. Hãy đề xuất một thứ rõ ràng." },
+        { "vi": "Rất vui được làm quen! Mình đi lấy cà phê đây.", "when_to_use_vi": "Câu rút lui phổ quát. Duyên dáng và hoàn toàn được chấp nhận." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mở lời với người lạ, và ra về với một kết nối",
+          "setting_vi": "Giờ nghỉ cà phê hội thảo. Duc tiếp cận một người đang đứng một mình.",
+          "note_vi": "Mở bằng tình huống, hỏi việc của họ trước, người quen chung, LinkedIn, bước tiếp theo cụ thể.",
+          "lines": [
+            { "vi": "Chào bạn! Bạn từng đến đây chưa?" },
+            { "vi": "Chào bạn! Có, lần thứ ba rồi. Còn bạn?" },
+            { "vi": "Lần đầu. Bạn thấy bài nói vừa rồi thế nào?" },
+            { "vi": "Cũng khá, nhưng hơi chung chung. Mình muốn có nhiều ví dụ hơn." },
+            { "vi": "Mình cũng vậy. À mình là Duc, mình làm ở Datafirma." },
+            { "vi": "Sanna, Teollisuus Oy. Mình là controller." },
+            { "vi": "À, thú vị đấy. Hiện nay các bạn làm báo cáo thế nào?" },
+            { "vi": "Khá nhiều việc làm bằng tay trên Excel, tiếc là vậy." },
+            { "vi": "Đó là vấn đề quen thuộc. Bọn mình giúp các công ty tự động hoá đúng cái đó." },
+            { "vi": "Ồ thế à. Mà bạn có biết Anni Virtanen không?" },
+            { "vi": "Có, bọn mình làm việc cùng nhau!" },
+            { "vi": "Nước nhỏ mà. Bọn mình học cùng khoá." },
+            { "vi": "Haha, lúc nào cũng vậy. Này, mình kết nối trên LinkedIn nhé?" },
+            { "vi": "Ừ, sẵn lòng." },
+            { "vi": "Tốt. Mình hẹn cà phê lúc nào đó tháng sau nhé? Mình cho bạn xem bọn mình đã giải quyết chuyện này ở nơi khác thế nào." },
+            { "vi": "Ừ, mình quan tâm. Bạn nhắn trên LinkedIn nhé." },
+            { "vi": "Tuần này mình nhắn. Rất vui được làm quen, Sanna!" }
+          ]
+        },
+        {
+          "title_vi": "Nhập vào một nhóm, và ra về cho đẹp",
+          "setting_vi": "Hai nước đi ngắn: vào một cuộc trò chuyện và ra khỏi một cuộc trò chuyện.",
+          "note_vi": "Đi lấy cà phê là câu rút lui phổ quát, được chấp nhận. Không ai hiểu lầm.",
+          "lines": [
+            { "vi": "Chào các bạn! Mình nhập hội được không?" },
+            { "vi": "Tất nhiên, bạn vào đi." },
+            { "vi": "Cảm ơn. Mình là Duc. Các bạn đang nói chuyện gì?" },
+            { "vi": "Về cái phiên thảo luận AI. Bạn đã dự chưa?" },
+            { "vi": "Chưa, nó lúc hai giờ. Có đáng dự không?" },
+            { "vi": "Đáng. Mấy người trình bày giỏi." },
+            { "vi": "Tốt, mình sẽ đi. Mà mình có cùng ngành không?" },
+            { "vi": "Có thể. Mình là tư vấn, ngành năng lượng." },
+            { "vi": "Thú vị. Mình kết nối trên LinkedIn nhé, để lúc nào nói tiếp?" },
+            { "vi": "Ừ, tốt." },
+            { "vi": "Cảm ơn bạn! Rất vui được làm quen — mình đi lấy cà phê trước khi phiên đó bắt đầu." },
+            { "vi": "Gặp bạn ở đó nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Mở lời với người lạ và ra về với một bước tiếp theo",
+          "scenario_vi": "Mở bằng tình huống, hỏi việc của họ trước, kết nối, và đề xuất một thứ cụ thể.",
+          "your_role_vi": "Bạn, ở giờ nghỉ hội thảo",
+          "partner_role_vi": "Sanna, đang đứng một mình",
+          "turns": [
+            { "vi": "Chào bạn! Bạn từng đến đây chưa?", "hint_vi": "Câu mở đầu hoàn hảo: thực tế, trả lời được, nói về tình huống." },
+            { "vi": "Chào bạn! Có, lần thứ ba rồi. Còn bạn?" },
+            { "vi": "Lần đầu. Bạn thấy bài nói vừa rồi thế nào?", "hint_vi": "Cả hai đều có chất liệu về chuyện này. Nó luôn dẫn đến đâu đó." },
+            { "vi": "Cũng khá, nhưng hơi chung chung." },
+            { "vi": "Mình cũng vậy. À mình là Duc, mình làm ở Datafirma.", "hint_vi": "Tên cộng công ty. Đọc thẻ tên của họ và gọi tên họ lại." },
+            { "vi": "Sanna, Teollisuus Oy. Mình là controller." },
+            { "vi": "Thú vị đấy. Hiện nay các bạn làm báo cáo thế nào?", "hint_vi": "Hỏi việc của họ trước khi nói về việc của bạn." },
+            { "vi": "Khá nhiều việc làm bằng tay trên Excel, tiếc là vậy." },
+            { "vi": "Đó là vấn đề quen thuộc. Bọn mình giúp các công ty tự động hoá đúng cái đó.", "hint_vi": "Giờ thì bài giới thiệu của bạn có lý do tồn tại. Một câu." },
+            { "vi": "Ồ thế à, thú vị." },
+            { "vi": "Mình kết nối trên LinkedIn nhé? Và hẹn cà phê lúc nào đó tháng sau nhé?", "hint_vi": "Kết nối ngay tại chỗ, và đề xuất một thứ cụ thể." }
+          ]
+        }
+      ]
+    },
+    "client-calls": {
+      "lesson": {
+        "title_vi": "Bán hàng và gọi khách hàng",
+        "subtitle_vi": "Nhu cầu, ngân sách, tiến độ. Mikä teille on tärkeintä?",
+        "warmup_situation_vi": "Cuộc gọi đầu tiên với một khách hàng tiềm năng. Ba mươi phút. Họ lịch sự, ngắn gọn, và gần như không tiết lộ gì về điều họ thật sự muốn.",
+        "warmup_question_vi": "Làm sao để một khách hàng Phần Lan nói cho bạn biết điều gì quan trọng với họ?",
+        "rescue_vi": "Điều gì quan trọng nhất với các anh trong chuyện này ạ?",
+        "rescue_note_vi": "Khách hàng Phần Lan trả lời câu hỏi này thẳng thắn và thật thà, và thường bằng một điều bạn không thể đoán ra. Nó hiệu quả hơn nhiều so với việc trình bày tính năng — hãy hỏi sớm, rồi im lặng và để họ nói."
+      },
+      "vocab": [
+        { "vi": "khách hàng" }, { "vi": "cuộc họp với khách hàng" }, { "vi": "nhu cầu" }, { "vi": "việc khảo sát nhu cầu" },
+        { "vi": "vấn đề", "note_vi": "Người Phần Lan sẽ nói thẳng ra vấn đề nếu bạn hỏi. Hãy bắt đầu từ đó." },
+        { "vi": "thách thức" },
+        { "vi": "tình hình hiện tại", "note_vi": "«Miten te tekee tän nyt?» — câu hỏi mở đầu tốt nhất trong bán hàng ở đây." },
+        { "vi": "mục tiêu" }, { "vi": "quan trọng nhất" }, { "vi": "ưu tiên" },
+        { "vi": "ngân sách", "note_vi": "Ở đây bạn hỏi thẳng được. Nó tiết kiệm thời gian cho mọi người." },
+        { "vi": "khoảng giá" }, { "vi": "khoản đầu tư" }, { "vi": "tiến độ, khung thời gian" },
+        { "vi": "khi nào các anh cần" },
+        { "vi": "người ra quyết định", "note_vi": "Hãy hỏi ai quyết. Đó là câu hỏi bình thường và được tôn trọng." },
+        { "vi": "ai quyết định" }, { "vi": "quy trình mua sắm" },
+        { "vi": "việc đấu thầu cạnh tranh", "note_vi": "Phổ biến, nhất là ở khu vực công. Hãy hỏi xem có đấu thầu không." },
+        { "vi": "bản đề xuất, báo giá" }, { "vi": "yêu cầu báo giá" },
+        { "vi": "trường hợp tham chiếu", "note_vi": "Khách hàng Phần Lan muốn có và họ sẽ gọi điện xác minh thật." },
+        { "vi": "dự án thử nghiệm", "note_vi": "Thường là bước đầu tốt nhất. Rủi ro thấp, dễ đồng ý." },
+        { "vi": "bước tiếp theo" },
+        { "vi": "chúng tôi sẽ quay lại chuyện đó", "note_vi": "Có khi nghĩa là đồng ý, có khi là một lời từ chối nhẹ. Hãy xin một ngày." },
+        { "vi": "chúng tôi sẽ suy nghĩ", "note_vi": "Thường là «chúng tôi sẽ suy nghĩ» thật. Hãy hỏi khi nào thì liên hệ lại." },
+        { "vi": "thật lòng mà nói", "note_vi": "Nói ra là bạn sẽ được nhận lại sự thật thà. Rất hiệu quả ở đây." },
+        { "vi": "như thế có được không" }, { "vi": "bản tóm tắt" }
+      ],
+      "phrases": [
+        { "vi": "Điều gì quan trọng nhất với các anh trong chuyện này ạ?", "when_to_use_vi": "Hỏi sớm, rồi im lặng. Khách hàng Phần Lan trả lời thật thà." },
+        { "vi": "Hiện nay các anh làm việc này thế nào ạ?", "when_to_use_vi": "Câu hỏi mở đầu tốt nhất trong bán hàng ở Phần Lan. Bắt đầu từ thực tế của họ." },
+        { "vi": "Vấn đề lớn nhất ở đó là gì ạ?", "when_to_use_vi": "Người Phần Lan sẽ nói thẳng ra. Đừng đoán thay họ." },
+        { "vi": "Các anh có ngân sách cho việc này chưa ạ?", "when_to_use_vi": "Ở đây bạn hỏi thẳng được. Nó tiết kiệm thời gian cho mọi người." },
+        { "vi": "Khoảng giá nào là khả thi ạ?", "when_to_use_vi": "Nhẹ hơn hỏi con số chính xác, và thường được trả lời." },
+        { "vi": "Các anh cần cái này vào lúc nào ạ?", "when_to_use_vi": "Tiến độ định hình mọi thứ. Hãy lấy nó trong cuộc gọi đầu." },
+        { "vi": "Bên các anh ai quyết định việc này ạ?", "when_to_use_vi": "Một câu hỏi bình thường, được tôn trọng ở đây. Không hề tự tiện." },
+        { "vi": "Việc này có đấu thầu không ạ?", "when_to_use_vi": "Phổ biến, nhất là khu vực công. Biết sớm thì tốt hơn." },
+        { "vi": "Các anh có muốn xem tham chiếu cùng ngành không ạ?", "when_to_use_vi": "Khách hàng Phần Lan muốn có và sẽ gọi điện xác minh thật." },
+        { "vi": "Hay là nên bắt đầu bằng một dự án thử nghiệm?", "when_to_use_vi": "Rủi ro thấp và dễ đồng ý. Thường là bước đầu đúng." },
+        { "vi": "Thật lòng mà nói: cái này có thể không phải giải pháp đúng cho các anh.", "when_to_use_vi": "Nói câu này ở Phần Lan tạo niềm tin hơn bất cứ bài giới thiệu nào." },
+        { "vi": "Bước tiếp theo tốt nhất sẽ là gì ạ?", "when_to_use_vi": "Hãy để họ định nghĩa nó. Rồi đặt một ngày cho nó." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một cuộc gọi khách hàng đầu tiên, làm cho đúng",
+          "setting_vi": "Ba mươi phút. Duc đặt câu hỏi trong hai mươi phút đầu.",
+          "note_vi": "Tình hình hiện tại, vấn đề lớn nhất, điều quan trọng nhất, ngân sách, tiến độ, người quyết định. Rồi một câu thật lòng.",
+          "lines": [
+            { "vi": "Cảm ơn anh đã dành thời gian. Mình bắt đầu từ chuyện hiện nay các anh làm báo cáo thế nào nhé?" },
+            { "vi": "Bằng tay trên Excel. Bốn người, khoảng hai ngày mỗi tháng." },
+            { "vi": "Vâng. Vấn đề lớn nhất ở đó là gì ạ?" },
+            { "vi": "Sai sót. Và chuyện số liệu lúc nào cũng cũ ba tuần." },
+            { "vi": "Trong hai điều đó, điều nào quan trọng hơn với các anh?" },
+            { "vi": "Tính cập nhật. Sai sót thì chúng tôi sống được, nhưng chậm thì ảnh hưởng đến việc ra quyết định." },
+            { "vi": "Biết vậy hay — nó thay đổi điều tôi sẽ đề xuất. Các anh cần cái này vào lúc nào ạ?" },
+            { "vi": "Tốt nhất là trước hè. Mùa thu chúng tôi làm ngân sách." },
+            { "vi": "Vâng. Các anh có ngân sách cho việc này chưa, hay còn để ngỏ ạ?" },
+            { "vi": "Khoảng ba mươi nghìn cho năm đầu." },
+            { "vi": "Thế là khả thi. Bên các anh ai quyết định cuối cùng ạ?" },
+            { "vi": "Tôi chuẩn bị, nhưng giám đốc tài chính quyết." },
+            { "vi": "Vâng. Thật lòng mà nói: nếu tính cập nhật là ưu tiên thì bản nhẹ hơn của chúng tôi là đủ — nó rẻ hơn và triển khai nhanh hơn." },
+            { "vi": "Anh vừa tiết kiệm tiền cho tôi. Chuyện đó hiếm trong một cuộc gọi bán hàng." },
+            { "vi": "Bán nhiều hơn mức cần thì vô nghĩa. Hay là nên bắt đầu bằng một dự án thử nghiệm?" },
+            { "vi": "Vâng, như thế dễ xin phê duyệt hơn. Bước tiếp theo tốt nhất sẽ là gì?" },
+            { "vi": "Tôi làm một bản đề xuất thử nghiệm và tham chiếu cùng ngành, xong trước tuần sau. Như thế có được không ạ?" }
+          ]
+        },
+        {
+          "title_vi": "Đọc câu «chúng tôi sẽ suy nghĩ»",
+          "setting_vi": "Cuối một cuộc họp thứ hai. Câu trả lời mơ hồ.",
+          "note_vi": "Hãy xin một ngày. Nó biến một cái «có thể» mơ hồ thành một cái có hoặc một cái không rõ ràng.",
+          "lines": [
+            { "vi": "Cảm ơn anh, buổi này tốt đấy. Chúng tôi sẽ suy nghĩ và quay lại với anh." },
+            { "vi": "Cảm ơn anh. Tôi có thể chờ nghe tin vào khi nào ạ?" },
+            { "vi": "Có lẽ trong vòng vài tuần." },
+            { "vi": "Vâng. Mình đặt lịch mười lăm phút sau hai tuần nhé, để các anh không phải nhớ?" },
+            { "vi": "Ý hay, anh cứ gửi." },
+            { "vi": "Tôi sẽ gửi. Và thật lòng mà nói — có điều gì các anh còn băn khoăn mà tôi có thể làm rõ không ạ?" },
+            { "vi": "Thì, giá hơi cao hơn chúng tôi nghĩ." },
+            { "vi": "Cảm ơn anh đã nói. Tôi xem có phần nào có thể cắt bớt khỏi bản thử nghiệm." },
+            { "vi": "Thế thì giúp cho việc quyết định." },
+            { "vi": "Tôi gửi bản mới trước buổi họp đó." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Tiến hành một cuộc gọi khách hàng đầu tiên",
+          "scenario_vi": "Hỏi về tình hình hiện tại, vấn đề, ưu tiên, ngân sách, tiến độ và người quyết định.",
+          "your_role_vi": "Bạn, trong cuộc gọi đầu tiên",
+          "partner_role_vi": "Một khách hàng tiềm năng",
+          "turns": [
+            { "vi": "Nào, anh kể xem các anh cung cấp gì." },
+            { "vi": "Tôi sẽ nói ngay đây. Mình bắt đầu từ chuyện hiện nay các anh làm việc này thế nào nhé?", "hint_vi": "Bắt đầu từ thực tế của họ, không từ sản phẩm của bạn. Nước đi mở đầu tốt nhất." },
+            { "vi": "Bằng tay trên Excel. Bốn người, hai ngày mỗi tháng." },
+            { "vi": "Vâng. Vấn đề lớn nhất ở đó là gì ạ?", "hint_vi": "Người Phần Lan sẽ nói thẳng. Đừng đoán thay họ." },
+            { "vi": "Sai sót, và số liệu lúc nào cũng cũ ba tuần." },
+            { "vi": "Trong hai điều đó, điều nào quan trọng hơn với các anh?", "hint_vi": "Buộc họ chọn ưu tiên là điều giá trị nhất bạn có thể làm ở đây." },
+            { "vi": "Tính cập nhật. Chậm thì ảnh hưởng đến việc ra quyết định." },
+            { "vi": "Biết vậy hay. Các anh cần vào lúc nào, và có ngân sách cho việc này chưa ạ?", "hint_vi": "Ở đây bạn hỏi thẳng về ngân sách được. Nó tiết kiệm thời gian." },
+            { "vi": "Trước hè. Khoảng ba mươi nghìn." },
+            { "vi": "Bên các anh ai quyết định cuối cùng ạ?", "hint_vi": "Một câu hỏi bình thường, được tôn trọng. Không hề tự tiện." },
+            { "vi": "Tôi chuẩn bị, giám đốc tài chính quyết." },
+            { "vi": "Thật lòng mà nói: nếu tính cập nhật là ưu tiên thì bản nhẹ hơn của chúng tôi là đủ.", "hint_vi": "Bán ít hơn mức có thể tạo niềm tin ở đây hơn mọi bài giới thiệu." }
+          ]
+        }
+      ]
+    }
+  }
+}

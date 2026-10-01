@@ -1,0 +1,328 @@
+{
+  "module": {
+    "title_vi": "Việc vặt và dịch vụ",
+    "subtitle_vi": "Bưu điện, ngân hàng, hàng chờ điện thoại: những trao đổi nhỏ cộng dồn lại.",
+    "description_vi": "Đây là những việc vặt sẽ đổ bể khi tiếng Phần Lan của bạn chưa chính xác: một bưu kiện bạn không lấy được, một lịch hẹn ngân hàng bạn không giải thích được, một menu điện thoại không có lựa chọn cho tình huống của bạn, một kiểu tóc bạn không muốn. Sáu bài về thứ tiếng Phần Lan hành chính và thực tế giúp cuộc sống hằng ngày chạy được — bao gồm môi trường nghe khó nhất trong cả khoá học, là hàng chờ điện thoại."
+  },
+  "lessons": {
+    "post-and-parcels": {
+      "lesson": {
+        "title_vi": "Bưu điện và bưu kiện",
+        "subtitle_vi": "Mä tulin hakee paketin. Mulla on noutokoodi.",
+        "warmup_situation_vi": "Một tin nhắn báo bưu kiện của bạn đã đến điểm nhận. Bạn ra đó và thấy một bức tường đầy tủ có số, một màn hình bằng tiếng Phần Lan, và một hàng người rõ ràng đã biết chuyện này hoạt động thế nào.",
+        "warmup_question_vi": "Bạn cần chuẩn bị sẵn những gì — và ở Phần Lan bưu kiện thật ra đi về đâu?",
+        "rescue_vi": "Tôi chưa lấy bưu kiện ở đây bao giờ. Ở đây làm thế nào ạ?",
+        "rescue_note_vi": "Nhân viên Posti và các điểm nhận giải thích quy trình rất sẵn lòng và chính xác. Thừa nhận đây là lần đầu giúp bạn có trọn quy trình trong ba mươi giây thay vì bốn phút mò mẫm trên màn hình cảm ứng."
+      },
+      "vocab": [
+        { "vi": "bưu điện", "note_vi": "Posti cũng là tên công ty. Phần lớn chi nhánh giờ nằm bên trong các cửa hàng." },
+        { "vi": "chi nhánh bưu điện" },
+        { "vi": "điểm nhận hàng", "note_vi": "Thường là một góc của siêu thị hoặc một kiosk." },
+        { "vi": "tủ nhận bưu kiện tự động", "note_vi": "Bức tường đầy tủ. Rất phổ biến — có thể bạn không phải nói với ai cả." },
+        { "vi": "bưu kiện" }, { "vi": "thư" },
+        { "vi": "thư bảo đảm", "note_vi": "Cần giấy tờ và chữ ký. Thường là thư chính thức." },
+        { "vi": "mã nhận hàng", "note_vi": "Có trong tin nhắn. Hãy mở sẵn trên điện thoại trước khi xếp hàng." },
+        { "vi": "thông báo hàng đã đến" }, { "vi": "mã theo dõi đơn" }, { "vi": "đi nhận, đi lấy" },
+        { "vi": "gửi" },
+        { "vi": "trả lại (hàng)", "note_vi": "Trả hàng mua online thường kèm nhãn đã trả phí. Hỏi nếu bạn không có." },
+        { "vi": "mã trả hàng" }, { "vi": "nhãn địa chỉ" }, { "vi": "tem thư" }, { "vi": "phí bưu chính" },
+        { "vi": "khối lượng", "note_vi": "Phí tính theo khối lượng và kích cỡ. Họ cân tại quầy." },
+        { "vi": "kích cỡ" }, { "vi": "trong nước" }, { "vi": "ra nước ngoài" }, { "vi": "dưới dạng bảo đảm" },
+        { "vi": "chuyển phát nhanh" }, { "vi": "thời gian giao hàng" },
+        { "vi": "thời gian lưu giữ", "note_vi": "Thường 7 ngày, rồi hàng bị trả về. Hãy để ý ngày trong tin nhắn." },
+        { "vi": "giấy tờ tuỳ thân" }, { "vi": "chữ ký" },
+        { "vi": "phí hải quan", "note_vi": "Với bưu kiện từ ngoài EU. Trả online trước khi đi lấy." },
+        { "vi": "tờ khai hải quan" }, { "vi": "tủ khoá, ô tủ" }
+      ],
+      "phrases": [
+        { "vi": "Tôi đến lấy bưu kiện ạ.", "when_to_use_vi": "Câu mở đầu ở quầy. Hãy chuẩn bị sẵn mã." },
+        { "vi": "Mã nhận hàng của tôi đây ạ.", "when_to_use_vi": "Điện thoại đã mở sẵn tin nhắn. Tiết kiệm rất nhiều thời gian." },
+        { "vi": "Tôi chưa lấy bưu kiện ở đây bao giờ. Ở đây làm thế nào ạ?", "when_to_use_vi": "Giúp bạn có trọn quy trình trong ba mươi giây." },
+        { "vi": "Tôi có cần giấy tờ tuỳ thân không ạ?", "when_to_use_vi": "Với thư bảo đảm thì có. Với bưu kiện thường thì mã là đủ." },
+        { "vi": "Tôi muốn gửi bưu kiện này sang Việt Nam.", "when_to_use_vi": "Nói điểm đến trước. Nó quyết định mọi thứ còn lại." },
+        { "vi": "Bao nhiêu tiền ạ?", "when_to_use_vi": "Họ sẽ cân và cho bạn biết. Hỏi luôn cả phương án chậm hơn." },
+        { "vi": "Có lựa chọn nào rẻ hơn không ạ?", "when_to_use_vi": "Thường là có, và thường chậm hơn. Đáng hỏi." },
+        { "vi": "Mất bao lâu ạ?", "when_to_use_vi": "Hỏi trước khi chọn. Phương án rẻ có thể mất sáu tuần." },
+        { "vi": "Tôi muốn trả lại đơn hàng online này.", "when_to_use_vi": "Mang mã trả hàng. Phần lớn shop đều kèm theo một cái." },
+        { "vi": "Cái này được giữ ở đây đến khi nào ạ?", "when_to_use_vi": "Thường bảy ngày. Sau đó nó bị trả về người gửi." },
+        { "vi": "Cái này có phí hải quan không ạ?", "when_to_use_vi": "Với bưu kiện từ ngoài EU. Thường trả online trước." },
+        { "vi": "Tủ nhận bưu kiện tự động ở đâu ạ?", "when_to_use_vi": "Thường ngay bên trong cửa vào, hoặc ngoài bức tường." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lần đầu ở một điểm nhận hàng",
+          "setting_vi": "Một góc siêu thị. Một cái quầy, một cái màn hình, và một hàng người.",
+          "note_vi": "Anh thừa nhận đây là lần đầu và có được trọn quy trình ngay lập tức.",
+          "lines": [
+            { "vi": "Chào chị! Tôi đến lấy bưu kiện. Tôi chưa lấy ở đây bao giờ — ở đây làm thế nào ạ?" },
+            { "vi": "Chào anh! Dễ thôi. Anh có mã nhận hàng không ạ?" },
+            { "vi": "Có, trong tin nhắn. Đây ạ." },
+            { "vi": "Tốt. Anh cho tôi xem hoặc nhập vào cái màn hình kia." },
+            { "vi": "Tôi cho chị xem. Tôi có cần giấy tờ tuỳ thân không ạ?" },
+            { "vi": "Cái này thì không cần, mã là đủ. Thư bảo đảm thì cần ạ." },
+            { "vi": "Vâng. Và bưu kiện được giữ ở đây đến bao lâu ạ?" },
+            { "vi": "Bảy ngày. Sau đó nó về lại người gửi ạ." },
+            { "vi": "Biết vậy hay. Đây ạ." },
+            { "vi": "…Bưu kiện của anh đây. Và anh ký vào đó nhé." },
+            { "vi": "Cảm ơn chị. À này — tủ nhận bưu kiện tự động ở đâu ạ? Tôi cần trả lại một món." },
+            { "vi": "Ở ngoài, cạnh cửa vào. Anh có mã trả hàng không ạ?" },
+            { "vi": "Có, trong email. Cảm ơn chị đã giúp!" }
+          ]
+        },
+        {
+          "title_vi": "Gửi bưu kiện ra nước ngoài",
+          "setting_vi": "Một quầy Posti. Giá, tốc độ và hải quan.",
+          "note_vi": "Điểm đến trước, rồi khối lượng, rồi cân nhắc giữa giá và thời gian.",
+          "lines": [
+            { "vi": "Chào chị! Tôi muốn gửi bưu kiện này sang Việt Nam." },
+            { "vi": "Vâng. Anh đặt lên cân… hai kilo bốn trăm." },
+            { "vi": "Bao nhiêu tiền ạ?" },
+            { "vi": "Chuyển nhanh 52 euro, thường 31 ạ." },
+            { "vi": "Loại thường mất bao lâu ạ?" },
+            { "vi": "Ba đến sáu tuần. Chuyển nhanh thì một tuần ạ." },
+            { "vi": "Tôi chọn loại thường. Không gấp." },
+            { "vi": "Vâng. Anh phải điền tờ khai hải quan. Trong bưu kiện có gì ạ?" },
+            { "vi": "Quần áo và sô cô la. Quà tặng." },
+            { "vi": "Anh viết vào đây, và ước tính giá trị." },
+            { "vi": "Khoảng năm mươi euro. Thế này ạ?" },
+            { "vi": "Chính xác. Thẻ nhé?" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Lấy một bưu kiện và gửi một bưu kiện",
+          "scenario_vi": "Thừa nhận đây là lần đầu, lấy hàng bằng mã, rồi gửi một thứ ra nước ngoài.",
+          "your_role_vi": "Bạn, ở điểm nhận hàng",
+          "partner_role_vi": "Nhân viên quầy",
+          "turns": [
+            { "vi": "Chào chị! Tôi đến lấy bưu kiện. Tôi chưa lấy ở đây bao giờ — ở đây làm thế nào ạ?", "hint_vi": "Thừa nhận đây là lần đầu giúp bạn có trọn quy trình." },
+            { "vi": "Chào anh! Anh có mã nhận hàng không ạ?" },
+            { "vi": "Có, trong tin nhắn. Đây ạ.", "hint_vi": "Hãy mở điện thoại trước khi đến quầy." },
+            { "vi": "Tốt. Anh nhập vào cái màn hình kia." },
+            { "vi": "Vâng. Tôi có cần giấy tờ tuỳ thân không ạ?", "hint_vi": "Với thư bảo đảm thì có, với bưu kiện thường thì thường không." },
+            { "vi": "Cái này thì không. Mã là đủ." },
+            { "vi": "Cảm ơn chị. Và tôi muốn gửi bưu kiện này sang Việt Nam.", "hint_vi": "Điểm đến trước. Nó quyết định giá, tờ khai và thời gian." },
+            { "vi": "Anh đặt lên cân. Nhanh 52, thường 31 ạ." },
+            { "vi": "Loại thường mất bao lâu ạ?", "hint_vi": "Hỏi trước khi chọn. Rẻ có thể nghĩa là sáu tuần." },
+            { "vi": "Ba đến sáu tuần ạ." },
+            { "vi": "Tôi chọn loại thường, không gấp.", "hint_vi": "Nêu lựa chọn và lý do. Gọn gàng và rõ ràng." }
+          ]
+        }
+      ]
+    },
+    "bank-and-kela": {
+      "lesson": {
+        "title_vi": "Ngân hàng và Kela",
+        "subtitle_vi": "Lịch hẹn, biểu mẫu, và «tôi không hiểu tờ này»",
+        "warmup_situation_vi": "Một lá thư từ Kela với số tham chiếu, ba mốc hạn và một câu chứa từ «toimeentulotukilaskelma». Bạn không chắc nó đang yêu cầu bạn làm gì hay đang thông báo cho bạn điều gì.",
+        "warmup_question_vi": "Bạn gọi cho ai — và câu nào hữu dụng nhất trong mọi cuộc trò chuyện hành chính ở Phần Lan?",
+        "rescue_vi": "Tôi không hiểu tờ biểu mẫu này. Chị giải thích giúp tôi phải làm gì được không?",
+        "rescue_note_vi": "Nửa sau mới là phần quan trọng. «Mitä mun pitää tehdä» biến một bức tường tiếng Phần Lan hành chính thành một danh sách việc cần làm, mà đó là tất cả những gì bạn thật sự cần. Nhân viên Kela và ngân hàng trả lời câu hỏi này rất tốt."
+      },
+      "vocab": [
+        { "vi": "ngân hàng" }, { "vi": "tài khoản" }, { "vi": "tài khoản ngân hàng" }, { "vi": "số tài khoản" },
+        { "vi": "số IBAN" }, { "vi": "ngân hàng trực tuyến" },
+        { "vi": "mã đăng nhập ngân hàng", "note_vi": "Danh tính số của bạn cho gần như mọi thứ ở Phần Lan. Hãy giữ kỹ." },
+        { "vi": "xác thực mạnh", "note_vi": "Dùng để đăng nhập Kela, cơ quan thuế, hồ sơ y tế — mọi thứ." },
+        { "vi": "chuyển khoản" },
+        { "vi": "số tham chiếu", "note_vi": "Luôn dùng nó. Khoản thanh toán không có nó sẽ bị thất lạc trong hệ thống." },
+        { "vi": "hoá đơn điện tử" }, { "vi": "ghi nợ trực tiếp" }, { "vi": "khoản vay" }, { "vi": "lãi suất" },
+        { "vi": "lịch sử tín dụng" },
+        { "vi": "Kela (cơ quan bảo hiểm xã hội)", "note_vi": "Lo trợ cấp, hoàn tiền y tế, hỗ trợ sinh viên, lương hưu." },
+        { "vi": "đơn xin" }, { "vi": "xin, nộp đơn" },
+        { "vi": "quyết định", "note_vi": "Câu trả lời của Kela cho đơn của bạn. Hãy đọc hạn khiếu nại trên đó." },
+        { "vi": "tài liệu kèm theo", "note_vi": "Lý do phổ biến nhất khiến một đơn bị treo. Hãy gửi đủ mọi liite được yêu cầu." },
+        { "vi": "giấy chứng nhận" }, { "vi": "trợ cấp nhà ở" }, { "vi": "trợ cấp trẻ em" },
+        { "vi": "trợ cấp cha mẹ" }, { "vi": "bảo hiểm thất nghiệp" }, { "vi": "thời hạn" }, { "vi": "điền vào" },
+        { "vi": "gửi tài liệu kèm theo" },
+        { "vi": "thời gian xử lý", "note_vi": "Hãy hỏi. Có thể vài tuần, có khi vài tháng." },
+        { "vi": "việc đặt lịch hẹn", "note_vi": "Ngân hàng giờ chỉ làm việc theo lịch hẹn với phần lớn việc. Hãy đặt online." },
+        { "vi": "việc làm thủ tục với cơ quan" }, { "vi": "khiếu nại quyết định" }
+      ],
+      "phrases": [
+        { "vi": "Tôi không hiểu tờ biểu mẫu này.", "when_to_use_vi": "Hãy nói thẳng. Không ai mong bạn hiểu được tiếng Phần Lan hành chính." },
+        { "vi": "Chị giải thích giúp tôi phải làm gì được không?", "when_to_use_vi": "Nửa quan trọng. Biến một bức tường chữ thành một danh sách việc." },
+        { "vi": "Tôi muốn đặt một lịch hẹn.", "when_to_use_vi": "Ngân hàng giờ chỉ làm việc theo hẹn với phần lớn việc." },
+        { "vi": "Tôi cần gửi những tài liệu gì ạ?", "when_to_use_vi": "Lý do phổ biến nhất khiến đơn bị treo. Hãy hỏi rõ ràng." },
+        { "vi": "Thời gian xử lý là bao lâu ạ?", "when_to_use_vi": "Hỏi để biết nên lo sau ba tuần hay sau mười ba tuần." },
+        { "vi": "Cái này phải trả lại trước ngày nào ạ?", "when_to_use_vi": "Thời hạn ở đây là cứng. Hãy lấy ngày chính xác, đừng nhận «sắp tới»." },
+        { "vi": "Tôi nhận được quyết định, nhưng tôi không hiểu nó.", "when_to_use_vi": "Mang lá thư và số tham chiếu theo. Họ sẽ đi qua từng phần với bạn." },
+        { "vi": "Tôi khiếu nại quyết định này được không ạ?", "when_to_use_vi": "Thường là được, trong vòng 30 ngày. Hạn ghi trên lá thư." },
+        { "vi": "Tôi muốn mở một tài khoản ngân hàng.", "when_to_use_vi": "Mang hộ chiếu, giấy phép cư trú và địa chỉ. Đặt hẹn trước." },
+        { "vi": "Tôi cần mã đăng nhập ngân hàng.", "when_to_use_vi": "Đây là danh tính số của bạn cho gần như mọi thứ ở đây. Hãy ưu tiên nó." },
+        { "vi": "Cái này có số tham chiếu không ạ?", "when_to_use_vi": "Luôn dùng nó khi thanh toán. Không có nó thì tiền đi lạc." },
+        { "vi": "Chị ghi cái đó ra giấy giúp tôi được không ạ?", "when_to_use_vi": "Với số tham chiếu, ngày tháng và thời hạn. Luôn luôn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một lá thư Kela bạn không đọc được",
+          "setting_vi": "Một điểm phục vụ của Kela. Duc mang lá thư và hỏi đúng câu hỏi.",
+          "note_vi": "«Mitä mun pitää tehdä» rút bốn đoạn văn xuống còn ba việc cần làm.",
+          "lines": [
+            { "vi": "Chào chị! Tôi nhận được lá thư này, nhưng tôi không hiểu nó." },
+            { "vi": "Chào anh. Để xem… Vâng, cái này liên quan đến đơn xin trợ cấp nhà ở của anh." },
+            { "vi": "Chị giải thích giúp tôi phải làm gì được không?" },
+            { "vi": "Ba việc. Một: chúng tôi cần hợp đồng thuê nhà của anh. Hai: giấy xác nhận thu nhập ba tháng. Ba: chữ ký ở phần này." },
+            { "vi": "Vâng, như vậy rõ hơn nhiều. Trước ngày nào ạ?" },
+            { "vi": "Trong vòng hai mươi ngày, tức là ngày 22 tháng Tư ạ." },
+            { "vi": "Chị ghi cái ngày đó ra giấy giúp tôi được không ạ?" },
+            { "vi": "Vâng, đây ạ. Và anh có thể gửi tài liệu qua OmaKela, nhanh hơn." },
+            { "vi": "Tôi sẽ dùng cái đó. Sau đó thời gian xử lý là bao lâu ạ?" },
+            { "vi": "Khoảng bốn tuần. Anh sẽ nhận quyết định qua bưu điện và trên OmaKela." },
+            { "vi": "Và nếu quyết định là từ chối, tôi khiếu nại được không ạ?" },
+            { "vi": "Được ạ, trong vòng ba mươi ngày. Hướng dẫn đi kèm quyết định." },
+            { "vi": "Cảm ơn chị nhiều. Như vậy rất hữu ích." }
+          ]
+        },
+        {
+          "title_vi": "Mở một tài khoản ngân hàng",
+          "setting_vi": "Một lịch hẹn đã đặt. Giấy tờ đã đặt trên bàn.",
+          "note_vi": "Pankkitunnukset mới là phần thưởng thật ở đây — chúng mở ra gần như mọi dịch vụ ở Phần Lan.",
+          "lines": [
+            { "vi": "Chào mừng anh. Anh muốn mở tài khoản ạ?" },
+            { "vi": "Vâng. Tôi có hộ chiếu, giấy phép cư trú và giấy xác nhận địa chỉ." },
+            { "vi": "Tốt, đủ cả. Và chắc anh cũng cần mã đăng nhập ngân hàng?" },
+            { "vi": "Vâng, chắc chắn rồi. Tôi cần chúng cho Kela và cơ quan thuế." },
+            { "vi": "Đúng vậy, chúng dùng được ở gần như mọi nơi. Chúng sẽ đến qua bưu điện trong vài ngày ạ." },
+            { "vi": "Vâng. Tài khoản có phí hằng tháng không ạ?" },
+            { "vi": "Ba euro một tháng, bao gồm thẻ và ngân hàng trực tuyến ạ." },
+            { "vi": "Được. Và tôi nhận được số tài khoản ngay không ạ?" },
+            { "vi": "Có ạ, tôi in cho anh. IBAN đây ạ." },
+            { "vi": "Cảm ơn chị. Công ty tôi cần nó hôm nay." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Giải mã một lá thư bạn không đọc được",
+          "scenario_vi": "Nói là bạn không hiểu, hỏi bạn phải làm gì, lấy thời hạn bằng văn bản.",
+          "your_role_vi": "Bạn, với một lá thư Kela",
+          "partner_role_vi": "Một chuyên viên Kela",
+          "turns": [
+            { "vi": "Chào chị! Tôi nhận được lá thư này, nhưng tôi không hiểu nó.", "hint_vi": "Hãy nói thẳng. Không ai mong bạn đọc được tiếng Phần Lan hành chính." },
+            { "vi": "Để xem… cái này liên quan đến đơn xin trợ cấp nhà ở của anh." },
+            { "vi": "Chị giải thích giúp tôi phải làm gì được không?", "hint_vi": "Câu hỏi then chốt. Nó biến chữ nghĩa thành một danh sách việc." },
+            { "vi": "Ba việc: hợp đồng thuê nhà, giấy xác nhận thu nhập và một chữ ký." },
+            { "vi": "Vâng. Trước ngày nào ạ?", "hint_vi": "Lấy ngày chính xác. Thời hạn ở đây là cứng." },
+            { "vi": "Ngày 22 tháng Tư ạ." },
+            { "vi": "Chị ghi ra giấy giúp tôi được không ạ?", "hint_vi": "Luôn luôn, với ngày tháng và số tham chiếu." },
+            { "vi": "Đây ạ. Anh có thể gửi tài liệu qua OmaKela." },
+            { "vi": "Sau đó thời gian xử lý là bao lâu ạ?", "hint_vi": "Để biết nên lo sau ba tuần hay sau mười ba tuần." },
+            { "vi": "Khoảng bốn tuần ạ." },
+            { "vi": "Cảm ơn chị. Và nếu quyết định là từ chối, tôi khiếu nại được không ạ?", "hint_vi": "Thường là được, trong 30 ngày. Đáng biết trước." }
+          ]
+        }
+      ]
+    },
+    "phone-calls": {
+      "lesson": {
+        "title_vi": "Gọi điện cho các dịch vụ",
+        "subtitle_vi": "Menu, hàng chờ, và đánh vần tên mình",
+        "warmup_situation_vi": "Một giọng nói tự động đưa ra năm lựa chọn ở tốc độ cao. Không lựa chọn nào rõ ràng là của bạn. Rồi nhạc chờ mười một phút, rồi một người nói tên họ và một câu mà bạn không bắt được chữ nào.",
+        "warmup_question_vi": "Đây là phần nghe khó nhất trong cả khoá học. Kế hoạch là gì?",
+        "rescue_vi": "Xin lỗi, tôi không nghe được — chị nói lại được không ạ?",
+        "rescue_note_vi": "Nói «en kuullu» (tôi không nghe được) thay vì «en ymmärtäny» (tôi không hiểu) là có chủ ý khi gọi điện: chất lượng đường truyền thật sự kém, đó là điều hoàn toàn trung tính để nói, và nó giúp bạn được nhắc lại sạch sẽ mà không dẫn đến bất kỳ cuộc bàn luận nào về tiếng Phần Lan của bạn."
+      },
+      "vocab": [
+        { "vi": "dịch vụ khách hàng" }, { "vi": "số điện thoại" }, { "vi": "tổng đài" }, { "vi": "menu lựa chọn" },
+        { "vi": "hãy chọn, hãy bấm", "note_vi": "«Valitse yksi» = bấm số một. Hãy nghe con số, đừng nghe từ ngữ." },
+        { "vi": "hãy bấm số" }, { "vi": "hàng chờ" },
+        { "vi": "thời gian chờ", "note_vi": "Thường được thông báo. «Arvioitu jonotusaika» = thời gian chờ dự kiến." },
+        { "vi": "xin chờ một chút" },
+        { "vi": "gọi lại", "note_vi": "Hầu như luôn là lựa chọn tốt hơn. Hãy nhận nó." },
+        { "vi": "để lại số của bạn" },
+        { "vi": "tôi sẽ nối máy", "note_vi": "«Mä yhdistän sut» — bạn đang được chuyển máy. Hãy giữ máy." },
+        { "vi": "tôi sẽ chuyển máy" },
+        { "vi": "đánh vần", "note_vi": "«Voinks mä tavata sen?» = tôi đánh vần được không? Thiết yếu khi gọi điện." },
+        { "vi": "chữ cái" }, { "vi": "chữ in hoa" },
+        { "vi": "số khách hàng", "note_vi": "Hãy để nó trước mặt trước khi bấm số." },
+        { "vi": "mã định danh cá nhân" }, { "vi": "ngày sinh" },
+        { "vi": "việc cần giải quyết", "note_vi": "«Missä asiassa soitat?» = anh gọi về việc gì?" },
+        { "vi": "tìm hiểu, làm rõ" }, { "vi": "kiểm tra" },
+        { "vi": "đường truyền kém", "note_vi": "Hãy đổ lỗi cho đường truyền. Lúc nào cũng dùng được và thường là thật." },
+        { "vi": "bị ngắt máy" }, { "vi": "tôi sẽ gọi lại" }, { "vi": "chậm hơn" }, { "vi": "giờ mở cửa" },
+        { "vi": "chat trực tuyến", "note_vi": "Gần như mọi dịch vụ đều có. Dễ hơn điện thoại rất nhiều — hãy dùng nó." },
+        { "vi": "email" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, tôi không nghe được — chị nói lại được không ạ?", "when_to_use_vi": "«En kuullu» tốt hơn «en ymmärtäny» khi gọi điện. Hoàn toàn trung tính." },
+        { "vi": "Đường truyền hơi kém.", "when_to_use_vi": "Lúc nào cũng dùng được như một lời giải thích, và thường đúng là thật." },
+        { "vi": "Chị nói chậm hơn một chút được không ạ?", "when_to_use_vi": "Nói sớm trong cuộc gọi thay vì sau ba lần nhắc lại." },
+        { "vi": "Tôi tên Duc Nguyen. Tôi đánh vần: D như trong David…", "when_to_use_vi": "Chủ động đánh vần trước khi được yêu cầu. Tiết kiệm một phút rối rắm." },
+        { "vi": "Số khách hàng của tôi là…", "when_to_use_vi": "Hãy để nó trước mặt trước khi bấm số. Đọc từng chữ số thật chậm." },
+        { "vi": "Tôi gọi về hoá đơn đó.", "when_to_use_vi": "Nói việc của bạn trong một câu ngắn ngay từ đầu." },
+        { "vi": "Tôi xin được gọi lại sau được không ạ?", "when_to_use_vi": "Hầu như luôn tốt hơn xếp hàng chờ. Hãy nhận khi được đề nghị." },
+        { "vi": "Bên chị có chat trực tuyến không ạ?", "when_to_use_vi": "Dễ hơn điện thoại rất nhiều. Hãy hỏi, rồi dùng nó thay thế." },
+        { "vi": "Chị gửi cái đó qua email được không ạ?", "when_to_use_vi": "Giúp bạn có thông tin phức tạp bằng văn bản, theo tốc độ của mình." },
+        { "vi": "Tức là tôi hiểu đúng rằng…", "when_to_use_vi": "Nhắc lại kết luận trước khi cúp máy. Lần nào cũng vậy." },
+        { "vi": "Chị nhắc lại con số đó được không ạ?", "when_to_use_vi": "Đừng bao giờ đoán một số tham chiếu. Nhắc lại từng chữ số." },
+        { "vi": "Cảm ơn chị đã giúp. Chúc chị một ngày tốt lành!", "when_to_use_vi": "Câu kết chuẩn. Được nói trong mọi cuộc gọi dịch vụ ở Phần Lan." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Menu, hàng chờ và con người",
+          "setting_vi": "Gọi cho một công ty điện lực về một hoá đơn.",
+          "note_vi": "Anh xin nói chậm hơn ngay từ đầu, tự đánh vần tên, và nhắc lại kết luận.",
+          "lines": [
+            { "vi": "Chào mừng đến dịch vụ khách hàng. Về hoá đơn bấm một, về hợp đồng bấm hai, việc khác bấm ba." },
+            { "vi": "Thời gian chờ dự kiến là sáu phút. Quý khách cũng có thể để lại số để được gọi lại bằng cách bấm dấu sao." },
+            { "vi": "Dịch vụ khách hàng, Mäkinen xin nghe." },
+            { "vi": "Chào chị! Chị nói chậm hơn một chút được không ạ? Tôi vẫn đang học tiếng Phần Lan." },
+            { "vi": "Tất nhiên rồi. Anh gọi về việc gì ạ?" },
+            { "vi": "Tôi gọi về hoá đơn đó. Nó có vẻ cao quá." },
+            { "vi": "Để xem. Tên và số khách hàng của anh là gì ạ?" },
+            { "vi": "Duc Nguyen. Tôi đánh vần: D-U-C, và họ là N-G-U-Y-E-N. Số khách hàng 4-4-7-2-9-1." },
+            { "vi": "Cảm ơn anh. …Vâng, tôi thấy rồi. Đây là hoá đơn ước tính, vì bên tôi chưa nhận được số đồng hồ." },
+            { "vi": "Xin lỗi, tôi không nghe được — hoá đơn gì ạ?" },
+            { "vi": "Hoá đơn ước tính. Bên tôi ước tính mức tiêu thụ của anh vì thiếu số đồng hồ." },
+            { "vi": "À. Tôi phải làm gì ạ?" },
+            { "vi": "Anh báo số đồng hồ trên trang web, rồi bên tôi sửa hoá đơn." },
+            { "vi": "Tức là tôi hiểu đúng rằng tôi báo số đồng hồ trên mạng và bên chị gửi hoá đơn mới?" },
+            { "vi": "Chính xác ạ. Và anh chỉ trả hoá đơn mới thôi." },
+            { "vi": "Vâng. Chị gửi hướng dẫn qua email được không ạ?" },
+            { "vi": "Tôi gửi ngay. Cảm ơn anh đã gọi!" }
+          ]
+        },
+        {
+          "title_vi": "Nhận cuộc gọi lại, và tìm ra chat",
+          "setting_vi": "Một cách tiếp cận thông minh hơn cho cùng vấn đề đó.",
+          "note_vi": "Hai cách để tránh hẳn hàng chờ điện thoại. Cả hai đều tốt hơn.",
+          "lines": [
+            { "vi": "Thời gian chờ dự kiến là hai mươi hai phút." },
+            { "vi": "Hai mươi hai phút. Thôi khỏi." },
+            { "vi": "Để lại số của quý khách để được gọi lại bằng cách bấm dấu sao." },
+            { "vi": "Chào anh, tôi gọi lại đây. Mäkinen ạ." },
+            { "vi": "Cảm ơn chị đã gọi lại! Tôi gọi về hoá đơn đó." },
+            { "vi": "Vâng, tôi thấy rồi. Mình xử lý luôn nhé." },
+            { "vi": "Tốt. Mà bên chị có chat trực tuyến không ạ? Như thế dễ hơn cho tôi." },
+            { "vi": "Có ạ, trên trang web. Mở từ chín đến sáu giờ." },
+            { "vi": "Tuyệt vời, lần sau tôi dùng cái đó. Cảm ơn chị đã giúp!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Sống sót qua một cuộc gọi dịch vụ",
+          "scenario_vi": "Xin nói chậm hơn, đánh vần tên, xin nhắc lại, và nhắc lại kết luận.",
+          "your_role_vi": "Bạn, đã chờ sáu phút",
+          "partner_role_vi": "Một nhân viên dịch vụ khách hàng",
+          "turns": [
+            { "vi": "Dịch vụ khách hàng, Mäkinen xin nghe." },
+            { "vi": "Chào chị! Chị nói chậm hơn một chút được không ạ?", "hint_vi": "Xin ngay từ đầu, đừng đợi sau ba lần nhắc lại." },
+            { "vi": "Tất nhiên. Anh gọi về việc gì ạ?" },
+            { "vi": "Tôi gọi về hoá đơn đó. Nó có vẻ cao quá.", "hint_vi": "Nói việc của bạn trong một câu ngắn." },
+            { "vi": "Tên và số khách hàng của anh là gì ạ?" },
+            { "vi": "Duc Nguyen — tôi đánh vần: D-U-C. Số khách hàng 4-4-7-2-9-1.", "hint_vi": "Chủ động đánh vần. Đọc từng chữ số thật chậm." },
+            { "vi": "Cảm ơn. Đây là hoá đơn ước tính, vì thiếu số đồng hồ." },
+            { "vi": "Xin lỗi, tôi không nghe được — hoá đơn gì ạ?", "hint_vi": "«En kuullu» là trung tính khi gọi điện. Chất lượng đường truyền thật sự khác nhau." },
+            { "vi": "Hoá đơn ước tính. Anh báo số đồng hồ trên mạng, bên tôi sửa lại." },
+            { "vi": "Tức là tôi hiểu đúng rằng tôi báo số và bên chị gửi hoá đơn mới?", "hint_vi": "Nhắc lại kết luận trước khi cúp máy. Lần nào cũng vậy." },
+            { "vi": "Chính xác ạ." },
+            { "vi": "Cảm ơn chị. Chị gửi hướng dẫn qua email được không ạ?", "hint_vi": "Lấy phần phức tạp bằng văn bản, theo tốc độ của bạn." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4069 @@
+{
+  "slug": "doctor",
+  "number": "04",
+  "emoji": "🏥",
+  "title": "At the doctor",
+  "subtitle": "Describing what's wrong and understanding the answer.",
+  "description": "This is the module where getting it wrong has real consequences, so it is built around precision rather than fluency. You will learn to book an appointment by phone, describe symptoms with the right case endings, understand dosage instructions exactly, handle the pharmacy, take a child to the doctor, and call 112. The single most important habit taught here: repeat the instructions back before you leave.",
+  "level": "A2–B1",
+  "lessons": [
+    {
+      "slug": "booking-by-phone",
+      "number": "4.1",
+      "title": "Booking by phone",
+      "subtitle": "Haluaisin varata ajan lääkärille.",
+      "warmup_situation": "You have to call the health centre. There's an automated menu, then hold music, then a nurse who talks fast and asks questions you weren't expecting. You can't see their face or point at anything.",
+      "warmup_question": "What do you prepare before you dial — and what do you say in the first ten seconds?",
+      "rescue_fi": "Anteeks, mä puhun vähän suomea. Voitsä puhuu hitaasti?",
+      "rescue_en": "Sorry, I speak a little Finnish. Could you speak slowly?",
+      "rescue_note": "Say this at the very start of the call, not after you've got lost. Health centre staff deal with this daily, will slow down immediately, and will often check understanding as they go. Announcing it early changes the whole call.",
+      "vocab": [
+        {
+          "fi": "terveysasema",
+          "en": "health centre",
+          "pos": "noun",
+          "note": "Your local public clinic. Assigned by where you live.",
+          "vi": "trạm y tế",
+          "note_vi": "Phòng khám công ở khu bạn ở. Được phân theo nơi cư trú."
+        },
+        {
+          "fi": "terveyskeskus",
+          "en": "health centre",
+          "pos": "noun",
+          "vi": "trung tâm y tế"
+        },
+        {
+          "fi": "lääkäri",
+          "en": "doctor",
+          "pos": "noun",
+          "vi": "bác sĩ"
+        },
+        {
+          "fi": "hoitaja",
+          "en": "nurse",
+          "pos": "noun",
+          "note": "You often speak to a nurse first. They triage and decide if you see a doctor.",
+          "vi": "y tá",
+          "note_vi": "Bạn thường nói chuyện với y tá trước. Họ sàng lọc và quyết định bạn có cần gặp bác sĩ không."
+        },
+        {
+          "fi": "aika",
+          "en": "appointment, time",
+          "pos": "noun",
+          "note": "'Varata aika' = book an appointment. The core phrase.",
+          "vi": "lịch hẹn, thời gian",
+          "note_vi": "«Varata aika» = đặt lịch hẹn. Cụm cốt lõi."
+        },
+        {
+          "fi": "varata",
+          "en": "to book, to reserve",
+          "pos": "verb",
+          "vi": "đặt, giữ chỗ"
+        },
+        {
+          "fi": "ajanvaraus",
+          "en": "appointment booking",
+          "pos": "noun",
+          "vi": "việc đặt lịch hẹn"
+        },
+        {
+          "fi": "peruuttaa",
+          "en": "to cancel",
+          "pos": "verb",
+          "note": "Cancel if you can't come. There may be a fee if you don't.",
+          "vi": "huỷ",
+          "note_vi": "Hãy huỷ nếu bạn không đến được. Không huỷ có thể bị tính phí."
+        },
+        {
+          "fi": "siirtää",
+          "en": "to move, to reschedule",
+          "pos": "verb",
+          "vi": "dời, chuyển lịch"
+        },
+        {
+          "fi": "kiireellinen",
+          "en": "urgent",
+          "pos": "adjective",
+          "note": "Say this word if it is. It changes the queue.",
+          "vi": "khẩn, gấp",
+          "note_vi": "Hãy nói từ này nếu đúng là vậy. Nó thay đổi thứ tự hàng chờ."
+        },
+        {
+          "fi": "päivystys",
+          "en": "emergency clinic, out-of-hours",
+          "pos": "noun",
+          "note": "For urgent but not life-threatening. Call 116 117 first.",
+          "vi": "phòng khám cấp cứu, ngoài giờ",
+          "note_vi": "Cho trường hợp gấp nhưng chưa nguy hiểm tính mạng. Gọi 116 117 trước."
+        },
+        {
+          "fi": "vapaa aika",
+          "en": "free slot",
+          "pos": "phrase",
+          "vi": "khung giờ còn trống"
+        },
+        {
+          "fi": "henkilötunnus",
+          "en": "personal identity code",
+          "pos": "noun",
+          "note": "Your hetu. They ask for it every time. Know it by heart in Finnish.",
+          "vi": "mã số định danh cá nhân",
+          "note_vi": "Mã hetu của bạn. Lần nào họ cũng hỏi. Hãy thuộc lòng bằng tiếng Phần Lan."
+        },
+        {
+          "fi": "hetu",
+          "en": "personal ID code (short)",
+          "pos": "noun",
+          "vi": "mã định danh (rút gọn)"
+        },
+        {
+          "fi": "nimi",
+          "en": "name",
+          "pos": "noun",
+          "vi": "tên"
+        },
+        {
+          "fi": "tavata",
+          "en": "to spell out",
+          "pos": "verb",
+          "note": "'Voitsä tavata sen?' = could you spell it? You'll be asked this.",
+          "vi": "đánh vần",
+          "note_vi": "«Voitsä tavata sen?» = anh đánh vần được không? Bạn sẽ được hỏi câu này."
+        },
+        {
+          "fi": "puhelinnumero",
+          "en": "phone number",
+          "pos": "noun",
+          "vi": "số điện thoại"
+        },
+        {
+          "fi": "oire",
+          "en": "symptom",
+          "pos": "noun",
+          "vi": "triệu chứng"
+        },
+        {
+          "fi": "vaiva",
+          "en": "complaint, ailment",
+          "pos": "noun",
+          "note": "'Mikä vaiva?' = what's the trouble? A common opening question.",
+          "vi": "vấn đề, chỗ khó chịu",
+          "note_vi": "«Mikä vaiva?» = anh bị làm sao? Một câu mở đầu thường gặp."
+        },
+        {
+          "fi": "syy",
+          "en": "reason",
+          "pos": "noun",
+          "vi": "lý do"
+        },
+        {
+          "fi": "soittaa",
+          "en": "to call",
+          "pos": "verb",
+          "vi": "gọi điện"
+        },
+        {
+          "fi": "takaisinsoitto",
+          "en": "callback",
+          "pos": "noun",
+          "note": "Very common: you leave a number and they ring you back. Answer unknown numbers that day.",
+          "vi": "gọi lại",
+          "note_vi": "Rất phổ biến: bạn để lại số và họ gọi lại. Hôm đó hãy nghe cả số lạ."
+        },
+        {
+          "fi": "jonottaa",
+          "en": "to wait in a queue",
+          "pos": "verb",
+          "vi": "chờ đến lượt"
+        },
+        {
+          "fi": "vuoro",
+          "en": "turn",
+          "pos": "noun",
+          "vi": "lượt"
+        },
+        {
+          "fi": "sopiiko",
+          "en": "does that suit?",
+          "pos": "verb",
+          "note": "They'll offer a time with this. Answer 'sopii' or 'ei sovi'.",
+          "vi": "thế có được không?",
+          "note_vi": "Họ sẽ đề nghị một giờ kèm câu này. Trả lời «sopii» hoặc «ei sovi»."
+        },
+        {
+          "fi": "ensi viikolla",
+          "en": "next week",
+          "pos": "phrase",
+          "vi": "tuần sau"
+        },
+        {
+          "fi": "mahdollisimman pian",
+          "en": "as soon as possible",
+          "pos": "phrase",
+          "vi": "càng sớm càng tốt"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Haluaisin varata ajan lääkärille.",
+          "en": "I'd like to book an appointment with a doctor.",
+          "when_to_use": "The opening sentence. Conditional 'haluaisin', and 'lääkärille' with -lle.",
+          "register": "polite",
+          "vi": "Tôi muốn đặt lịch khám với bác sĩ.",
+          "when_to_use_vi": "Câu mở đầu. Thể điều kiện «haluaisin», và «lääkärille» với đuôi -lle."
+        },
+        {
+          "fi": "Mä tarvitsisin ajan mahdollisimman pian.",
+          "en": "I'd need an appointment as soon as possible.",
+          "when_to_use": "When it's pressing but not an emergency.",
+          "register": "polite",
+          "vi": "Tôi cần một lịch hẹn càng sớm càng tốt.",
+          "when_to_use_vi": "Khi gấp nhưng chưa phải cấp cứu."
+        },
+        {
+          "fi": "Mun henkilötunnus on…",
+          "en": "My personal ID code is…",
+          "when_to_use": "They will ask. Practise saying your hetu aloud in Finnish before you call.",
+          "register": "neutral",
+          "vi": "Mã định danh của tôi là…",
+          "when_to_use_vi": "Họ sẽ hỏi. Hãy tập đọc to mã hetu bằng tiếng Phần Lan trước khi gọi."
+        },
+        {
+          "fi": "Mun nimi on Duc Nguyen. Mä tavaan sen: D-U-C…",
+          "en": "My name is Duc Nguyen. I'll spell it: D-U-C…",
+          "when_to_use": "Offer to spell before they ask. Saves a confusing exchange.",
+          "register": "neutral",
+          "vi": "Tôi tên Duc Nguyen. Tôi đánh vần: D-U-C…",
+          "when_to_use_vi": "Chủ động đánh vần trước khi họ hỏi. Tránh được một đoạn trao đổi rối rắm."
+        },
+        {
+          "fi": "Mulla on ollu kuumetta kolme päivää.",
+          "en": "I've had a fever for three days.",
+          "when_to_use": "The shape they want: symptom plus duration. Prepare this sentence first.",
+          "register": "neutral",
+          "vi": "Tôi sốt ba ngày rồi.",
+          "when_to_use_vi": "Đúng cấu trúc họ muốn: triệu chứng cộng thời gian. Hãy chuẩn bị câu này trước tiên."
+        },
+        {
+          "fi": "Se on aika kiireellinen.",
+          "en": "It's fairly urgent.",
+          "when_to_use": "Use it honestly. It genuinely changes how they handle the call.",
+          "register": "neutral",
+          "vi": "Chuyện này khá gấp ạ.",
+          "when_to_use_vi": "Dùng một cách trung thực. Nó thật sự thay đổi cách họ xử lý cuộc gọi."
+        },
+        {
+          "fi": "Sopiiks torstai kello kaks?",
+          "en": "Does Thursday at two work?",
+          "when_to_use": "Or answer theirs: 'Sopii' / 'Ei valitettavasti sovi'.",
+          "register": "casual",
+          "vi": "Thứ Năm hai giờ có được không ạ?",
+          "when_to_use_vi": "Hoặc trả lời đề nghị của họ: «Sopii» / «Ei valitettavasti sovi»."
+        },
+        {
+          "fi": "Onks aikasempaa aikaa?",
+          "en": "Is there an earlier slot?",
+          "when_to_use": "Always worth asking. Cancellations happen constantly.",
+          "register": "casual",
+          "vi": "Có giờ nào sớm hơn không ạ?",
+          "when_to_use_vi": "Luôn đáng hỏi. Người ta huỷ lịch liên tục."
+        },
+        {
+          "fi": "Mä haluaisin peruuttaa ajan.",
+          "en": "I'd like to cancel my appointment.",
+          "when_to_use": "Do cancel. Unused slots may be charged for.",
+          "register": "polite",
+          "vi": "Tôi muốn huỷ lịch hẹn.",
+          "when_to_use_vi": "Hãy huỷ thật. Lịch bỏ trống có thể bị tính phí."
+        },
+        {
+          "fi": "Voitsä laittaa mut takaisinsoittolistalle?",
+          "en": "Could you put me on the callback list?",
+          "when_to_use": "Standard practice. You'll be called back the same day, usually from an unknown number.",
+          "register": "neutral",
+          "vi": "Chị cho tôi vào danh sách gọi lại được không ạ?",
+          "when_to_use_vi": "Cách làm tiêu chuẩn. Họ sẽ gọi lại trong ngày, thường từ một số lạ."
+        },
+        {
+          "fi": "Mihin mä tuun ja mihin aikaan?",
+          "en": "Where do I come and at what time?",
+          "when_to_use": "Confirm both before hanging up. Health centres have several buildings.",
+          "register": "neutral",
+          "vi": "Tôi đến đâu và mấy giờ ạ?",
+          "when_to_use_vi": "Xác nhận cả hai trước khi cúp máy. Trạm y tế thường có vài toà nhà."
+        },
+        {
+          "fi": "Eli torstaina kahdelta, toinen kerros. Kiitos!",
+          "en": "So Thursday at two, second floor. Thanks!",
+          "when_to_use": "Repeat the whole booking back. This is the habit that prevents mistakes.",
+          "register": "neutral",
+          "vi": "Tức là thứ Năm hai giờ, tầng hai. Cảm ơn chị!",
+          "when_to_use_vi": "Nhắc lại toàn bộ lịch hẹn. Đây là thói quen ngăn được sai sót."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Booking, announced slowly",
+          "setting": "Duc calls the health centre and says up front that his Finnish is limited.",
+          "speed": "slow",
+          "note": "He prepares three things before dialling: the symptom, the duration, and his hetu.",
+          "lines": [
+            {
+              "speaker": "Hoitaja",
+              "fi": "Terveysasema, Laine.",
+              "en": "Health centre, Laine speaking.",
+              "vi": "Trạm y tế, Laine xin nghe."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hei! Anteeks, mä puhun vähän suomea. Voitsä puhuu hitaasti?",
+              "en": "Hi! Sorry, I speak a little Finnish. Could you speak slowly?",
+              "vi": "Chào chị! Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?"
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Totta kai. Miten voin auttaa?",
+              "en": "Of course. How can I help?",
+              "vi": "Tất nhiên rồi. Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Mä haluaisin varata ajan lääkärille.",
+              "en": "Thanks. I'd like to book an appointment with a doctor.",
+              "vi": "Cảm ơn chị. Tôi muốn đặt lịch khám với bác sĩ."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Selvä. Mikä vaiva?",
+              "en": "Right. What's the trouble?",
+              "vi": "Vâng. Anh bị làm sao ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mulla on ollu kuumetta kolme päivää, ja kurkku on tosi kipeä.",
+              "en": "I've had a fever for three days, and my throat is very sore.",
+              "vi": "Tôi sốt ba ngày rồi, và họng rất đau."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Okei. Onko yskää tai hengitysvaikeuksia?",
+              "en": "Okay. Is there a cough or breathing difficulties?",
+              "vi": "Vâng. Có ho hay khó thở không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vähän yskää. Ei hengitysvaikeuksia.",
+              "en": "A bit of a cough. No breathing difficulties.",
+              "vi": "Ho một chút. Không khó thở."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Hyvä. Mikä on sun henkilötunnus?",
+              "en": "Good. What's your personal ID code?",
+              "vi": "Tốt. Mã định danh của anh là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Se on 120388-123A.",
+              "en": "It's 120388-123A.",
+              "vi": "Là 120388-123A."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Kiitos. Meillä ois vapaa aika huomenna kello 14.30. Sopiiko?",
+              "en": "Thanks. We have a free slot tomorrow at 14:30. Does that suit?",
+              "vi": "Cảm ơn anh. Ngày mai lúc 14:30 còn trống. Anh thấy được không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii hyvin. Mihin mä tuun?",
+              "en": "That works well. Where do I come?",
+              "vi": "Được lắm. Tôi đến đâu ạ?"
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Pääovesta sisään, toinen kerros, ilmoittaudu automaatilla.",
+              "en": "In the main door, second floor, check in at the machine.",
+              "vi": "Vào cửa chính, tầng hai, đăng ký ở máy tự động ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Eli huomenna 14.30, toinen kerros, ilmoittautuminen automaatilla. Kiitos!",
+              "en": "So tomorrow at 14:30, second floor, check in at the machine. Thanks!",
+              "vi": "Tức là mai 14:30, tầng hai, đăng ký ở máy. Cảm ơn chị!"
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Juuri niin. Tervetuloa!",
+              "en": "Exactly right. Welcome!",
+              "vi": "Chính xác ạ. Hẹn gặp anh!"
+            }
+          ],
+          "title_vi": "Đặt lịch, có báo trước là nói chậm",
+          "setting_vi": "Duc gọi cho trạm y tế và nói ngay từ đầu rằng tiếng Phần Lan của mình còn hạn chế.",
+          "note_vi": "Anh chuẩn bị ba thứ trước khi bấm số: triệu chứng, thời gian kéo dài, và mã hetu."
+        },
+        {
+          "title": "The callback system",
+          "setting": "Busy morning. No slots on the line, so they take a number instead.",
+          "speed": "natural",
+          "note": "Callbacks come from unknown numbers. Answer everything that day.",
+          "lines": [
+            {
+              "speaker": "Hoitaja",
+              "fi": "Terveysasema, päivää.",
+              "en": "Health centre, good day.",
+              "vi": "Trạm y tế xin chào."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Päivää! Mä tarvitsisin ajan lääkärille, aika pian.",
+              "en": "Good day! I'd need a doctor's appointment, fairly soon.",
+              "vi": "Chào chị! Tôi cần lịch khám bác sĩ, khá sớm ạ."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Joo. Meillä on nyt tosi ruuhkaa. Laitetaanks sut takaisinsoittoon?",
+              "en": "Yeah. We're very busy right now. Shall we put you on callback?",
+              "vi": "Vâng. Hiện giờ bên tôi đang rất đông. Tôi đưa anh vào danh sách gọi lại nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, sopii. Milloin ne soittaa?",
+              "en": "Yeah, that works. When do they call?",
+              "vi": "Vâng, được ạ. Khi nào họ gọi?"
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Tänään, viimeistään neljään mennessä.",
+              "en": "Today, by four at the latest.",
+              "vi": "Hôm nay, muộn nhất là trước bốn giờ ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Numero on 040 123 4567.",
+              "en": "Right. The number is 040 123 4567.",
+              "vi": "Vâng. Số của tôi là 040 123 4567."
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Kiitos. Se voi näkyä tuntemattomana numerona.",
+              "en": "Thanks. It may show as an unknown number.",
+              "vi": "Cảm ơn anh. Số gọi đến có thể hiện là số lạ ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei, mä vastaan kaikkiin. Kiitos!",
+              "en": "Okay, I'll answer everything. Thanks!",
+              "vi": "Vâng, tôi sẽ nghe hết. Cảm ơn chị!"
+            },
+            {
+              "speaker": "Hoitaja",
+              "fi": "Hyvä. Kuulemiin!",
+              "en": "Good. Goodbye!",
+              "vi": "Vâng. Chào anh!"
+            }
+          ],
+          "title_vi": "Hệ thống gọi lại",
+          "setting_vi": "Một buổi sáng đông. Không còn giờ trống trên đường dây nên họ lấy số thay vào đó.",
+          "note_vi": "Cuộc gọi lại đến từ số lạ. Hôm đó hãy nghe tất cả."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Book an appointment",
+          "scenario": "Call, explain your Finnish level, describe the problem, and confirm the booking back.",
+          "your_role": "You, on the phone",
+          "partner_role": "A nurse at the health centre",
+          "turns": [
+            {
+              "speaker": "Hoitaja",
+              "is_your_turn": false,
+              "fi": "Terveysasema, Laine.",
+              "en": "Health centre, Laine speaking.",
+              "vi": "Trạm y tế, Laine xin nghe."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hei! Anteeks, mä puhun vähän suomea. Voitsä puhuu hitaasti?",
+              "en": "Hi! Sorry, I speak a little Finnish. Could you speak slowly?",
+              "hint": "Say this first, before you get lost. It changes the whole call.",
+              "vi": "Chào chị! Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?",
+              "hint_vi": "Nói câu này trước, đừng đợi đến lúc đã lạc. Nó thay đổi cả cuộc gọi."
+            },
+            {
+              "speaker": "Hoitaja",
+              "is_your_turn": false,
+              "fi": "Totta kai. Miten voin auttaa?",
+              "en": "Of course. How can I help?",
+              "vi": "Tất nhiên rồi. Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä haluaisin varata ajan lääkärille.",
+              "en": "I'd like to book an appointment with a doctor.",
+              "hint": "The core sentence. Conditional, and 'lääkärille' with -lle.",
+              "vi": "Tôi muốn đặt lịch khám với bác sĩ.",
+              "hint_vi": "Câu cốt lõi. Thể điều kiện, và «lääkärille» với đuôi -lle."
+            },
+            {
+              "speaker": "Hoitaja",
+              "is_your_turn": false,
+              "fi": "Selvä. Mikä vaiva?",
+              "en": "Right. What's the trouble?",
+              "vi": "Vâng. Anh bị làm sao ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mulla on ollu kuumetta kolme päivää.",
+              "en": "I've had a fever for three days.",
+              "hint": "Symptom plus duration. Prepare this sentence before dialling.",
+              "vi": "Tôi sốt ba ngày rồi.",
+              "hint_vi": "Triệu chứng cộng thời gian. Chuẩn bị câu này trước khi bấm số."
+            },
+            {
+              "speaker": "Hoitaja",
+              "is_your_turn": false,
+              "fi": "Okei. Mikä on sun henkilötunnus?",
+              "en": "Okay. What's your personal ID code?",
+              "vi": "Vâng. Mã định danh của anh là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Se on 120388-123A.",
+              "en": "It's 120388-123A.",
+              "hint": "Know your hetu by heart, in Finnish.",
+              "vi": "Là 120388-123A.",
+              "hint_vi": "Hãy thuộc lòng mã hetu, bằng tiếng Phần Lan."
+            },
+            {
+              "speaker": "Hoitaja",
+              "is_your_turn": false,
+              "fi": "Kiitos. Huomenna kello 14.30 sopii?",
+              "en": "Thanks. Tomorrow at 14:30 works?",
+              "vi": "Cảm ơn anh. Ngày mai 14:30 được không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Sopii. Eli huomenna 14.30 — mihin mä tuun?",
+              "en": "It works. So tomorrow at 14:30 — where do I come?",
+              "hint": "Confirm the time and ask where. Both matter.",
+              "vi": "Được ạ. Tức là mai 14:30 — tôi đến đâu ạ?",
+              "hint_vi": "Xác nhận giờ và hỏi địa điểm. Cả hai đều quan trọng."
+            }
+          ],
+          "title_vi": "Đặt một lịch khám",
+          "scenario_vi": "Gọi điện, nói rõ trình độ tiếng Phần Lan của bạn, mô tả vấn đề, và nhắc lại lịch hẹn để xác nhận.",
+          "your_role_vi": "Bạn, đang gọi điện",
+          "partner_role_vi": "Một y tá ở trạm y tế"
+        }
+      ],
+      "title_vi": "Đặt lịch khám qua điện thoại",
+      "subtitle_vi": "Haluaisin varata ajan lääkärille.",
+      "warmup_situation_vi": "Bạn phải gọi cho trạm y tế. Có menu tự động, rồi nhạc chờ, rồi một y tá nói rất nhanh và hỏi những câu bạn không ngờ tới. Bạn không thấy mặt họ và không chỉ tay vào đâu được.",
+      "warmup_question_vi": "Bạn chuẩn bị gì trước khi bấm số — và bạn nói gì trong mười giây đầu tiên?",
+      "rescue_vi": "Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?",
+      "rescue_note_vi": "Hãy nói câu này ngay đầu cuộc gọi, đừng đợi đến lúc đã lạc. Nhân viên trạm y tế gặp chuyện này hằng ngày, sẽ chậm lại ngay lập tức, và thường kiểm tra xem bạn có hiểu không trong lúc nói. Báo trước làm thay đổi cả cuộc gọi."
+    },
+    {
+      "slug": "symptoms",
+      "number": "4.2",
+      "title": "Symptoms",
+      "subtitle": "Mulla on kuumetta. Päätä särkee. Kurkku on kipee.",
+      "warmup_situation": "The doctor asks what's wrong. You know the word for 'head' and the word for 'hurt' but you have no idea how to put them together.",
+      "warmup_question": "Finnish has three different patterns for saying something hurts. Which one goes with which body part?",
+      "rescue_fi": "Mä näytän mistä.",
+      "rescue_en": "I'll show you where.",
+      "rescue_note": "Pointing is a completely legitimate medical communication strategy and every doctor accepts it instantly. Say the sentence so it's a deliberate act rather than a failure, then point. You will be understood perfectly.",
+      "vocab": [
+        {
+          "fi": "oire",
+          "en": "symptom",
+          "pos": "noun",
+          "vi": "triệu chứng"
+        },
+        {
+          "fi": "kipu",
+          "en": "pain",
+          "pos": "noun",
+          "vi": "cơn đau"
+        },
+        {
+          "fi": "kipeä",
+          "en": "sore, painful",
+          "pos": "adjective",
+          "note": "Pattern 1: 'Kurkku on kipeä' = my throat is sore.",
+          "vi": "đau, nhức",
+          "note_vi": "Mẫu 1: «Kurkku on kipeä» = họng tôi đau."
+        },
+        {
+          "fi": "särkeä",
+          "en": "to ache",
+          "pos": "verb",
+          "note": "Pattern 2: 'Päätä särkee' = my head aches. The body part takes the partitive.",
+          "vi": "nhức, đau âm ỉ",
+          "note_vi": "Mẫu 2: «Päätä särkee» = đầu tôi nhức. Bộ phận cơ thể ở cách phân từ."
+        },
+        {
+          "fi": "sattua",
+          "en": "to hurt",
+          "pos": "verb",
+          "note": "Pattern 3: 'Tähän sattuu' = it hurts here. Used with pointing.",
+          "vi": "đau (khi chạm vào)",
+          "note_vi": "Mẫu 3: «Tähän sattuu» = chỗ này đau. Dùng kèm chỉ tay."
+        },
+        {
+          "fi": "kuume",
+          "en": "fever",
+          "pos": "noun",
+          "note": "'Mulla on kuumetta' — always partitive with kuume.",
+          "vi": "sốt",
+          "note_vi": "«Mulla on kuumetta» — luôn dùng cách phân từ với kuume."
+        },
+        {
+          "fi": "kuumetta",
+          "en": "fever (partitive)",
+          "pos": "noun",
+          "vi": "sốt (cách phân từ)"
+        },
+        {
+          "fi": "yskä",
+          "en": "cough",
+          "pos": "noun",
+          "vi": "ho"
+        },
+        {
+          "fi": "nuha",
+          "en": "runny nose",
+          "pos": "noun",
+          "vi": "sổ mũi"
+        },
+        {
+          "fi": "kurkku",
+          "en": "throat",
+          "pos": "noun",
+          "vi": "họng"
+        },
+        {
+          "fi": "pää",
+          "en": "head",
+          "pos": "noun",
+          "vi": "đầu"
+        },
+        {
+          "fi": "päänsärky",
+          "en": "headache",
+          "pos": "noun",
+          "vi": "đau đầu"
+        },
+        {
+          "fi": "vatsa",
+          "en": "stomach",
+          "pos": "noun",
+          "vi": "bụng, dạ dày"
+        },
+        {
+          "fi": "vatsakipu",
+          "en": "stomach ache",
+          "pos": "noun",
+          "vi": "đau bụng"
+        },
+        {
+          "fi": "pahoinvointi",
+          "en": "nausea",
+          "pos": "noun",
+          "vi": "buồn nôn"
+        },
+        {
+          "fi": "huimaus",
+          "en": "dizziness",
+          "pos": "noun",
+          "vi": "chóng mặt"
+        },
+        {
+          "fi": "väsymys",
+          "en": "fatigue",
+          "pos": "noun",
+          "vi": "mệt mỏi, kiệt sức"
+        },
+        {
+          "fi": "hengenahdistus",
+          "en": "shortness of breath",
+          "pos": "noun",
+          "note": "Say this word clearly if it applies. It escalates the urgency immediately.",
+          "vi": "khó thở",
+          "note_vi": "Hãy nói rõ từ này nếu đúng. Nó lập tức nâng mức khẩn cấp."
+        },
+        {
+          "fi": "ihottuma",
+          "en": "rash",
+          "pos": "noun",
+          "vi": "phát ban"
+        },
+        {
+          "fi": "turvotus",
+          "en": "swelling",
+          "pos": "noun",
+          "vi": "sưng phù"
+        },
+        {
+          "fi": "ripuli",
+          "en": "diarrhoea",
+          "pos": "noun",
+          "vi": "tiêu chảy"
+        },
+        {
+          "fi": "ummetus",
+          "en": "constipation",
+          "pos": "noun",
+          "vi": "táo bón"
+        },
+        {
+          "fi": "unettomuus",
+          "en": "insomnia",
+          "pos": "noun",
+          "vi": "mất ngủ"
+        },
+        {
+          "fi": "alkaa",
+          "en": "to begin",
+          "pos": "verb",
+          "note": "'Millon se alko?' = when did it start? You will be asked.",
+          "vi": "bắt đầu",
+          "note_vi": "«Millon se alko?» = nó bắt đầu khi nào? Bạn sẽ được hỏi."
+        },
+        {
+          "fi": "pahentua",
+          "en": "to get worse",
+          "pos": "verb",
+          "vi": "trở nặng hơn"
+        },
+        {
+          "fi": "helpottaa",
+          "en": "to ease, to relieve",
+          "pos": "verb",
+          "vi": "làm dịu, đỡ hơn"
+        },
+        {
+          "fi": "jatkuva",
+          "en": "constant",
+          "pos": "adjective",
+          "vi": "liên tục"
+        },
+        {
+          "fi": "ajoittainen",
+          "en": "intermittent",
+          "pos": "adjective",
+          "vi": "từng lúc, không liên tục"
+        },
+        {
+          "fi": "koko ajan",
+          "en": "all the time",
+          "pos": "phrase",
+          "vi": "suốt cả ngày, liên tục"
+        },
+        {
+          "fi": "aamuisin",
+          "en": "in the mornings",
+          "pos": "adverb",
+          "vi": "vào buổi sáng"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mulla on kuumetta.",
+          "en": "I have a fever.",
+          "when_to_use": "Always partitive: kuumetta, yskää, nuhaa. 'Mulla on' + partitive.",
+          "register": "neutral",
+          "vi": "Tôi bị sốt.",
+          "when_to_use_vi": "Luôn dùng cách phân từ: kuumetta, yskää, nuhaa. «Mulla on» + cách phân từ."
+        },
+        {
+          "fi": "Kurkku on tosi kipeä.",
+          "en": "My throat is really sore.",
+          "when_to_use": "Pattern 1: body part + on + kipeä. Works for kurkku, korva, polvi.",
+          "register": "neutral",
+          "vi": "Họng tôi đau lắm.",
+          "when_to_use_vi": "Mẫu 1: bộ phận + on + kipeä. Dùng được cho kurkku, korva, polvi."
+        },
+        {
+          "fi": "Päätä särkee.",
+          "en": "My head aches.",
+          "when_to_use": "Pattern 2: body part in partitive + särkee. Vatsaa särkee, hampaita särkee.",
+          "register": "neutral",
+          "vi": "Tôi nhức đầu.",
+          "when_to_use_vi": "Mẫu 2: bộ phận ở cách phân từ + särkee. Vatsaa särkee, hampaita särkee."
+        },
+        {
+          "fi": "Tähän sattuu.",
+          "en": "It hurts here.",
+          "when_to_use": "Pattern 3, with pointing. The most useful of the three.",
+          "register": "casual",
+          "vi": "Chỗ này đau.",
+          "when_to_use_vi": "Mẫu 3, kèm chỉ tay. Hữu dụng nhất trong ba mẫu."
+        },
+        {
+          "fi": "Sattuuks tähän?",
+          "en": "Does it hurt here?",
+          "when_to_use": "The doctor will ask you this while pressing. Answer 'joo' or 'ei'.",
+          "register": "casual",
+          "vi": "Chỗ này có đau không?",
+          "when_to_use_vi": "Bác sĩ sẽ hỏi câu này trong lúc ấn. Trả lời «joo» hoặc «ei»."
+        },
+        {
+          "fi": "Se alko kolme päivää sitten.",
+          "en": "It started three days ago.",
+          "when_to_use": "Duration is the second thing every doctor asks. Have the number ready.",
+          "register": "neutral",
+          "vi": "Nó bắt đầu từ ba ngày trước.",
+          "when_to_use_vi": "Thời gian kéo dài là thứ thứ hai mọi bác sĩ hỏi. Hãy chuẩn bị sẵn con số."
+        },
+        {
+          "fi": "Se on pahentunu eilisestä.",
+          "en": "It's got worse since yesterday.",
+          "when_to_use": "Direction of travel matters more than severity. Say if it's worsening.",
+          "register": "neutral",
+          "vi": "Từ hôm qua nó nặng hơn.",
+          "when_to_use_vi": "Chiều hướng quan trọng hơn mức độ. Hãy nói nếu nó đang nặng lên."
+        },
+        {
+          "fi": "Se sattuu koko ajan.",
+          "en": "It hurts all the time.",
+          "when_to_use": "Versus 'ajoittain' (intermittently). They will ask which.",
+          "register": "neutral",
+          "vi": "Nó đau liên tục.",
+          "when_to_use_vi": "So với «ajoittain» (từng lúc). Họ sẽ hỏi là cái nào."
+        },
+        {
+          "fi": "Mulla on pahoinvointia ja huimausta.",
+          "en": "I have nausea and dizziness.",
+          "when_to_use": "Both partitive. Listing symptoms uses this pattern throughout.",
+          "register": "neutral",
+          "vi": "Tôi bị buồn nôn và chóng mặt.",
+          "when_to_use_vi": "Cả hai đều ở cách phân từ. Liệt kê triệu chứng dùng mẫu này xuyên suốt."
+        },
+        {
+          "fi": "Mä en oo saanu nukuttua.",
+          "en": "I haven't been able to sleep.",
+          "when_to_use": "Relevant context that doctors find useful.",
+          "register": "casual",
+          "vi": "Tôi không ngủ được.",
+          "when_to_use_vi": "Bối cảnh liên quan mà bác sĩ thấy hữu ích."
+        },
+        {
+          "fi": "Asteikolla yhdestä kymmeneen, ehkä seitsemän.",
+          "en": "On a scale of one to ten, maybe seven.",
+          "when_to_use": "You will be asked to rate the pain. Prepare a number.",
+          "register": "neutral",
+          "vi": "Thang từ một đến mười thì khoảng bảy.",
+          "when_to_use_vi": "Bạn sẽ được yêu cầu chấm điểm cơn đau. Hãy chuẩn bị sẵn một con số."
+        },
+        {
+          "fi": "Mä näytän mistä.",
+          "en": "I'll show you where.",
+          "when_to_use": "Then point. Completely acceptable and instantly understood.",
+          "register": "casual",
+          "vi": "Để tôi chỉ chỗ.",
+          "when_to_use_vi": "Rồi chỉ. Hoàn toàn chấp nhận được và được hiểu ngay lập tức."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Describing symptoms",
+          "setting": "The consultation room. The doctor works through a standard sequence.",
+          "speed": "slow",
+          "note": "Watch the three pain patterns appear: on kipeä, särkee, sattuu.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "Päivää. No, mikä on ongelma?",
+              "en": "Good day. So, what's the problem?",
+              "vi": "Chào anh. Nào, vấn đề là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Päivää. Mulla on ollu kuumetta kolme päivää, ja kurkku on tosi kipeä.",
+              "en": "Good day. I've had a fever for three days, and my throat is really sore.",
+              "vi": "Chào bác sĩ. Tôi sốt ba ngày rồi, và họng rất đau."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Paljonko kuumetta on ollu?",
+              "en": "How high has the fever been?",
+              "vi": "Sốt cao bao nhiêu ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Korkeimmillaan 38,9.",
+              "en": "At its highest, 38.9.",
+              "vi": "Cao nhất là 38,9."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Selvä. Särkeekö päätä?",
+              "en": "Right. Does your head ache?",
+              "vi": "Vâng. Có nhức đầu không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, päätä särkee koko ajan.",
+              "en": "Yes, my head aches all the time.",
+              "vi": "Có, tôi nhức đầu liên tục."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Onko yskää tai hengenahdistusta?",
+              "en": "Is there a cough or shortness of breath?",
+              "vi": "Có ho hay khó thở không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vähän yskää. Ei hengenahdistusta.",
+              "en": "A bit of a cough. No shortness of breath.",
+              "vi": "Ho một chút. Không khó thở."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Hyvä. Katsotaanpa kurkkua. Avaa suu… Sattuuko tähän?",
+              "en": "Good. Let's look at your throat. Open your mouth… Does it hurt here?",
+              "vi": "Tốt. Để xem họng nào. Anh há miệng… Chỗ này có đau không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, siihen sattuu tosi paljon.",
+              "en": "Yes, that hurts a lot.",
+              "vi": "Có, chỗ đó đau lắm."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Nielurisat on tulehtuneet. Otetaan pikatesti.",
+              "en": "Your tonsils are inflamed. Let's take a rapid test.",
+              "vi": "Amidan bị viêm rồi. Mình làm xét nghiệm nhanh nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Mitä se testi kertoo?",
+              "en": "Right. What does the test tell you?",
+              "vi": "Vâng. Xét nghiệm đó cho biết gì ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Onko kyseessä streptokokki. Jos on, määrään antibiootin.",
+              "en": "Whether it's streptococcus. If it is, I'll prescribe an antibiotic.",
+              "vi": "Xem có phải liên cầu khuẩn không. Nếu đúng thì tôi kê kháng sinh."
+            }
+          ],
+          "title_vi": "Mô tả triệu chứng",
+          "setting_vi": "Phòng khám. Bác sĩ đi theo một trình tự chuẩn.",
+          "note_vi": "Hãy để ý ba mẫu nói về đau xuất hiện: on kipeä, särkee, sattuu."
+        },
+        {
+          "title": "Pointing instead of explaining",
+          "setting": "A different complaint, and vocabulary Duc doesn't have.",
+          "speed": "natural",
+          "note": "He doesn't know the word. He points and describes what it feels like instead.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "Mikä vaivaa?",
+              "en": "What's troubling you?",
+              "vi": "Anh bị làm sao ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mulla on kipua tässä. Mä näytän mistä.",
+              "en": "I have pain here. I'll show you where.",
+              "vi": "Tôi đau ở chỗ này. Để tôi chỉ chỗ."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Ahaa, oikea kylki. Sattuuko kun painan?",
+              "en": "Ah, the right side. Does it hurt when I press?",
+              "vi": "À, sườn phải. Tôi ấn có đau không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo! Tosi paljon.",
+              "en": "Yes! A lot.",
+              "vi": "Có! Đau lắm."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Millon se alko?",
+              "en": "When did it start?",
+              "vi": "Nó bắt đầu khi nào?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Eilen illalla. Ja se on pahentunu.",
+              "en": "Yesterday evening. And it's got worse.",
+              "vi": "Tối hôm qua. Và nó nặng hơn rồi."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Asteikolla yhdestä kymmeneen?",
+              "en": "On a scale of one to ten?",
+              "vi": "Thang từ một đến mười?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ehkä seitsemän. Kahdeksan kun mä liikun.",
+              "en": "Maybe seven. Eight when I move.",
+              "vi": "Khoảng bảy. Tám khi tôi cử động."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Onko ollu kuumetta tai pahoinvointia?",
+              "en": "Has there been fever or nausea?",
+              "vi": "Có sốt hay buồn nôn không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vähän pahoinvointia. Ei kuumetta.",
+              "en": "A bit of nausea. No fever.",
+              "vi": "Hơi buồn nôn. Không sốt."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Selvä. Otetaan verikoe ja katsotaan.",
+              "en": "Right. Let's take a blood test and see.",
+              "vi": "Vâng. Mình làm xét nghiệm máu rồi xem sao."
+            }
+          ],
+          "title_vi": "Chỉ tay thay vì giải thích",
+          "setting_vi": "Một vấn đề khác, và từ vựng mà Duc không có.",
+          "note_vi": "Anh ấy không biết từ đó. Anh chỉ tay và mô tả cảm giác thay vào đó."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Describe what's wrong",
+          "scenario": "Give the symptom, the duration, the direction, and a pain score.",
+          "your_role": "You, in the consultation room",
+          "partner_role": "The doctor",
+          "turns": [
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Päivää. Mikä on ongelma?",
+              "en": "Good day. What's the problem?",
+              "vi": "Chào anh. Vấn đề là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mulla on ollu kuumetta kolme päivää, ja kurkku on tosi kipeä.",
+              "en": "I've had a fever for three days, and my throat is really sore.",
+              "hint": "Symptom, duration, second symptom. One sentence.",
+              "vi": "Tôi sốt ba ngày rồi, và họng rất đau.",
+              "hint_vi": "Triệu chứng, thời gian, triệu chứng thứ hai. Một câu."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Paljonko kuumetta?",
+              "en": "How high a fever?",
+              "vi": "Sốt cao bao nhiêu?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Korkeimmillaan 38,9.",
+              "en": "At its highest, 38.9.",
+              "hint": "Give the actual number — they want the figure.",
+              "vi": "Cao nhất là 38,9.",
+              "hint_vi": "Đưa con số thật — họ muốn biết chỉ số."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Särkeekö päätä?",
+              "en": "Does your head ache?",
+              "vi": "Có nhức đầu không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, päätä särkee koko ajan.",
+              "en": "Yes, my head aches all the time.",
+              "hint": "The särkee pattern, plus constant vs intermittent.",
+              "vi": "Có, tôi nhức đầu liên tục.",
+              "hint_vi": "Mẫu särkee, cộng với liên tục hay từng lúc."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Onko oire pahentunu?",
+              "en": "Has the symptom got worse?",
+              "vi": "Triệu chứng có nặng lên không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, se on pahentunu eilisestä.",
+              "en": "Yes, it's got worse since yesterday.",
+              "hint": "Direction of travel matters more than severity.",
+              "vi": "Có, từ hôm qua nó nặng hơn.",
+              "hint_vi": "Chiều hướng quan trọng hơn mức độ."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Asteikolla yhdestä kymmeneen?",
+              "en": "On a scale of one to ten?",
+              "vi": "Thang từ một đến mười?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ehkä seitsemän.",
+              "en": "Maybe seven.",
+              "hint": "Have a number ready. You will always be asked.",
+              "vi": "Khoảng bảy.",
+              "hint_vi": "Chuẩn bị sẵn một con số. Bao giờ bạn cũng sẽ bị hỏi."
+            }
+          ],
+          "title_vi": "Mô tả bạn bị gì",
+          "scenario_vi": "Nêu triệu chứng, thời gian kéo dài, chiều hướng, và điểm số cơn đau.",
+          "your_role_vi": "Bạn, trong phòng khám",
+          "partner_role_vi": "Bác sĩ"
+        }
+      ],
+      "title_vi": "Triệu chứng",
+      "subtitle_vi": "Mulla on kuumetta. Päätä särkee. Kurkku on kipee.",
+      "warmup_situation_vi": "Bác sĩ hỏi bạn bị gì. Bạn biết từ «đầu» và từ «đau» nhưng không biết ghép chúng lại thế nào.",
+      "warmup_question_vi": "Tiếng Phần Lan có ba mẫu câu khác nhau để nói một chỗ nào đó bị đau. Mẫu nào đi với bộ phận nào?",
+      "rescue_vi": "Để tôi chỉ chỗ.",
+      "rescue_note_vi": "Chỉ tay là một chiến lược giao tiếp y tế hoàn toàn chính đáng và bác sĩ nào cũng chấp nhận ngay. Hãy nói câu này để nó thành một hành động có chủ ý chứ không phải một thất bại, rồi chỉ. Bạn sẽ được hiểu hoàn hảo."
+    },
+    {
+      "slug": "body-parts-and-pain",
+      "number": "4.3",
+      "title": "Body parts and pain",
+      "subtitle": "Tähän sattuu. Millon se alko?",
+      "warmup_situation": "The doctor presses four places on your abdomen and asks something each time. You need to answer accurately, fast, four times.",
+      "warmup_question": "Do you know your left from your right in Finnish — under pressure?",
+      "rescue_fi": "Hetki, mä mietin… ei, se toinen puoli.",
+      "rescue_en": "One moment, let me think… no, the other side.",
+      "rescue_note": "Correcting yourself is far better than guessing. 'Se toinen puoli' — the other side — works even when vasen and oikea have deserted you, which under examination they often do.",
+      "vocab": [
+        {
+          "fi": "pää",
+          "en": "head",
+          "pos": "noun",
+          "vi": "đầu"
+        },
+        {
+          "fi": "otsa",
+          "en": "forehead",
+          "pos": "noun",
+          "vi": "trán"
+        },
+        {
+          "fi": "silmä",
+          "en": "eye",
+          "pos": "noun",
+          "vi": "mắt"
+        },
+        {
+          "fi": "korva",
+          "en": "ear",
+          "pos": "noun",
+          "vi": "tai"
+        },
+        {
+          "fi": "nenä",
+          "en": "nose",
+          "pos": "noun",
+          "vi": "mũi"
+        },
+        {
+          "fi": "suu",
+          "en": "mouth",
+          "pos": "noun",
+          "vi": "miệng"
+        },
+        {
+          "fi": "hammas",
+          "en": "tooth",
+          "pos": "noun",
+          "vi": "răng"
+        },
+        {
+          "fi": "kaula",
+          "en": "neck (front)",
+          "pos": "noun",
+          "vi": "cổ (phía trước)"
+        },
+        {
+          "fi": "niska",
+          "en": "neck (back)",
+          "pos": "noun",
+          "note": "Finnish distinguishes these. 'Niska on jumissa' = my neck is stiff.",
+          "vi": "gáy, cổ (phía sau)",
+          "note_vi": "Tiếng Phần Lan phân biệt hai từ này. «Niska on jumissa» = cổ tôi bị cứng."
+        },
+        {
+          "fi": "hartiat",
+          "en": "shoulders",
+          "pos": "noun",
+          "vi": "vai (hai bên)"
+        },
+        {
+          "fi": "olkapää",
+          "en": "shoulder (joint)",
+          "pos": "noun",
+          "vi": "khớp vai"
+        },
+        {
+          "fi": "käsi",
+          "en": "hand, arm",
+          "pos": "noun",
+          "note": "Covers both. 'Käsivarsi' if you need arm specifically.",
+          "vi": "tay, cánh tay",
+          "note_vi": "Dùng cho cả hai. Nếu cần nói riêng cánh tay thì dùng «käsivarsi»."
+        },
+        {
+          "fi": "sormi",
+          "en": "finger",
+          "pos": "noun",
+          "vi": "ngón tay"
+        },
+        {
+          "fi": "ranne",
+          "en": "wrist",
+          "pos": "noun",
+          "vi": "cổ tay"
+        },
+        {
+          "fi": "kyynärpää",
+          "en": "elbow",
+          "pos": "noun",
+          "vi": "khuỷu tay"
+        },
+        {
+          "fi": "rinta",
+          "en": "chest",
+          "pos": "noun",
+          "note": "'Rinnassa sattuu' — say this and you will be seen immediately.",
+          "vi": "ngực",
+          "note_vi": "«Rinnassa sattuu» — nói câu này là bạn sẽ được khám ngay lập tức."
+        },
+        {
+          "fi": "selkä",
+          "en": "back",
+          "pos": "noun",
+          "vi": "lưng"
+        },
+        {
+          "fi": "alaselkä",
+          "en": "lower back",
+          "pos": "noun",
+          "vi": "thắt lưng, lưng dưới"
+        },
+        {
+          "fi": "kylki",
+          "en": "side, flank",
+          "pos": "noun",
+          "vi": "sườn, hông"
+        },
+        {
+          "fi": "lantio",
+          "en": "hip, pelvis",
+          "pos": "noun",
+          "vi": "hông, khung chậu"
+        },
+        {
+          "fi": "polvi",
+          "en": "knee",
+          "pos": "noun",
+          "vi": "đầu gối"
+        },
+        {
+          "fi": "nilkka",
+          "en": "ankle",
+          "pos": "noun",
+          "vi": "mắt cá chân"
+        },
+        {
+          "fi": "jalka",
+          "en": "leg, foot",
+          "pos": "noun",
+          "note": "Covers both, like käsi. Point if it matters.",
+          "vi": "chân, bàn chân",
+          "note_vi": "Dùng cho cả hai, giống käsi. Cần thì hãy chỉ tay."
+        },
+        {
+          "fi": "varvas",
+          "en": "toe",
+          "pos": "noun",
+          "vi": "ngón chân"
+        },
+        {
+          "fi": "vasen",
+          "en": "left",
+          "pos": "adjective",
+          "vi": "bên trái"
+        },
+        {
+          "fi": "oikea",
+          "en": "right",
+          "pos": "adjective",
+          "note": "Also means 'correct'. Context decides.",
+          "vi": "bên phải",
+          "note_vi": "Cũng có nghĩa là «đúng». Ngữ cảnh quyết định."
+        },
+        {
+          "fi": "molemmat",
+          "en": "both",
+          "pos": "pronoun",
+          "vi": "cả hai"
+        },
+        {
+          "fi": "nyrjähtää",
+          "en": "to sprain",
+          "pos": "verb",
+          "vi": "bong gân, trẹo"
+        },
+        {
+          "fi": "murtua",
+          "en": "to break, to fracture",
+          "pos": "verb",
+          "vi": "gãy (xương)"
+        },
+        {
+          "fi": "venähtää",
+          "en": "to strain, to pull",
+          "pos": "verb",
+          "vi": "căng cơ, giãn cơ"
+        },
+        {
+          "fi": "jumissa",
+          "en": "stiff, locked up",
+          "pos": "adverb",
+          "note": "Very common for backs and necks. 'Selkä on jumissa'.",
+          "vi": "bị cứng, bị kẹt",
+          "note_vi": "Rất hay dùng cho lưng và cổ. «Selkä on jumissa»."
+        },
+        {
+          "fi": "pistävä",
+          "en": "sharp, stabbing",
+          "pos": "adjective",
+          "vi": "nhói, như dao đâm"
+        },
+        {
+          "fi": "jomottava",
+          "en": "dull, throbbing",
+          "pos": "adjective",
+          "note": "They'll ask which kind. These two words cover most of it.",
+          "vi": "âm ỉ, giật giật",
+          "note_vi": "Họ sẽ hỏi là kiểu nào. Hai từ này bao gần hết các trường hợp."
+        },
+        {
+          "fi": "polttava",
+          "en": "burning",
+          "pos": "adjective",
+          "vi": "bỏng rát"
+        },
+        {
+          "fi": "säteilevä",
+          "en": "radiating",
+          "pos": "adjective",
+          "note": "'Kipu säteilee käteen' = the pain radiates into my arm. Clinically important.",
+          "vi": "lan toả",
+          "note_vi": "«Kipu säteilee käteen» = cơn đau lan xuống tay. Quan trọng về mặt lâm sàng."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Tähän sattuu.",
+          "en": "It hurts here.",
+          "when_to_use": "With pointing. Your primary tool.",
+          "register": "casual",
+          "vi": "Chỗ này đau.",
+          "when_to_use_vi": "Kèm chỉ tay. Công cụ chính của bạn."
+        },
+        {
+          "fi": "Vasen polvi on kipeä.",
+          "en": "My left knee is sore.",
+          "when_to_use": "Side plus body part plus kipeä. Say the side — doctors need it.",
+          "register": "neutral",
+          "vi": "Đầu gối trái tôi đau.",
+          "when_to_use_vi": "Bên + bộ phận + kipeä. Hãy nói rõ bên nào — bác sĩ cần."
+        },
+        {
+          "fi": "Alaselkä on ihan jumissa.",
+          "en": "My lower back is completely stiff.",
+          "when_to_use": "The most common Finnish complaint after the weather.",
+          "register": "casual",
+          "vi": "Lưng dưới tôi cứng đờ hẳn.",
+          "when_to_use_vi": "Lời than phổ biến nhất của người Phần Lan, chỉ sau thời tiết."
+        },
+        {
+          "fi": "Kipu säteilee jalkaan.",
+          "en": "The pain radiates into my leg.",
+          "when_to_use": "Clinically important. Say it if it does.",
+          "register": "neutral",
+          "vi": "Cơn đau lan xuống chân.",
+          "when_to_use_vi": "Quan trọng về mặt lâm sàng. Hãy nói nếu đúng vậy."
+        },
+        {
+          "fi": "Se on pistävä kipu.",
+          "en": "It's a sharp pain.",
+          "when_to_use": "Versus 'jomottava' (dull). They will ask which.",
+          "register": "neutral",
+          "vi": "Đó là cơn đau nhói.",
+          "when_to_use_vi": "So với «jomottava» (âm ỉ). Họ sẽ hỏi là kiểu nào."
+        },
+        {
+          "fi": "Mä nyrjäytin nilkan.",
+          "en": "I sprained my ankle.",
+          "when_to_use": "Common injury, useful verb.",
+          "register": "casual",
+          "vi": "Tôi bị trẹo mắt cá chân.",
+          "when_to_use_vi": "Chấn thương thường gặp, động từ hữu dụng."
+        },
+        {
+          "fi": "Mä kaaduin ja löin pään.",
+          "en": "I fell and hit my head.",
+          "when_to_use": "Head injuries are taken seriously. Say it plainly.",
+          "register": "neutral",
+          "vi": "Tôi ngã và đập đầu.",
+          "when_to_use_vi": "Chấn thương đầu được xử lý nghiêm túc. Hãy nói thẳng."
+        },
+        {
+          "fi": "Se sattuu kun mä liikutan sitä.",
+          "en": "It hurts when I move it.",
+          "when_to_use": "Movement-related pain. A key diagnostic detail.",
+          "register": "neutral",
+          "vi": "Nó đau khi tôi cử động chỗ đó.",
+          "when_to_use_vi": "Đau liên quan đến cử động. Một chi tiết chẩn đoán then chốt."
+        },
+        {
+          "fi": "Mä en pysty nostaa kättä.",
+          "en": "I can't lift my arm.",
+          "when_to_use": "Loss of function is more important than pain level. Lead with it.",
+          "register": "neutral",
+          "vi": "Tôi không nhấc tay lên được.",
+          "when_to_use_vi": "Mất chức năng quan trọng hơn mức độ đau. Hãy nói điều này trước."
+        },
+        {
+          "fi": "Rinnassa sattuu.",
+          "en": "My chest hurts.",
+          "when_to_use": "Say this and you will be prioritised immediately. Never downplay it.",
+          "register": "neutral",
+          "vi": "Ngực tôi đau.",
+          "when_to_use_vi": "Nói câu này là bạn được ưu tiên ngay. Đừng bao giờ nói giảm đi."
+        },
+        {
+          "fi": "Molemmissa jaloissa.",
+          "en": "In both legs.",
+          "when_to_use": "One side or both — they always ask.",
+          "register": "neutral",
+          "vi": "Ở cả hai chân.",
+          "when_to_use_vi": "Một bên hay cả hai — họ luôn hỏi."
+        },
+        {
+          "fi": "Se on ollu näin kaks viikkoa.",
+          "en": "It's been like this for two weeks.",
+          "when_to_use": "Duration again. Always have the number.",
+          "register": "neutral",
+          "vi": "Nó như thế này hai tuần rồi.",
+          "when_to_use_vi": "Lại là thời gian. Luôn chuẩn bị sẵn con số."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "The examination",
+          "setting": "The doctor examines and asks at each step. Short, precise answers.",
+          "speed": "slow",
+          "note": "Notice how little Duc says. Precision beats fluency here.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "Käy makuulle. Mihin sattuu?",
+              "en": "Lie down. Where does it hurt?",
+              "vi": "Anh nằm xuống. Đau chỗ nào?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tähän, oikeaan kylkeen.",
+              "en": "Here, in the right side.",
+              "vi": "Chỗ này, sườn bên phải."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Onko kipu pistävä vai jomottava?",
+              "en": "Is the pain sharp or dull?",
+              "vi": "Cơn đau nhói hay âm ỉ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Pistävä. Varsinkin kun mä liikun.",
+              "en": "Sharp. Especially when I move.",
+              "vi": "Nhói. Nhất là khi tôi cử động."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Säteileekö se jonnekin?",
+              "en": "Does it radiate anywhere?",
+              "vi": "Nó có lan đi đâu không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, vähän selkään päin.",
+              "en": "Yes, a bit towards my back.",
+              "vi": "Có, lan về phía lưng một chút."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Painan nyt. Sattuuko tähän?",
+              "en": "I'm pressing now. Does it hurt here?",
+              "vi": "Tôi ấn đây. Chỗ này có đau không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei. Vähän ylempänä.",
+              "en": "No. A bit higher up.",
+              "vi": "Không. Cao hơn một chút."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Entä tähän?",
+              "en": "And here?",
+              "vi": "Còn chỗ này?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo! Siihen sattuu.",
+              "en": "Yes! That hurts.",
+              "vi": "Có! Chỗ đó đau."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Selvä. Ja millon se alko?",
+              "en": "Right. And when did it start?",
+              "vi": "Vâng. Nó bắt đầu khi nào?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Eilen illalla, noin kahdeksalta.",
+              "en": "Yesterday evening, around eight.",
+              "vi": "Tối hôm qua, khoảng tám giờ."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Hyvä, kiitos. Otetaan ultraääni varmuuden vuoksi.",
+              "en": "Good, thanks. Let's do an ultrasound to be sure.",
+              "vi": "Tốt, cảm ơn anh. Mình siêu âm cho chắc nhé."
+            }
+          ],
+          "title_vi": "Buổi khám",
+          "setting_vi": "Bác sĩ khám và hỏi ở từng bước. Câu trả lời ngắn, chính xác.",
+          "note_vi": "Để ý Duc nói ít đến mức nào. Ở đây chính xác quan trọng hơn trôi chảy."
+        },
+        {
+          "title": "An injury, explained fast",
+          "setting": "Duc twisted his ankle playing football. Practical, quick.",
+          "speed": "natural",
+          "note": "Mechanism, then function, then pain. That's the order doctors want.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "No niin, mitä kävi?",
+              "en": "Right then, what happened?",
+              "vi": "Nào, chuyện gì xảy ra vậy?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä pelasin futista ja nyrjäytin nilkan. Vasen.",
+              "en": "I was playing football and sprained my ankle. Left one.",
+              "vi": "Tôi đá bóng và trẹo mắt cá. Bên trái."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Pystytkö kävelemään?",
+              "en": "Can you walk?",
+              "vi": "Anh đi được không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Pystyn vähän, mut sattuu.",
+              "en": "A bit, but it hurts.",
+              "vi": "Được một chút, nhưng đau."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Onko turvotusta?",
+              "en": "Is there swelling?",
+              "vi": "Có sưng không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, aika paljon. Ja se on sininen.",
+              "en": "Yeah, quite a lot. And it's blue.",
+              "vi": "Có, khá nhiều. Và nó tím rồi."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Kuulostaa nyrjähdykseltä. Otetaan röntgen, ettei oo murtunu.",
+              "en": "Sounds like a sprain. Let's X-ray to check it isn't broken.",
+              "vi": "Nghe như bong gân. Mình chụp X-quang để chắc là không gãy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Kauanks se kestää parantua?",
+              "en": "Right. How long does it take to heal?",
+              "vi": "Vâng. Bao lâu thì khỏi ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Nyrjähdys, pari viikkoa. Kylmää, kohoasento, lepoa.",
+              "en": "A sprain, a couple of weeks. Cold, elevation, rest.",
+              "vi": "Bong gân thì vài tuần. Chườm lạnh, kê cao, nghỉ ngơi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kylmää, kohoasento, lepoa. Selvä, kiitos.",
+              "en": "Cold, elevation, rest. Got it, thanks.",
+              "vi": "Chườm lạnh, kê cao, nghỉ ngơi. Vâng, cảm ơn bác sĩ."
+            }
+          ],
+          "title_vi": "Một chấn thương, kể thật nhanh",
+          "setting_vi": "Duc trẹo mắt cá khi đá bóng. Thực tế, nhanh gọn.",
+          "note_vi": "Cơ chế chấn thương, rồi chức năng, rồi cơn đau. Đó là thứ tự bác sĩ muốn."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Answer during an examination",
+          "scenario": "Short, precise answers about location, type and duration of pain.",
+          "your_role": "You, on the examination table",
+          "partner_role": "The doctor",
+          "turns": [
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Mihin sattuu?",
+              "en": "Where does it hurt?",
+              "vi": "Đau chỗ nào?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Tähän, oikeaan kylkeen.",
+              "en": "Here, in the right side.",
+              "hint": "Point and name the side. Both.",
+              "vi": "Chỗ này, sườn bên phải.",
+              "hint_vi": "Chỉ tay và nói rõ bên nào. Cả hai."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Onko kipu pistävä vai jomottava?",
+              "en": "Is the pain sharp or dull?",
+              "vi": "Cơn đau nhói hay âm ỉ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Pistävä, varsinkin kun mä liikun.",
+              "en": "Sharp, especially when I move.",
+              "hint": "Pick one of the two words, then add when it's worst.",
+              "vi": "Nhói, nhất là khi tôi cử động.",
+              "hint_vi": "Chọn một trong hai từ, rồi thêm lúc nào đau nhất."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Säteileekö se jonnekin?",
+              "en": "Does it radiate anywhere?",
+              "vi": "Nó có lan đi đâu không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, vähän selkään päin.",
+              "en": "Yes, a bit towards my back.",
+              "hint": "Radiating pain is clinically important. Say it if it does.",
+              "vi": "Có, lan về phía lưng một chút.",
+              "hint_vi": "Đau lan quan trọng về mặt lâm sàng. Hãy nói nếu đúng vậy."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Painan nyt. Sattuuko tähän?",
+              "en": "I'm pressing now. Does it hurt here?",
+              "vi": "Tôi ấn đây. Chỗ này có đau không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei. Vähän ylempänä.",
+              "en": "No. A bit higher up.",
+              "hint": "Correct them rather than agreeing to be polite.",
+              "vi": "Không. Cao hơn một chút.",
+              "hint_vi": "Hãy sửa lại cho họ thay vì gật đầu cho phải phép."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Entä tähän? Ja millon se alko?",
+              "en": "And here? And when did it start?",
+              "vi": "Còn chỗ này? Và nó bắt đầu khi nào?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, siihen sattuu. Se alko eilen illalla.",
+              "en": "Yes, that hurts. It started yesterday evening.",
+              "hint": "Answer both parts — don't let the second question get lost.",
+              "vi": "Có, chỗ đó đau. Nó bắt đầu từ tối qua.",
+              "hint_vi": "Trả lời cả hai phần — đừng để câu hỏi thứ hai bị rơi mất."
+            }
+          ],
+          "title_vi": "Trả lời trong lúc được khám",
+          "scenario_vi": "Trả lời ngắn, chính xác về vị trí, kiểu đau và thời gian.",
+          "your_role_vi": "Bạn, trên bàn khám",
+          "partner_role_vi": "Bác sĩ"
+        }
+      ],
+      "title_vi": "Bộ phận cơ thể và cơn đau",
+      "subtitle_vi": "Tähän sattuu. Millon se alko?",
+      "warmup_situation_vi": "Bác sĩ ấn bốn chỗ trên bụng bạn và mỗi lần lại hỏi một câu. Bạn cần trả lời chính xác, nhanh, bốn lần.",
+      "warmup_question_vi": "Bạn có phân biệt được trái phải bằng tiếng Phần Lan — trong lúc căng thẳng không?",
+      "rescue_vi": "Chờ chút, để tôi nghĩ… à không, bên kia.",
+      "rescue_note_vi": "Tự sửa lại tốt hơn nhiều so với đoán bừa. «Se toinen puoli» — bên kia — vẫn dùng được ngay cả khi vasen và oikea đã bỏ rơi bạn, mà lúc bị khám thì chuyện đó hay xảy ra."
+    },
+    {
+      "slug": "understanding-instructions",
+      "number": "4.4",
+      "title": "Understanding instructions",
+      "subtitle": "Doses, times, and \"come back if…\"",
+      "warmup_situation": "The doctor explains the medication. You catch 'kaksi', 'päivässä' and something about food. You have a box of antibiotics and a 40% understanding of how to take them.",
+      "warmup_question": "What do you say before you leave the room — every single time?",
+      "rescue_fi": "Mä toistan, että mä oon varma: kaks tablettia päivässä, ruoan kanssa, seitsemän päivää. Menikö oikein?",
+      "rescue_en": "Let me repeat it so I'm sure: two tablets a day, with food, for seven days. Did I get that right?",
+      "rescue_note": "This is the single most important habit in the module. Doctors expect it, it takes fifteen seconds, and it catches the misunderstanding while you're still in the room rather than at home with a box you can't read.",
+      "vocab": [
+        {
+          "fi": "lääke",
+          "en": "medicine",
+          "pos": "noun",
+          "vi": "thuốc"
+        },
+        {
+          "fi": "resepti",
+          "en": "prescription",
+          "pos": "noun",
+          "note": "Electronic in Finland. It goes straight to any pharmacy.",
+          "vi": "đơn thuốc",
+          "note_vi": "Ở Phần Lan là đơn điện tử. Nó đi thẳng đến mọi hiệu thuốc."
+        },
+        {
+          "fi": "annos",
+          "en": "dose",
+          "pos": "noun",
+          "vi": "liều"
+        },
+        {
+          "fi": "tabletti",
+          "en": "tablet",
+          "pos": "noun",
+          "vi": "viên nén"
+        },
+        {
+          "fi": "kapseli",
+          "en": "capsule",
+          "pos": "noun",
+          "vi": "viên nang"
+        },
+        {
+          "fi": "milligramma",
+          "en": "milligram",
+          "pos": "noun",
+          "vi": "milligram"
+        },
+        {
+          "fi": "kerran päivässä",
+          "en": "once a day",
+          "pos": "phrase",
+          "vi": "một lần một ngày"
+        },
+        {
+          "fi": "kahdesti päivässä",
+          "en": "twice a day",
+          "pos": "phrase",
+          "vi": "hai lần một ngày"
+        },
+        {
+          "fi": "kolme kertaa päivässä",
+          "en": "three times a day",
+          "pos": "phrase",
+          "vi": "ba lần một ngày"
+        },
+        {
+          "fi": "aamuin illoin",
+          "en": "morning and evening",
+          "pos": "phrase",
+          "note": "A common instruction. Literally 'mornings and evenings'.",
+          "vi": "sáng và tối",
+          "note_vi": "Một hướng dẫn phổ biến. Nghĩa đen là «các buổi sáng và các buổi tối»."
+        },
+        {
+          "fi": "ruoan kanssa",
+          "en": "with food",
+          "pos": "phrase",
+          "vi": "uống cùng bữa ăn"
+        },
+        {
+          "fi": "tyhjään vatsaan",
+          "en": "on an empty stomach",
+          "pos": "phrase",
+          "vi": "lúc bụng đói"
+        },
+        {
+          "fi": "ennen ruokaa",
+          "en": "before food",
+          "pos": "phrase",
+          "vi": "trước bữa ăn"
+        },
+        {
+          "fi": "kuuri",
+          "en": "course (of medication)",
+          "pos": "noun",
+          "note": "'Syö kuuri loppuun' = finish the course. They will stress this.",
+          "vi": "liệu trình (thuốc)",
+          "note_vi": "«Syö kuuri loppuun» = uống hết liệu trình. Họ sẽ nhấn mạnh điều này."
+        },
+        {
+          "fi": "loppuun",
+          "en": "to the end",
+          "pos": "adverb",
+          "vi": "đến hết, cho xong"
+        },
+        {
+          "fi": "sivuvaikutus",
+          "en": "side effect",
+          "pos": "noun",
+          "vi": "tác dụng phụ"
+        },
+        {
+          "fi": "allergia",
+          "en": "allergy",
+          "pos": "noun",
+          "vi": "dị ứng"
+        },
+        {
+          "fi": "seuranta",
+          "en": "follow-up, monitoring",
+          "pos": "noun",
+          "vi": "theo dõi, giám sát"
+        },
+        {
+          "fi": "kontrolli",
+          "en": "check-up",
+          "pos": "noun",
+          "note": "'Kontrolliaika' = a follow-up appointment.",
+          "vi": "tái khám",
+          "note_vi": "«Kontrolliaika» = lịch hẹn tái khám."
+        },
+        {
+          "fi": "sairausloma",
+          "en": "sick leave",
+          "pos": "noun",
+          "vi": "nghỉ ốm"
+        },
+        {
+          "fi": "todistus",
+          "en": "certificate",
+          "pos": "noun",
+          "note": "'Sairauslomatodistus' — the note for your employer. Ask for it explicitly.",
+          "vi": "giấy chứng nhận",
+          "note_vi": "«Sairauslomatodistus» — giấy nộp cho công ty. Hãy hỏi xin rõ ràng."
+        },
+        {
+          "fi": "lepo",
+          "en": "rest",
+          "pos": "noun",
+          "vi": "sự nghỉ ngơi"
+        },
+        {
+          "fi": "levätä",
+          "en": "to rest",
+          "pos": "verb",
+          "vi": "nghỉ ngơi (động từ)"
+        },
+        {
+          "fi": "välttää",
+          "en": "to avoid",
+          "pos": "verb",
+          "vi": "tránh"
+        },
+        {
+          "fi": "jos",
+          "en": "if",
+          "pos": "conjunction",
+          "note": "Listen for this word. Everything after it is a condition to act on.",
+          "vi": "nếu",
+          "note_vi": "Hãy lắng nghe từ này. Mọi thứ sau nó là một điều kiện bạn phải hành động theo."
+        },
+        {
+          "fi": "ota yhteyttä",
+          "en": "get in touch",
+          "pos": "phrase",
+          "vi": "hãy liên hệ"
+        },
+        {
+          "fi": "tulla uudestaan",
+          "en": "to come back",
+          "pos": "phrase",
+          "vi": "quay lại khám"
+        },
+        {
+          "fi": "paheta",
+          "en": "to worsen",
+          "pos": "verb",
+          "vi": "trở nặng"
+        },
+        {
+          "fi": "toistaa",
+          "en": "to repeat",
+          "pos": "verb",
+          "vi": "nhắc lại"
+        },
+        {
+          "fi": "varmistaa",
+          "en": "to make sure, to confirm",
+          "pos": "verb",
+          "vi": "đảm bảo, xác nhận"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Voitsä toistaa sen annoksen?",
+          "en": "Could you repeat the dose?",
+          "when_to_use": "Never leave without this if you're unsure. Ask twice if needed.",
+          "register": "neutral",
+          "vi": "Bác sĩ nhắc lại liều được không ạ?",
+          "when_to_use_vi": "Đừng bao giờ rời đi khi chưa chắc. Hỏi hai lần nếu cần."
+        },
+        {
+          "fi": "Mä toistan, että mä oon varma.",
+          "en": "Let me repeat it so I'm sure.",
+          "when_to_use": "The key habit. Then say the whole instruction back.",
+          "register": "neutral",
+          "vi": "Tôi nhắc lại cho chắc.",
+          "when_to_use_vi": "Thói quen then chốt. Rồi nói lại toàn bộ hướng dẫn."
+        },
+        {
+          "fi": "Kaks tablettia kahdesti päivässä, ruoan kanssa?",
+          "en": "Two tablets twice a day, with food?",
+          "when_to_use": "The read-back, as a question. Easy for them to confirm or correct.",
+          "register": "neutral",
+          "vi": "Hai viên, hai lần một ngày, cùng bữa ăn ạ?",
+          "when_to_use_vi": "Nhắc lại dưới dạng câu hỏi. Dễ cho họ xác nhận hoặc sửa."
+        },
+        {
+          "fi": "Kuinka monta päivää?",
+          "en": "How many days?",
+          "when_to_use": "Course length is the detail most often missed. Always ask.",
+          "register": "neutral",
+          "vi": "Uống bao nhiêu ngày ạ?",
+          "when_to_use_vi": "Độ dài liệu trình là chi tiết hay bị bỏ sót nhất. Luôn hỏi."
+        },
+        {
+          "fi": "Pitääks mä syödä kuuri loppuun?",
+          "en": "Do I need to finish the whole course?",
+          "when_to_use": "For antibiotics the answer is always yes, even when you feel better.",
+          "register": "neutral",
+          "vi": "Tôi có phải uống hết liệu trình không ạ?",
+          "when_to_use_vi": "Với kháng sinh thì câu trả lời luôn là có, kể cả khi bạn đã thấy đỡ."
+        },
+        {
+          "fi": "Onks tässä sivuvaikutuksia?",
+          "en": "Are there side effects?",
+          "when_to_use": "Ask, so that you're not alarmed later by something expected.",
+          "register": "neutral",
+          "vi": "Thuốc này có tác dụng phụ không ạ?",
+          "when_to_use_vi": "Hãy hỏi, để sau này bạn không hoảng vì một điều vốn đã được dự đoán."
+        },
+        {
+          "fi": "Voinks mä ottaa tätä särkylääkkeen kanssa?",
+          "en": "Can I take this with painkillers?",
+          "when_to_use": "Interaction question. Important and always welcome.",
+          "register": "neutral",
+          "vi": "Tôi uống thuốc này cùng thuốc giảm đau được không ạ?",
+          "when_to_use_vi": "Câu hỏi về tương tác thuốc. Quan trọng và luôn được hoan nghênh."
+        },
+        {
+          "fi": "Milloin mun pitää tulla uudestaan?",
+          "en": "When do I need to come back?",
+          "when_to_use": "Establishes whether there's a follow-up at all.",
+          "register": "neutral",
+          "vi": "Khi nào tôi cần quay lại ạ?",
+          "when_to_use_vi": "Xác định xem có cần tái khám hay không."
+        },
+        {
+          "fi": "Missä tilanteessa mun pitää ottaa yhteyttä?",
+          "en": "In what situation should I get in touch?",
+          "when_to_use": "The safety-net question. Get the specific warning signs, not a vague 'if it gets worse'.",
+          "register": "polite",
+          "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?",
+          "when_to_use_vi": "Câu hỏi lưới an toàn. Hãy lấy dấu hiệu cảnh báo cụ thể, đừng nhận một câu chung chung «nếu nặng hơn»."
+        },
+        {
+          "fi": "Tarviinks mä sairauslomatodistuksen?",
+          "en": "Do I need a sick leave certificate?",
+          "when_to_use": "Ask before you leave — getting one afterwards is much harder.",
+          "register": "neutral",
+          "vi": "Tôi có cần giấy nghỉ ốm không ạ?",
+          "when_to_use_vi": "Hỏi trước khi ra về — xin sau khó hơn nhiều."
+        },
+        {
+          "fi": "Voitsä kirjottaa sen ylös?",
+          "en": "Could you write it down?",
+          "when_to_use": "For doses especially. Doctors do this without hesitation.",
+          "register": "polite",
+          "vi": "Bác sĩ ghi ra giấy giúp được không ạ?",
+          "when_to_use_vi": "Nhất là với liều lượng. Bác sĩ làm việc này không chút do dự."
+        },
+        {
+          "fi": "Onks tää reseptissä vai ilman?",
+          "en": "Is this on prescription or without?",
+          "when_to_use": "Determines whether you go to the counter or the shelf at the pharmacy.",
+          "register": "neutral",
+          "vi": "Thuốc này cần đơn hay không ạ?",
+          "when_to_use_vi": "Quyết định bạn ra quầy hay lấy trên kệ ở hiệu thuốc."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Getting the instructions exactly right",
+          "setting": "End of the consultation. Duc does not leave until he has repeated everything.",
+          "speed": "slow",
+          "note": "The read-back at the end is the whole point of this lesson.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "Tää on streptokokki, eli määrään antibiootin.",
+              "en": "This is streptococcus, so I'll prescribe an antibiotic.",
+              "vi": "Đây là liên cầu khuẩn, nên tôi kê kháng sinh."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Miten mä otan sitä?",
+              "en": "Right. How do I take it?",
+              "vi": "Vâng. Tôi uống thế nào ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Yks tabletti kolme kertaa päivässä, ruoan kanssa.",
+              "en": "One tablet three times a day, with food.",
+              "vi": "Một viên, ba lần một ngày, uống cùng bữa ăn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kuinka monta päivää?",
+              "en": "How many days?",
+              "vi": "Uống bao nhiêu ngày ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Seitsemän päivää. Ja syö kuuri loppuun, vaikka olo paranis.",
+              "en": "Seven days. And finish the course, even if you feel better.",
+              "vi": "Bảy ngày. Và uống hết liệu trình, dù có thấy đỡ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei. Onks tässä sivuvaikutuksia?",
+              "en": "Okay. Are there side effects?",
+              "vi": "Vâng. Thuốc này có tác dụng phụ không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Vatsa voi olla vähän sekaisin. Se on normaalia.",
+              "en": "Your stomach may be a bit upset. That's normal.",
+              "vi": "Bụng có thể hơi khó chịu. Đó là bình thường."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Voinks mä ottaa särkylääkettä samaan aikaan?",
+              "en": "Can I take painkillers at the same time?",
+              "vi": "Tôi uống thuốc giảm đau cùng lúc được không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Voit. Ibuprofeeni tai parasetamoli käy.",
+              "en": "You can. Ibuprofen or paracetamol is fine.",
+              "vi": "Được. Ibuprofen hoặc paracetamol đều ổn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Missä tilanteessa mun pitää ottaa yhteyttä?",
+              "en": "In what situation should I get in touch?",
+              "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Jos kuume ei laske kahdessa päivässä, tai jos tulee hengitysvaikeuksia.",
+              "en": "If the fever doesn't drop in two days, or if breathing difficulties develop.",
+              "vi": "Nếu hai ngày mà sốt không hạ, hoặc nếu bị khó thở."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Mä toistan, että mä oon varma: yks tabletti kolme kertaa päivässä, ruoan kanssa, seitsemän päivää, kuuri loppuun. Menikö oikein?",
+              "en": "Right. Let me repeat it so I'm sure: one tablet three times a day, with food, seven days, finish the course. Did I get that right?",
+              "vi": "Vâng. Tôi nhắc lại cho chắc: một viên, ba lần một ngày, cùng bữa ăn, bảy ngày, uống hết liệu trình. Đúng không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Juuri oikein. Hyvä, että toistit.",
+              "en": "Exactly right. Good that you repeated it.",
+              "vi": "Chính xác. Anh nhắc lại thế là tốt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja tarviinks mä sairauslomatodistuksen?",
+              "en": "Thanks. And do I need a sick leave certificate?",
+              "vi": "Cảm ơn bác sĩ. Và tôi có cần giấy nghỉ ốm không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Kirjotan sen. Kolme päivää. Se menee suoraan työnantajalle.",
+              "en": "I'll write one. Three days. It goes straight to your employer.",
+              "vi": "Tôi viết cho anh. Ba ngày. Nó đi thẳng đến công ty."
+            }
+          ],
+          "title_vi": "Nắm hướng dẫn cho thật chính xác",
+          "setting_vi": "Cuối buổi khám. Duc không rời đi cho đến khi đã nhắc lại mọi thứ.",
+          "note_vi": "Việc nhắc lại ở cuối chính là toàn bộ trọng tâm của bài này."
+        },
+        {
+          "title": "Catching a misunderstanding",
+          "setting": "The read-back does its job. Duc had it wrong.",
+          "speed": "natural",
+          "note": "Fifteen seconds of repetition prevents a week of taking the wrong dose.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "Otat sitä kaks kertaa päivässä, aamuin illoin, tyhjään vatsaan.",
+              "en": "You take it twice a day, morning and evening, on an empty stomach.",
+              "vi": "Anh uống hai lần một ngày, sáng và tối, lúc bụng đói."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä toistan: kaks tablettia kahdesti päivässä, ruoan kanssa?",
+              "en": "Let me repeat: two tablets twice a day, with food?",
+              "vi": "Tôi nhắc lại: hai viên, hai lần một ngày, cùng bữa ăn ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Ei, ei — yks tabletti kahdesti päivässä. Ja tyhjään vatsaan, ei ruoan kanssa.",
+              "en": "No, no — one tablet twice a day. And on an empty stomach, not with food.",
+              "vi": "Không, không — một viên, hai lần một ngày. Và lúc bụng đói, không phải cùng bữa ăn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai, okei. Hyvä, että kysyin. Yks tabletti, kahdesti päivässä, tyhjään vatsaan.",
+              "en": "Oh, okay. Good that I asked. One tablet, twice a day, on an empty stomach.",
+              "vi": "À, vâng. May mà tôi hỏi. Một viên, hai lần một ngày, lúc bụng đói."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Just noin. Eli puol tuntia ennen ruokaa.",
+              "en": "Exactly. So half an hour before food.",
+              "vi": "Chính xác. Tức là nửa tiếng trước bữa ăn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Puol tuntia ennen ruokaa. Voitsä kirjottaa sen ylös?",
+              "en": "Half an hour before food. Could you write it down?",
+              "vi": "Nửa tiếng trước bữa ăn. Bác sĩ ghi ra giấy giúp được không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Joo, se lukee myös reseptissä.",
+              "en": "Yeah, it's also written on the prescription.",
+              "vi": "Được, nó cũng ghi trên đơn thuốc."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Kiitos tosi paljon.",
+              "en": "Good. Thank you very much.",
+              "vi": "Tốt quá. Cảm ơn bác sĩ nhiều."
+            }
+          ],
+          "title_vi": "Bắt được một hiểu lầm",
+          "setting_vi": "Việc nhắc lại đã phát huy tác dụng. Duc đã hiểu sai.",
+          "note_vi": "Mười lăm giây nhắc lại ngăn được một tuần uống sai liều."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Never leave without the read-back",
+          "scenario": "Get the dose, the duration, the conditions, and repeat it all back before you go.",
+          "your_role": "You, being prescribed medication",
+          "partner_role": "The doctor",
+          "turns": [
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Määrään sulle antibiootin.",
+              "en": "I'll prescribe you an antibiotic.",
+              "vi": "Tôi kê cho anh một loại kháng sinh."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Miten mä otan sitä?",
+              "en": "Right. How do I take it?",
+              "hint": "Ask the method before anything else.",
+              "vi": "Vâng. Tôi uống thế nào ạ?",
+              "hint_vi": "Hỏi cách dùng trước mọi thứ khác."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Yks tabletti kolme kertaa päivässä, ruoan kanssa.",
+              "en": "One tablet three times a day, with food.",
+              "vi": "Một viên, ba lần một ngày, cùng bữa ăn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kuinka monta päivää?",
+              "en": "How many days?",
+              "hint": "Course length is the most commonly missed detail.",
+              "vi": "Uống bao nhiêu ngày ạ?",
+              "hint_vi": "Độ dài liệu trình là chi tiết hay bị bỏ sót nhất."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Seitsemän päivää, ja kuuri loppuun.",
+              "en": "Seven days, and finish the course.",
+              "vi": "Bảy ngày, và uống hết liệu trình."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Missä tilanteessa mun pitää ottaa yhteyttä?",
+              "en": "In what situation should I get in touch?",
+              "hint": "Get the specific warning signs, not a vague 'if it gets worse'.",
+              "vi": "Trong trường hợp nào tôi phải liên hệ lại ạ?",
+              "hint_vi": "Lấy dấu hiệu cảnh báo cụ thể, đừng nhận câu chung chung «nếu nặng hơn»."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Jos kuume ei laske kahdessa päivässä.",
+              "en": "If the fever doesn't drop within two days.",
+              "vi": "Nếu hai ngày mà sốt không hạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä toistan: yks tabletti kolme kertaa päivässä, ruoan kanssa, seitsemän päivää. Menikö oikein?",
+              "en": "Let me repeat: one tablet three times a day, with food, seven days. Did I get that right?",
+              "hint": "The whole instruction back, as a question. This is the habit that matters.",
+              "vi": "Tôi nhắc lại: một viên, ba lần một ngày, cùng bữa ăn, bảy ngày. Đúng không ạ?",
+              "hint_vi": "Nhắc lại toàn bộ hướng dẫn, dưới dạng câu hỏi. Đây là thói quen quan trọng."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Juuri oikein.",
+              "en": "Exactly right.",
+              "vi": "Chính xác."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Tarviinks mä sairauslomatodistuksen?",
+              "en": "Thanks. Do I need a sick leave certificate?",
+              "hint": "Ask now — getting one afterwards is much harder.",
+              "vi": "Cảm ơn bác sĩ. Tôi có cần giấy nghỉ ốm không ạ?",
+              "hint_vi": "Hỏi ngay bây giờ — xin sau khó hơn nhiều."
+            }
+          ],
+          "title_vi": "Đừng bao giờ rời đi mà chưa nhắc lại",
+          "scenario_vi": "Lấy liều, thời gian, điều kiện, rồi nhắc lại tất cả trước khi ra về.",
+          "your_role_vi": "Bạn, đang được kê thuốc",
+          "partner_role_vi": "Bác sĩ"
+        }
+      ],
+      "title_vi": "Hiểu hướng dẫn dùng thuốc",
+      "subtitle_vi": "Liều lượng, thời gian, và «quay lại nếu…»",
+      "warmup_situation_vi": "Bác sĩ giải thích về thuốc. Bạn nghe được «kaksi», «päivässä» và cái gì đó liên quan đến đồ ăn. Bạn cầm một hộp kháng sinh và hiểu được khoảng 40% cách uống.",
+      "warmup_question_vi": "Bạn nói gì trước khi rời phòng — mỗi một lần, không ngoại lệ?",
+      "rescue_vi": "Tôi nhắc lại cho chắc: hai viên một ngày, uống cùng bữa ăn, trong bảy ngày. Đúng không ạ?",
+      "rescue_note_vi": "Đây là thói quen quan trọng nhất trong cả chương này. Bác sĩ mong đợi điều đó, nó mất mười lăm giây, và nó bắt được hiểu lầm khi bạn vẫn còn trong phòng khám chứ không phải lúc đã về nhà với một cái hộp mà bạn không đọc được."
+    },
+    {
+      "slug": "at-the-pharmacy",
+      "number": "4.5",
+      "title": "At the pharmacy",
+      "subtitle": "Onks tähän jotain ilman reseptiä?",
+      "warmup_situation": "You're at the apteekki with a sore throat and no prescription. The pharmacist asks three questions before recommending anything, and you weren't expecting an interview.",
+      "warmup_question": "Why do they ask so much — and what do they need to know?",
+      "rescue_fi": "Mä en tiiä mitä mä tarviin. Voitsä suositella?",
+      "rescue_en": "I don't know what I need. Could you recommend something?",
+      "rescue_note": "Finnish pharmacists are highly trained and genuinely advise rather than just sell. Handing them the problem instead of asking for a specific product usually gets you something better and cheaper. This sentence is an invitation, and they take it.",
+      "vocab": [
+        {
+          "fi": "apteekki",
+          "en": "pharmacy",
+          "pos": "noun",
+          "note": "Green cross sign. Prescription medicine only from here, never a supermarket.",
+          "vi": "hiệu thuốc",
+          "note_vi": "Biển chữ thập xanh. Thuốc kê đơn chỉ mua ở đây, không bao giờ ở siêu thị."
+        },
+        {
+          "fi": "farmaseutti",
+          "en": "pharmacist",
+          "pos": "noun",
+          "vi": "dược sĩ"
+        },
+        {
+          "fi": "resepti",
+          "en": "prescription",
+          "pos": "noun",
+          "note": "Electronic. Just give your ID — they find it in the system.",
+          "vi": "đơn thuốc",
+          "note_vi": "Dạng điện tử. Chỉ cần đưa giấy tờ — họ tìm trong hệ thống."
+        },
+        {
+          "fi": "sähköinen resepti",
+          "en": "electronic prescription",
+          "pos": "noun",
+          "vi": "đơn thuốc điện tử"
+        },
+        {
+          "fi": "ilman reseptiä",
+          "en": "without prescription, over the counter",
+          "pos": "phrase",
+          "vi": "không cần đơn, bán tự do"
+        },
+        {
+          "fi": "itsehoitolääke",
+          "en": "over-the-counter medicine",
+          "pos": "noun",
+          "vi": "thuốc không kê đơn"
+        },
+        {
+          "fi": "särkylääke",
+          "en": "painkiller",
+          "pos": "noun",
+          "vi": "thuốc giảm đau"
+        },
+        {
+          "fi": "parasetamoli",
+          "en": "paracetamol",
+          "pos": "noun",
+          "note": "Panadol, Para-Tabs. The gentlest option.",
+          "vi": "paracetamol",
+          "note_vi": "Panadol, Para-Tabs. Lựa chọn nhẹ nhất."
+        },
+        {
+          "fi": "ibuprofeeni",
+          "en": "ibuprofen",
+          "pos": "noun",
+          "note": "Burana is the Finnish brand everyone names.",
+          "vi": "ibuprofen",
+          "note_vi": "Burana là nhãn hiệu mà người Phần Lan nào cũng nhắc tên."
+        },
+        {
+          "fi": "Burana",
+          "en": "Burana (ibuprofen)",
+          "pos": "noun",
+          "note": "So common it's used as a generic word for ibuprofen.",
+          "vi": "Burana (ibuprofen)",
+          "note_vi": "Phổ biến đến mức được dùng như từ chung cho ibuprofen."
+        },
+        {
+          "fi": "kurkkupastilli",
+          "en": "throat lozenge",
+          "pos": "noun",
+          "vi": "viên ngậm đau họng"
+        },
+        {
+          "fi": "yskänlääke",
+          "en": "cough medicine",
+          "pos": "noun",
+          "vi": "thuốc ho"
+        },
+        {
+          "fi": "nenäsuihke",
+          "en": "nasal spray",
+          "pos": "noun",
+          "vi": "thuốc xịt mũi"
+        },
+        {
+          "fi": "silmätipat",
+          "en": "eye drops",
+          "pos": "noun",
+          "vi": "thuốc nhỏ mắt"
+        },
+        {
+          "fi": "voide",
+          "en": "ointment, cream",
+          "pos": "noun",
+          "vi": "thuốc mỡ, kem bôi"
+        },
+        {
+          "fi": "laastari",
+          "en": "plaster, bandage",
+          "pos": "noun",
+          "vi": "băng dán cá nhân"
+        },
+        {
+          "fi": "side",
+          "en": "bandage",
+          "pos": "noun",
+          "vi": "băng gạc"
+        },
+        {
+          "fi": "kuumemittari",
+          "en": "thermometer",
+          "pos": "noun",
+          "vi": "nhiệt kế"
+        },
+        {
+          "fi": "vitamiini",
+          "en": "vitamin",
+          "pos": "noun",
+          "vi": "vitamin"
+        },
+        {
+          "fi": "D-vitamiini",
+          "en": "vitamin D",
+          "pos": "noun",
+          "note": "Recommended for everyone here, October to March. Genuinely.",
+          "vi": "vitamin D",
+          "note_vi": "Được khuyến nghị cho tất cả mọi người ở đây, từ tháng Mười đến tháng Ba. Thật đấy."
+        },
+        {
+          "fi": "Kela-korvaus",
+          "en": "Kela reimbursement",
+          "pos": "noun",
+          "note": "The state pays part of prescription costs automatically at the till.",
+          "vi": "phần Kela chi trả",
+          "note_vi": "Nhà nước trả một phần tiền thuốc kê đơn, tự động tính ở quầy."
+        },
+        {
+          "fi": "Kela-kortti",
+          "en": "Kela card",
+          "pos": "noun",
+          "note": "Bring it. It's how the reimbursement is applied.",
+          "vi": "thẻ Kela",
+          "note_vi": "Nhớ mang theo. Đó là cách phần chi trả được áp dụng."
+        },
+        {
+          "fi": "korvattava",
+          "en": "reimbursable",
+          "pos": "adjective",
+          "vi": "được chi trả một phần"
+        },
+        {
+          "fi": "halvempi vaihtoehto",
+          "en": "cheaper alternative",
+          "pos": "phrase",
+          "note": "They must offer you the cheapest equivalent. Say yes.",
+          "vi": "lựa chọn rẻ hơn",
+          "note_vi": "Họ bắt buộc phải mời bạn loại tương đương rẻ nhất. Hãy đồng ý."
+        },
+        {
+          "fi": "rinnakkaisvalmiste",
+          "en": "generic equivalent",
+          "pos": "noun",
+          "vi": "thuốc generic tương đương"
+        },
+        {
+          "fi": "annostus",
+          "en": "dosage",
+          "pos": "noun",
+          "vi": "liều dùng"
+        },
+        {
+          "fi": "vahvuus",
+          "en": "strength",
+          "pos": "noun",
+          "note": "400 mg vs 600 mg. They'll ask which you were prescribed.",
+          "vi": "hàm lượng",
+          "note_vi": "400 mg hay 600 mg. Họ sẽ hỏi bạn được kê loại nào."
+        },
+        {
+          "fi": "raskaus",
+          "en": "pregnancy",
+          "pos": "noun",
+          "vi": "thai kỳ"
+        },
+        {
+          "fi": "imetys",
+          "en": "breastfeeding",
+          "pos": "noun",
+          "vi": "cho con bú"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mulla on resepti. Tässä on mun Kela-kortti.",
+          "en": "I have a prescription. Here's my Kela card.",
+          "when_to_use": "Prescriptions are electronic — the card or ID is all they need.",
+          "register": "neutral",
+          "vi": "Tôi có đơn thuốc. Đây là thẻ Kela của tôi.",
+          "when_to_use_vi": "Đơn thuốc là điện tử — chỉ cần thẻ hoặc giấy tờ tuỳ thân."
+        },
+        {
+          "fi": "Onks tähän jotain ilman reseptiä?",
+          "en": "Is there something for this without a prescription?",
+          "when_to_use": "Your main over-the-counter question. Describe the problem after it.",
+          "register": "neutral",
+          "vi": "Có thuốc nào cho triệu chứng này mà không cần đơn không ạ?",
+          "when_to_use_vi": "Câu hỏi chính khi mua thuốc tự do. Mô tả vấn đề ngay sau đó."
+        },
+        {
+          "fi": "Mä en tiiä mitä mä tarviin. Voitsä suositella?",
+          "en": "I don't know what I need. Could you recommend something?",
+          "when_to_use": "Finnish pharmacists genuinely advise. Let them.",
+          "register": "neutral",
+          "vi": "Tôi không biết mình cần gì. Chị tư vấn giúp được không ạ?",
+          "when_to_use_vi": "Dược sĩ Phần Lan thật sự tư vấn. Hãy để họ làm việc đó."
+        },
+        {
+          "fi": "Mulla on kurkku kipeä ja vähän kuumetta.",
+          "en": "I have a sore throat and a bit of a fever.",
+          "when_to_use": "Describe symptoms, not products. You'll get better advice.",
+          "register": "neutral",
+          "vi": "Tôi bị đau họng và hơi sốt.",
+          "when_to_use_vi": "Mô tả triệu chứng, đừng kể tên sản phẩm. Bạn sẽ được tư vấn tốt hơn."
+        },
+        {
+          "fi": "Se on mun lapselle, se on nelivuotias.",
+          "en": "It's for my child, she's four.",
+          "when_to_use": "Always say the age. Children's doses differ completely.",
+          "register": "neutral",
+          "vi": "Thuốc cho con tôi, bé bốn tuổi.",
+          "when_to_use_vi": "Luôn nói tuổi. Liều cho trẻ em hoàn toàn khác."
+        },
+        {
+          "fi": "Onks halvempaa vaihtoehtoa?",
+          "en": "Is there a cheaper alternative?",
+          "when_to_use": "They're obliged to offer the cheapest generic. Say yes to it.",
+          "register": "casual",
+          "vi": "Có loại nào rẻ hơn không ạ?",
+          "when_to_use_vi": "Họ có nghĩa vụ mời loại generic rẻ nhất. Hãy đồng ý."
+        },
+        {
+          "fi": "Mikä vahvuus tässä on?",
+          "en": "What strength is this?",
+          "when_to_use": "Ibuprofen comes in 200, 400 and 600 mg. Know which you were prescribed.",
+          "register": "neutral",
+          "vi": "Cái này hàm lượng bao nhiêu ạ?",
+          "when_to_use_vi": "Ibuprofen có loại 200, 400 và 600 mg. Hãy biết mình được kê loại nào."
+        },
+        {
+          "fi": "Miten mä otan tätä?",
+          "en": "How do I take this?",
+          "when_to_use": "Ask even if the doctor told you. The pharmacist will explain it again, better.",
+          "register": "neutral",
+          "vi": "Tôi uống cái này thế nào ạ?",
+          "when_to_use_vi": "Cứ hỏi, dù bác sĩ đã nói rồi. Dược sĩ sẽ giải thích lại, rõ hơn."
+        },
+        {
+          "fi": "Voinks mä ottaa tätä Buranan kanssa?",
+          "en": "Can I take this with Burana?",
+          "when_to_use": "The interaction question. They check properly.",
+          "register": "casual",
+          "vi": "Tôi uống cái này cùng Burana được không ạ?",
+          "when_to_use_vi": "Câu hỏi về tương tác thuốc. Họ kiểm tra đàng hoàng."
+        },
+        {
+          "fi": "Mä oon raskaana — onks tää turvallista?",
+          "en": "I'm pregnant — is this safe?",
+          "when_to_use": "Always say it. It changes what they can give you.",
+          "register": "neutral",
+          "vi": "Tôi đang mang thai — thuốc này có an toàn không ạ?",
+          "when_to_use_vi": "Luôn nói ra. Nó thay đổi thứ họ có thể đưa cho bạn."
+        },
+        {
+          "fi": "Korvaako Kela tän?",
+          "en": "Does Kela reimburse this?",
+          "when_to_use": "It's applied automatically, but worth knowing which items qualify.",
+          "register": "neutral",
+          "vi": "Kela có chi trả cái này không ạ?",
+          "when_to_use_vi": "Nó được áp dụng tự động, nhưng biết món nào đủ điều kiện thì vẫn tốt."
+        },
+        {
+          "fi": "Onks teillä kuumemittaria?",
+          "en": "Do you have a thermometer?",
+          "when_to_use": "Pharmacies sell equipment too. Swap the noun for anything.",
+          "register": "casual",
+          "vi": "Ở đây có bán nhiệt kế không ạ?",
+          "when_to_use_vi": "Hiệu thuốc cũng bán thiết bị. Thay danh từ bằng bất cứ thứ gì."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "No prescription, describing the problem",
+          "setting": "The pharmacy counter. Duc has a sore throat and no idea what to buy.",
+          "speed": "slow",
+          "note": "He describes symptoms and lets the pharmacist choose. That's the right move.",
+          "lines": [
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Päivää! Miten voin auttaa?",
+              "en": "Good day! How can I help?",
+              "vi": "Chào anh! Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Päivää. Mulla on kurkku tosi kipeä. Onks tähän jotain ilman reseptiä?",
+              "en": "Good day. My throat is really sore. Is there something for this without a prescription?",
+              "vi": "Chào chị. Họng tôi đau lắm. Có thuốc nào cho cái này mà không cần đơn không ạ?"
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "On kyllä. Onko kuumetta?",
+              "en": "There is, yes. Is there a fever?",
+              "vi": "Có chứ ạ. Anh có sốt không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vähän, 37,8.",
+              "en": "A bit, 37.8.",
+              "vi": "Hơi sốt, 37,8."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Kuinka kauan sitä on ollu?",
+              "en": "How long has it been going on?",
+              "vi": "Bị bao lâu rồi ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kaks päivää.",
+              "en": "Two days.",
+              "vi": "Hai ngày."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Selvä. Onks sulla mitään perussairauksia tai lääkityksiä?",
+              "en": "Right. Do you have any underlying conditions or medications?",
+              "vi": "Vâng. Anh có bệnh nền hay đang dùng thuốc gì không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo mitään.",
+              "en": "Nothing at all.",
+              "vi": "Không có gì cả."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Hyvä. Suosittelen kurkkupastilleja ja ibuprofeenia kipuun ja kuumeeseen.",
+              "en": "Good. I recommend throat lozenges and ibuprofen for the pain and fever.",
+              "vi": "Tốt. Tôi gợi ý viên ngậm đau họng và ibuprofen cho đau và sốt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Miten mä otan sitä ibuprofeenia?",
+              "en": "Right. How do I take the ibuprofen?",
+              "vi": "Vâng. Tôi uống ibuprofen thế nào ạ?"
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "400 milligrammaa, korkeintaan kolme kertaa päivässä, ruoan kanssa.",
+              "en": "400 milligrams, at most three times a day, with food.",
+              "vi": "400 miligam, tối đa ba lần một ngày, uống cùng bữa ăn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "400 milligrammaa, max kolme kertaa, ruoan kanssa. Onks halvempaa vaihtoehtoa?",
+              "en": "400 milligrams, max three times, with food. Is there a cheaper alternative?",
+              "vi": "400 miligam, tối đa ba lần, cùng bữa ăn. Có loại nào rẻ hơn không ạ?"
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "On, tää rinnakkaisvalmiste on kolme euroa halvempi. Sama vaikuttava aine.",
+              "en": "There is, this generic is three euros cheaper. Same active ingredient.",
+              "vi": "Có ạ, loại generic này rẻ hơn ba euro. Cùng hoạt chất."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Otetaan se. Ja jos se ei parane?",
+              "en": "Let's take that. And if it doesn't get better?",
+              "vi": "Vậy lấy loại đó. Và nếu không đỡ thì sao ạ?"
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Jos kurkku on kipeä vielä kolmen päivän päästä, mene lääkäriin.",
+              "en": "If your throat is still sore in three days, go to a doctor.",
+              "vi": "Nếu ba ngày nữa họng vẫn đau thì anh đi khám bác sĩ nhé."
+            }
+          ],
+          "title_vi": "Không có đơn, chỉ mô tả vấn đề",
+          "setting_vi": "Quầy hiệu thuốc. Duc đau họng và không biết mua gì.",
+          "note_vi": "Anh mô tả triệu chứng và để dược sĩ chọn. Đó là nước đi đúng."
+        },
+        {
+          "title": "Picking up a prescription, and one for a child",
+          "setting": "Quick counter exchange. Electronic prescriptions make it fast.",
+          "speed": "natural",
+          "note": "Note how the child's age changes everything.",
+          "lines": [
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Päivää, reseptillä?",
+              "en": "Good day, on prescription?",
+              "vi": "Chào anh, lấy theo đơn ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo. Tässä Kela-kortti.",
+              "en": "Yeah. Here's my Kela card.",
+              "vi": "Vâng. Thẻ Kela đây ạ."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Kiitos… joo, antibiootti. Oliks lääkäri kertonu annostuksen?",
+              "en": "Thanks… yes, an antibiotic. Did the doctor tell you the dosage?",
+              "vi": "Cảm ơn anh… vâng, kháng sinh. Bác sĩ đã nói liều chưa ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, yks tabletti kolme kertaa päivässä, seitsemän päivää.",
+              "en": "Yes, one tablet three times a day, seven days.",
+              "vi": "Rồi ạ, một viên ba lần một ngày, bảy ngày."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Just. Ja syö kuuri loppuun. Kela korvaa osan, hinta on 8,40.",
+              "en": "Right. And finish the course. Kela reimburses part, the price is 8.40.",
+              "vi": "Đúng rồi. Và nhớ uống hết liệu trình. Kela chi trả một phần, còn 8,40 ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kortilla. Ja vielä yks juttu — tarviin jotain kuumeeseen mun lapselle.",
+              "en": "By card. And one more thing — I need something for a fever for my child.",
+              "vi": "Thẻ nhé. À còn một việc nữa — tôi cần thuốc hạ sốt cho con tôi."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Minkä ikäinen?",
+              "en": "What age?",
+              "vi": "Bé mấy tuổi ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nelivuotias, painaa noin 17 kiloa.",
+              "en": "Four years old, weighs about 17 kilos.",
+              "vi": "Bốn tuổi, nặng khoảng 17 cân."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Hyvä, että sanoit painon. Tää parasetamoliliuos sopii. Annos painon mukaan.",
+              "en": "Good that you said the weight. This paracetamol solution is suitable. Dose according to weight.",
+              "vi": "May mà anh nói cân nặng. Dung dịch paracetamol này phù hợp. Liều tính theo cân nặng ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Voitsä näyttää mistä mä katon sen annoksen?",
+              "en": "Could you show me where I check the dose?",
+              "vi": "Chị chỉ giúp tôi xem liều ở chỗ nào được không ạ?"
+            },
+            {
+              "speaker": "Farmaseutti",
+              "fi": "Tässä pakkauksessa, ja mä merkkaan sun lapsen painon tähän.",
+              "en": "On this package, and I'll mark your child's weight here.",
+              "vi": "Trên hộp này ạ, và tôi đánh dấu cân nặng của bé vào đây."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, se auttaa tosi paljon.",
+              "en": "Thanks, that helps a lot.",
+              "vi": "Cảm ơn chị, như vậy giúp tôi nhiều lắm."
+            }
+          ],
+          "title_vi": "Lấy thuốc theo đơn, và một món cho trẻ con",
+          "setting_vi": "Trao đổi nhanh ở quầy. Đơn điện tử làm mọi thứ nhanh gọn.",
+          "note_vi": "Để ý tuổi của đứa trẻ thay đổi mọi thứ thế nào."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Get advice without naming a product",
+          "scenario": "Describe your symptoms, answer their questions, and ask for a cheaper option.",
+          "your_role": "You, with a sore throat",
+          "partner_role": "The pharmacist",
+          "turns": [
+            {
+              "speaker": "Farmaseutti",
+              "is_your_turn": false,
+              "fi": "Päivää! Miten voin auttaa?",
+              "en": "Good day! How can I help?",
+              "vi": "Chào anh! Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Päivää. Mulla on kurkku kipeä. Onks tähän jotain ilman reseptiä?",
+              "en": "Good day. My throat is sore. Is there something for this without a prescription?",
+              "hint": "Describe the problem, don't name a product.",
+              "vi": "Chào chị. Họng tôi đau. Có thuốc nào cho cái này mà không cần đơn không ạ?",
+              "hint_vi": "Mô tả vấn đề, đừng kể tên sản phẩm."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "is_your_turn": false,
+              "fi": "On kyllä. Onko kuumetta?",
+              "en": "There is, yes. Is there a fever?",
+              "vi": "Có chứ ạ. Anh có sốt không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Vähän, 37,8. Kaks päivää nyt.",
+              "en": "A bit, 37.8. Two days now.",
+              "hint": "Answer with the number and the duration together.",
+              "vi": "Hơi sốt, 37,8. Hai ngày rồi ạ.",
+              "hint_vi": "Trả lời kèm cả con số lẫn thời gian kéo dài."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "is_your_turn": false,
+              "fi": "Onks sulla perussairauksia tai muita lääkityksiä?",
+              "en": "Do you have underlying conditions or other medications?",
+              "vi": "Anh có bệnh nền hay thuốc nào khác đang dùng không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei oo mitään.",
+              "en": "Nothing at all.",
+              "hint": "They ask this to check interactions. Answer honestly and briefly.",
+              "vi": "Không có gì cả.",
+              "hint_vi": "Họ hỏi để kiểm tra tương tác thuốc. Trả lời thật và ngắn gọn."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "is_your_turn": false,
+              "fi": "Suosittelen kurkkupastilleja ja ibuprofeenia.",
+              "en": "I recommend throat lozenges and ibuprofen.",
+              "vi": "Tôi gợi ý viên ngậm họng và ibuprofen."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Miten mä otan sitä?",
+              "en": "Right. How do I take it?",
+              "hint": "Always ask the dosage, even for over-the-counter.",
+              "vi": "Vâng. Tôi uống thế nào ạ?",
+              "hint_vi": "Luôn hỏi liều, kể cả với thuốc không kê đơn."
+            },
+            {
+              "speaker": "Farmaseutti",
+              "is_your_turn": false,
+              "fi": "400 mg, korkeintaan kolme kertaa päivässä, ruoan kanssa.",
+              "en": "400 mg, at most three times a day, with food.",
+              "vi": "400 mg, tối đa ba lần một ngày, cùng bữa ăn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "400 mg, max kolme kertaa. Onks halvempaa vaihtoehtoa?",
+              "en": "400 mg, max three times. Is there a cheaper alternative?",
+              "hint": "Read it back, then ask for the generic. They must offer it.",
+              "vi": "400 mg, tối đa ba lần. Có loại nào rẻ hơn không ạ?",
+              "hint_vi": "Nhắc lại, rồi hỏi loại generic. Họ bắt buộc phải mời."
+            }
+          ],
+          "title_vi": "Xin tư vấn mà không kể tên sản phẩm",
+          "scenario_vi": "Mô tả triệu chứng, trả lời các câu hỏi của họ, và hỏi xin loại rẻ hơn.",
+          "your_role_vi": "Bạn, đang đau họng",
+          "partner_role_vi": "Dược sĩ"
+        }
+      ],
+      "title_vi": "Ở hiệu thuốc",
+      "subtitle_vi": "Onks tähän jotain ilman reseptiä?",
+      "warmup_situation_vi": "Bạn đứng ở apteekki với cái họng đau và không có đơn thuốc. Dược sĩ hỏi ba câu trước khi gợi ý bất cứ thứ gì, và bạn không ngờ mình bị phỏng vấn.",
+      "warmup_question_vi": "Tại sao họ hỏi nhiều thế — và họ cần biết những gì?",
+      "rescue_vi": "Tôi không biết mình cần gì. Chị tư vấn giúp được không ạ?",
+      "rescue_note_vi": "Dược sĩ Phần Lan được đào tạo bài bản và thật sự tư vấn chứ không chỉ bán hàng. Đưa vấn đề cho họ thay vì hỏi một sản phẩm cụ thể thường giúp bạn nhận được thứ tốt hơn và rẻ hơn. Câu này là một lời mời, và họ sẽ nhận lời."
+    },
+    {
+      "slug": "child-at-the-doctor",
+      "number": "4.6",
+      "title": "With your child at the doctor",
+      "subtitle": "Speaking for someone who can't speak for themselves",
+      "warmup_situation": "Your four-year-old is unwell and can't explain it. The doctor asks you what's wrong. You're translating a child's distress into a second language, under stress, and you need to get it right.",
+      "warmup_question": "What five facts does every paediatric consultation start with?",
+      "rescue_fi": "Mä kerron mitä mä oon huomannu.",
+      "rescue_en": "I'll tell you what I've noticed.",
+      "rescue_note": "Reframes the task from diagnosing to observing, which is exactly what doctors want from a parent. You don't need medical vocabulary to say 'she hasn't eaten since yesterday' or 'she keeps pulling her ear' — and those observations are what actually lead to the diagnosis.",
+      "vocab": [
+        {
+          "fi": "lapsi",
+          "en": "child",
+          "pos": "noun",
+          "vi": "đứa trẻ"
+        },
+        {
+          "fi": "vauva",
+          "en": "baby",
+          "pos": "noun",
+          "vi": "em bé sơ sinh"
+        },
+        {
+          "fi": "taapero",
+          "en": "toddler",
+          "pos": "noun",
+          "vi": "trẻ mới biết đi"
+        },
+        {
+          "fi": "ikä",
+          "en": "age",
+          "pos": "noun",
+          "vi": "tuổi"
+        },
+        {
+          "fi": "nelivuotias",
+          "en": "four-year-old",
+          "pos": "adjective",
+          "note": "Age + -vuotias. Kaksivuotias, kuusivuotias.",
+          "vi": "bé bốn tuổi",
+          "note_vi": "Số tuổi + -vuotias. Kaksivuotias, kuusivuotias."
+        },
+        {
+          "fi": "paino",
+          "en": "weight",
+          "pos": "noun",
+          "note": "Know your child's weight in kilos. Paediatric doses depend on it.",
+          "vi": "cân nặng",
+          "note_vi": "Hãy biết cân nặng của con bằng kilogam. Liều thuốc nhi phụ thuộc vào đó."
+        },
+        {
+          "fi": "neuvola",
+          "en": "child health clinic",
+          "pos": "noun",
+          "note": "The free clinic every Finnish child attends. Your first call for non-urgent things.",
+          "vi": "phòng khám sức khoẻ trẻ em",
+          "note_vi": "Phòng khám miễn phí mà mọi trẻ em Phần Lan đều đến. Nơi đầu tiên bạn gọi cho những việc không khẩn."
+        },
+        {
+          "fi": "terveydenhoitaja",
+          "en": "public health nurse",
+          "pos": "noun",
+          "note": "Your main contact at the neuvola. Extremely knowledgeable and easy to reach.",
+          "vi": "y tá sức khoẻ cộng đồng",
+          "note_vi": "Đầu mối chính của bạn ở neuvola. Rất am hiểu và dễ liên lạc."
+        },
+        {
+          "fi": "rokote",
+          "en": "vaccine",
+          "pos": "noun",
+          "vi": "vắc-xin"
+        },
+        {
+          "fi": "rokotus",
+          "en": "vaccination",
+          "pos": "noun",
+          "vi": "việc tiêm chủng"
+        },
+        {
+          "fi": "rokotusohjelma",
+          "en": "vaccination programme",
+          "pos": "noun",
+          "vi": "chương trình tiêm chủng"
+        },
+        {
+          "fi": "itkuinen",
+          "en": "weepy, tearful",
+          "pos": "adjective",
+          "note": "The word for a child who cries more than usual. Very useful.",
+          "vi": "hay khóc, mau nước mắt",
+          "note_vi": "Từ dùng cho đứa trẻ khóc nhiều hơn bình thường. Rất hữu dụng."
+        },
+        {
+          "fi": "veltto",
+          "en": "listless, floppy",
+          "pos": "adjective",
+          "note": "A word doctors take seriously in a child. Use it accurately.",
+          "vi": "lả đi, mềm nhũn",
+          "note_vi": "Một từ mà bác sĩ xem rất nghiêm túc khi nói về trẻ. Chỉ dùng khi đúng."
+        },
+        {
+          "fi": "levoton",
+          "en": "restless",
+          "pos": "adjective",
+          "vi": "bồn chồn, không yên"
+        },
+        {
+          "fi": "ei syö",
+          "en": "isn't eating",
+          "pos": "phrase",
+          "note": "A key observation. Say how long.",
+          "vi": "không ăn",
+          "note_vi": "Một quan sát then chốt. Hãy nói rõ bao lâu rồi."
+        },
+        {
+          "fi": "ei juo",
+          "en": "isn't drinking",
+          "pos": "phrase",
+          "note": "More serious than not eating. Say it immediately.",
+          "vi": "không uống",
+          "note_vi": "Nghiêm trọng hơn không ăn. Hãy nói ngay lập tức."
+        },
+        {
+          "fi": "kuivuminen",
+          "en": "dehydration",
+          "pos": "noun",
+          "vi": "mất nước"
+        },
+        {
+          "fi": "vaippa",
+          "en": "nappy",
+          "pos": "noun",
+          "note": "'Kuinka monta märkää vaippaa?' — they will ask. Count them.",
+          "vi": "bỉm, tã",
+          "note_vi": "«Kuinka monta märkää vaippaa?» — họ sẽ hỏi. Hãy đếm."
+        },
+        {
+          "fi": "märkä",
+          "en": "wet",
+          "pos": "adjective",
+          "vi": "ướt"
+        },
+        {
+          "fi": "korvaa",
+          "en": "ear (partitive)",
+          "pos": "noun",
+          "note": "'Se vetää korvaa' = she keeps pulling her ear. Classic ear infection sign.",
+          "vi": "tai (cách phân từ)",
+          "note_vi": "«Se vetää korvaa» = bé cứ kéo tai. Dấu hiệu viêm tai kinh điển."
+        },
+        {
+          "fi": "vetää",
+          "en": "to pull",
+          "pos": "verb",
+          "vi": "kéo"
+        },
+        {
+          "fi": "ihottuma",
+          "en": "rash",
+          "pos": "noun",
+          "vi": "phát ban"
+        },
+        {
+          "fi": "näppylä",
+          "en": "spot, pimple",
+          "pos": "noun",
+          "vi": "nốt, mụn nhỏ"
+        },
+        {
+          "fi": "läiskä",
+          "en": "patch, blotch",
+          "pos": "noun",
+          "vi": "mảng, đốm"
+        },
+        {
+          "fi": "hengittää",
+          "en": "to breathe",
+          "pos": "verb",
+          "vi": "thở"
+        },
+        {
+          "fi": "vinkuminen",
+          "en": "wheezing",
+          "pos": "noun",
+          "vi": "tiếng thở khò khè"
+        },
+        {
+          "fi": "nukkua huonosti",
+          "en": "to sleep badly",
+          "pos": "phrase",
+          "vi": "ngủ không ngon"
+        },
+        {
+          "fi": "huomata",
+          "en": "to notice",
+          "pos": "verb",
+          "vi": "nhận thấy, để ý"
+        },
+        {
+          "fi": "seurata",
+          "en": "to monitor",
+          "pos": "verb",
+          "vi": "theo dõi"
+        },
+        {
+          "fi": "rauhoitella",
+          "en": "to comfort, to calm",
+          "pos": "verb",
+          "vi": "dỗ dành, trấn an"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Se on nelivuotias ja painaa 17 kiloa.",
+          "en": "She's four and weighs 17 kilos.",
+          "when_to_use": "Lead with this. Every paediatric decision depends on age and weight.",
+          "register": "neutral",
+          "vi": "Bé bốn tuổi và nặng 17 cân.",
+          "when_to_use_vi": "Hãy nói điều này trước. Mọi quyết định trong nhi khoa đều dựa vào tuổi và cân nặng."
+        },
+        {
+          "fi": "Mä kerron mitä mä oon huomannu.",
+          "en": "I'll tell you what I've noticed.",
+          "when_to_use": "Your framing sentence. You observe; they diagnose.",
+          "register": "neutral",
+          "vi": "Tôi kể những gì tôi quan sát được.",
+          "when_to_use_vi": "Câu định khung của bạn. Bạn quan sát; họ chẩn đoán."
+        },
+        {
+          "fi": "Sillä on ollu kuumetta kaks päivää.",
+          "en": "She's had a fever for two days.",
+          "when_to_use": "The standard opening fact. Add the highest reading.",
+          "register": "neutral",
+          "vi": "Bé sốt hai ngày rồi.",
+          "when_to_use_vi": "Dữ kiện mở đầu tiêu chuẩn. Thêm chỉ số cao nhất."
+        },
+        {
+          "fi": "Se ei oo syöny eilisestä.",
+          "en": "She hasn't eaten since yesterday.",
+          "when_to_use": "Concrete and useful. Always give the since-when.",
+          "register": "neutral",
+          "vi": "Từ hôm qua bé không ăn gì.",
+          "when_to_use_vi": "Cụ thể và hữu ích. Luôn nói rõ từ khi nào."
+        },
+        {
+          "fi": "Se ei juo juuri mitään.",
+          "en": "She's hardly drinking anything.",
+          "when_to_use": "More urgent than not eating. Say it early and clearly.",
+          "register": "neutral",
+          "vi": "Bé gần như không uống gì cả.",
+          "when_to_use_vi": "Khẩn hơn việc không ăn. Hãy nói sớm và rõ."
+        },
+        {
+          "fi": "Se vetää koko ajan korvaa.",
+          "en": "She keeps pulling her ear.",
+          "when_to_use": "The classic ear-infection observation. Doctors act on it.",
+          "register": "casual",
+          "vi": "Bé cứ kéo tai suốt.",
+          "when_to_use_vi": "Quan sát kinh điển về viêm tai. Bác sĩ hành động dựa trên đó."
+        },
+        {
+          "fi": "Se on ollu tosi itkunen ja veltto.",
+          "en": "She's been very weepy and listless.",
+          "when_to_use": "'Veltto' is a word doctors weigh carefully. Use it only if accurate.",
+          "register": "neutral",
+          "vi": "Bé rất hay khóc và lả đi.",
+          "when_to_use_vi": "«Veltto» là từ bác sĩ cân nhắc rất kỹ. Chỉ dùng nếu đúng."
+        },
+        {
+          "fi": "Sillä on ihottumaa vatsassa.",
+          "en": "She has a rash on her stomach.",
+          "when_to_use": "Say where. Location matters for rashes.",
+          "register": "neutral",
+          "vi": "Bé bị phát ban ở bụng.",
+          "when_to_use_vi": "Hãy nói ở đâu. Vị trí quan trọng với phát ban."
+        },
+        {
+          "fi": "Kolme märkää vaippaa tänään.",
+          "en": "Three wet nappies today.",
+          "when_to_use": "The hydration measure. Count them before you go.",
+          "register": "neutral",
+          "vi": "Hôm nay ba cái bỉm ướt.",
+          "when_to_use_vi": "Thước đo mức nước trong cơ thể. Hãy đếm trước khi đi."
+        },
+        {
+          "fi": "Se hengittää vähän vinkuen.",
+          "en": "Her breathing is a bit wheezy.",
+          "when_to_use": "Escalates the urgency. Never soften this one.",
+          "register": "neutral",
+          "vi": "Bé thở hơi khò khè.",
+          "when_to_use_vi": "Nâng mức khẩn cấp. Đừng bao giờ nói giảm điều này."
+        },
+        {
+          "fi": "Mä annoin sille parasetamolia kahdeksalta.",
+          "en": "I gave her paracetamol at eight.",
+          "when_to_use": "Always say what you gave and when. It affects what they can give next.",
+          "register": "neutral",
+          "vi": "Tôi cho bé uống paracetamol lúc tám giờ.",
+          "when_to_use_vi": "Luôn nói bạn đã cho uống gì và lúc nào. Nó ảnh hưởng đến thứ họ cho tiếp theo."
+        },
+        {
+          "fi": "Onks tää normaalia tässä iässä?",
+          "en": "Is this normal at this age?",
+          "when_to_use": "The reassurance question. Ask it — the answer is usually yes.",
+          "register": "casual",
+          "vi": "Ở tuổi này như vậy có bình thường không ạ?",
+          "when_to_use_vi": "Câu hỏi để yên tâm. Cứ hỏi — câu trả lời thường là có."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A sick four-year-old",
+          "setting": "The consultation room. Duc speaks for Eeva, who is on his lap.",
+          "speed": "slow",
+          "note": "He gives observations, not theories. That's exactly what's wanted.",
+          "lines": [
+            {
+              "speaker": "Lääkäri",
+              "fi": "No niin, mikä Eevaa vaivaa?",
+              "en": "Right then, what's troubling Eeva?",
+              "vi": "Nào, Eeva bị làm sao ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä kerron mitä mä oon huomannu. Sillä on ollu kuumetta kaks päivää, korkeimmillaan 39,2.",
+              "en": "I'll tell you what I've noticed. She's had a fever for two days, highest 39.2.",
+              "vi": "Tôi kể những gì tôi quan sát được. Bé sốt hai ngày rồi, cao nhất là 39,2."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Selvä. Kuinka vanha ja paljonko painaa?",
+              "en": "Right. How old and how much does she weigh?",
+              "vi": "Vâng. Bé mấy tuổi và nặng bao nhiêu ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nelivuotias, noin 17 kiloa.",
+              "en": "Four years old, about 17 kilos.",
+              "vi": "Bốn tuổi, khoảng 17 cân."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Hyvä. Syökö ja juoko se?",
+              "en": "Good. Is she eating and drinking?",
+              "vi": "Tốt. Bé có ăn và uống không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo syöny eilisestä. Juo vähän, mut ei paljon.",
+              "en": "She hasn't eaten since yesterday. Drinks a little, but not much.",
+              "vi": "Từ hôm qua bé không ăn. Có uống một chút, nhưng không nhiều."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Montako märkää vaippaa tai vessakäyntiä tänään?",
+              "en": "How many wet nappies or toilet visits today?",
+              "vi": "Hôm nay bao nhiêu bỉm ướt hoặc bao nhiêu lần đi vệ sinh ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kolme kertaa. Vähemmän kun normaalisti.",
+              "en": "Three times. Less than normal.",
+              "vi": "Ba lần. Ít hơn bình thường."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Okei. Muita oireita?",
+              "en": "Okay. Other symptoms?",
+              "vi": "Vâng. Còn triệu chứng nào khác không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Se vetää koko ajan vasenta korvaa. Ja on tosi itkunen.",
+              "en": "She keeps pulling her left ear. And she's very weepy.",
+              "vi": "Bé cứ kéo tai trái suốt. Và rất hay khóc."
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Hyvä havainto. Katsotaanpa korvat. …Joo, vasen korva on tulehtunut.",
+              "en": "Good observation. Let's look at the ears. …Yes, the left ear is infected.",
+              "vi": "Quan sát tốt đấy. Để tôi xem tai… Vâng, tai trái bị viêm rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai. Tarviiks se antibiootin?",
+              "en": "Ah. Does she need an antibiotic?",
+              "vi": "À. Bé có cần kháng sinh không ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Tässä tapauksessa kyllä. Annos painon mukaan, mä lasken sen.",
+              "en": "In this case yes. Dose according to weight, I'll calculate it.",
+              "vi": "Trường hợp này thì có. Liều theo cân nặng, tôi sẽ tính."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Mä annoin sille parasetamolia kahdeksalta — milloin mä voin antaa lisää?",
+              "en": "Thanks. I gave her paracetamol at eight — when can I give more?",
+              "vi": "Cảm ơn bác sĩ. Tôi cho bé uống paracetamol lúc tám giờ — khi nào tôi cho uống tiếp được ạ?"
+            },
+            {
+              "speaker": "Lääkäri",
+              "fi": "Neljän tunnin välein, korkeintaan neljä kertaa vuorokaudessa.",
+              "en": "Every four hours, at most four times in 24 hours.",
+              "vi": "Cách bốn tiếng một lần, tối đa bốn lần trong hai mươi tư giờ."
+            }
+          ],
+          "title_vi": "Một bé bốn tuổi bị ốm",
+          "setting_vi": "Phòng khám. Duc nói thay cho Eeva, bé đang ngồi trên đùi anh.",
+          "note_vi": "Anh đưa ra quan sát, không đưa ra giả thuyết. Đó đúng là thứ được mong đợi."
+        },
+        {
+          "title": "A call to the neuvola",
+          "setting": "Not urgent, but worrying. The public health nurse is the right first call.",
+          "speed": "natural",
+          "note": "The neuvola is free, knowledgeable and easy to reach. Use it.",
+          "lines": [
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Neuvola, Virtanen.",
+              "en": "Child health clinic, Virtanen speaking.",
+              "vi": "Neuvola, Virtanen xin nghe."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hei! Duc täällä, Eevan isä. Mulla ois kysymys.",
+              "en": "Hi! Duc here, Eeva's father. I have a question.",
+              "vi": "Chào chị! Duc đây, bố của Eeva. Tôi có một câu hỏi ạ."
+            },
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Joo, kerro vaan.",
+              "en": "Yeah, go ahead.",
+              "vi": "Vâng, anh cứ nói."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Eevalla on ihottumaa vatsassa. Ei kuumetta, se syö ja leikkii normaalisti.",
+              "en": "Eeva has a rash on her stomach. No fever, she's eating and playing normally.",
+              "vi": "Eeva bị phát ban ở bụng. Không sốt, bé vẫn ăn và chơi bình thường."
+            },
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Onks se punainen vai vaalea? Kutiiko se?",
+              "en": "Is it red or pale? Is it itchy?",
+              "vi": "Ban đỏ hay nhạt màu ạ? Có ngứa không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Punainen, pieniä näppylöitä. Se ei näytä kutisevan.",
+              "en": "Red, small spots. It doesn't seem itchy.",
+              "vi": "Đỏ, những nốt nhỏ. Có vẻ không ngứa."
+            },
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Onks uutta pesuainetta tai uutta ruokaa?",
+              "en": "Any new detergent or new food?",
+              "vi": "Nhà mình có dùng chất giặt tẩy mới hay món ăn mới nào không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai… joo, me vaihdettiin pyykinpesuaine viime viikolla.",
+              "en": "Ah… yes, we changed laundry detergent last week.",
+              "vi": "À… có, tuần trước nhà tôi đổi nước giặt."
+            },
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Se voi hyvin olla se. Vaihda takas ja seuraa pari päivää.",
+              "en": "That may well be it. Switch back and monitor for a couple of days.",
+              "vi": "Rất có thể là do đó. Anh đổi lại và theo dõi vài ngày nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Ja jos se ei parane?",
+              "en": "Right. And if it doesn't get better?",
+              "vi": "Vâng. Thế nếu không đỡ thì sao ạ?"
+            },
+            {
+              "speaker": "Terveydenhoitaja",
+              "fi": "Soita uudestaan, tai tuu käymään. Ja heti jos tulee kuumetta.",
+              "en": "Call again, or come in. And immediately if a fever develops.",
+              "vi": "Anh gọi lại, hoặc đưa bé đến. Và đến ngay nếu bé bị sốt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos tosi paljon. Tää helpotti.",
+              "en": "Thanks so much. That's a relief.",
+              "vi": "Cảm ơn chị nhiều lắm. Tôi nhẹ cả người."
+            }
+          ],
+          "title_vi": "Một cuộc gọi tới neuvola",
+          "setting_vi": "Không khẩn cấp, nhưng đáng lo. Y tá sức khoẻ cộng đồng là nơi gọi đầu tiên hợp lý.",
+          "note_vi": "Neuvola miễn phí, am hiểu và dễ liên lạc. Hãy dùng nó."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Speak for your child",
+          "scenario": "Give age, weight, symptoms, what you've noticed, and what you've already given.",
+          "your_role": "You, with a sick child",
+          "partner_role": "The doctor",
+          "turns": [
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Mikä Eevaa vaivaa?",
+              "en": "What's troubling Eeva?",
+              "vi": "Eeva bị làm sao ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä kerron mitä mä oon huomannu. Sillä on ollu kuumetta kaks päivää.",
+              "en": "I'll tell you what I've noticed. She's had a fever for two days.",
+              "hint": "Frame it as observation, then give the first fact.",
+              "vi": "Tôi kể những gì tôi quan sát được. Bé sốt hai ngày rồi.",
+              "hint_vi": "Định khung là quan sát, rồi đưa dữ kiện đầu tiên."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Kuinka vanha ja paljonko painaa?",
+              "en": "How old and how much does she weigh?",
+              "vi": "Bé mấy tuổi và nặng bao nhiêu ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Nelivuotias, noin 17 kiloa.",
+              "en": "Four years old, about 17 kilos.",
+              "hint": "Know the weight. Every paediatric dose depends on it.",
+              "vi": "Bốn tuổi, khoảng 17 cân.",
+              "hint_vi": "Hãy biết cân nặng. Mọi liều thuốc nhi đều dựa vào đó."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Syökö ja juoko se?",
+              "en": "Is she eating and drinking?",
+              "vi": "Bé có ăn và uống không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei oo syöny eilisestä. Juo vähän.",
+              "en": "She hasn't eaten since yesterday. Drinks a little.",
+              "hint": "Always give the since-when.",
+              "vi": "Từ hôm qua bé không ăn. Có uống một chút.",
+              "hint_vi": "Luôn nói rõ từ khi nào."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Muita oireita?",
+              "en": "Other symptoms?",
+              "vi": "Còn triệu chứng nào khác không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Se vetää koko ajan vasenta korvaa ja on tosi itkunen.",
+              "en": "She keeps pulling her left ear and is very weepy.",
+              "hint": "A behaviour observation is worth more than a guess at a diagnosis.",
+              "vi": "Bé cứ kéo tai trái suốt và rất hay khóc.",
+              "hint_vi": "Một quan sát về hành vi có giá trị hơn một phỏng đoán về chẩn đoán."
+            },
+            {
+              "speaker": "Lääkäri",
+              "is_your_turn": false,
+              "fi": "Hyvä havainto. Katsotaan korvat.",
+              "en": "Good observation. Let's look at the ears.",
+              "vi": "Quan sát tốt đấy. Để tôi xem tai."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä annoin sille parasetamolia kahdeksalta.",
+              "en": "I gave her paracetamol at eight.",
+              "hint": "Say what you've already given and when. It affects what comes next.",
+              "vi": "Tôi cho bé uống paracetamol lúc tám giờ.",
+              "hint_vi": "Nói bạn đã cho uống gì và lúc nào. Nó ảnh hưởng đến bước tiếp theo."
+            }
+          ],
+          "title_vi": "Nói thay cho con bạn",
+          "scenario_vi": "Nêu tuổi, cân nặng, triệu chứng, những gì bạn quan sát được, và những gì bạn đã cho uống.",
+          "your_role_vi": "Bạn, cùng đứa con đang ốm",
+          "partner_role_vi": "Bác sĩ"
+        }
+      ],
+      "title_vi": "Đưa con đi khám bác sĩ",
+      "subtitle_vi": "Nói thay cho người chưa nói được cho mình",
+      "warmup_situation_vi": "Con bạn bốn tuổi, đang khó chịu và không giải thích được. Bác sĩ hỏi bạn bé bị gì. Bạn đang dịch nỗi khổ của một đứa trẻ sang ngôn ngữ thứ hai, trong lúc căng thẳng, và bạn phải nói cho đúng.",
+      "warmup_question_vi": "Mọi buổi khám nhi đều bắt đầu bằng năm dữ kiện nào?",
+      "rescue_vi": "Tôi kể những gì tôi quan sát được.",
+      "rescue_note_vi": "Câu này chuyển nhiệm vụ từ chẩn đoán sang quan sát, mà đó chính là điều bác sĩ muốn ở một phụ huynh. Bạn không cần từ vựng y khoa để nói «từ hôm qua bé không ăn» hay «bé cứ kéo tai mãi» — và chính những quan sát đó mới dẫn tới chẩn đoán."
+    },
+    {
+      "slug": "emergencies-and-112",
+      "number": "4.7",
+      "title": "Emergencies and 112",
+      "subtitle": "Tarvitaan ambulanssi. Osote on…",
+      "warmup_situation": "Something has actually happened. You have to call 112 and you have perhaps fifteen seconds of clear thinking before panic takes over.",
+      "warmup_question": "What is the very first thing you say — and what do you absolutely not do?",
+      "rescue_fi": "Mä puhun huonosti suomea. Voidaanko puhua englanniksi?",
+      "rescue_en": "I speak Finnish badly. Can we speak English?",
+      "rescue_note": "This is the one lesson in the course where switching to English is the correct move, not a failure. Finnish 112 operators speak English, are trained for this, and would far rather take an accurate report in English than a confused one in Finnish. Say it in the first five seconds and move on.",
+      "vocab": [
+        {
+          "fi": "hätänumero",
+          "en": "emergency number",
+          "pos": "noun",
+          "note": "112 for everything: ambulance, police, fire. Free from any phone.",
+          "vi": "số khẩn cấp",
+          "note_vi": "112 cho tất cả: xe cứu thương, cảnh sát, cứu hoả. Miễn phí từ mọi máy."
+        },
+        {
+          "fi": "hätäkeskus",
+          "en": "emergency response centre",
+          "pos": "noun",
+          "vi": "trung tâm ứng cứu khẩn cấp"
+        },
+        {
+          "fi": "ambulanssi",
+          "en": "ambulance",
+          "pos": "noun",
+          "vi": "xe cứu thương"
+        },
+        {
+          "fi": "paloauto",
+          "en": "fire engine",
+          "pos": "noun",
+          "vi": "xe cứu hoả"
+        },
+        {
+          "fi": "poliisi",
+          "en": "police",
+          "pos": "noun",
+          "vi": "cảnh sát"
+        },
+        {
+          "fi": "onnettomuus",
+          "en": "accident",
+          "pos": "noun",
+          "vi": "tai nạn"
+        },
+        {
+          "fi": "hätätilanne",
+          "en": "emergency",
+          "pos": "noun",
+          "vi": "tình huống khẩn cấp"
+        },
+        {
+          "fi": "osoite",
+          "en": "address",
+          "pos": "noun",
+          "note": "The first thing they need. Know yours by heart, and be able to say it slowly.",
+          "vi": "địa chỉ",
+          "note_vi": "Thứ đầu tiên họ cần. Hãy thuộc lòng địa chỉ của bạn, và đọc được thật chậm."
+        },
+        {
+          "fi": "katu",
+          "en": "street",
+          "pos": "noun",
+          "vi": "đường phố"
+        },
+        {
+          "fi": "kerros",
+          "en": "floor, storey",
+          "pos": "noun",
+          "vi": "tầng (nhà)"
+        },
+        {
+          "fi": "ovikoodi",
+          "en": "door code",
+          "pos": "noun",
+          "note": "Tell them. It saves minutes at the door.",
+          "vi": "mã cửa",
+          "note_vi": "Hãy nói ra. Nó tiết kiệm được vài phút ở cửa."
+        },
+        {
+          "fi": "tajuton",
+          "en": "unconscious",
+          "pos": "adjective",
+          "note": "The word that changes everything. Say it first if true.",
+          "vi": "bất tỉnh",
+          "note_vi": "Từ làm thay đổi mọi thứ. Nếu đúng thì nói trước tiên."
+        },
+        {
+          "fi": "tajuissaan",
+          "en": "conscious",
+          "pos": "adverb",
+          "vi": "còn tỉnh táo"
+        },
+        {
+          "fi": "hengittää",
+          "en": "to breathe",
+          "pos": "verb",
+          "note": "'Hengittääkö hän?' — they will ask immediately. Check before you answer.",
+          "vi": "thở",
+          "note_vi": "«Hengittääkö hän?» — họ sẽ hỏi ngay. Hãy kiểm tra trước khi trả lời."
+        },
+        {
+          "fi": "sydänkohtaus",
+          "en": "heart attack",
+          "pos": "noun",
+          "vi": "cơn đau tim"
+        },
+        {
+          "fi": "aivoinfarkti",
+          "en": "stroke",
+          "pos": "noun",
+          "vi": "đột quỵ"
+        },
+        {
+          "fi": "kouristus",
+          "en": "seizure, convulsion",
+          "pos": "noun",
+          "vi": "cơn co giật"
+        },
+        {
+          "fi": "verenvuoto",
+          "en": "bleeding",
+          "pos": "noun",
+          "vi": "chảy máu"
+        },
+        {
+          "fi": "palovamma",
+          "en": "burn",
+          "pos": "noun",
+          "vi": "vết bỏng"
+        },
+        {
+          "fi": "myrkytys",
+          "en": "poisoning",
+          "pos": "noun",
+          "vi": "ngộ độc"
+        },
+        {
+          "fi": "tukehtua",
+          "en": "to choke",
+          "pos": "verb",
+          "vi": "nghẹn, sặc"
+        },
+        {
+          "fi": "elvytys",
+          "en": "resuscitation, CPR",
+          "pos": "noun",
+          "note": "The operator will talk you through it. Follow exactly.",
+          "vi": "hồi sức tim phổi (CPR)",
+          "note_vi": "Tổng đài viên sẽ hướng dẫn bạn từng bước. Hãy làm đúng theo."
+        },
+        {
+          "fi": "painelu",
+          "en": "chest compressions",
+          "pos": "noun",
+          "vi": "ép tim"
+        },
+        {
+          "fi": "pysy linjalla",
+          "en": "stay on the line",
+          "pos": "phrase",
+          "note": "They will say this. Do not hang up until told.",
+          "vi": "giữ máy",
+          "note_vi": "Họ sẽ nói câu này. Đừng cúp máy cho đến khi được bảo."
+        },
+        {
+          "fi": "älä sulje puhelinta",
+          "en": "don't hang up",
+          "pos": "phrase",
+          "vi": "đừng cúp máy"
+        },
+        {
+          "fi": "rauhoitu",
+          "en": "calm down",
+          "pos": "verb",
+          "vi": "bình tĩnh lại"
+        },
+        {
+          "fi": "116 117",
+          "en": "medical helpline",
+          "pos": "noun",
+          "note": "For urgent but NOT life-threatening. Call this before going to päivystys.",
+          "vi": "đường dây tư vấn y tế",
+          "note_vi": "Cho trường hợp gấp nhưng KHÔNG nguy hiểm tính mạng. Gọi số này trước khi đến päivystys."
+        },
+        {
+          "fi": "myrkytystietokeskus",
+          "en": "poison information centre",
+          "pos": "noun",
+          "note": "0800 147 111. Free, 24h. Save it if you have children.",
+          "vi": "trung tâm thông tin chống độc",
+          "note_vi": "0800 147 111. Miễn phí, 24 giờ. Hãy lưu lại nếu bạn có con nhỏ."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Hätäkeskus, mitä on tapahtunut?",
+          "en": "Emergency centre, what has happened?",
+          "when_to_use": "How the call opens. Answer this question directly and first.",
+          "register": "neutral",
+          "vi": "Trung tâm cấp cứu, có chuyện gì ạ?",
+          "when_to_use_vi": "Cách cuộc gọi mở đầu. Hãy trả lời thẳng câu này trước tiên."
+        },
+        {
+          "fi": "Mä puhun huonosti suomea. Voidaanko puhua englanniksi?",
+          "en": "I speak Finnish badly. Can we speak English?",
+          "when_to_use": "Say this in the first five seconds. Operators speak English and are trained for it.",
+          "register": "neutral",
+          "vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?",
+          "when_to_use_vi": "Nói câu này trong năm giây đầu. Tổng đài viên nói tiếng Anh và được đào tạo cho việc đó."
+        },
+        {
+          "fi": "Tarvitaan ambulanssi.",
+          "en": "We need an ambulance.",
+          "when_to_use": "Clear and unambiguous. Say what you need immediately.",
+          "register": "neutral",
+          "vi": "Chúng tôi cần xe cứu thương.",
+          "when_to_use_vi": "Rõ ràng và không mơ hồ. Nói ngay thứ bạn cần."
+        },
+        {
+          "fi": "Osoite on Mannerheimintie 15, kolmas kerros.",
+          "en": "The address is Mannerheimintie 15, third floor.",
+          "when_to_use": "Address first, then floor. Practise saying yours slowly and clearly.",
+          "register": "neutral",
+          "vi": "Địa chỉ là Mannerheimintie 15, tầng ba.",
+          "when_to_use_vi": "Địa chỉ trước, rồi tầng. Hãy tập đọc địa chỉ của bạn thật chậm và rõ."
+        },
+        {
+          "fi": "Ovikoodi on 1234.",
+          "en": "The door code is 1234.",
+          "when_to_use": "Volunteer it. It saves minutes at the door.",
+          "register": "neutral",
+          "vi": "Mã cửa là 1234.",
+          "when_to_use_vi": "Hãy chủ động nói ra. Nó tiết kiệm vài phút ở cửa."
+        },
+        {
+          "fi": "Hän on tajuton.",
+          "en": "He/she is unconscious.",
+          "when_to_use": "If true, say it first. Nothing else matters as much.",
+          "register": "neutral",
+          "vi": "Người đó bất tỉnh.",
+          "when_to_use_vi": "Nếu đúng, hãy nói trước tiên. Không có gì quan trọng bằng."
+        },
+        {
+          "fi": "Hän hengittää.",
+          "en": "He/she is breathing.",
+          "when_to_use": "Check before answering. They will ask within seconds.",
+          "register": "neutral",
+          "vi": "Người đó vẫn thở.",
+          "when_to_use_vi": "Kiểm tra rồi mới trả lời. Họ sẽ hỏi chỉ sau vài giây."
+        },
+        {
+          "fi": "Hän ei hengitä.",
+          "en": "He/she isn't breathing.",
+          "when_to_use": "The operator will start talking you through CPR immediately. Listen and follow.",
+          "register": "neutral",
+          "vi": "Người đó không thở.",
+          "when_to_use_vi": "Tổng đài viên sẽ hướng dẫn CPR ngay lập tức. Hãy nghe và làm theo."
+        },
+        {
+          "fi": "Mun lapsi on nielassu jotain.",
+          "en": "My child has swallowed something.",
+          "when_to_use": "Say what, if you know. Also call the poison centre: 0800 147 111.",
+          "register": "neutral",
+          "vi": "Con tôi nuốt phải cái gì đó.",
+          "when_to_use_vi": "Nói rõ là gì, nếu bạn biết. Cũng nên gọi trung tâm chống độc: 0800 147 111."
+        },
+        {
+          "fi": "Mä oon paikan päällä hänen kanssaan.",
+          "en": "I'm on the scene with them.",
+          "when_to_use": "Tells them someone is present and can follow instructions.",
+          "register": "neutral",
+          "vi": "Tôi đang ở tại chỗ cùng với người đó.",
+          "when_to_use_vi": "Cho họ biết có người ở đó và có thể làm theo hướng dẫn."
+        },
+        {
+          "fi": "Mun numero on 040 123 4567.",
+          "en": "My number is 040 123 4567.",
+          "when_to_use": "In case the call drops. Give it clearly.",
+          "register": "neutral",
+          "vi": "Số của tôi là 040 123 4567.",
+          "when_to_use_vi": "Phòng khi cuộc gọi bị ngắt. Hãy đọc thật rõ."
+        },
+        {
+          "fi": "Mä pysyn linjalla.",
+          "en": "I'll stay on the line.",
+          "when_to_use": "Never hang up first. Wait until they say you can.",
+          "register": "neutral",
+          "vi": "Tôi sẽ giữ máy.",
+          "when_to_use_vi": "Đừng bao giờ cúp máy trước. Hãy đợi đến khi họ nói bạn có thể."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Calling 112",
+          "setting": "A real emergency. Every word in the first thirty seconds counts.",
+          "speed": "slow",
+          "note": "Address, what happened, condition. In that order. Listen to the operator and answer only what's asked.",
+          "lines": [
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Hätäkeskus, mitä on tapahtunut?",
+              "en": "Emergency centre, what has happened?",
+              "vi": "Trung tâm cấp cứu, có chuyện gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mun naapuri kaatui ja lyö päänsä. Hän on tajuton. Tarvitaan ambulanssi.",
+              "en": "My neighbour fell and hit his head. He's unconscious. We need an ambulance.",
+              "vi": "Người hàng xóm của tôi ngã và đập đầu. Anh ấy bất tỉnh. Chúng tôi cần xe cứu thương."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Mikä on osoite?",
+              "en": "What is the address?",
+              "vi": "Địa chỉ là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mannerheimintie 15, kolmas kerros. Ovikoodi on 1234.",
+              "en": "Mannerheimintie 15, third floor. The door code is 1234.",
+              "vi": "Mannerheimintie 15, tầng ba. Mã cửa là 1234."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Selvä, apu on matkalla. Hengittääkö hän?",
+              "en": "Right, help is on the way. Is he breathing?",
+              "vi": "Vâng, xe đang trên đường. Anh ấy có thở không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hetki… joo, hän hengittää.",
+              "en": "One moment… yes, he's breathing.",
+              "note": "Check before answering. Never guess.",
+              "vi": "Chờ chút… có, anh ấy đang thở.",
+              "note_vi": "Kiểm tra rồi mới trả lời. Đừng bao giờ đoán."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Hyvä. Onko hän reagoinut mitenkään?",
+              "en": "Good. Has he responded at all?",
+              "vi": "Tốt. Anh ấy có phản ứng gì không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei. Hän ei vastaa kun mä puhun.",
+              "en": "No. He doesn't answer when I speak.",
+              "vi": "Không. Tôi gọi mà anh ấy không trả lời."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Älä liikuta häntä. Käännä hänet kylkiasentoon, mä opastan.",
+              "en": "Don't move him. Turn him into the recovery position, I'll guide you.",
+              "vi": "Đừng di chuyển anh ấy. Hãy lật anh ấy sang tư thế nằm nghiêng an toàn, tôi hướng dẫn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä, mä teen niin.",
+              "en": "Right, I'll do that.",
+              "vi": "Vâng, tôi làm ngay."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Mikä on sun nimi ja numero?",
+              "en": "What's your name and number?",
+              "vi": "Tên và số điện thoại của anh là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Duc Nguyen, 040 123 4567.",
+              "en": "Duc Nguyen, 040 123 4567.",
+              "vi": "Duc Nguyen, 040 123 4567."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Kiitos. Pysy linjalla, älä sulje puhelinta.",
+              "en": "Thanks. Stay on the line, don't hang up.",
+              "vi": "Cảm ơn anh. Anh giữ máy, đừng cúp nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä pysyn linjalla.",
+              "en": "I'll stay on the line.",
+              "vi": "Tôi sẽ giữ máy."
+            }
+          ],
+          "title_vi": "Gọi 112",
+          "setting_vi": "Một tình huống khẩn cấp thật. Mỗi chữ trong ba mươi giây đầu đều quan trọng.",
+          "note_vi": "Địa chỉ, chuyện gì xảy ra, tình trạng. Theo thứ tự đó. Hãy nghe tổng đài viên và chỉ trả lời đúng điều được hỏi."
+        },
+        {
+          "title": "Switching to English, correctly",
+          "setting": "A different emergency. Duc makes the right call immediately.",
+          "speed": "natural",
+          "note": "This is the one place in the course where switching languages is the correct move. Do it in the first five seconds.",
+          "lines": [
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Hätäkeskus, mitä on tapahtunut?",
+              "en": "Emergency centre, what has happened?",
+              "vi": "Trung tâm cấp cứu, có chuyện gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä puhun huonosti suomea. Voidaanko puhua englanniksi?",
+              "en": "I speak Finnish badly. Can we speak English?",
+              "vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?"
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Yes, of course. What has happened?",
+              "en": "(switches immediately)",
+              "vi": "(chuyển sang tiếng Anh ngay) Vâng, tất nhiên. Có chuyện gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mun lapsi nielasi jotain ja yskii kovasti.",
+              "en": "My child swallowed something and is coughing hard.",
+              "note": "He gives the facts in whichever language comes fastest. Both are fine now.",
+              "vi": "Con tôi nuốt phải cái gì đó và đang ho dữ dội.",
+              "note_vi": "Anh đưa ra dữ kiện bằng bất cứ ngôn ngữ nào bật ra nhanh nhất. Giờ thì cả hai đều được."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Hengittääkö lapsi?",
+              "en": "Is the child breathing?",
+              "vi": "Bé có thở không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, hengittää ja yskii. Osoite on Mannerheimintie 15, kolmas kerros.",
+              "en": "Yes, breathing and coughing. The address is Mannerheimintie 15, third floor.",
+              "vi": "Có, bé thở và đang ho. Địa chỉ là Mannerheimintie 15, tầng ba."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Hyvä, yskiminen on hyvä merkki. Apu tulee. Kuinka vanha lapsi on?",
+              "en": "Good, coughing is a good sign. Help is coming. How old is the child?",
+              "vi": "Tốt, ho là dấu hiệu tốt. Xe đang đến. Bé mấy tuổi ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nelivuotias. Mä oon paikan päällä hänen kanssaan.",
+              "en": "Four years old. I'm on the scene with her.",
+              "vi": "Bốn tuổi. Tôi đang ở tại chỗ cùng bé."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "fi": "Älä yritä ottaa sitä pois sormella. Pysy linjalla.",
+              "en": "Don't try to remove it with your finger. Stay on the line.",
+              "vi": "Đừng cố dùng ngón tay móc ra. Anh giữ máy nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Mä pysyn linjalla.",
+              "en": "Right. I'll stay on the line.",
+              "vi": "Vâng. Tôi sẽ giữ máy."
+            }
+          ],
+          "title_vi": "Chuyển sang tiếng Anh, một cách đúng đắn",
+          "setting_vi": "Một tình huống khẩn cấp khác. Duc đưa ra quyết định đúng ngay lập tức.",
+          "note_vi": "Đây là nơi duy nhất trong cả khoá học mà chuyển ngôn ngữ là nước đi đúng. Hãy làm trong năm giây đầu."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Make a 112 call",
+          "scenario": "Report an emergency: what happened, where, and the person's condition.",
+          "your_role": "You, calling 112",
+          "partner_role": "The emergency operator",
+          "turns": [
+            {
+              "speaker": "Hätäkeskus",
+              "is_your_turn": false,
+              "fi": "Hätäkeskus, mitä on tapahtunut?",
+              "en": "Emergency centre, what has happened?",
+              "vi": "Trung tâm cấp cứu, có chuyện gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mun naapuri kaatui ja on tajuton. Tarvitaan ambulanssi.",
+              "en": "My neighbour fell and is unconscious. We need an ambulance.",
+              "hint": "What happened, the condition, what you need. Three facts, one sentence.",
+              "vi": "Người hàng xóm của tôi ngã và bất tỉnh. Chúng tôi cần xe cứu thương.",
+              "hint_vi": "Chuyện gì xảy ra, tình trạng, thứ bạn cần. Ba dữ kiện, một câu."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "is_your_turn": false,
+              "fi": "Mikä on osoite?",
+              "en": "What is the address?",
+              "vi": "Địa chỉ là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mannerheimintie 15, kolmas kerros. Ovikoodi on 1234.",
+              "en": "Mannerheimintie 15, third floor. The door code is 1234.",
+              "hint": "Address, floor, door code. Volunteer the code — it saves minutes.",
+              "vi": "Mannerheimintie 15, tầng ba. Mã cửa là 1234.",
+              "hint_vi": "Địa chỉ, tầng, mã cửa. Chủ động nói mã — nó tiết kiệm vài phút."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "is_your_turn": false,
+              "fi": "Apu on matkalla. Hengittääkö hän?",
+              "en": "Help is on the way. Is he breathing?",
+              "vi": "Xe đang trên đường. Anh ấy có thở không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hetki… joo, hän hengittää.",
+              "en": "One moment… yes, he's breathing.",
+              "hint": "Check before answering. Never guess on this question.",
+              "vi": "Chờ chút… có, anh ấy đang thở.",
+              "hint_vi": "Kiểm tra rồi mới trả lời. Đừng bao giờ đoán ở câu hỏi này."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "is_your_turn": false,
+              "fi": "Hyvä. Onko hän reagoinut mitenkään?",
+              "en": "Good. Has he responded at all?",
+              "vi": "Tốt. Anh ấy có phản ứng gì không ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei, hän ei vastaa kun mä puhun.",
+              "en": "No, he doesn't answer when I speak.",
+              "hint": "Describe exactly what you observe.",
+              "vi": "Không, tôi gọi mà anh ấy không trả lời.",
+              "hint_vi": "Mô tả chính xác điều bạn quan sát được."
+            },
+            {
+              "speaker": "Hätäkeskus",
+              "is_your_turn": false,
+              "fi": "Mikä on sun nimi ja numero?",
+              "en": "What's your name and number?",
+              "vi": "Tên và số điện thoại của anh là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Duc Nguyen, 040 123 4567. Mä pysyn linjalla.",
+              "en": "Duc Nguyen, 040 123 4567. I'll stay on the line.",
+              "hint": "Give both, then confirm you're staying. Never hang up first.",
+              "vi": "Duc Nguyen, 040 123 4567. Tôi sẽ giữ máy.",
+              "hint_vi": "Đưa cả hai, rồi xác nhận là bạn giữ máy. Đừng bao giờ cúp trước."
+            }
+          ],
+          "title_vi": "Thực hiện một cuộc gọi 112",
+          "scenario_vi": "Báo một tình huống khẩn cấp: chuyện gì xảy ra, ở đâu, và tình trạng của nạn nhân.",
+          "your_role_vi": "Bạn, đang gọi 112",
+          "partner_role_vi": "Tổng đài viên cấp cứu"
+        }
+      ],
+      "title_vi": "Trường hợp khẩn cấp và số 112",
+      "subtitle_vi": "Tarvitaan ambulanssi. Osote on…",
+      "warmup_situation_vi": "Có chuyện thật sự xảy ra. Bạn phải gọi 112 và bạn có lẽ chỉ có mười lăm giây suy nghĩ tỉnh táo trước khi hoảng loạn ập đến.",
+      "warmup_question_vi": "Điều đầu tiên bạn nói là gì — và điều gì tuyệt đối không được làm?",
+      "rescue_vi": "Tôi nói tiếng Phần Lan kém. Mình nói tiếng Anh được không ạ?",
+      "rescue_note_vi": "Đây là bài duy nhất trong cả khoá học mà chuyển sang tiếng Anh là nước đi đúng, chứ không phải thất bại. Tổng đài viên 112 của Phần Lan nói tiếng Anh, được đào tạo cho việc này, và thà nhận một bản báo cáo chính xác bằng tiếng Anh còn hơn một bản rối rắm bằng tiếng Phần Lan. Hãy nói câu này trong năm giây đầu rồi đi tiếp."
+    }
+  ],
+  "title_vi": "Đi khám bác sĩ",
+  "subtitle_vi": "Mô tả mình bị gì và hiểu được câu trả lời.",
+  "description_vi": "Đây là chương mà nói sai sẽ có hậu quả thật, nên nó được xây dựng quanh sự chính xác chứ không phải sự trôi chảy. Bạn sẽ học cách đặt lịch khám qua điện thoại, mô tả triệu chứng với đúng đuôi cách, hiểu chính xác hướng dẫn liều thuốc, xử lý ở hiệu thuốc, đưa con đi khám, và gọi 112. Thói quen quan trọng nhất được dạy ở đây: nhắc lại hướng dẫn trước khi bạn rời phòng khám."
+}

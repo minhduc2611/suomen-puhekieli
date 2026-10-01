@@ -1,0 +1,195 @@
+{
+  "module": {
+    "title_vi": "Bắt đầu từ đây: người Phần Lan nói chuyện thế nào",
+    "subtitle_vi": "Cầu nối giữa tiếng Phần Lan trong sách và tiếng Phần Lan ngoài đời.",
+    "description_vi": "Nếu bạn học tiếng Phần Lan từ sách, bạn đang biết một thứ tiếng gần như không ai nói ra miệng. Chương này là bảng quy đổi. Năm bài, và sau đó các chương còn lại sẽ nghe ra tiếng Phần Lan chứ không còn là tiếng ồn."
+  },
+  "lessons": {
+    "book-vs-spoken": {
+      "lesson": {
+        "title_vi": "Tiếng Phần Lan trong sách vs tiếng nói",
+        "subtitle_vi": "minä → mä, olen → oon, he → ne",
+        "warmup_situation_vi": "Bạn đã học «Minä olen Duc. Minä asun Helsingissä.» Người hàng xóm nói «Mä oon Anni, mä asun tossa vieressä.» Bạn nhận ra được chừng hai từ.",
+        "warmup_question_vi": "Những từ nào đã đổi — và bạn có đoán được chúng cùng một thứ tiếng không?",
+        "rescue_vi": "Xin lỗi, tôi vẫn đang học. Bạn nói chậm hơn một chút được không?",
+        "rescue_note_vi": "Nói rõ là mình đang học là việc hữu ích nhất bạn có thể làm. Người Phần Lan sẽ nói chậm lại, và hầu như không ai chuyển sang tiếng Anh nếu bạn hỏi bằng tiếng Phần Lan."
+      },
+      "vocab": [
+        { "vi": "tôi", "note_vi": "Cũng nghe thành «mää» ở miền tây và «mie» ở miền đông. Đều bình thường." },
+        { "vi": "bạn", "note_vi": "«sää» / «sie» tuỳ vùng." },
+        { "vi": "anh ấy / chị ấy / nó", "note_vi": "Đây là điểm lớn nhất: tiếng nói dùng «se» cho cả người. «Hän» khi nói nghe trang trọng hoặc mỉa mai." },
+        { "vi": "chúng tôi, chúng ta" },
+        { "vi": "các bạn" },
+        { "vi": "họ", "note_vi": "Giống chuyện «se». «He» là tiếng viết." },
+        { "vi": "tôi là" },
+        { "vi": "bạn là" },
+        { "vi": "là (số ít / số nhiều)", "note_vi": "Tiếng nói dùng «on» số ít cho cả «họ»: «ne on» = họ là." },
+        { "vi": "chúng tôi là", "note_vi": "Dạng bị động kiêm luôn dạng «chúng tôi» khi nói. Điều này xảy ra với mọi động từ." },
+        { "vi": "các bạn là" },
+        { "vi": "của tôi" },
+        { "vi": "của bạn" },
+        { "vi": "của chúng tôi", "note_vi": "Chữ «d» rụng ở hầu hết cả nước." },
+        { "vi": "tôi có (nghĩa đen: ở trên tôi)", "note_vi": "Tiếng Phần Lan không có động từ «có». «Mulla on nälkä» = tôi đói." },
+        { "vi": "cho bạn, với bạn" },
+        { "vi": "tôi (tân ngữ)" },
+        { "vi": "cái này" },
+        { "vi": "cái kia" },
+        { "vi": "những cái này" }
+      ],
+      "phrases": [
+        { "vi": "Tôi là Duc.", "when_to_use_vi": "Câu giới thiệu mặc định ở mọi nơi, trừ phỏng vấn xin việc." },
+        { "vi": "Bạn là Anni, đúng không?", "when_to_use_vi": "Để xác nhận một cái tên bạn nhớ mang máng. Tốt hơn nhiều so với đoán thầm." },
+        { "vi": "Đây là bạn tôi.", "literal_vi": "nó là bạn tôi", "when_to_use_vi": "Giới thiệu ai đó. Dùng «se» cho người nghe thô trong tiếng Anh, nhưng ở đây hoàn toàn bình thường." },
+        { "vi": "Chúng tôi ở đằng kia.", "when_to_use_vi": "Chỉ cho ai đó biết bàn, nhóm hay xe của bạn ở đâu." },
+        { "vi": "Họ đi rồi.", "when_to_use_vi": "Để ý ba thay đổi cùng lúc: he→ne, ovat→on, lähteneet→lähteny." },
+        { "vi": "Tôi đói.", "literal_vi": "ở trên tôi có cái đói", "when_to_use_vi": "Cùng mẫu cho kiire (vội), jano (khát), kylmä (lạnh), hauskaa (vui)." },
+        { "vi": "Bạn có rảnh một chút không?", "when_to_use_vi": "Câu mở đầu trước khi nhờ ai đó bất cứ việc gì." },
+        { "vi": "Bạn đang làm gì đấy?", "when_to_use_vi": "Nói nhanh nó rút thành «Mitsä teet?»" },
+        { "vi": "Bạn đang ở đâu?", "when_to_use_vi": "Tin nhắn được gửi nhiều nhất ở Phần Lan." },
+        { "vi": "Đi thôi!", "when_to_use_vi": "Dạng bị động là cách người Phần Lan nói «mình cùng…». Syödään = ăn thôi. Katotaan = xem nào." },
+        { "vi": "Tôi không biết.", "when_to_use_vi": "«tiedä → tiiä» — chữ d biến mất, giống meidän → meiän." },
+        { "vi": "Cái này ngon thật.", "when_to_use_vi": "«tosi» là từ nhấn mạnh hằng ngày. «Todella» nghe như bài phê bình." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Hai người hàng xóm ở cầu thang",
+          "setting_vi": "Bạn đang xách đồ đi lên. Người hàng xóm giữ cửa.",
+          "note_vi": "Đọc theo. Mọi dạng nói ở đây đều có dạng sách mà bạn đã biết.",
+          "lines": [
+            { "vi": "Chào! Bạn là người hàng xóm mới, đúng không?", "note_vi": "eiks niin = eikö niin, «không phải vậy sao»" },
+            { "vi": "Vâng, tôi là Duc. Chúng tôi chuyển đến đây tháng trước.", "note_vi": "muutettiin = dạng bị động đóng vai «chúng tôi đã chuyển»" },
+            { "vi": "Hay quá! Tôi là Anni, tôi ở ngay bên cạnh." },
+            { "vi": "Rất vui được làm quen. Bạn ở đây lâu chưa?", "note_vi": "Ootsä = oletko sinä. asunu = asunut." },
+            { "vi": "Khá lâu rồi. Gia đình tôi chuyển đến đây mười năm trước." },
+            { "vi": "Ồ thế à! Đây có phải chỗ ở tốt không?" },
+            { "vi": "Có chứ, rất yên tĩnh. Mấy người hàng xóm tầng trên cũng rất dễ chịu.", "note_vi": "ne … on = «họ là». kans = kanssa, «cũng»." },
+            { "vi": "Nghe hay quá. Thôi, tôi phải mang mấy thứ này lên. Gặp lại nhé!" }
+          ]
+        },
+        {
+          "title_vi": "Vẫn cuộc trò chuyện đó, ở tốc độ thật",
+          "setting_vi": "Cùng cầu thang. Không ai giữ ý nữa.",
+          "note_vi": "Ngắn hơn, nhanh hơn, dính vào nhau hơn. Đừng cố nghe từng chữ — hãy nắm chủ đề.",
+          "lines": [
+            { "vi": "Chào, bạn là hàng xóm mới hả?", "note_vi": "uus = uusi. Chữ -i cuối thường rụng." },
+            { "vi": "Vâng, Duc. Chuyển đến tháng trước.", "note_vi": "Đại từ «me» biến mất hẳn. Dạng động từ đã gánh nó." },
+            { "vi": "Anni. Tôi ở ngay đằng kia.", "note_vi": "vieres = vieressä. Đuôi -sä tự nuốt." },
+            { "vi": "Rất vui được làm quen. Bạn ở đây lâu chưa?" },
+            { "vi": "Ừ khá lâu, tầm mười năm." },
+            { "vi": "Chỗ này ổn không?", "note_vi": "Cả chủ ngữ biến mất. Ngữ cảnh tự bù vào." },
+            { "vi": "Ổn ổn, rất yên tĩnh.", "note_vi": "Lặp động từ — «on on» — là một câu «có» thân mật." },
+            { "vi": "Tốt. Thôi tôi phải đi. Chào nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Làm quen với hàng xóm",
+          "scenario_vi": "Bạn gặp một người hàng xóm chưa từng nói chuyện. Hãy giới thiệu bản thân, nói bạn chuyển đến khi nào, và hỏi lại một câu.",
+          "your_role_vi": "Bạn, mới đến toà nhà",
+          "partner_role_vi": "Anni, sống ở đây đã nhiều năm",
+          "turns": [
+            { "vi": "Chào! Bạn là người hàng xóm mới, đúng không?" },
+            { "vi": "Vâng, tôi là Duc. Rất vui được làm quen!", "hint_vi": "Xác nhận, nói tên, tỏ ra vui vì điều đó." },
+            { "vi": "Anni. Bạn mới chuyển đến đây à?" },
+            { "vi": "Vâng, chúng tôi chuyển đến tháng trước.", "hint_vi": "Nói bạn chuyển đến khi nào — dùng mẫu me-ollaan." },
+            { "vi": "Hay quá! Bạn từ đâu đến?" },
+            { "vi": "Tôi từ Việt Nam. Còn bạn, bạn người ở đây à?", "hint_vi": "Trả lời, rồi đẩy câu hỏi lại bằng «Entä sä?»" },
+            { "vi": "Đúng rồi, sinh ra ở Helsinki." },
+            { "vi": "Ồ thế à! Thôi, tôi phải đi đây. Gặp lại nhé!", "hint_vi": "Phản ứng, rồi kết thúc cuộc trò chuyện một cách thân thiện." }
+          ]
+        }
+      ]
+    },
+    "five-sounds": {
+      "lesson": {
+        "title_vi": "Năm âm khiến ai cũng vấp",
+        "subtitle_vi": "Nguyên âm dài, phụ âm đôi, y / ä / ö",
+        "warmup_situation_vi": "Bạn định nói «tapaaminen» nhưng lại bật ra «tapaminen». Bạn muốn nói «tôi sẽ gặp bạn» mà thành ra gần với «tôi sẽ giết bạn» (tapaan / tapan).",
+        "warmup_question_vi": "Trong tiếng Phần Lan, độ dài là tiểu tiết — hay là cả cái từ?",
+        "rescue_vi": "Tôi nói vậy có đúng không?",
+        "rescue_note_vi": "Người Phần Lan sửa lỗi rất nhiệt tình khi được mời, và gần như không bao giờ sửa khi chưa được mời. Hỏi câu này là mở cửa."
+      },
+      "vocab": [
+        { "vi": "lửa", "note_vi": "u ngắn. Một nhịp." },
+        { "vi": "gió", "note_vi": "u dài. Giữ lâu gấp đôi — đó là một từ khác, không phải giọng điệu." },
+        { "vi": "hải quan", "note_vi": "u ngắn, l dài. Ở đây phụ âm mới là phần kéo dài." },
+        { "vi": "ai" },
+        { "vi": "bông hoa", "note_vi": "Giữ âm k: ku-kka. Có một khoảng lặng rất nhỏ trước nó." },
+        { "vi": "tôi giết" },
+        { "vi": "tôi gặp", "note_vi": "Từ mà ai cũng nói sai ít nhất một lần. Kéo dài âm a." },
+        { "vi": "chỗ, không gian" },
+        { "vi": "đặt (cái gì đó) / thêm chỗ" },
+        { "vi": "bùn" },
+        { "vi": "nhưng" },
+        { "vi": "âm y", "note_vi": "Giống ü trong tiếng Đức. Tròn môi như nói «u» nhưng phát ra «i»." },
+        { "vi": "âm ä", "note_vi": "Giống «a» trong «cat» tiếng Anh. Không phải «a» trong «father» — đó là chữ a của tiếng Phần Lan." },
+        { "vi": "âm ö", "note_vi": "Giống nguyên âm trong «bird» tiếng Anh, môi tròn lại." },
+        { "vi": "tốt, hay", "note_vi": "y rồi ä — hai âm khó trong một từ ngắn. Đáng luyện." },
+        { "vi": "cô bé, con gái", "note_vi": "y, t đôi, ö. Đủ bộ chướng ngại vật." },
+        { "vi": "ăn", "note_vi": "«syö» là một âm lướt liền, không phải sy-ö." },
+        { "vi": "đêm", "note_vi": "Hai nguyên âm, không phụ âm. Lướt từ y sang ö mà không dừng." },
+        { "vi": "công việc" },
+        { "vi": "mẹ" },
+        { "vi": "dầu", "note_vi": "ö và y trong bốn chữ cái." },
+        { "vi": "đầu tiên", "note_vi": "m đôi. Trọng âm luôn ở âm tiết đầu: EN-sim-mäi-nen." }
+      ],
+      "phrases": [
+        { "vi": "Mai tôi sẽ gặp bạn.", "when_to_use_vi": "Luyện âm a dài. «Tapan sut huomenna» mang nghĩa tệ hơn nhiều." },
+        { "vi": "Ở đó còn chỗ không?", "when_to_use_vi": "Ở bàn ăn, trên xe, trong lớp." },
+        { "vi": "Ngoài trời gió to.", "literal_vi": "bên ngoài là một cơn gió mạnh", "when_to_use_vi": "Chuyện phiếm về thời tiết, kiêm luôn bài luyện nguyên âm dài miễn phí." },
+        { "vi": "Chúc ngủ ngon!", "when_to_use_vi": "Hai nguyên âm dài và một âm lướt y-ö. Nói câu này gọn ghẽ được là phát âm của bạn ổn." },
+        { "vi": "Chúc một ngày làm việc tốt lành!", "when_to_use_vi": "Nói với người sắp ra khỏi nhà buổi sáng. Một câu líu lưỡi thật sự hữu ích." },
+        { "vi": "Tôi không nghe ra khác nhau.", "when_to_use_vi": "Nói câu này với người Phần Lan và họ sẽ vui vẻ luyện cặp từ đó với bạn." },
+        { "vi": "Nói lại đi, chậm thôi.", "when_to_use_vi": "Câu lệnh luyện phát âm của bạn." },
+        { "vi": "Cái đó dài hay ngắn?", "when_to_use_vi": "Hỏi về một nguyên âm bạn không chắc. Người Phần Lan hiểu ngay câu này." },
+        { "vi": "Tôi đi ra cửa hàng.", "when_to_use_vi": "«meen» có âm e dài. Hãy nghe xem nó dài hơn bạn tưởng bao nhiêu." },
+        { "vi": "Từ đó khó thật đấy.", "when_to_use_vi": "Hoàn toàn có thể nói ra miệng, bất cứ lúc nào." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Được sửa lỗi một cách tử tế",
+          "setting_vi": "Một đồng nghiệp nghe thấy bạn đang luyện.",
+          "lines": [
+            { "vi": "Mai tôi sẽ giết bạn ở quán cà phê.", "note_vi": "Không phải ý anh ấy định nói." },
+            { "vi": "Khoan đã! Chắc bạn định nói «tapaan»." },
+            { "vi": "Ồ, khác nhau chỗ nào?" },
+            { "vi": "«Tapan» có một chữ a. «Tapaan» có hai. Ta-paan." },
+            { "vi": "Tapaan. Thế này à?" },
+            { "vi": "Chính xác! Giữ lâu hơn một chút." },
+            { "vi": "Mai tôi sẽ gặp bạn." },
+            { "vi": "Hoàn hảo. Vừa rồi đúng rồi đấy." }
+          ]
+        },
+        {
+          "title_vi": "Cặp từ tối thiểu, nói nhanh",
+          "setting_vi": "Một người bạn đố bạn. Hãy nghe, đừng đọc.",
+          "note_vi": "Nghe đoạn này với mắt nhắm và quyết xem bạn nghe ra từ nào.",
+          "lines": [
+            { "vi": "Lửa. Gió. Hải quan." },
+            { "vi": "Kia là ai? Bông hoa ở trên bàn." },
+            { "vi": "Bùn thì ướt, nhưng nó sẽ khô." },
+            { "vi": "Còn chỗ đấy. Gọi hai cà phê đi." },
+            { "vi": "Đêm, công việc, ăn, phong cách." },
+            { "vi": "Cô bé ngoan, chúc ngủ ngon." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nhờ người ta sửa cho mình",
+          "scenario_vi": "Bạn thử một từ, nói sai, và nhờ sửa thay vì bỏ qua.",
+          "your_role_vi": "Bạn, đang luyện nói to",
+          "partner_role_vi": "Jussi, một đồng nghiệp kiên nhẫn",
+          "turns": [
+            { "vi": "Cái đó dài hay ngắn?", "hint_vi": "Hỏi về độ dài nguyên âm." },
+            { "vi": "Nó dài. Tuuuli." },
+            { "vi": "Tuuli. Tôi nói vậy đúng không?", "hint_vi": "Lặp lại, rồi hỏi xem mình nói đúng chưa." },
+            { "vi": "Ừ, chính xác!" },
+            { "vi": "Cảm ơn! Cái này khó thật.", "hint_vi": "Cảm ơn và thừa nhận là khó — như thế họ sẽ tiếp tục giúp bạn." }
+          ]
+        }
+      ]
+    }
+  }
+}

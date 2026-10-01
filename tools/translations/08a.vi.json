@@ -1,0 +1,309 @@
+{
+  "module": {
+    "title_vi": "Hẹn chơi và việc sắp xếp gia đình",
+    "subtitle_vi": "Những cuộc trò chuyện lặp lại hết lần này đến lần khác.",
+    "description_vi": "Chương này là bộ máy thực tế của đời sống gia đình khi giao thiệp với các gia đình khác: hẹn cho con đi chơi, thống nhất giờ và việc đưa đón, xử lý dị ứng và nội quy nhà, tiệc sinh nhật cùng chuyện trả lời thư mời, đi chung xe đến các lớp ngoại khoá, và đọc nhóm WhatsApp của phụ huynh đủ nhanh để trả lời trước khi thời điểm trôi qua. Tin nhắn ngắn, giờ giấc chính xác, và một kỹ năng then chốt — từ chối một việc mà không làm hỏng quan hệ."
+  },
+  "lessons": {
+    "arranging-a-playdate": {
+      "lesson": {
+        "title_vi": "Hẹn cho con đi chơi",
+        "subtitle_vi": "Pääseeks Emma leikkimään lauantaina?",
+        "warmup_situation_vi": "Con bạn đã xin suốt một tuần. Bạn có số điện thoại của một phụ huynh khác. Bạn cần viết một tin nhắn ấm áp, rõ ràng, và dễ để người ta từ chối.",
+        "warmup_question_vi": "Điều gì làm cho một lời mời đi chơi dễ nhận — và dễ từ chối?",
+        "rescue_vi": "Nếu không tiện thì không sao cả — cứ nói nhé.",
+        "rescue_note_vi": "Hãy luôn thêm câu này. Phụ huynh Phần Lan từ chối rất thẳng nhưng họ trân trọng khi được cho phép làm vậy một cách rõ ràng, và thêm câu này nghĩa là bạn nhận được câu trả lời thật thay vì một cái «có thể» mơ hồ khiến cả hai bên mắc kẹt."
+      },
+      "vocab": [
+        { "vi": "chơi" },
+        { "vi": "buổi hẹn chơi", "note_vi": "Cũng chỉ cần nói «leikkimään» — «tulla leikkimään» = đến chơi." },
+        { "vi": "sang nhà chơi", "note_vi": "«Tulla kylään» = sang nhà chơi. Cách nói chuẩn, dùng cả cho trẻ con." },
+        { "vi": "đến nhà chúng tôi" }, { "vi": "đến nhà bạn" },
+        { "vi": "có thể đến được", "note_vi": "«Pääseeks Emma?» = Emma đến được không? Động từ then chốt cho lời mời." },
+        { "vi": "phù hợp, thoả thuận" },
+        { "vi": "được, ổn", "note_vi": "«Käykö lauantai?» = thứ Bảy có được không?" },
+        { "vi": "đề xuất" }, { "vi": "mời" }, { "vi": "bạn" }, { "vi": "bạn cùng lớp" },
+        { "vi": "bạn cùng nhóm ở nhà trẻ" }, { "vi": "cuối tuần" }, { "vi": "thứ Bảy" }, { "vi": "buổi chiều" },
+        { "vi": "một hai tiếng", "note_vi": "Thời lượng hẹn chơi chuẩn. Nói ra để ai cũng biết kế hoạch." },
+        { "vi": "cả ngày" },
+        { "vi": "ngủ lại qua đêm", "note_vi": "Dành cho trẻ lớn hơn. Hãy hỏi rõ ràng — đó là một cam kết lớn hơn." },
+        { "vi": "có phụ huynh đi kèm", "note_vi": "Bình thường với trẻ nhỏ. Hãy nói rõ bạn muốn kiểu nào." },
+        { "vi": "ở lại" }, { "vi": "đi đón" }, { "vi": "đưa đến" }, { "vi": "địa chỉ" },
+        { "vi": "mã cửa", "note_vi": "Gửi kèm địa chỉ. Đỡ một cuộc gọi." },
+        { "vi": "phù hợp, thích hợp" }, { "vi": "tuần sau" },
+        { "vi": "để lần khác", "note_vi": "Cách từ chối lịch sự mà vẫn để cửa mở." }
+      ],
+      "phrases": [
+        { "vi": "Chào bạn! Mình là Duc, bố của Eeva.", "when_to_use_vi": "Giới thiệu mình theo tên con. Đó là cách phụ huynh nhận ra nhau." },
+        { "vi": "Thứ Bảy Emma sang chơi được không?", "when_to_use_vi": "Lời mời cốt lõi. «Päästä» là động từ bạn cần." },
+        { "vi": "Eeva nhắc đến Emma nhiều lần rồi.", "when_to_use_vi": "Nêu lý do và nó cũng là lời khen với gia đình bên kia." },
+        { "vi": "Chiều thứ Bảy có được không?", "when_to_use_vi": "Hãy đề xuất một mốc cụ thể. Lời mời mơ hồ sẽ không được trả lời." },
+        { "vi": "Nhà mình hay nhà bạn?", "when_to_use_vi": "Hãy hỏi thay vì mặc định. Bên nào cũng được và cả hai đều sẽ ngỏ ý." },
+        { "vi": "Một hai tiếng, hay lâu hơn?", "when_to_use_vi": "Định rõ thời lượng từ đầu sẽ tránh được cảnh khó xử lúc cuối." },
+        { "vi": "Bạn ở lại cùng, hay gửi con ở đây?", "when_to_use_vi": "Câu hỏi thực tế quan trọng với trẻ nhỏ." },
+        { "vi": "Nếu không tiện thì không sao cả — cứ nói nhé.", "when_to_use_vi": "Hãy luôn thêm câu này. Nó cho bạn câu trả lời thật thay vì cái «có thể» mơ hồ." },
+        { "vi": "Địa chỉ nhà mình là Mäkikatu 4, mã cửa 1234.", "when_to_use_vi": "Gửi cả hai cùng lúc. Đỡ một cuộc gọi ở cửa." },
+        { "vi": "Tiếc là thứ Bảy không được. Tuần sau thì sao?", "when_to_use_vi": "Cách từ chối mà vẫn giữ nó sống. Luôn đề xuất một lựa chọn khác." },
+        { "vi": "Vâng, rất sẵn lòng!", "when_to_use_vi": "Lời nhận ấm áp. Hai chữ là đủ." },
+        { "vi": "Cảm ơn, vui quá! Lần sau mình làm nữa nhé.", "when_to_use_vi": "Nhắn sau đó. Chính nó biến một buổi chơi thành một thói quen." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lời mời đầu tiên, bằng tin nhắn",
+          "setting_vi": "WhatsApp. Duc viết cho một phụ huynh mà anh mới gặp hai lần.",
+          "note_vi": "Giới thiệu mình, nêu lý do, đề xuất mốc cụ thể, làm cho việc từ chối dễ dàng.",
+          "lines": [
+            { "vi": "Chào bạn! Mình là Duc, bố của Eeva ở nhà trẻ." },
+            { "vi": "Eeva nhắc đến Emma nhiều lần rồi. Có lúc nào Emma sang chơi được không?" },
+            { "vi": "Chào Duc! May quá bạn nhắn. Vâng, rất sẵn lòng!" },
+            { "vi": "Tuyệt! Chiều thứ Bảy có được không, khoảng hai giờ?" },
+            { "vi": "Thứ Bảy được lắm. Nhà mình hay nhà bạn?" },
+            { "vi": "Nhà mình nếu tiện. Địa chỉ là Mäkikatu 4, mã cửa 1234." },
+            { "vi": "Được! Một hai tiếng là đủ nhỉ?" },
+            { "vi": "Ừ, từ hai đến bốn nhé? Bạn ở lại cùng, hay gửi Emma ở đây?" },
+            { "vi": "Mình gửi bé thôi. Bé đã sang nhà người khác vài lần rồi, xoay xở tốt lắm." },
+            { "vi": "Vâng. Emma có dị ứng gì không?" },
+            { "vi": "Không có. Bé ăn được hết." },
+            { "vi": "Tốt. Hẹn gặp thứ Bảy! Và nếu có việc gì thì cứ nói nhé." }
+          ]
+        },
+        {
+          "title_vi": "Một lời từ chối, và tin nhắn sau buổi chơi",
+          "setting_vi": "Hai đoạn trao đổi ngắn. Để ý cách lời từ chối vẫn để cửa mở.",
+          "note_vi": "«Entä ens viikolla» là nước đi. Nó biến một câu «không» thành «chưa phải lúc này».",
+          "lines": [
+            { "vi": "Chào bạn! Thứ Bảy Emma sang chơi được không?" },
+            { "vi": "Ôi tiếc quá, nhà mình đi nhà gỗ. Cuối tuần sau thì sao?" },
+            { "vi": "Được lắm! Cũng thứ Bảy cùng giờ nhé?" },
+            { "vi": "Ừ, mình ghi vào lịch." },
+            { "vi": "Chào bạn! Cảm ơn về hôm nay, Emma là một vị khách rất dễ thương." },
+            { "vi": "Cảm ơn nhà bạn! Emma nói về chuyện đó suốt cả buổi tối." },
+            { "vi": "Nghe mừng quá. Lần sau mình làm nữa nhé — và lần tới ở nhà bạn?" },
+            { "vi": "Chắc chắn rồi. Tuần sau mình nhắn." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Hẹn buổi chơi bằng tin nhắn",
+          "scenario_vi": "Giới thiệu mình, đề xuất một mốc giờ cụ thể, xử lý các việc thực tế, và làm cho việc từ chối dễ dàng.",
+          "your_role_vi": "Bạn, đang nhắn cho một phụ huynh khác",
+          "partner_role_vi": "Riikka, mẹ của Emma",
+          "turns": [
+            { "vi": "Chào bạn! Mình là Duc, bố của Eeva ở nhà trẻ.", "hint_vi": "Giới thiệu mình theo tên con. Đó là cách phụ huynh nhận ra bạn." },
+            { "vi": "Chào Duc! May quá bạn nhắn." },
+            { "vi": "Eeva nhắc đến Emma nhiều lần rồi. Thứ Bảy Emma sang chơi được không?", "hint_vi": "Nêu lý do, rồi đề xuất một mốc cụ thể." },
+            { "vi": "Vâng, rất sẵn lòng! Nhà mình hay nhà bạn?" },
+            { "vi": "Nhà mình nếu tiện. Địa chỉ là Mäkikatu 4, mã cửa 1234.", "hint_vi": "Gửi địa chỉ và mã cùng lúc. Đỡ một cuộc gọi ở cửa." },
+            { "vi": "Được! Một hai tiếng là đủ nhỉ?" },
+            { "vi": "Ừ, từ hai đến bốn. Bạn ở lại cùng không?", "hint_vi": "Định rõ thời lượng và làm rõ đây là gửi con hay đi cùng." },
+            { "vi": "Mình gửi bé thôi, bé xoay xở tốt lắm." },
+            { "vi": "Vâng. Emma có dị ứng gì không?", "hint_vi": "Luôn hỏi câu này trước buổi chơi, đừng hỏi lúc đang chơi." },
+            { "vi": "Không có, bé ăn được hết." },
+            { "vi": "Tốt. Hẹn gặp thứ Bảy! Và nếu có việc gì thì cứ nói nhé.", "hint_vi": "Câu cho phép từ chối. Nó giúp bạn nhận câu trả lời thật." }
+          ]
+        }
+      ]
+    },
+    "times-and-pickups": {
+      "lesson": {
+        "title_vi": "Giờ giấc, địa điểm và việc đưa đón",
+        "subtitle_vi": "Mä haen sen kuudelta.",
+        "warmup_situation_vi": "Hai bên đã hẹn «khoảng buổi chiều». Giờ là 17 giờ 40, chưa ai đến, và bạn không biết nên nấu cơm cho một đứa hay hai đứa.",
+        "warmup_question_vi": "Vì sao người Phần Lan giữ giờ chính xác đến vậy — và điều gì xảy ra nếu bạn nói mơ hồ?",
+        "rescue_vi": "Mình nói giờ chính xác nhé, cho khỏi hiểu lầm?",
+        "rescue_note_vi": "Các cuộc hẹn xã giao ở Phần Lan chạy bằng giờ chính xác, và xin một mốc giờ cụ thể là chu đáo chứ không phải khó tính. «Iltapäivällä» không phải một kế hoạch; «kahdelta» thì có. Chốt nó lại là ai cũng thoải mái."
+      },
+      "vocab": [
+        { "vi": "giờ, đồng hồ" },
+        { "vi": "đúng, tròn", "note_vi": "«Kahdelta tasan» = đúng hai giờ." },
+        { "vi": "khoảng" }, { "vi": "hơn mười lăm phút" }, { "vi": "kém mười lăm phút" },
+        { "vi": "nửa", "note_vi": "Cẩn thận: «puoli kaks» = một giờ ba mươi, KHÔNG phải hai giờ ba mươi. Là nửa tiếng TRƯỚC giờ đó." },
+        { "vi": "một giờ ba mươi", "note_vi": "Lỗi kinh điển. Tiếng Phần Lan đếm ngược về phía giờ tới, không đếm xuôi từ giờ đã qua." },
+        { "vi": "buổi sáng (trước trưa)" }, { "vi": "buổi chiều" }, { "vi": "đầu buổi tối" }, { "vi": "muộn, trễ" },
+        { "vi": "đúng giờ", "note_vi": "Đúng giờ ở đây rất quan trọng. Muộn năm phút là đáng nhắn một tin." },
+        { "vi": "bị chậm trễ" }, { "vi": "kịp giờ" }, { "vi": "đi đón" }, { "vi": "gửi con lại" },
+        { "vi": "đưa đến" }, { "vi": "chở đi" }, { "vi": "cổng" }, { "vi": "sân" },
+        { "vi": "cầu thang, lồng cầu thang", "note_vi": "«A-rappu» = cầu thang A. Một toà nhà có nhiều lồng cầu thang." },
+        { "vi": "tầng" }, { "vi": "bấm chuông cửa" }, { "vi": "chờ" }, { "vi": "đổi giờ" }, { "vi": "huỷ" },
+        { "vi": "việc phát sinh, trở ngại", "note_vi": "«Tuli este» = có việc phát sinh. Một lời giải thích trọn vẹn và được chấp nhận." },
+        { "vi": "xác nhận" }
+      ],
+      "phrases": [
+        { "vi": "Mấy giờ mình đón bé?", "when_to_use_vi": "Hãy xin một mốc giờ chính xác. «Iltapäivällä» không phải câu trả lời." },
+        { "vi": "Mình đón bé lúc sáu giờ.", "when_to_use_vi": "Một con số. Đó là điều mọi người muốn nghe." },
+        { "vi": "Mình nói đúng hai giờ nhé?", "when_to_use_vi": "«Tasan» loại bỏ mọi mơ hồ. Hãy dùng nó." },
+        { "vi": "Puoli kaks tức là 13:30, đúng không?", "when_to_use_vi": "Xác nhận bằng số. «Puoli kaks» trong tiếng Phần Lan là 1:30, không phải 2:30." },
+        { "vi": "Mình muộn năm phút, xin lỗi nhé!", "when_to_use_vi": "Hãy nhắn dù chỉ muộn năm phút. Ở đây đó là điều được mong đợi." },
+        { "vi": "Nhà mình có việc phát sinh — dời lại được không?", "when_to_use_vi": "«Tuli este» không cần giải thích thêm và được chấp nhận hoàn toàn." },
+        { "vi": "Nhà bạn ở lồng cầu thang nào?", "when_to_use_vi": "Toà nhà Phần Lan có nhiều lồng cầu thang. Hãy hỏi, và cho biết của bạn." },
+        { "vi": "Bạn bấm chuông nhé, nhà mình ở tầng ba.", "when_to_use_vi": "Cho biết lồng cầu thang, tầng và mã cửa. Cả ba." },
+        { "vi": "Mình đợi ở sân.", "when_to_use_vi": "Dùng khi đi đón mà bạn không muốn lên nhà." },
+        { "vi": "Lúc nào bạn xuất phát thì nhắn nhé.", "when_to_use_vi": "Loại bỏ hoàn toàn chuyện ngồi chờ không biết bao lâu." },
+        { "vi": "Sáu giờ vẫn ổn chứ?", "when_to_use_vi": "Xác nhận lại vào đúng hôm đó. Không ai phiền vì một tin xác nhận." },
+        { "vi": "Vâng, mình xác nhận: đúng hai giờ, ở nhà mình.", "when_to_use_vi": "Tin nhắn chốt lại. Giờ, địa điểm, xong." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Chốt giờ cho chính xác",
+          "setting_vi": "Một cuộc hẹn mơ hồ trở thành một cuộc hẹn chính xác.",
+          "note_vi": "Hãy để ý cái bẫy «puoli kaks». Nó là 1:30, và Duc xác nhận lại bằng số.",
+          "lines": [
+            { "vi": "Chào bạn! Nhà mình đưa Emma sang lúc nào đó buổi chiều nhé?" },
+            { "vi": "Vâng! Mình nói giờ chính xác nhé, cho khỏi hiểu lầm?" },
+            { "vi": "Ý hay đấy. Một giờ ba mươi được không?" },
+            { "vi": "Puoli kaks tức là 13:30, đúng không?" },
+            { "vi": "Đúng thế, 13:30." },
+            { "vi": "Được. Thế mấy giờ nhà bạn đến đón?" },
+            { "vi": "Sáu giờ, nếu tiện." },
+            { "vi": "Được lắm. Địa chỉ nhà mình là Mäkikatu 4, lồng cầu thang B, tầng ba." },
+            { "vi": "Có mã cửa không?" },
+            { "vi": "Có, 1234. Và bạn bấm chuông, mình xuống." },
+            { "vi": "Vâng. Lúc xuất phát mình nhắn." },
+            { "vi": "Cảm ơn. Mình xác nhận: 13:30, ở nhà mình, đón lúc sáu giờ." }
+          ]
+        },
+        {
+          "title_vi": "Có việc phát sinh",
+          "setting_vi": "Sáng thứ Bảy. Kế hoạch phải dời lại.",
+          "note_vi": "«Tuli este» không cần giải thích và không ai đòi giải thích.",
+          "lines": [
+            { "vi": "Chào bạn! Nhà mình có việc phát sinh — dời muộn một tiếng được không?" },
+            { "vi": "Ừ, được. Tức là hai giờ ba mươi?" },
+            { "vi": "Ừ, 14:30. Cảm ơn bạn linh động nhé!" },
+            { "vi": "Không có gì. Vẫn đón lúc sáu giờ chứ?" },
+            { "vi": "Ừ, sáu giờ ổn." },
+            { "vi": "Tốt. Vậy hẹn 14:30." },
+            { "vi": "Có thể mình muộn năm phút, mình sẽ nhắn." },
+            { "vi": "Không gấp đâu. Mình đợi ở sân." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Biến một kế hoạch mơ hồ thành chính xác",
+          "scenario_vi": "Xin một mốc giờ chính xác, xác nhận cái mốc nửa tiếng khó nhằn, cho địa chỉ đầy đủ, và chốt lại.",
+          "your_role_vi": "Bạn, bên đón khách",
+          "partner_role_vi": "Riikka, bên gửi con",
+          "turns": [
+            { "vi": "Chào bạn! Nhà mình đưa Emma sang lúc nào đó buổi chiều nhé?" },
+            { "vi": "Vâng! Mình nói giờ chính xác nhé, cho khỏi hiểu lầm?", "hint_vi": "Xin một mốc giờ cụ thể ở đây là chu đáo, không phải khó tính." },
+            { "vi": "Ý hay đấy. Một giờ ba mươi được không?" },
+            { "vi": "Puoli kaks tức là 13:30, đúng không?", "hint_vi": "Xác nhận bằng số. «Puoli kaks» là 1:30, không phải 2:30." },
+            { "vi": "Đúng thế, 13:30." },
+            { "vi": "Được. Mấy giờ nhà bạn đến đón?", "hint_vi": "Chốt việc đón ngay bây giờ, đừng đợi đến năm giờ chiều." },
+            { "vi": "Sáu giờ, nếu tiện." },
+            { "vi": "Được. Địa chỉ là Mäkikatu 4, lồng cầu thang B, tầng ba, mã cửa 1234.", "hint_vi": "Lồng cầu thang, tầng và mã. Cả ba, trong một tin nhắn." },
+            { "vi": "Vâng, cảm ơn!" },
+            { "vi": "Mình xác nhận: 13:30 ở nhà mình, đón lúc sáu giờ.", "hint_vi": "Tin nhắn tổng kết cuối. Giờ, địa điểm, giờ đón." }
+          ]
+        }
+      ]
+    },
+    "allergies-and-rules": {
+      "lesson": {
+        "title_vi": "Dị ứng, nội quy và «con bạn ăn được gì?»",
+        "subtitle_vi": "Onks Emmalla allergioita?",
+        "warmup_situation_vi": "Một đứa trẻ khác ở trong nhà bạn suốt bốn tiếng. Bạn cần biết bé ăn được gì, bố mẹ bé cho phép những gì, và phải làm gì nếu có chuyện.",
+        "warmup_question_vi": "Bạn hỏi gì trước buổi chơi — và điều gì bạn không bao giờ được mặc định?",
+        "rescue_vi": "Có gì mình cần biết thì bạn cứ nói nhé.",
+        "rescue_note_vi": "Một câu mời mở bắt được hết những thứ bạn không nghĩ ra để hỏi — thuốc men, những điều bé sợ, quy định về màn hình, một tuần khó khăn ở nhà. Phụ huynh Phần Lan sẽ trả lời thẳng và bạn thường sẽ nhận được điều gì đó hữu ích."
+      },
+      "vocab": [
+        { "vi": "dị ứng" }, { "vi": "dị ứng thực phẩm" }, { "vi": "dị ứng phấn hoa" },
+        { "vi": "dị ứng động vật", "note_vi": "Hãy hỏi nếu bạn có vật nuôi. Và hãy nói ra nếu có." },
+        { "vi": "không dung nạp lactose" },
+        { "vi": "bệnh celiac (không dung nạp gluten)", "note_vi": "Nghiêm trọng và cần cẩn thận thật với gluten. Không phải sở thích." },
+        { "vi": "bút tiêm adrenaline", "note_vi": "Nếu một bé mang theo, hãy hỏi cách dùng và khi nào dùng." },
+        { "vi": "thuốc" }, { "vi": "hen suyễn" }, { "vi": "bình xịt hen" }, { "vi": "ăn" },
+        { "vi": "kén ăn", "note_vi": "Phổ biến và được nói ra mà không phán xét. «Se on aika nirso.»" },
+        { "vi": "bữa ăn nhẹ" },
+        { "vi": "bánh kẹo", "note_vi": "Nhiều gia đình chỉ cho ăn vào thứ Bảy. Hãy hỏi trước khi mời." },
+        { "vi": "kẹo ngày thứ Bảy", "note_vi": "Một định chế Phần Lan thật sự. Bánh kẹo chỉ vào thứ Bảy." },
+        { "vi": "nước quả" }, { "vi": "quy định, nội quy" },
+        { "vi": "thời gian dùng màn hình", "note_vi": "Hãy hỏi. Các gia đình khác nhau rất nhiều và phụ huynh trân trọng khi được hỏi." },
+        { "vi": "bé có được xem không" }, { "vi": "giờ đi ngủ" },
+        { "vi": "sợ", "note_vi": "«Pelkääks se koiria?» = bé có sợ chó không? Đáng hỏi." },
+        { "vi": "con chó" }, { "vi": "con mèo" }, { "vi": "ngoài trời" },
+        { "vi": "bạt nhảy trampoline", "note_vi": "Hãy hỏi xin phép. Một số phụ huynh không cho." },
+        { "vi": "bể bơi" },
+        { "vi": "biết bơi", "note_vi": "Luôn hỏi trước khi có bất cứ thứ gì liên quan đến nước. Đừng bao giờ mặc định." },
+        { "vi": "gọi điện" }, { "vi": "số liên lạc khẩn cấp" }
+      ],
+      "phrases": [
+        { "vi": "Emma có dị ứng gì không?", "when_to_use_vi": "Hỏi trước mỗi buổi chơi. Đừng mặc định là câu trả lời chưa thay đổi." },
+        { "vi": "Có món gì bé không ăn không?", "when_to_use_vi": "Bắt được cả dị ứng lẫn món bé không thích trong một câu hỏi." },
+        { "vi": "Nhà mình có chó — như vậy có ổn không?", "when_to_use_vi": "Nói ngay từ đầu. Cả dị ứng lẫn sự sợ hãi đều có thể xảy ra." },
+        { "vi": "Bé có được ăn bánh kẹo không?", "when_to_use_vi": "Nhiều gia đình chỉ cho vào thứ Bảy. Luôn hỏi trước khi mời." },
+        { "vi": "Nhà bạn quy định về thời gian dùng màn hình thế nào?", "when_to_use_vi": "Các gia đình khác nhau rất nhiều. Việc hỏi thật sự được trân trọng." },
+        { "vi": "Bé có được xem tivi không?", "when_to_use_vi": "Bản đơn giản của cùng câu hỏi đó." },
+        { "vi": "Bé biết bơi không?", "when_to_use_vi": "Hỏi trước khi có bất cứ thứ gì liên quan đến nước. Đừng mặc định." },
+        { "vi": "Bé có sợ chó không?", "when_to_use_vi": "Với một buổi chơi bốn tiếng, sự sợ hãi quan trọng không kém dị ứng." },
+        { "vi": "Bé có mang thuốc theo không?", "when_to_use_vi": "Bình xịt hen và bút tiêm adrenaline. Hãy hỏi cách dùng và khi nào dùng." },
+        { "vi": "Nếu có chuyện gì thì mình gọi số nào?", "when_to_use_vi": "Lấy một số mà chắc chắn sẽ có người nhấc." },
+        { "vi": "Có gì mình cần biết thì bạn cứ nói nhé.", "when_to_use_vi": "Câu hỏi mở. Bắt được hết những thứ bạn không nghĩ ra." },
+        { "vi": "Nhà mình không có bánh kẹo, nhưng mình mua được.", "when_to_use_vi": "Trung thực về nhà bạn như thế nào. Phụ huynh thấy điều này hữu ích." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Những câu hỏi trước buổi chơi",
+          "setting_vi": "Một chuỗi tin nhắn tối hôm trước.",
+          "note_vi": "Sáu câu hỏi, gửi trong một lượt. Tất cả đều quan trọng cho bốn tiếng.",
+          "lines": [
+            { "vi": "Chào bạn! Mình có vài câu hỏi cho mai." },
+            { "vi": "Emma có dị ứng gì hay có món gì bé không ăn không?" },
+            { "vi": "Không dị ứng gì. Bé không thích cà chua, nhưng không nghiêm trọng." },
+            { "vi": "Vâng. Nhà mình có mèo — như vậy có ổn không?" },
+            { "vi": "Ổn, bé thích mèo. Không dị ứng." },
+            { "vi": "Tốt. Bé có được ăn bánh kẹo không? Nhà mình không có, nhưng mình mua được." },
+            { "vi": "Chỉ vào thứ Bảy, mà mai là thứ Bảy nên được." },
+            { "vi": "Haha, đúng dịp. Nhà bạn quy định về thời gian dùng màn hình thế nào?" },
+            { "vi": "Tối đa một tiếng, và không có gì đáng sợ." },
+            { "vi": "Vâng. Và nếu có chuyện gì thì mình gọi số nào?" },
+            { "vi": "Số của mình, 040 555 1234. Mình ở nhà cả ngày." },
+            { "vi": "Cảm ơn. Còn gì mình cần biết thì bạn cứ nói nhé." },
+            { "vi": "Chỉ một chuyện: bé sợ tiếng ồn lớn. Đừng bật máy hút bụi." }
+          ]
+        },
+        {
+          "title_vi": "Ở cửa, và sau buổi chơi",
+          "setting_vi": "Lúc gửi con và tin nhắn báo lại.",
+          "note_vi": "Tin nhắn sau buổi chơi rất quan trọng. Đó là cách niềm tin giữa các gia đình được xây lên.",
+          "lines": [
+            { "vi": "Chào bạn! Emma đây. Và đây là bình xịt hen của bé, để phòng thôi." },
+            { "vi": "Cảm ơn. Khi nào thì mình cho bé dùng?" },
+            { "vi": "Chỉ khi bé ho nhiều hoặc thở khò khè. Hai nhát xịt." },
+            { "vi": "Hai nhát xịt. Vâng. Và mình sẽ gọi bạn ngay." },
+            { "vi": "Ừ cảm ơn. Mấy tháng nay bé không cần đến nó, nhưng cứ có thì tốt." },
+            { "vi": "Chắc chắn rồi. Hẹn gặp lúc sáu giờ!" },
+            { "vi": "Chào bạn! Mọi thứ đều ổn. Hai đứa chơi ngoài sân hai tiếng rồi." },
+            { "vi": "Tuyệt quá, cảm ơn bạn đã nhắn!" },
+            { "vi": "Không cần đến bình xịt. Và kẹo thì đã được ăn hết." },
+            { "vi": "Haha, mình đoán vậy mà. Lát gặp nhé!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Hỏi hết mọi thứ trước buổi chơi",
+          "scenario_vi": "Bao gồm dị ứng, vật nuôi, bánh kẹo, màn hình, số liên lạc khẩn, và để lại một câu hỏi mở.",
+          "your_role_vi": "Bạn, đón khách vào mai",
+          "partner_role_vi": "Riikka, mẹ của Emma",
+          "turns": [
+            { "vi": "Chào bạn! Emma có dị ứng gì hay có món gì bé không ăn không?", "hint_vi": "Hỏi trước mỗi buổi chơi. Đừng mặc định là chưa có gì thay đổi." },
+            { "vi": "Không dị ứng gì. Bé không thích cà chua." },
+            { "vi": "Vâng. Nhà mình có mèo — như vậy có ổn không?", "hint_vi": "Nói ngay từ đầu. Cả dị ứng lẫn sự sợ hãi đều có thể." },
+            { "vi": "Ổn, bé thích mèo." },
+            { "vi": "Tốt. Bé có được ăn bánh kẹo không?", "hint_vi": "Nhiều gia đình chỉ cho vào thứ Bảy. Luôn hỏi trước." },
+            { "vi": "Chỉ thứ Bảy — mà mai là thứ Bảy." },
+            { "vi": "Haha, đúng dịp. Nhà bạn quy định thời gian dùng màn hình thế nào?", "hint_vi": "Các gia đình khác nhau rất nhiều. Việc hỏi được trân trọng." },
+            { "vi": "Tối đa một tiếng." },
+            { "vi": "Vâng. Nếu có chuyện gì thì mình gọi số nào?", "hint_vi": "Lấy một số mà chắc chắn sẽ có người nhấc." },
+            { "vi": "Số của mình. Mình ở nhà." },
+            { "vi": "Cảm ơn. Có gì mình cần biết thì bạn cứ nói nhé.", "hint_vi": "Câu hỏi mở. Nó bắt được hết những thứ bạn không nghĩ ra." }
+          ]
+        }
+      ]
+    }
+  }
+}

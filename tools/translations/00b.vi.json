@@ -1,0 +1,201 @@
+{
+  "lessons": {
+    "questions-without-ko": {
+      "lesson": {
+        "title_vi": "Câu hỏi không cần đuôi -ko trong sách",
+        "subtitle_vi": "Onks? Tuuks? Meneeks?",
+        "warmup_situation_vi": "Bạn học «Onko sinulla aikaa?». Chưa ai từng nói câu đó với bạn. Cái bạn nghe được là «Onks sulla aikaa?» — và có lần nhanh đến mức thành «Onksulaikaa?»",
+        "warmup_question_vi": "Đuôi -ko đi đâu mất rồi?",
+        "rescue_vi": "Xin lỗi, đó là câu hỏi à?",
+        "rescue_note_vi": "Thật sự hữu ích. Câu hỏi trong tiếng Phần Lan nói có thể bị nén đến mức bạn không nhận ra đó là câu hỏi."
+      },
+      "vocab": [
+        { "vi": "đuôi nghi vấn", "note_vi": "Cả bài học gói trong một mục. Onko → onks. Menetkö → menetks → meeks." },
+        { "vi": "có … không (về sự vật)" },
+        { "vi": "bạn có phải / bạn có đang", "note_vi": "«Ootsä» dính động từ với «sä» thành một từ." },
+        { "vi": "đã … phải không" },
+        { "vi": "bạn có đến không" },
+        { "vi": "bạn có đi không" },
+        { "vi": "bạn có thể … không" },
+        { "vi": "tôi có thể … không" },
+        { "vi": "bạn có biết không" },
+        { "vi": "bạn có muốn không" },
+        { "vi": "có được phép không" },
+        { "vi": "có phải … không (bắt buộc)" },
+        { "vi": "mình đi nhé", "note_vi": "Mẫu «mình cùng… nhé». Syödäänks? Katotaanks? Lähetäänks?" },
+        { "vi": "phải không / đúng không", "note_vi": "«eiks niin?» gắn ở cuối câu = «đúng không?»" },
+        { "vi": "khi nào" },
+        { "vi": "cái gì" },
+        { "vi": "ở đâu" },
+        { "vi": "đến đâu" },
+        { "vi": "tại sao" },
+        { "vi": "ai" },
+        { "vi": "của ai" },
+        { "vi": "bao nhiêu" },
+        { "vi": "bao lâu" }
+      ],
+      "phrases": [
+        { "vi": "Bạn có rảnh không?", "when_to_use_vi": "Trước khi nhờ ai đó bất cứ việc gì, ở chỗ làm hay bất cứ đâu." },
+        { "vi": "Bạn sẵn sàng chưa?", "when_to_use_vi": "Lúc ra khỏi nhà, lúc bắt đầu họp, bất cứ đâu." },
+        { "vi": "Bạn đi cùng không?", "when_to_use_vi": "Lời mời chuẩn. Ăn trưa, đi dạo, đi quán." },
+        { "vi": "Mình đi cà phê nhé?", "when_to_use_vi": "Nước đi xã giao Phần Lan nhất có thể. Nói câu này ở chỗ làm là bạn có bạn." },
+        { "vi": "Bạn giúp được không?", "when_to_use_vi": "Trực tiếp và hoàn toàn lịch sự trong tiếng Phần Lan. Không cần làm mềm thêm." },
+        { "vi": "Tôi hỏi một câu được không?", "when_to_use_vi": "Cách ngắt lời lịch sự trong cuộc họp hay lớp học." },
+        { "vi": "Bạn có biết chỗ đó ở đâu không?", "when_to_use_vi": "Hỏi đường người qua lại." },
+        { "vi": "Tôi ngồi đây được không?", "literal_vi": "ở đây có được phép ngồi không", "when_to_use_vi": "Trên tàu, trong quán. Dạng bị động tránh nhắc đến bản thân — rất Phần Lan." },
+        { "vi": "Tôi có cần đặt lịch không?", "when_to_use_vi": "Tiệm tóc, bác sĩ, ngân hàng, bất cứ đâu." },
+        { "vi": "Cái này bao nhiêu tiền?", "when_to_use_vi": "Câu hỏi giá, ở mọi cửa hàng." },
+        { "vi": "Bạn ở Phần Lan bao lâu rồi?", "when_to_use_vi": "Bạn sẽ được hỏi câu này khoảng một nghìn lần." },
+        { "vi": "Bạn là bạn của Anni, đúng không?", "when_to_use_vi": "Câu hỏi đuôi. Biến một phỏng đoán thành câu mở đầu an toàn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lên kế hoạch",
+          "setting_vi": "Hai đồng nghiệp, gần trưa.",
+          "note_vi": "Đếm số câu hỏi. Không câu nào dùng -ko.",
+          "lines": [
+            { "vi": "Chào! Bạn có bận không?" },
+            { "vi": "Không. Bạn đang nghĩ gì thế?", "note_vi": "«Ei oo» — câu «không» tiêu chuẩn." },
+            { "vi": "Mình đi cà phê nhé? Tôi kiệt sức rồi." },
+            { "vi": "Ừ, đi thôi. Anni có đi không?" },
+            { "vi": "Không biết. Hỏi cô ấy nhé?", "note_vi": "«siltä» = từ cô ấy/anh ấy. Lại là «se» dùng cho người." },
+            { "vi": "Bạn hỏi đi. Các bạn thường đi lúc mấy giờ?" },
+            { "vi": "Thường là mười giờ. Vậy có hợp với bạn không?" },
+            { "vi": "Hợp lắm. Gặp nhau ở dưới nhé!" }
+          ]
+        },
+        {
+          "title_vi": "Cùng kế hoạch đó, ở tốc độ thật",
+          "setting_vi": "Ở cửa, ba mươi giây, một người đã bước đi.",
+          "note_vi": "Câu hỏi ngắn đến mức gần như một âm tiết. Hãy nghe ngữ điệu đi lên.",
+          "lines": [
+            { "vi": "Chào, bận không?" },
+            { "vi": "Không." },
+            { "vi": "Cà phê?", "note_vi": "Một từ duy nhất có thể là cả một lời mời." },
+            { "vi": "Ừ. Anni đi không?" },
+            { "vi": "Chả biết. Hỏi đi.", "note_vi": "«Emmä tiiä» = en mä tiedä, dính lại." },
+            { "vi": "Khi nào?" },
+            { "vi": "Ngay bây giờ. Được không?" },
+            { "vi": "Được. Đi thôi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Rủ ai đó đi cà phê",
+          "scenario_vi": "Kéo một đồng nghiệp ra khỏi văn phòng mười lăm phút, chỉ dùng câu hỏi đuôi -ks.",
+          "your_role_vi": "Bạn, đang cần nghỉ giải lao",
+          "partner_role_vi": "Jussi, đang ngồi ở bàn",
+          "turns": [
+            { "vi": "Chào! Bạn có rảnh một chút không?", "hint_vi": "Mở đầu bằng cách hỏi họ có thời gian không." },
+            { "vi": "Có chứ. Gì thế?" },
+            { "vi": "Mình đi cà phê nhé?", "hint_vi": "Dùng mẫu mennään + -ks." },
+            { "vi": "Ừ, sẵn lòng. Khi nào?" },
+            { "vi": "Ngay bây giờ được không?", "hint_vi": "Đề xuất một thời điểm dưới dạng câu hỏi -ks." },
+            { "vi": "Được. Có ai đi nữa không?" },
+            { "vi": "Rủ Anni nhé?", "hint_vi": "Đề nghị rủ thêm ai đó, vẫn dùng -ks." },
+            { "vi": "Ừ, rủ đi. Gặp ở dưới nhà." }
+          ]
+        }
+      ]
+    },
+    "survival-kit": {
+      "lesson": {
+        "title_vi": "Bộ đồ nghề sinh tồn",
+        "subtitle_vi": "Tám câu giữ cho cuộc trò chuyện sống sót khi bạn chẳng hiểu gì",
+        "warmup_situation_vi": "Ai đó nói với bạn ba câu thật nhanh. Bạn bắt được mỗi từ «huomenna». Họ đang chờ.",
+        "warmup_question_vi": "Bạn nói gì — và nói gì để cuộc trò chuyện không kết thúc bằng tiếng Anh?",
+        "rescue_vi": "Tôi chưa hiểu. Bạn nói cách khác được không?",
+        "rescue_note_vi": "Tốt hơn «nói lại đi»: lặp lại cùng một câu chậm hơn thường không giúp được gì, nhưng diễn đạt cách khác thì gần như luôn có tác dụng. Đây là câu giá trị nhất trong cả khoá học."
+      },
+      "vocab": [
+        { "vi": "xin lỗi / làm ơn cho hỏi", "note_vi": "Làm ba việc: xin lỗi, gây chú ý, và «bạn nói gì cơ?»" },
+        { "vi": "chậm hơn" },
+        { "vi": "lại, lần nữa" },
+        { "vi": "theo cách khác" },
+        { "vi": "có nghĩa là" },
+        { "vi": "hiểu" },
+        { "vi": "đã hiểu" },
+        { "vi": "nói", "note_vi": "Đuôi -oa thành -oo khi nói: sanoa → sanoo, puhua → puhuu." },
+        { "vi": "lặp lại" },
+        { "vi": "viết" },
+        { "vi": "chờ một chút" },
+        { "vi": "bằng tiếng Phần Lan" },
+        { "vi": "bằng tiếng Anh" },
+        { "vi": "từ, chữ" },
+        { "vi": "một chút", "note_vi": "Làm mềm mọi thứ. «Mä puhun vähän suomee» nghe thân thiện hơn «en puhu suomea»." },
+        { "vi": "vẫn còn, chưa xong", "note_vi": "«Mä opiskelen vielä» = tôi vẫn đang học. Mang lại rất nhiều thiện cảm." },
+        { "vi": "học" },
+        { "vi": "nó có nghĩa là … phải không" },
+        { "vi": "đúng, chính xác", "note_vi": "Đọc là «yust». «Just joo» = «à, ra vậy»." },
+        { "vi": "tức là, vậy thì", "note_vi": "Dùng để kiểm tra xem mình hiểu đúng chưa: «Eli mä tuun kuudelta?»" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, gì cơ?", "when_to_use_vi": "Câu «tôi không nghe kịp» cơ bản. Trung tính, không thô." },
+        { "vi": "Bạn nói chậm hơn một chút được không?", "when_to_use_vi": "Chữ «vähän» quan trọng — xin «chậm hơn một chút» hiệu quả hơn xin nói thật chậm." },
+        { "vi": "Tôi chưa hiểu.", "when_to_use_vi": "Thì quá khứ tốt hơn «en ymmärrä» — nó nói về câu đó, chứ không phải về trình độ tiếng Phần Lan của bạn." },
+        { "vi": "Cái đó nghĩa là gì?", "when_to_use_vi": "Chỉ vào đúng một từ đã làm vỡ cả câu." },
+        { "vi": "Cái đó tiếng Phần Lan nói thế nào?", "literal_vi": "nó được nói bằng tiếng Phần Lan như thế nào", "when_to_use_vi": "Khi bạn biết thứ đó nhưng không biết từ. Hãy chỉ hoặc ra hiệu." },
+        { "vi": "Bạn nhắc lại được không?", "when_to_use_vi": "Bản rút gọn, hợp khi nói điện thoại." },
+        { "vi": "Bạn viết ra được không?", "when_to_use_vi": "Địa chỉ, giờ giấc, tên, liều thuốc. Luôn luôn hỏi." },
+        { "vi": "Chờ chút, để tôi nghĩ đã.", "when_to_use_vi": "Mua cho bạn năm giây mà không ai chuyển sang tiếng Anh. Cực kỳ hữu ích." },
+        { "vi": "Tôi nói được chút tiếng Phần Lan, nhưng vẫn đang học.", "when_to_use_vi": "Câu rào đón mở đầu. Để ý nó nói cái bạn LÀM ĐƯỢC trước. «En puhu suomea» là mời gọi tiếng Anh." },
+        { "vi": "Tức là tôi đến lúc sáu giờ, đúng không?", "when_to_use_vi": "Nhắc lại cái bạn nghĩ mình vừa nghe. Bắt được hiểu lầm trước khi nó gây rắc rối." },
+        { "vi": "Mình nói tiếp bằng tiếng Phần Lan nhé, tôi muốn luyện.", "when_to_use_vi": "Khi họ chuyển sang tiếng Anh vì tử tế. Đây là cách quay lại mà không làm phật lòng." },
+        { "vi": "Xin lỗi, tôi hơi lạc rồi.", "literal_vi": "tôi hơi bị lạc", "when_to_use_vi": "Giữa chừng cuộc trò chuyện, khi bạn mất hẳn mạch. Thành thật và làm dịu không khí." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lạc rồi tìm lại được",
+          "setting_vi": "Một đồng nghiệp giải thích chuyện cuộc họp. Duc bỏ lỡ gần hết rồi gỡ lại.",
+          "note_vi": "Để ý Duc không một lần nào nói «xin lỗi, tiếng Anh nhé?»",
+          "lines": [
+            { "vi": "Này, cuộc họp dời sang mai rồi, và giờ nó họp ở phòng họp lớn kia." },
+            { "vi": "Xin lỗi, bạn nói chậm hơn một chút được không?" },
+            { "vi": "Ừ xin lỗi. Cuộc họp đó… là ngày mai. Không phải hôm nay." },
+            { "vi": "Được rồi, ngày mai. «Neukkari» nghĩa là gì?" },
+            { "vi": "À đúng rồi. Neukkari là phòng họp, cái phòng lớn đằng kia.", "note_vi": "Tiếng lóng Phần Lan rất thích cắt ngắn từ dài: neuvotteluhuone → neukkari." },
+            { "vi": "À ra thế. Tức là ngày mai, ở phòng họp lớn. Mấy giờ?" },
+            { "vi": "Mười giờ." },
+            { "vi": "Mười giờ. Bạn nhắn cho tôi trên Slack được không?" },
+            { "vi": "Tất nhiên rồi. Tôi gửi ngay." },
+            { "vi": "Cảm ơn! Và cảm ơn vì đã kiên nhẫn." }
+          ]
+        },
+        {
+          "title_vi": "Họ chuyển sang tiếng Anh — bạn chuyển ngược lại",
+          "setting_vi": "Một cửa hàng. Nhân viên nghe giọng bạn và nhiệt tình đổi ngôn ngữ.",
+          "note_vi": "Chuyện này xảy ra liên tục. Đó là sự tử tế, không phải phán xét, và bạn có thể từ chối một cách ấm áp.",
+          "lines": [
+            { "vi": "Chào! Cái này có cỡ to hơn không ạ?" },
+            { "vi": "(bằng tiếng Anh) Xin lỗi, mình nói tiếng Anh cho dễ nhé?" },
+            { "vi": "Cảm ơn, nhưng mình nói tiếp tiếng Phần Lan nhé — tôi muốn luyện." },
+            { "vi": "Vâng tất nhiên! Hay đấy. Cỡ nào ạ?" },
+            { "vi": "Tôi không biết nữa… cái to ấy.", "note_vi": "Không biết một từ không phải là lý do để dừng lại." },
+            { "vi": "Tức là cỡ L. Để xem… vâng, có ạ. Chờ chút." },
+            { "vi": "Cảm ơn nhiều lắm!" },
+            { "vi": "Không có gì. Mà anh nói giỏi thật đấy!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Gỡ lại khi chẳng hiểu gì",
+          "scenario_vi": "Ai đó nói với bạn một chuyện quan trọng, quá nhanh. Hãy lấy được thông tin mà không rời khỏi tiếng Phần Lan.",
+          "your_role_vi": "Bạn, mới bắt được một từ",
+          "partner_role_vi": "Anni, nói ở tốc độ bình thường",
+          "turns": [
+            { "vi": "Này, bạn có nhớ là cái vụ đó dời sang tuần sau và đổi địa điểm rồi không?" },
+            { "vi": "Xin lỗi, tôi chưa hiểu. Bạn nói cách khác được không?", "hint_vi": "Đừng chỉ xin nhắc lại — hãy xin diễn đạt cách khác." },
+            { "vi": "Ừ. Cuộc gặp đó… không phải tuần này. Nó ở tuần sau." },
+            { "vi": "Được rồi, tuần sau. Thế cái gì đổi?", "hint_vi": "Xác nhận phần bạn đã nắm, rồi hỏi phần chưa nắm." },
+            { "vi": "Địa điểm. Giờ nó ở thư viện, không phải ở trường." },
+            { "vi": "Tức là tuần sau ở thư viện. Bạn viết ra cho tôi được không?", "hint_vi": "Nhắc lại toàn bộ, rồi xin viết ra giấy." },
+            { "vi": "Ừ tôi nhắn cho. May mà bạn hỏi đấy!" },
+            { "vi": "Cảm ơn! Tôi vẫn đang học nên hỏi nhiều lắm.", "hint_vi": "Kết lại bằng cách coi việc mình hỏi là bình thường — lần sau sẽ dễ hỏi hơn." }
+          ]
+        }
+      ]
+    }
+  }
+}

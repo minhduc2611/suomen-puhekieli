@@ -1,0 +1,305 @@
+{
+  "lessons": {
+    "birthday-parties": {
+      "lesson": {
+        "title_vi": "Tiệc sinh nhật (synttärit)",
+        "subtitle_vi": "Thư mời, trả lời và quà tặng",
+        "warmup_situation_vi": "Một lời mời đến. Có giờ, có địa chỉ, có gì đó về chủ đề tiệc, và một câu về quà mà bạn không chắc nên hiểu thế nào.",
+        "warmup_question_vi": "Bạn thật sự cần trả lời những gì — và nên chi bao nhiêu cho món quà?",
+        "rescue_vi": "Bé có mong món quà nào cụ thể không?",
+        "rescue_note_vi": "Hỏi là chuyện hoàn toàn bình thường và phụ huynh thường vui khi được hỏi. Quà cho trẻ em ở Phần Lan rất vừa phải — 10–20 euro là chuẩn, và phụ huynh thường sẽ nói chính xác bé muốn gì, giúp cả hai bên đỡ mệt."
+      },
+      "vocab": [
+        { "vi": "tiệc sinh nhật", "note_vi": "Từ mọi người dùng. «Syntymäpäiväjuhlat» là dạng viết." },
+        { "vi": "lời mời" }, { "vi": "được mời" }, { "vi": "đăng ký, trả lời thư mời" }, { "vi": "xác nhận" },
+        { "vi": "đến được", "note_vi": "«Eeva pääsee» = Eeva đến được. Động từ để trả lời thư mời." },
+        { "vi": "không đến được" }, { "vi": "hạn cuối trả lời thư mời" }, { "vi": "món quà" },
+        { "vi": "món quà bé mong", "note_vi": "Hãy hỏi. Phụ huynh thường có sẵn một danh sách." },
+        { "vi": "ý tưởng quà" },
+        { "vi": "quà góp chung", "note_vi": "Phổ biến: nhiều gia đình góp tiền mua một món quà lớn hơn." },
+        { "vi": "tấm thiệp" }, { "vi": "gói quà" }, { "vi": "chủ đề tiệc" },
+        { "vi": "trang phục hoá trang", "note_vi": "Nếu có chủ đề, hãy hỏi xem có cần hoá trang không." },
+        { "vi": "bánh kem" }, { "vi": "phần đồ ăn" }, { "vi": "chương trình, hoạt động" },
+        { "vi": "mình có ở lại không", "note_vi": "Câu hỏi then chốt. Với trẻ nhỏ, phụ huynh thường ở lại." },
+        { "vi": "người lớn đi kèm" },
+        { "vi": "anh chị em ruột", "note_vi": "Hãy hỏi xem anh chị em có được mời không. Đừng tự dẫn đi." },
+        { "vi": "thời lượng" },
+        { "vi": "từ hai đến bốn giờ", "note_vi": "Hai tiếng là thời lượng chuẩn cho trẻ nhỏ." },
+        { "vi": "chúc mừng" }, { "vi": "chúc mừng sinh nhật" }, { "vi": "cảm ơn đã mời" }, { "vi": "rất tiếc là" }
+      ],
+      "phrases": [
+        { "vi": "Cảm ơn bạn đã mời! Eeva đến được.", "when_to_use_vi": "Câu trả lời thư mời trọn vẹn. Hai câu là xong." },
+        { "vi": "Rất tiếc là Eeva không đến được — nhà mình đi vắng.", "when_to_use_vi": "Từ chối kèm một lý do ngắn. Không cần xin lỗi thêm gì nữa." },
+        { "vi": "Bé có mong món quà nào cụ thể không?", "when_to_use_vi": "Hãy hỏi. Phụ huynh thường có danh sách và vui lòng chia sẻ." },
+        { "vi": "Mọi người thường tặng khoảng bao nhiêu?", "when_to_use_vi": "Hỏi một phụ huynh khác là bình thường. Ở đây 10–20 euro là chuẩn." },
+        { "vi": "Mình góp quà chung nhé?", "when_to_use_vi": "Phổ biến và thường được tổ chức trong nhóm WhatsApp." },
+        { "vi": "Tiệc có chủ đề gì không?", "when_to_use_vi": "Rồi hỏi xem có thật sự cần hoá trang hay không." },
+        { "vi": "Có cần trang phục hoá trang không?", "when_to_use_vi": "Câu hỏi tiếp theo. Thường câu trả lời là «nếu muốn thôi»." },
+        { "vi": "Mình ở lại hay gửi Eeva ở đó?", "when_to_use_vi": "Câu hỏi thực tế hữu ích nhất. Hoàn toàn tuỳ vào tuổi." },
+        { "vi": "Anh chị em có được mời không?", "when_to_use_vi": "Hãy hỏi thay vì dẫn thêm một đứa đến mà không báo." },
+        { "vi": "Tiệc kết thúc mấy giờ?", "when_to_use_vi": "Thường là hai tiếng. Biết để về đúng giờ." },
+        { "vi": "Chúc mừng sinh nhật, Emma!", "when_to_use_vi": "Nói với bé ở cửa, tay cầm quà." },
+        { "vi": "Cảm ơn, vui lắm! Eeva thích mê.", "when_to_use_vi": "Nhắn sau đó. Ngắn thôi và luôn được trân trọng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Trả lời một lời mời",
+          "setting_vi": "Một lời mời trên WhatsApp và câu trả lời của Duc, kèm các câu hỏi thực tế.",
+          "note_vi": "Trả lời thư mời trước, rồi hỏi bốn câu thực tế. Theo thứ tự đó.",
+          "lines": [
+            { "vi": "Chào mọi người! Emma tròn 5 tuổi và nhà mình tổ chức thứ Bảy 12/4, từ 14 đến 16 giờ tại nhà mình." },
+            { "vi": "Xin trả lời trước thứ Tư nhé. Chủ đề là không gian vũ trụ!" },
+            { "vi": "Cảm ơn bạn đã mời! Eeva đến được." },
+            { "vi": "Mình có vài câu hỏi: có cần trang phục hoá trang không?" },
+            { "vi": "Không cần, nhưng nếu muốn thì cứ mặc đồ vũ trụ đến." },
+            { "vi": "Vâng. Mình ở lại hay gửi Eeva ở đó?" },
+            { "vi": "Tuỳ bạn thôi. Một số phụ huynh ở lại uống cà phê." },
+            { "vi": "Mình ở lại, cảm ơn. Và bé có mong món quà nào cụ thể không?" },
+            { "vi": "Emma mong Lego hoặc đồ làm thủ công. Không cần gì lớn đâu!" },
+            { "vi": "Tốt. Mọi người thường tặng khoảng bao nhiêu?" },
+            { "vi": "Chỉ 15–20 euro, đừng hơn. Thật đấy." },
+            { "vi": "Vâng. Hẹn gặp thứ Bảy!" }
+          ]
+        },
+        {
+          "title_vi": "Ở bữa tiệc, và từ chối một lời mời khác",
+          "setting_vi": "Ở cửa vào ngày hôm đó, và một lời từ chối tháng sau.",
+          "note_vi": "Từ chối cần một lý do ngắn và không cần gì thêm.",
+          "lines": [
+            { "vi": "Chào bạn! Chúc mừng sinh nhật, Emma!" },
+            { "vi": "Cảm ơn chú! Trong này có gì ạ?" },
+            { "vi": "Mình mở ra xem cùng nhé. Quà tặng con đấy." },
+            { "vi": "Cảm ơn nhà bạn đã đến! Cà phê ở trong bếp nhé." },
+            { "vi": "Cảm ơn. Tiệc kết thúc mấy giờ?" },
+            { "vi": "Bốn giờ, nhưng không gấp đâu." },
+            { "vi": "Cảm ơn bạn đã mời! Rất tiếc là Eeva không đến được — nhà mình đi vắng hôm đó." },
+            { "vi": "Ôi tiếc quá! Lần sau vậy." },
+            { "vi": "Ừ. Và chúc mừng Oskari trước nhé!" },
+            { "vi": "Cảm ơn, mình sẽ nói với bé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả lời thư mời và lo món quà",
+          "scenario_vi": "Nhận lời mời, hỏi về trang phục, việc ở lại, món quà và mức tiền.",
+          "your_role_vi": "Bạn, đang trả lời một lời mời",
+          "partner_role_vi": "Riikka, phụ huynh chủ tiệc",
+          "turns": [
+            { "vi": "Emma tròn 5 tuổi! Thứ Bảy 14–16 giờ ở nhà mình. Chủ đề là vũ trụ." },
+            { "vi": "Cảm ơn bạn đã mời! Eeva đến được.", "hint_vi": "Trả lời thư mời trước. Hai câu là xong phần đó." },
+            { "vi": "Hay quá! Có gì cứ hỏi nhé." },
+            { "vi": "Có cần trang phục hoá trang không?", "hint_vi": "Nếu có chủ đề, luôn kiểm tra xem hoá trang có bắt buộc không." },
+            { "vi": "Không cần, nhưng muốn thì cứ mặc." },
+            { "vi": "Vâng. Mình ở lại hay gửi Eeva ở đó?", "hint_vi": "Câu hỏi thực tế hữu ích nhất. Nó tuỳ vào tuổi." },
+            { "vi": "Tuỳ bạn. Một số phụ huynh ở lại uống cà phê." },
+            { "vi": "Mình ở lại. Và bé có mong món quà nào cụ thể không?", "hint_vi": "Hãy hỏi. Phụ huynh thường có danh sách và vui lòng chia sẻ." },
+            { "vi": "Lego hoặc đồ thủ công. Không cần gì lớn!" },
+            { "vi": "Mọi người thường tặng khoảng bao nhiêu?", "hint_vi": "Hỏi là bình thường. Ở đây 10–20 euro là chuẩn." }
+          ]
+        }
+      ]
+    },
+    "hobbies-and-carpooling": {
+      "lesson": {
+        "title_vi": "Hoạt động ngoại khoá và đi chung xe",
+        "subtitle_vi": "Voisitsä heittää meidän pojan treeneihin?",
+        "warmup_situation_vi": "Buổi tập hai lần một tuần, cách sáu kilômét, đúng vào giờ bạn vẫn còn ở chỗ làm. Ba gia đình khác cũng gặp đúng vấn đề đó.",
+        "warmup_question_vi": "Làm sao nhờ người ta chở mà không cảm thấy mình mang nợ mãi mãi?",
+        "rescue_vi": "Nếu không tiện thì bạn cứ nói — mình sẽ xoay cách khác.",
+        "rescue_note_vi": "Nó dỡ bỏ mọi nghĩa vụ khỏi lời nhờ, mà đó chính là điều giúp một nhóm đi chung xe duy trì được lâu dài. Các thoả thuận đi chung xe ở Phần Lan mang tính trao đổi và công bằng, và việc cho phép nói không một cách rõ ràng giúp mọi người thoải mái."
+      },
+      "vocab": [
+        { "vi": "hoạt động ngoại khoá, sở thích" }, { "vi": "buổi tập" }, { "vi": "các buổi luyện tập" },
+        { "vi": "trận đấu" }, { "vi": "giải đấu" }, { "vi": "bóng đá" }, { "vi": "khúc côn cầu trên băng" },
+        { "vi": "floorball (bóng gậy trong nhà)", "note_vi": "Cực kỳ phổ biến ở đây. Thường gọi là «sähly»." },
+        { "vi": "thể dục dụng cụ" }, { "vi": "lớp học bơi" }, { "vi": "trường nhạc" },
+        { "vi": "huấn luyện viên" }, { "vi": "nhà thi đấu" }, { "vi": "sân bãi" }, { "vi": "sân băng" },
+        { "vi": "việc đưa đón" }, { "vi": "chuyến đi nhờ xe" }, { "vi": "việc chia sẻ xe đưa đón" },
+        { "vi": "chở, thả xuống", "note_vi": "«Voitsä heittää sen treeneihin?» = bạn chở bé đến buổi tập được không? Rất khẩu ngữ." },
+        { "vi": "thay phiên nhau", "note_vi": "Nền tảng của mọi nhóm đi chung xe. «Vuorotellen» làm nó công bằng và rõ ràng." },
+        { "vi": "mỗi tuần một người" }, { "vi": "thống nhất lịch phân công" },
+        { "vi": "còn chỗ", "note_vi": "«Mahtuuks meille?» = xe mình còn chỗ không?" },
+        { "vi": "ghế an toàn cho trẻ", "note_vi": "Luật bắt buộc. Hãy hỏi xem họ có ghế dự phòng không." },
+        { "vi": "dụng cụ, trang bị" }, { "vi": "túi đồ" }, { "vi": "khoản phí" }, { "vi": "phí theo mùa giải" },
+        { "vi": "lịch trình" }
+      ],
+      "phrases": [
+        { "vi": "Bạn chở con trai mình đến buổi tập được không?", "when_to_use_vi": "«Heittää» rất khẩu ngữ và hoàn toàn bình thường ở đây." },
+        { "vi": "Xe nhà bạn còn chỗ cho một đứa nữa không?", "when_to_use_vi": "Bản thực tế. Xe có bốn ghế và có quy định về chúng." },
+        { "vi": "Mình lập lịch chở luân phiên nhé?", "when_to_use_vi": "Bản bền vững. Tốt hơn nhiều so với nhờ lặp đi lặp lại." },
+        { "vi": "Mình chở đi được, nếu bạn đón về.", "when_to_use_vi": "Kiểu trao đổi cơ bản. Gọn gàng và công bằng." },
+        { "vi": "Luân phiên, mỗi tuần một người nhé?", "when_to_use_vi": "Làm cho lịch phân công rõ ràng. Gia đình Phần Lan thích sự rõ ràng này." },
+        { "vi": "Nếu không tiện thì bạn cứ nói — mình xoay cách khác.", "when_to_use_vi": "Dỡ bỏ nghĩa vụ. Chính điều này giúp nhóm đi chung xe bền lâu." },
+        { "vi": "Nhà bạn có ghế an toàn dự phòng không?", "when_to_use_vi": "Luật bắt buộc với trẻ nhỏ. Hỏi trước, đừng hỏi lúc đã ra đến xe." },
+        { "vi": "Buổi tập bắt đầu và kết thúc mấy giờ?", "when_to_use_vi": "Cả hai mốc. Bạn cần chúng để xếp lịch." },
+        { "vi": "Ở nhà thi đấu nào?", "when_to_use_vi": "Hãy xin địa chỉ, đừng xin tên. Tên nhà thi đấu dễ gây nhầm." },
+        { "vi": "Cần những dụng cụ gì?", "when_to_use_vi": "Hỏi huấn luyện viên hoặc phụ huynh khác. Có danh sách và nó dài." },
+        { "vi": "Phí theo mùa là bao nhiêu?", "when_to_use_vi": "Hỏi sớm. Thể thao thiếu nhi ở đây được trợ giá nhưng không miễn phí." },
+        { "vi": "Cảm ơn bạn đã chở! Tuần sau mình lái.", "when_to_use_vi": "Nói mỗi lần. Chính nó giữ cho thoả thuận được công bằng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lập một nhóm đi chung xe",
+          "setting_vi": "Hai phụ huynh ở sân sau buổi tập.",
+          "note_vi": "Duc biến một lần nhờ vả thành một lịch luân phiên. Đó là bản bền vững.",
+          "lines": [
+            { "vi": "Chào bạn! Này, mình muốn hỏi một chuyện." },
+            { "vi": "Ừ, bạn nói đi." },
+            { "vi": "Buổi tập lúc nào cũng năm giờ, mà giờ đó mình vẫn ở chỗ làm. Có lúc bạn chở con trai mình đến buổi tập được không?" },
+            { "vi": "Ừ, dễ mà. Đằng nào nhà mình cũng đi qua đây." },
+            { "vi": "Cảm ơn bạn nhiều. Nhưng mình lập lịch chở luân phiên nhé, để không phải lúc nào cũng là bạn?" },
+            { "vi": "Ý hay đấy. Luân phiên, mỗi tuần một người nhé?" },
+            { "vi": "Được. Mình nhận những tuần mình làm việc từ xa." },
+            { "vi": "Được đấy. Xe nhà bạn chở được ba đứa không?" },
+            { "vi": "Được. Nhà bạn có ghế an toàn dự phòng cho đứa nhỏ hơn không?" },
+            { "vi": "Có một cái. Mình để lại trong xe bạn được." },
+            { "vi": "Tuyệt vời. Và tuần nào không tiện thì bạn cứ nói — mình xoay cách khác." },
+            { "vi": "Bạn cũng vậy nhé. Mình lập một nhóm WhatsApp cho việc này nhé?" },
+            { "vi": "Ừ, hay. Hôm nay mình lập." }
+          ]
+        },
+        {
+          "title_vi": "Đăng ký một hoạt động mới",
+          "setting_vi": "Một đoạn trao đổi ngắn với huấn luyện viên.",
+          "note_vi": "Giờ, địa điểm, dụng cụ, chi phí. Bốn câu hỏi là bạn xong việc.",
+          "lines": [
+            { "vi": "Chào anh! Con trai tôi muốn bắt đầu học floorball. Các nhóm còn chỗ không ạ?" },
+            { "vi": "Chào anh! Bé mấy tuổi?" },
+            { "vi": "Tám tuổi." },
+            { "vi": "Vâng, nhóm đó còn chỗ. Tập vào thứ Ba và thứ Năm." },
+            { "vi": "Mấy giờ bắt đầu và kết thúc ạ?" },
+            { "vi": "17 giờ bắt đầu, 18:15 kết thúc. Ở nhà thi đấu, Urheilutie 2." },
+            { "vi": "Vâng. Cần những dụng cụ gì ạ?" },
+            { "vi": "Gậy, giày trong nhà và kính bảo hộ. Mấy buổi đầu có thể mượn gậy." },
+            { "vi": "Tốt. Phí theo mùa là bao nhiêu ạ?" },
+            { "vi": "280 euro một mùa. Có thể trả hai đợt." },
+            { "vi": "Vâng, cảm ơn anh. Bé đến tập thử trước được không ạ?" },
+            { "vi": "Tất nhiên, hai buổi miễn phí." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Lập lịch đi chung xe luân phiên",
+          "scenario_vi": "Nhờ chở, biến nó thành lịch luân phiên, lo chuyện ghế an toàn, và dỡ bỏ nghĩa vụ.",
+          "your_role_vi": "Bạn, mắc ở chỗ làm đến năm giờ",
+          "partner_role_vi": "Jari, một phụ huynh khác",
+          "turns": [
+            { "vi": "Chào bạn! Buổi tập lúc năm giờ, mà giờ đó mình còn ở chỗ làm. Bạn chở con trai mình đến buổi tập được không?", "hint_vi": "Nêu lý do trước, rồi mới nhờ. «Heittää» là bình thường ở đây." },
+            { "vi": "Ừ, dễ mà. Nhà mình đi qua đây." },
+            { "vi": "Cảm ơn! Nhưng mình lập lịch chở luân phiên nhé, để không phải lúc nào cũng là bạn?", "hint_vi": "Biến một lần nhờ vả thành một hệ thống. Đó là điều giúp nó bền." },
+            { "vi": "Ý hay đấy. Luân phiên, mỗi tuần một người nhé?" },
+            { "vi": "Được. Mình nhận những tuần mình làm từ xa.", "hint_vi": "Nêu điều bạn thật sự cam kết được, không phải điều nghe hào phóng." },
+            { "vi": "Được đấy. Xe nhà bạn chở được ba đứa không?" },
+            { "vi": "Được. Nhà bạn có ghế an toàn dự phòng không?", "hint_vi": "Luật bắt buộc. Hỏi ngay, đừng đợi đến lúc ra xe." },
+            { "vi": "Có một cái, mình để lại trong xe bạn." },
+            { "vi": "Tuyệt vời. Và tuần nào không tiện thì bạn cứ nói nhé.", "hint_vi": "Dỡ bỏ nghĩa vụ là điều giúp nhóm đi chung xe luôn thoải mái." }
+          ]
+        }
+      ]
+    },
+    "whatsapp-group": {
+      "lesson": {
+        "title_vi": "Nhóm WhatsApp của phụ huynh",
+        "subtitle_vi": "Đọc nhanh và trả lời ngắn",
+        "warmup_situation_vi": "Bốn mươi bảy tin chưa đọc. Đâu đó trong đó có một câu hỏi bạn cần trả lời, một ngày bạn cần ghi lại, và khoảng ba mươi tin nhiễu thuần tuý.",
+        "warmup_question_vi": "Bạn đọc gì, bỏ qua gì, và câu trả lời của bạn có thể ngắn đến mức nào?",
+        "rescue_vi": "Xin lỗi, mình chưa kịp đọc hết — kết luận cuối cùng là gì nhỉ?",
+        "rescue_note_vi": "Ai trong nhóm cũng từng muốn hỏi câu này. Sẽ có người tóm tắt trong một dòng, thường là với vẻ biết ơn, và bạn bỏ qua được bốn mươi tin tranh luận. Đây là điều hiệu quả nhất bạn có thể đăng."
+      },
+      "vocab": [
+        { "vi": "nhóm" }, { "vi": "chuỗi tin nhắn" }, { "vi": "chưa đọc" }, { "vi": "kéo xem, đọc lướt" },
+        { "vi": "bỏ qua" },
+        { "vi": "kết luận, kết quả cuối", "note_vi": "Từ giúp bạn tiết kiệm bốn mươi tin nhắn. Hãy xin nó." },
+        { "vi": "bản tóm tắt" }, { "vi": "quyết định" },
+        { "vi": "cuộc bình chọn", "note_vi": "Bình chọn trên WhatsApp rất phổ biến. Bỏ phiếu là xong việc của bạn." },
+        { "vi": "bỏ phiếu" },
+        { "vi": "ngón tay cái (thích)", "note_vi": "Một biểu tượng cảm xúc thường đã là câu trả lời trọn vẹn. Hãy dùng nó." },
+        { "vi": "phản hồi bằng biểu tượng" }, { "vi": "trả lời" }, { "vi": "hỏi" }, { "vi": "lời nhắc" },
+        { "vi": "để thông tin", "note_vi": "«Tiedoksi vaan:» = chỉ để mọi người biết. Một câu mở đầu thông dụng." },
+        { "vi": "khẩn" }, { "vi": "hạn cuối" }, { "vi": "việc đăng ký" },
+        { "vi": "ngày lao động tình nguyện", "note_vi": "Một định chế Phần Lan — ai cũng đến và góp tay. Hãy nhận một lần mỗi năm." },
+        { "vi": "lịch phân công" },
+        { "vi": "việc quyên góp (tiền)", "note_vi": "Thường để mua quà chung. Sẽ có người đăng một số MobilePay." },
+        { "vi": "quà góp chung" },
+        { "vi": "bị mất, thất lạc", "note_vi": "Một nửa lưu lượng của nhóm là những chiếc găng tay bị mất. Thật đấy." },
+        { "vi": "đã tìm thấy" }, { "vi": "cảm ơn đã cho biết" },
+        { "vi": "đã rõ", "note_vi": "Một câu trả lời trọn vẹn. Một từ." },
+        { "vi": "mình lo việc đó" },
+        { "vi": "im lặng, tắt tiếng", "note_vi": "«Mä laitan ryhmän hiljaiseks» = mình tắt thông báo nhóm. Ai cũng làm vậy." }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, mình chưa kịp đọc hết — kết luận cuối cùng là gì nhỉ?", "when_to_use_vi": "Ai cũng muốn hỏi. Sẽ có người tóm tắt với vẻ biết ơn." },
+        { "vi": "Đã rõ, cảm ơn!", "when_to_use_vi": "Một câu trả lời trọn vẹn cho phần lớn tin nhắn. Hai chữ." },
+        { "vi": "Mình lo việc đó.", "when_to_use_vi": "Khi cần người xung phong. Hãy là người đó một lần mỗi học kỳ." },
+        { "vi": "Nhà mình được.", "when_to_use_vi": "Cho mọi đề xuất về ngày. Chỉ dài hơn một biểu tượng thích vài ký tự." },
+        { "vi": "Rất tiếc nhà mình không được.", "when_to_use_vi": "Từ chối một ngày. Trong nhóm thì không cần nêu lý do." },
+        { "vi": "Có ai thấy một chiếc găng tay xanh không?", "when_to_use_vi": "Bạn sẽ đăng câu này. Ai cũng đăng câu này." },
+        { "vi": "Tìm thấy rồi, cảm ơn!", "when_to_use_vi": "Luôn đăng kết quả. Nó ngăn mười một người tiếp tục đi tìm." },
+        { "vi": "Để mọi người biết: Eeva bị ốm, mai không đi.", "when_to_use_vi": "«Tiedoksi vaan» báo hiệu rằng không cần ai trả lời." },
+        { "vi": "Mình góp được. Chuyển vào số nào?", "when_to_use_vi": "Cho quà góp chung. Sẽ có người đăng một số MobilePay." },
+        { "vi": "Mình chuyển qua MobilePay rồi.", "when_to_use_vi": "Xác nhận đã chuyển để người tổ chức tích tên bạn." },
+        { "vi": "Thứ Bảy mình đi ngày lao động tình nguyện được.", "when_to_use_vi": "Hãy nhận một lần mỗi năm. Nó mua lại rất nhiều thiện cảm." },
+        { "vi": "Bạn đăng cái đó vào nhóm để mọi người thấy được không?", "when_to_use_vi": "Chuyển thông tin về đúng nơi nó thuộc về." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Bốn mươi bảy tin nhắn",
+          "setting_vi": "Hãy đọc đoạn này như một chuỗi tin. Duc mở ra, đọc lướt, và đăng hai lần.",
+          "note_vi": "Anh bỏ qua hẳn phần tranh luận và xin kết luận. Hai tin nhắn, xong việc.",
+          "lines": [
+            { "vi": "Chào mọi người! Mình có nên tổ chức một chuyến đi xuân trước khi kết thúc năm học không?" },
+            { "vi": "Ý hay đấy! Mà cuối tuần nào?" },
+            { "vi": "Ngày 17/5 nhà mình không được. Ngày 24/5 có được không?" },
+            { "vi": "(ba mươi hai tin nhắn về chuyện xếp lịch)" },
+            { "vi": "Xin lỗi, mình chưa kịp đọc hết — kết luận cuối cùng là gì nhỉ?" },
+            { "vi": "Haha, bọn mình cũng chưa. Thứ Bảy 24/5 lúc 11 giờ, công viên Keskuspuisto. Mang đồ ăn theo." },
+            { "vi": "Đã rõ, cảm ơn! Nhà mình được." },
+            { "vi": "Và nhớ nhé: quyên góp mua quà cho Anna, 10 € mỗi gia đình." },
+            { "vi": "Mình góp được. Chuyển vào số nào?" },
+            { "vi": "040 555 9876, MobilePay." },
+            { "vi": "Mình chuyển rồi. Và để mọi người biết: Eeva bị ốm, mai không đi." },
+            { "vi": "Cảm ơn bạn đã cho biết. Chúc bé mau khỏe!" }
+          ]
+        },
+        {
+          "title_vi": "Găng tay bị mất và việc xung phong",
+          "setting_vi": "Hai thể loại tin nhắn phổ biến nhất trong mọi nhóm phụ huynh ở Phần Lan.",
+          "note_vi": "Hãy đăng kết quả khi bạn tìm thấy. Nó ngăn mười một người tiếp tục đi tìm.",
+          "lines": [
+            { "vi": "Có ai thấy một chiếc găng tay xanh không? Trên đó có tên Eeva." },
+            { "vi": "Nhà mình có một chiếc xanh thừa. Mai mình mang đến." },
+            { "vi": "Cảm ơn! …Tìm thấy rồi, nó ở dưới đáy ba lô. Xin lỗi đã làm ồn!" },
+            { "vi": "Haha, kinh điển." },
+            { "vi": "Nhắc nhở: ngày lao động tình nguyện thứ Bảy lúc 10 giờ. Vẫn cần thêm vài phụ huynh." },
+            { "vi": "Mình đi được. Mình mang gì theo?" },
+            { "vi": "Găng tay lao động nếu có. Ngoài ra không cần gì." },
+            { "vi": "Đã rõ, hẹn gặp thứ Bảy!" },
+            { "vi": "Cảm ơn Duc! May quá bạn đăng ký ngay." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xử lý cả nhóm trong bốn tin nhắn",
+          "scenario_vi": "Xin kết luận, xác nhận một ngày, góp tiền quyên góp, và báo con nghỉ.",
+          "your_role_vi": "Bạn, với 47 tin chưa đọc",
+          "partner_role_vi": "Riikka và Jari, các phụ huynh khác",
+          "turns": [
+            { "vi": "(32 tin nhắn về ngày của chuyến đi xuân)" },
+            { "vi": "Xin lỗi, mình chưa kịp đọc hết — kết luận cuối cùng là gì nhỉ?", "hint_vi": "Ai cũng muốn hỏi câu này. Sẽ có người tóm tắt với vẻ biết ơn." },
+            { "vi": "Thứ Bảy 24/5 lúc 11 giờ, Keskuspuisto. Mang đồ ăn theo." },
+            { "vi": "Đã rõ, cảm ơn! Nhà mình được.", "hint_vi": "Hai câu ngắn là một câu trả lời trọn vẹn." },
+            { "vi": "Và quyên góp mua quà cho Anna, 10 € mỗi gia đình." },
+            { "vi": "Mình góp được. Chuyển vào số nào?", "hint_vi": "Xin số thay vì ngồi đợi được cho biết." },
+            { "vi": "040 555 9876, MobilePay." },
+            { "vi": "Mình chuyển rồi.", "hint_vi": "Xác nhận để người tổ chức tích tên bạn khỏi danh sách." },
+            { "vi": "Cảm ơn!" },
+            { "vi": "Để mọi người biết: Eeva bị ốm, mai không đi.", "hint_vi": "«Tiedoksi vaan» báo hiệu rằng không cần ai trả lời." }
+          ]
+        }
+      ]
+    }
+  }
+}

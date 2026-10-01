@@ -1,0 +1,208 @@
+{
+  "lessons": {
+    "diets-and-allergies": {
+      "lesson": {
+        "title_vi": "Chế độ ăn và dị ứng",
+        "subtitle_vi": "Onks tässä laktoosia? Mä en syö lihaa.",
+        "warmup_situation_vi": "Bạn bị dị ứng thật. Người phục vụ thân thiện nhưng đang bận. Nói sai ở đây không phải là chuyện ngượng — mà là một chuyến vào bệnh viện.",
+        "warmup_question_vi": "Bạn có phân biệt được «tôi không ăn X» và «tôi bị dị ứng với X» — và câu nào được xử lý nghiêm túc?",
+        "rescue_vi": "Tôi bị dị ứng. Chuyện này nghiêm trọng.",
+        "rescue_note_vi": "Nói câu này là mọi thứ đổi: bếp được báo, món được kiểm tra, không ai đoán mò nữa. Nhà hàng Phần Lan xử lý dị ứng cực kỳ tốt, nhưng chỉ khi bạn dùng đúng từ «allerginen» thay vì một lời nói mơ hồ về sở thích."
+      },
+      "vocab": [
+        { "vi": "dị ứng" },
+        { "vi": "bị dị ứng", "note_vi": "«Mä oon allerginen pähkinöille» — dị ứng VỚI cái gì thì dùng đuôi -lle." },
+        { "vi": "không có lactose", "note_vi": "Đuôi -ton/-tön nghĩa là «không có». Gluteeniton, maidoton, sokeriton." },
+        { "vi": "không chứa gluten" },
+        { "vi": "không có sữa" },
+        { "vi": "lactose" },
+        { "vi": "gluten" },
+        { "vi": "hạt (các loại hạt cứng)" },
+        { "vi": "đậu phộng, lạc" },
+        { "vi": "động vật có vỏ (tôm, cua, sò)" },
+        { "vi": "cá" },
+        { "vi": "trứng gà", "note_vi": "Khi nói thường chỉ là «muna» — nhưng «muna» đứng một mình còn có nghĩa tục, nên dùng từ đầy đủ thì an toàn hơn." },
+        { "vi": "thịt" },
+        { "vi": "thịt lợn", "note_vi": "Đáng biết chính xác nếu bạn kiêng — nó ẩn trong nhiều món." },
+        { "vi": "món chay", "note_vi": "Trên thực đơn: «kasvisruoka», «kasvisvaihtoehto»." },
+        { "vi": "thuần chay" },
+        { "vi": "người ăn chay", "literal_vi": "người-ăn-thực-vật" },
+        { "vi": "thành phần, nguyên liệu" },
+        { "vi": "chứa, có trong" },
+        { "vi": "nó có chứa… không" },
+        { "vi": "lựa chọn thay thế" },
+        { "vi": "không có, thiếu", "note_vi": "Đi với cách phân từ: ilman maitoa, ilman juustoa." },
+        { "vi": "nghiêm trọng" },
+        { "vi": "nhà bếp", "note_vi": "«Mä kysyn keittiöstä» = tôi sẽ hỏi bếp. Đây là câu bạn muốn nghe." }
+      ],
+      "phrases": [
+        { "vi": "Tôi bị dị ứng với các loại hạt.", "when_to_use_vi": "Câu khiến người ta hành động. Dị ứng VỚI cái gì = đuôi -lle." },
+        { "vi": "Món này có lactose không?", "when_to_use_vi": "Câu hỏi về chế độ ăn được hỏi nhiều nhất ở Phần Lan — không dung nạp lactose rất phổ biến ở đây." },
+        { "vi": "Món này có chứa gluten không?", "when_to_use_vi": "Trang trọng hơn «onks tässä» một chút. Cả hai đều dùng được." },
+        { "vi": "Tôi không ăn thịt.", "when_to_use_vi": "Một sở thích, không phải dị ứng. Vẫn được tôn trọng nhưng xử lý theo cách khác." },
+        { "vi": "Tôi ăn chay.", "when_to_use_vi": "Ở đâu cũng hiểu rõ. Gần như luôn có một kasvisvaihtoehto." },
+        { "vi": "Quán có món chay không?", "when_to_use_vi": "Câu trả lời thường là có, và nhiều khi đó lại là món ngon nhất." },
+        { "vi": "Tôi không ăn được thịt lợn.", "when_to_use_vi": "«En voi» (không thể) mạnh hơn «en syö» (không ăn) và không mời gọi tranh luận." },
+        { "vi": "Anh/chị hỏi bếp giúp được không?", "when_to_use_vi": "Khi người phục vụ không chắc. Luôn hỏi câu này thay vì chấp nhận một lời phỏng đoán." },
+        { "vi": "Trong đó có gì?", "when_to_use_vi": "Bản đơn giản nhất có thể. Dùng được khi bạn cạn vốn từ." },
+        { "vi": "Trong đó có sản phẩm từ sữa nào không?", "when_to_use_vi": "Rộng hơn là chỉ hỏi riêng về lactose." },
+        { "vi": "Cho tôi món đó mà không có phô mai được không?", "when_to_use_vi": "Nhà hàng đáp ứng chuyện này không hề phiền hà." },
+        { "vi": "Ăn vào tôi khó chịu lắm.", "literal_vi": "đến với tôi một cảm giác rất tệ từ nó", "when_to_use_vi": "Khi bạn cần họ hiểu đây không phải chuyện kén ăn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một ca dị ứng nghiêm trọng, được xử lý tốt",
+          "setting_vi": "Một nhà hàng. Duc dị ứng hạt và đang gọi món rất cẩn thận.",
+          "note_vi": "Hãy để ý mức độ tăng dần: hỏi, rồi đến từ «allerginen», rồi bếp được gọi vào cuộc.",
+          "lines": [
+            { "vi": "Xin lỗi, tôi bị dị ứng với các loại hạt. Trong salad này có hạt không ạ?" },
+            { "vi": "Chờ một chút, tôi kiểm tra. Chuyện đó khá nghiêm trọng đấy ạ." },
+            { "vi": "Vâng, đúng thế. Cảm ơn chị." },
+            { "vi": "Tôi đã hỏi bếp. Trong salad có quả óc chó ạ." },
+            { "vi": "Vậy thì tôi không ăn được. Chị gợi ý món gì?" },
+            { "vi": "Món súp cá hồi kia an toàn ạ. Hoàn toàn không có hạt." },
+            { "vi": "Tốt. Cho tôi món đó. Chị nhắc bếp lần nữa giúp tôi nhé?" },
+            { "vi": "Tất nhiên rồi, tôi sẽ ghi chú vào đơn." },
+            { "vi": "Cảm ơn chị nhiều lắm." },
+            { "vi": "Không có gì ạ. Hỏi vẫn hơn là đoán." }
+          ]
+        },
+        {
+          "title_vi": "Lactose, món chay, ở tốc độ thật",
+          "setting_vi": "Quầy ăn trưa. Hai câu hỏi nhanh về chế độ ăn, không kịch tính gì.",
+          "note_vi": "Ở đây đây là câu hỏi hằng ngày. Không ai phản ứng như thể bạn đang làm khó họ.",
+          "lines": [
+            { "vi": "Chào. Món súp kia có lactose không ạ?" },
+            { "vi": "Không có ạ. Tất cả súp của bên em đều không." },
+            { "vi": "Tốt. Thế bên em có món chay không?" },
+            { "vi": "Có ạ, món đậu lăng hầm kia. Nó còn thuần chay nữa." },
+            { "vi": "Tuyệt vời. Cho tôi món đó." },
+            { "vi": "Anh chọn khéo đấy. Bánh mì tính trong giá rồi, nhưng nó không phải loại không gluten ạ." },
+            { "vi": "Không sao, tôi ăn được gluten." },
+            { "vi": "Vâng. Ăn ở đây hay mang đi ạ?" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Khai báo dị ứng và bắt họ kiểm tra",
+          "scenario_vi": "Bạn dị ứng hạt. Hãy lấy được câu trả lời chắc chắn, không phải lời phỏng đoán.",
+          "your_role_vi": "Bạn, có dị ứng thật",
+          "partner_role_vi": "Một người phục vụ nhiệt tình",
+          "turns": [
+            { "vi": "Chào anh! Anh chị gọi món được chưa ạ?" },
+            { "vi": "Gần rồi. Tôi bị dị ứng với các loại hạt — trong salad này có hạt không?", "hint_vi": "Mở đầu bằng từ «allerginen». Nó thay đổi cách câu hỏi được xử lý." },
+            { "vi": "Em không chắc. Anh có muốn em kiểm tra không ạ?" },
+            { "vi": "Có, cảm ơn, em hỏi bếp giúp anh nhé?", "hint_vi": "Đừng bao giờ chấp nhận «em không chắc» — hãy nhờ họ đi kiểm tra." },
+            { "vi": "Vâng. …Trong đó có quả óc chó ạ." },
+            { "vi": "Vậy thì không được rồi. Món nào an toàn?", "hint_vi": "Chuyển hướng nhanh và để họ giúp bạn chọn." },
+            { "vi": "Súp cá hồi ạ. Hoàn toàn không có hạt." },
+            { "vi": "Cho anh món đó. Em báo bếp là dị ứng nhé?", "hint_vi": "Xác nhận rằng bếp sẽ được báo. Đây mới là bước quan trọng." }
+          ]
+        }
+      ]
+    },
+    "asking-and-fixing": {
+      "lesson": {
+        "title_vi": "Xin thêm đồ và sửa sai sót",
+        "subtitle_vi": "Voisinko saada vettä? Tää ei oo se mitä tilasin.",
+        "warmup_situation_vi": "Món sai được bưng ra. Trong đầu bạn đã tính ăn luôn cho xong thay vì làm phiền người ta.",
+        "warmup_question_vi": "Trả lại món ở Phần Lan có bất lịch sự không — hay lặng lẽ ăn nhầm món mới là hành vi kỳ lạ?",
+        "rescue_vi": "Xin lỗi, hình như có nhầm lẫn nhỏ ở đây.",
+        "rescue_note_vi": "Lời phàn nàn kiểu Phần Lan hoàn hảo: không đổ lỗi cho ai, nêu rõ vấn đề, và dùng «taisi» (hình như đã) để chừa chỗ cho khả năng lỗi là ở bạn. Nó được sửa ngay lập tức và không ai mất mặt."
+      },
+      "vocab": [
+        { "vi": "gọi món, đặt" },
+        { "vi": "tôi đã gọi" },
+        { "vi": "đơn gọi món" },
+        { "vi": "sai" },
+        { "vi": "sự nhầm lẫn" },
+        { "vi": "lỗi sai" },
+        { "vi": "hình như đã, có vẻ đã", "note_vi": "Tiểu từ lịch sự của mọi lời phàn nàn. «Tässä taisi tulla virhe» không đổ lỗi cho ai cả." },
+        { "vi": "lạnh", "note_vi": "«Tää on kylmää» = cái này lạnh. Để ý cách phân từ dùng cho đồ ăn." },
+        { "vi": "sống, chưa chín" },
+        { "vi": "bị thiếu", "note_vi": "«Tästä puuttuu juusto» = món này thiếu phô mai." },
+        { "vi": "bị quên" },
+        { "vi": "thêm nữa" },
+        { "vi": "cái khác, cái thứ hai" },
+        { "vi": "khăn giấy ăn" },
+        { "vi": "cái nĩa" },
+        { "vi": "con dao" },
+        { "vi": "cái thìa" },
+        { "vi": "cái ly" },
+        { "vi": "muối" },
+        { "vi": "tiêu" },
+        { "vi": "nước sốt" },
+        { "vi": "đổi, thay" },
+        { "vi": "sửa, chỉnh lại" },
+        { "vi": "lo liệu, xử lý", "note_vi": "«Me hoidetaan se» = bọn tôi sẽ lo. Đây là câu bạn muốn nghe." }
+      ],
+      "phrases": [
+        { "vi": "Cho tôi thêm nước được không?", "when_to_use_vi": "Câu xin chuẩn. «Voisinko saada» dùng được cho mọi thứ trên bàn." },
+        { "vi": "Cho tôi một tờ khăn giấy được không?", "when_to_use_vi": "Thay danh từ bằng bất cứ thứ gì: haarukan, veitsen, lasin." },
+        { "vi": "Xin lỗi, đây không phải món tôi gọi.", "when_to_use_vi": "Thẳng thắn và hoàn toàn được chấp nhận. Nó được sửa, không bị tranh cãi." },
+        { "vi": "Hình như có nhầm lẫn nhỏ ở đây.", "when_to_use_vi": "Bản nhẹ nhàng. Không đổ lỗi cho ai và hiệu quả y hệt." },
+        { "vi": "Tôi gọi thịt gà, không phải cá.", "when_to_use_vi": "Nói cả cái bạn muốn lẫn cái được mang ra. Tiết kiệm một vòng hỏi đáp." },
+        { "vi": "Món này hơi lạnh.", "when_to_use_vi": "«Vähän» làm nhẹ đi. Bạn sẽ được món nóng mà chẳng ngượng ngùng gì." },
+        { "vi": "Món này thiếu nước sốt.", "when_to_use_vi": "«Puuttua» = bị thiếu. Chủ ngữ là món ăn, không phải bạn." },
+        { "vi": "Anh/chị đổi cái này được không?", "when_to_use_vi": "Câu xin sửa ngắn nhất có thể." },
+        { "vi": "Không vội đâu, nhưng mà…", "when_to_use_vi": "Mở đầu lời phàn nàn bằng câu này thì lần nào nó cũng đáp xuống êm ru." },
+        { "vi": "Thế có được không ạ?", "when_to_use_vi": "Sau một yêu cầu hơi khác thường. Cho họ đường lui dễ dàng, và thường thì họ đồng ý." },
+        { "vi": "Không sao đâu, không cần đổi.", "when_to_use_vi": "Khi bạn quyết định cứ giữ nguyên. Khép lại chuyện một cách ấm áp." },
+        { "vi": "Cảm ơn vì đã lo giúp.", "when_to_use_vi": "Nói câu này sau mỗi lần được sửa. Nhỏ thôi, mà có sức nặng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Món bị nhầm",
+          "setting_vi": "Một nhà hàng. Món được bưng ra và không phải thứ Duc gọi.",
+          "note_vi": "Không ai xin lỗi quá mức và không ai phòng thủ. Nó chỉ đơn giản là được sửa.",
+          "lines": [
+            { "vi": "Đây là món súp cá ạ." },
+            { "vi": "Xin lỗi, hình như có nhầm lẫn nhỏ. Tôi gọi thịt gà." },
+            { "vi": "Ôi không, xin lỗi anh! Để em kiểm tra." },
+            { "vi": "Không vội đâu." },
+            { "vi": "Vâng, lỗi của em. Đúng là gà ạ. Em lấy ngay đây." },
+            { "vi": "Cảm ơn. Tiện thể cho tôi thêm nước được không?" },
+            { "vi": "Tất nhiên rồi. Chờ em một chút." },
+            { "vi": "Cảm ơn vì đã lo giúp." },
+            { "vi": "Không có gì ạ, may mà anh nói." }
+          ]
+        },
+        {
+          "title_vi": "Những lời xin nhỏ trong bữa ăn",
+          "setting_vi": "Đang ăn dở. Bốn lời xin nhanh, bốn câu trả lời nhanh.",
+          "note_vi": "Không câu nào cần cả câu hoàn chỉnh. Bắt được ánh mắt người phục vụ cộng một danh từ là thường đủ rồi.",
+          "lines": [
+            { "vi": "Xin lỗi! Cho tôi một tờ khăn giấy được không?" },
+            { "vi": "Vâng, của anh đây." },
+            { "vi": "Cảm ơn. Và ở đây có muối không?" },
+            { "vi": "Ở đầu bàn đằng kia ạ." },
+            { "vi": "À vâng, tôi thấy rồi. Còn một việc nữa — món này hơi lạnh." },
+            { "vi": "Ồ tiếc quá. Anh có muốn em hâm nóng lại không?" },
+            { "vi": "Vâng, nếu được." },
+            { "vi": "Được ạ. Hai phút thôi." },
+            { "vi": "Cảm ơn!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả món lại, một cách lịch sự",
+          "scenario_vi": "Món sai được bưng ra. Sửa nó mà không làm to chuyện, và xin thêm một thứ nhỏ.",
+          "your_role_vi": "Bạn, với cái đĩa sai",
+          "partner_role_vi": "Người phục vụ",
+          "turns": [
+            { "vi": "Đây là món súp cá ạ." },
+            { "vi": "Xin lỗi, hình như có nhầm lẫn nhỏ. Tôi gọi thịt gà.", "hint_vi": "Dùng «taisi» — nó không đổ lỗi cho ai mà vẫn hiệu quả y hệt." },
+            { "vi": "Ôi xin lỗi anh! Em kiểm tra ngay." },
+            { "vi": "Không vội đâu.", "hint_vi": "Hai chữ làm tan hết căng thẳng." },
+            { "vi": "Vâng, lỗi của em. Em đi lấy món gà." },
+            { "vi": "Cảm ơn. Và cho tôi thêm nước được không?", "hint_vi": "Thêm lời xin nhỏ ngay bây giờ, khi họ đang đằng nào cũng đi." },
+            { "vi": "Tất nhiên rồi ạ." },
+            { "vi": "Cảm ơn vì đã lo giúp.", "hint_vi": "Khép lại vòng tròn sau khi đã được sửa." }
+          ]
+        }
+      ]
+    }
+  }
+}

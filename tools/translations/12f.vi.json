@@ -1,0 +1,349 @@
+{
+  "lessons": {
+    "status-and-standups": {
+      "lesson": {
+        "title_vi": "Báo cáo tình hình và họp standup",
+        "subtitle_vi": "Missä mennään? — và nêu một sự chậm trễ trước khi nó thành vấn đề",
+        "warmup_situation_vi": "Mỗi sáng 9:15 cả đội đứng thành vòng tròn mười phút. Mỗi người ba câu, bằng tiếng Phần Lan, rồi đến lượt bạn. Bạn cũng biết phần việc của mình sẽ trễ một tuần, và chưa ai hỏi gì.",
+        "warmup_question_vi": "Một bản báo cáo tình hình kiểu Phần Lan gồm đúng những gì — và khi nào bạn nói rằng có thứ sẽ trễ?",
+        "rescue_vi": "Tôi nói luôn bây giờ để nó không thành chuyện bất ngờ: việc này sẽ trễ khoảng một tuần.",
+        "rescue_note_vi": "Sớm và thẳng là tất cả ở đây. Một sự chậm trễ được báo trước là một chuyện bình thường của dự án và không ai phản ứng tệ; cũng sự chậm trễ đó nhưng bị phát hiện đúng hôm hạn chót lại là thứ duy nhất thật sự làm hỏng uy tín của bạn trong một đội Phần Lan. Hãy nói số tuần, đừng nói «hơi trễ»."
+      },
+      "vocab": [
+        { "vi": "họp standup hằng ngày", "note_vi": "Dùng như một từ tiếng Phần Lan, đọc như tiếng Anh. «Nähdään dailyssä.»" },
+        { "vi": "báo cáo tình hình" },
+        { "vi": "mình đang ở đâu rồi?", "note_vi": "Câu hỏi mở đầu chuẩn. Trả lời trong ba câu." },
+        { "vi": "tình hình, trạng thái" },
+        { "vi": "vật cản, điểm nghẽn", "note_vi": "«Onks esteitä?» được hỏi trong mọi buổi standup. «Ei oo esteitä» là một câu trả lời trọn vẹn." },
+        { "vi": "bị tắc, bị kẹt", "note_vi": "«Mä oon jumissa» — hãy nói vào ngày thứ nhất, không phải ngày thứ tư." },
+        { "vi": "tôi không đi tiếp được" },
+        { "vi": "tôi đang chờ", "note_vi": "Hãy nêu tên người bạn đang chờ. Đó chính là mục đích của buổi họp này." },
+        { "vi": "bị chậm, bị trễ" },
+        { "vi": "sự chậm trễ" },
+        { "vi": "trễ, chậm so với kế hoạch" },
+        { "vi": "đúng tiến độ", "note_vi": "«Me ollaan aikataulussa» — câu mà ai cũng muốn nghe." },
+        { "vi": "hạn chót", "note_vi": "Dùng nguyên dạng. «Määräaika» có nhưng nghe hành chính." },
+        { "vi": "sprint" },
+        { "vi": "mục tiêu của sprint" },
+        { "vi": "ticket, phiếu việc" },
+        { "vi": "nhiệm vụ, việc" },
+        { "vi": "đang làm" },
+        { "vi": "đang kiểm thử" },
+        { "vi": "xong, hoàn thành" },
+        { "vi": "gần xong", "note_vi": "Hãy nói luôn còn thiếu gì, không thì nó bị đọc là «chưa xong»." },
+        { "vi": "bị dở dang" },
+        { "vi": "chuyển sang sprint sau" },
+        { "vi": "mình bỏ bớt cái gì?", "note_vi": "Câu hỏi đúng khi hạn chót không thể dịch. Hãy hỏi sớm." },
+        { "vi": "gấp, cấp bách" },
+        { "vi": "để đến mai có kịp không?", "note_vi": "Hữu ích và chẳng hào nhoáng. Nó bảo vệ cả ngày của bạn." },
+        { "vi": "đẩy lên cấp trên", "note_vi": "Một từ bình thường, không mang tính công kích trong đời sống công việc ở Phần Lan." },
+        { "vi": "trước, báo trước" },
+        { "vi": "nó sẽ không thành chuyện bất ngờ", "note_vi": "Toàn bộ triết lý của bài học này trong bốn chữ." }
+      ],
+      "phrases": [
+        { "vi": "Tôi nói ngắn gọn tình hình đang ở đâu.", "when_to_use_vi": "Câu mở đầu cho mọi bản báo cáo tình hình, standup hay không." },
+        { "vi": "Hôm qua tôi làm phần kiểm thử, hôm nay tôi làm tài liệu, không có vật cản nào.", "when_to_use_vi": "Câu trả lời standup trọn vẹn ba phần. Không ai mong gì hơn." },
+        { "vi": "Tôi đang tắc ở một chỗ.", "when_to_use_vi": "Hãy nói ngay ngày đầu. Ở đây không ai nể phục chuyện âm thầm vật lộn." },
+        { "vi": "Tôi cần Jussi gửi tài khoản đó trước khi tôi đi tiếp được.", "when_to_use_vi": "Nêu tên người và nêu thứ cần. Đó là cách điểm nghẽn thật sự được gỡ." },
+        { "vi": "Cái này gần xong — còn thiếu phần kiểm thử.", "when_to_use_vi": "Luôn nói còn thiếu gì. Chỉ nói «gần xong» thì bị đọc là «chưa xong»." },
+        { "vi": "Tôi nói luôn bây giờ để nó không thành chuyện bất ngờ.", "when_to_use_vi": "Câu làm tin xấu rơi xuống nhẹ. Hãy dùng nó trước khi nói tin." },
+        { "vi": "Việc này sẽ trễ khoảng một tuần.", "when_to_use_vi": "Hãy đưa con số. «Vähän myöhässä» thì vô dụng với người đang lên kế hoạch quanh bạn." },
+        { "vi": "Mình không kịp hạn chót. Mình bỏ bớt cái gì?", "when_to_use_vi": "Tin xấu kèm một quyết định cần ra. Tốt hơn nhiều so với chỉ có tin xấu." },
+        { "vi": "Việc này chuyển sang sprint sau, nếu được.", "when_to_use_vi": "Bình thường và không gây tranh cãi, khi nói đúng lúc." },
+        { "vi": "Cái này gấp hay để đến mai cũng kịp?", "when_to_use_vi": "Hãy hỏi trước khi bỏ việc đang làm. Thường là để mai cũng được." },
+        { "vi": "Tôi sẽ nhắn nếu tình hình thay đổi.", "when_to_use_vi": "Đóng lại một bản báo cáo và gỡ gánh theo dõi khỏi người kia." },
+        { "vi": "Chúng tôi đúng tiến độ.", "when_to_use_vi": "Bốn chữ, và là điều duy nhất mọi người cần nghe." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Buổi standup 9:15",
+          "setting_vi": "Năm người, mười phút, đứng. Mỗi người ba câu.",
+          "note_vi": "Hãy để ý độ dài. Ai nói quá bốn câu là bị nhắc đi tiếp.",
+          "lines": [
+            { "vi": "Chào. Mình bắt đầu. Jussi, tình hình đang ở đâu?" },
+            { "vi": "Hôm qua tôi làm ticket 12 và 14, hôm nay tôi bắt đầu kiểm thử. Không có vật cản nào.", "note_vi": "Hôm qua, hôm nay, vật cản. Đúng định dạng trọn vẹn." },
+            { "vi": "Tốt. Duc?" },
+            { "vi": "Hôm qua tôi làm tài liệu, hôm nay tôi tiếp tục phần tích hợp. Tôi đang tắc ở một chỗ." },
+            { "vi": "Chỗ nào?" },
+            { "vi": "Tôi cần Jussi gửi tài khoản kiểm thử trước khi tôi đi tiếp được.", "note_vi": "Nêu tên người và thứ cần. Điểm nghẽn được gỡ ngay câu sau." },
+            { "vi": "Tôi gửi cho bạn ngay sau cuộc này." },
+            { "vi": "Cảm ơn. Và một việc nữa: tôi nói luôn bây giờ để nó không thành chuyện bất ngờ — phần tích hợp sẽ trễ khoảng một tuần.", "note_vi": "Nói vào thứ Ba, không phải hôm hạn chót. Đây là toàn bộ bài học." },
+            { "vi": "Rõ rồi. Cảm ơn bạn đã nói đúng lúc. Nó có ảnh hưởng đến đợt phát hành không?" },
+            { "vi": "Không, nếu mình bỏ cái màn hình báo cáo đó. Còn không thì có.", "note_vi": "Tin xấu kèm một quyết định mà cả phòng thật sự ra được." },
+            { "vi": "Bỏ nó đi. Nó chuyển sang sprint sau." },
+            { "vi": "Tốt. Tôi sẽ nhắn nếu tình hình thay đổi." }
+          ]
+        },
+        {
+          "title_vi": "Nói với quản lý trước hai tuần",
+          "setting_vi": "Một hành lang, thứ Ba. Duc vừa nhận ra hạn chót sẽ không giữ được.",
+          "note_vi": "Ba mươi giây, và cả vấn đề trở thành việc của người khác cùng giải với bạn, chứ không phải việc của bạn để che.",
+          "lines": [
+            { "vi": "Này Anni, bạn có hai phút không?" },
+            { "vi": "Có, bạn nói đi." },
+            { "vi": "Tôi nói luôn bây giờ để nó không thành chuyện bất ngờ. Mình không kịp hạn chót ngày mùng ba." },
+            { "vi": "Được. Trễ bao nhiêu?" },
+            { "vi": "Khoảng một tuần. Lý do là môi trường kiểm thử sập bốn ngày.", "note_vi": "Một con số và một nguyên nhân. Không xin lỗi, không kể chuyện dài." },
+            { "vi": "Rõ rồi. Hai lựa chọn: dịch hạn chót hoặc bỏ bớt cái gì. Bạn khuyên thế nào?" },
+            { "vi": "Tôi sẽ bỏ cái màn hình báo cáo đó. Khách hàng chưa cần nó trước tháng Hai." },
+            { "vi": "Lý lẽ tốt. Mình làm thế. Hôm nay tôi nói với khách hàng." },
+            { "vi": "Cảm ơn. Tôi đã lo chuyện phải nói ra điều này." },
+            { "vi": "Lo vô ích. Một sự chậm trễ được báo đúng lúc là một dự án. Báo đúng hôm hạn chót thì là một vấn đề.", "note_vi": "Đáng học thuộc. Đó đúng là cách nhìn ở đây." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Báo cáo tình hình và nêu sự chậm trễ",
+          "scenario_vi": "Trả lời standup ba phần, nêu một điểm nghẽn, và báo một sự chậm trễ trước khi ai hỏi.",
+          "your_role_vi": "Bạn, trong buổi standup hằng ngày",
+          "partner_role_vi": "Anni, người điều phối",
+          "turns": [
+            { "vi": "Mình bắt đầu. Tình hình đang ở đâu?" },
+            { "vi": "Hôm qua tôi làm tài liệu, hôm nay tôi tiếp tục phần tích hợp.", "hint_vi": "Hôm qua, hôm nay, rồi vật cản. Ba câu là toàn bộ định dạng." },
+            { "vi": "Có vật cản nào không?" },
+            { "vi": "Có, tôi đang tắc ở một chỗ.", "hint_vi": "Nói ngay ngày đầu. Âm thầm vật lộn chẳng gây ấn tượng với ai ở đây." },
+            { "vi": "Chỗ nào?" },
+            { "vi": "Tôi cần Jussi gửi tài khoản kiểm thử trước khi tôi đi tiếp được.", "hint_vi": "Nêu tên người và thứ cần. Đó là cách nó được gỡ." },
+            { "vi": "Jussi sẽ lo việc đó. Còn gì nữa không?" },
+            { "vi": "Tôi nói luôn bây giờ để nó không thành chuyện bất ngờ: phần tích hợp sẽ trễ khoảng một tuần.", "hint_vi": "Câu dẫn trước, rồi con số. Đừng bao giờ nói «hơi trễ»." },
+            { "vi": "Cảm ơn bạn đã nói đúng lúc. Nó có ảnh hưởng đến đợt phát hành không?" },
+            { "vi": "Không, nếu mình bỏ cái màn hình báo cáo. Bạn thấy thế nào?", "hint_vi": "Tin xấu kèm một quyết định cả phòng ra được. Luôn đi đôi." },
+            { "vi": "Bỏ đi. Tốt." },
+            { "vi": "Rõ rồi. Tôi sẽ nhắn nếu tình hình thay đổi.", "hint_vi": "Câu kết. Nó gỡ gánh theo dõi khỏi người quản lý của bạn." }
+          ]
+        }
+      ]
+    },
+    "asking-for-a-raise": {
+      "lesson": {
+        "title_vi": "Lương, phúc lợi và xin tăng lương",
+        "subtitle_vi": "Mä haluisin puhua palkasta.",
+        "warmup_situation_vi": "Trách nhiệm của bạn đã tăng suốt hai năm và lương thì không nhích. Không ai nhắc đến chuyện đó, và việc đi hỏi cảm giác như điều bạn không nên làm — nhất là trong một văn hoá kín tiếng thế này.",
+        "warmup_question_vi": "Ở Phần Lan thì nêu chuyện lương khi nào và thế nào — và điều gì làm câu trả lời thành «có»?",
+        "rescue_vi": "Tôi muốn nói về lương. Lúc nào thì tiện?",
+        "rescue_note_vi": "Xin một buổi trao đổi thay vì xông vào nói ngay là nước đi hiệu quả ở đây. Việc đó hoàn toàn bình thường, không ai thấy bị xúc phạm, và nó cho phép người quản lý đến với sự chuẩn bị cùng các con số ngân sách trước mắt — điều làm một câu «có» dễ xảy ra hơn nhiều so với một cuộc tấn công bất ngờ."
+      },
+      "vocab": [
+        { "vi": "lương" },
+        { "vi": "lương tháng", "note_vi": "Ở Phần Lan người ta nói lương gộp theo tháng, không theo năm. Luôn báo theo tháng." },
+        { "vi": "lương gộp" },
+        { "vi": "lương thực nhận", "note_vi": "Khi đàm phán hãy nói lương gộp; lương thực nhận thay đổi theo thẻ thuế của bạn." },
+        { "vi": "việc tăng lương" },
+        { "vi": "mức tăng" },
+        { "vi": "buổi trao đổi về lương", "note_vi": "Thường là một buổi riêng, khác kehityskeskustelu. Hãy hỏi đó là buổi nào." },
+        { "vi": "thoả ước lao động tập thể", "note_vi": "TES. Nó đặt mức tối thiểu cho ngành của bạn và thường có mức tăng chung hằng năm." },
+        { "vi": "thoả ước tập thể (nói tắt)" },
+        { "vi": "mức lương" },
+        { "vi": "mức thị trường", "note_vi": "Kiểm tra nó là điều được mong đợi, không phải xấc. Các nghiệp đoàn công bố khảo sát lương." },
+        { "vi": "khoảng lương" },
+        { "vi": "lý lẽ, luận cứ", "note_vi": "Thứ quyết định câu trả lời. Hãy mang theo hai hoặc ba cái." },
+        { "vi": "lập luận, biện giải" },
+        { "vi": "trách nhiệm tăng thêm", "note_vi": "Luận cứ mạnh nhất có thể. Hãy nêu bạn đã nhận thêm gì và từ khi nào." },
+        { "vi": "phúc lợi" },
+        { "vi": "phúc lợi bữa trưa" },
+        { "vi": "phúc lợi thể thao", "note_vi": "Thường là ePassi hoặc Edenred. Đáng hỏi nếu lương bị đóng băng." },
+        { "vi": "phúc lợi điện thoại" },
+        { "vi": "xe đạp công ty", "note_vi": "Giờ rất phổ biến, và được ưu đãi thuế." },
+        { "vi": "thưởng" },
+        { "vi": "thưởng theo kết quả" },
+        { "vi": "khoản trả một lần", "note_vi": "Đôi khi là câu trả lời khi ngân sách lương đã chốt." },
+        { "vi": "ngân sách" },
+        { "vi": "năm tài chính", "note_vi": "Hãy hỏi nó đổi khi nào. Hẹn lời xin của bạn theo nó thật sự có tác dụng." },
+        { "vi": "ngày trả lương" },
+        { "vi": "lúc tiện, thời điểm phù hợp" },
+        { "vi": "thực tế, khả thi", "note_vi": "«Onks se realistinen?» là một câu hỏi công bằng và hữu ích." },
+        { "vi": "mình xem lại nhé", "note_vi": "Điều cần lấy được nếu câu trả lời là không. Hãy gắn một mốc ngày vào." }
+      ],
+      "phrases": [
+        { "vi": "Tôi muốn nói về lương. Lúc nào thì tiện?", "when_to_use_vi": "Hãy xin buổi gặp trước. Nó cho bạn một người quản lý có chuẩn bị thay vì một người phòng vệ." },
+        { "vi": "Trách nhiệm của tôi đã tăng, nhưng lương không thay đổi trong hai năm.", "when_to_use_vi": "Một câu nêu thực tế, không phải một lời khiếu nại. Đây là cách đóng khung mạnh nhất." },
+        { "vi": "Giờ tôi dẫn hai dự án, trước đây tôi dẫn một.", "when_to_use_vi": "Trước và sau, cụ thể. Một câu như thế hơn cả một đoạn nói về cảm xúc." },
+        { "vi": "Tôi đã kiểm tra mức thị trường trong ngành của mình.", "when_to_use_vi": "Ở đây đó là bài tập được mong đợi, không phải xấc. Khảo sát lương của nghiệp đoàn là công khai." },
+        { "vi": "Tôi muốn thêm 300 euro một tháng.", "when_to_use_vi": "Hãy nêu một con số. Lời xin mơ hồ nhận câu trả lời mơ hồ, hoặc không có gì." },
+        { "vi": "Điều đó có khả thi không?", "when_to_use_vi": "Mời một câu trả lời thật thà thay cho một câu lịch sự vòng vo." },
+        { "vi": "Tôi nên làm gì để việc đó thành?", "when_to_use_vi": "Biến một câu «không» thành một kế hoạch. Câu hỏi tiếp theo hữu ích nhất." },
+        { "vi": "Nếu bây giờ không được thì khi nào mình xem lại chuyện này?", "when_to_use_vi": "Đừng bao giờ ra khỏi phòng mà không có một mốc ngày. «Sau này» không phải mốc ngày." },
+        { "vi": "Nếu lương không nhích được thì có phúc lợi nào khác không?", "when_to_use_vi": "Phúc lợi thường đến từ một ngân sách khác với lương. Thật sự đáng hỏi." },
+        { "vi": "Năm tài chính của các bạn đổi khi nào?", "when_to_use_vi": "Hẹn lời xin theo chu kỳ ngân sách là nửa phần thắng." },
+        { "vi": "Mình ghi lại cái này được không?", "when_to_use_vi": "Một lời hứa bằng miệng về mùa xuân tới sống sót tốt hơn khi được viết ra." },
+        { "vi": "Cảm ơn bạn đã xem xét chuyện này. Tôi sẽ suy nghĩ và quay lại.", "when_to_use_vi": "Một cách kết gọn gàng, để cửa mở hoàn toàn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Xin, kèm lý lẽ",
+          "setting_vi": "Một buổi gặp hai mươi phút do chính Duc đặt, tiêu đề «palkkakeskustelu».",
+          "note_vi": "Dữ kiện, một con số, và một câu hỏi. Trong cả đoạn hội thoại này không có nỗ lực thuyết phục nào.",
+          "lines": [
+            { "vi": "Nào, bạn muốn nói về lương." },
+            { "vi": "Vâng, cảm ơn bạn đã dành thời gian. Trách nhiệm của tôi đã tăng, nhưng lương không thay đổi trong hai năm.", "note_vi": "Mở đầu bằng dữ kiện, không bằng lời xin lỗi hay cảm xúc." },
+            { "vi": "Kể rõ hơn đi, cái gì đã thay đổi." },
+            { "vi": "Giờ tôi dẫn hai dự án, trước đây tôi dẫn một. Và tôi đã hướng dẫn hai người mới." },
+            { "vi": "Đúng, cả hai điều đó đều đúng. Bạn mong muốn gì?" },
+            { "vi": "Tôi muốn thêm 300 euro một tháng. Tôi đã kiểm tra mức thị trường trong ngành của mình.", "note_vi": "Một con số và phần bài tập phía sau nó. Cả hai đều được mong đợi ở đây." },
+            { "vi": "Tốt là bạn đã kiểm tra. Bạn có con số nào để so chiếu không?" },
+            { "vi": "Có, khảo sát lương của nghiệp đoàn. Mức của tôi thấp hơn trung vị khoảng 200–400 euro." },
+            { "vi": "Rõ rồi. 300 thì chưa được ngay, nhưng 150 thì được từ tháng sau." },
+            { "vi": "Cảm ơn. Và nếu tôi nhận dự án khách hàng đó thì mùa xuân mình xem phần còn lại nhé?" },
+            { "vi": "Mình thống nhất thế. Tôi ghi lại là tháng Tư mình xem lại chuyện này." },
+            { "vi": "Tốt. Cảm ơn bạn đã xem xét chuyện này." }
+          ]
+        },
+        {
+          "title_vi": "Nghe một câu không, và ra về với một mốc ngày",
+          "setting_vi": "Kết cục còn lại. Ngân sách đã chốt và câu trả lời là không.",
+          "note_vi": "Ba câu hỏi biến một câu không thành một kế hoạch: cần làm gì, khi nào xem lại, và còn gì khác khả thi.",
+          "lines": [
+            { "vi": "Tôi đồng ý với lý lẽ của bạn, nhưng ngân sách năm nay đã chốt." },
+            { "vi": "Rõ rồi. Tôi nên làm gì để năm sau việc đó thành?", "note_vi": "Câu hỏi thứ nhất. Nó biến một câu không thành một lối đi." },
+            { "vi": "Hãy nhận phần trách nhiệm khách hàng đó và làm nó xong. Có thế thì tôi mới biện giải được lên trên." },
+            { "vi": "Nhất trí. Khi nào mình xem lại chuyện này?", "note_vi": "Câu hỏi thứ hai. Đừng bao giờ ra về mà không có mốc ngày." },
+            { "vi": "Năm tài chính đổi vào tháng Ba. Mình xem vào tháng Tư." },
+            { "vi": "Tốt. Nếu lương không nhích được thì bây giờ có phúc lợi nào khác không?", "note_vi": "Câu hỏi thứ ba. Phúc lợi thường đến từ một ngân sách khác." },
+            { "vi": "Câu hỏi hay. Phúc lợi thể thao và xe đạp công ty thì được, mấy cái đó từ ngân sách khác." },
+            { "vi": "Mình lấy mấy cái đó. Và mình ghi cái mốc tháng Tư lại được không?" },
+            { "vi": "Tôi đưa vào lịch ngay bây giờ. Tốt là bạn đã nêu chuyện này." },
+            { "vi": "Cảm ơn. Tôi sẽ suy nghĩ và quay lại chuyện này vào mùa xuân.", "note_vi": "Một câu không kèm một mốc ngày và hai phúc lợi là một cuộc trao đổi thành công, không phải thất bại." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nêu lý lẽ, đưa con số, lấy một mốc ngày",
+          "scenario_vi": "Mở đầu bằng dữ kiện, đưa một con số, và nếu câu trả lời là không thì ra về với một kế hoạch và một mốc ngày.",
+          "your_role_vi": "Bạn, trong buổi trao đổi về lương",
+          "partner_role_vi": "Anni, quản lý của bạn",
+          "turns": [
+            { "vi": "Nào, bạn muốn nói về lương." },
+            { "vi": "Vâng. Trách nhiệm của tôi đã tăng, nhưng lương không thay đổi trong hai năm.", "hint_vi": "Mở đầu bằng dữ kiện. Không rào xin lỗi phía trước." },
+            { "vi": "Kể rõ hơn đi, cái gì đã thay đổi." },
+            { "vi": "Giờ tôi dẫn hai dự án, trước đây tôi dẫn một.", "hint_vi": "Trước và sau, cụ thể. Một câu là đủ." },
+            { "vi": "Đúng. Bạn mong muốn gì?" },
+            { "vi": "Tôi muốn thêm 300 euro một tháng. Tôi đã kiểm tra mức thị trường.", "hint_vi": "Một con số và phần bài tập. Cả hai đều được mong đợi, chẳng cái nào là xấc." },
+            { "vi": "Tôi đồng ý, nhưng ngân sách năm nay đã chốt." },
+            { "vi": "Tôi nên làm gì để năm sau việc đó thành?", "hint_vi": "Biến câu không thành một lối đi. Hãy hỏi ngay, không để lộ sự thất vọng." },
+            { "vi": "Hãy nhận phần trách nhiệm khách hàng đó và làm nó xong." },
+            { "vi": "Nhất trí. Khi nào mình xem lại chuyện này?", "hint_vi": "Đừng bao giờ ra về mà không có mốc ngày. «Sau này» không phải mốc ngày." },
+            { "vi": "Tháng Tư, khi năm tài chính đã đổi." },
+            { "vi": "Tốt. Nếu lương không nhích được thì bây giờ có phúc lợi nào khác không?", "hint_vi": "Phúc lợi thường từ ngân sách khác. Đây là chỗ bạn thắng được điều gì đó ngay hôm nay." }
+          ]
+        }
+      ]
+    },
+    "time-off-and-flexitime": {
+      "lesson": {
+        "title_vi": "Nghỉ phép, giờ linh hoạt và ngày ốm",
+        "subtitle_vi": "Mä oon ens viikolla lomalla. Mä teen huomenna etänä.",
+        "warmup_situation_vi": "7:40 sáng, bạn đang sốt, và bạn không biết phải nói với ai, qua kênh nào, hay liệu một ngày nghỉ có cần giấy bác sĩ hay không.",
+        "warmup_question_vi": "Bạn nói với ai, phải giải thích ít đến mức nào — và liukumasaldo là cái gì?",
+        "rescue_vi": "Tôi bị ốm, hôm nay tôi không đến. Tôi sẽ tự khai báo.",
+        "rescue_note_vi": "Đó là toàn bộ tin nhắn. Phần lớn nơi làm việc ở Phần Lan cho phép tự khai báo (omailmoitus) từ một đến ba ngày mà không cần giấy bác sĩ, và không ai mong bạn kể triệu chứng. Hãy gửi cho quản lý và kênh của đội trước khi ngày làm việc bắt đầu, rồi thôi xin lỗi."
+      },
+      "vocab": [
+        { "vi": "nghỉ phép hằng năm", "note_vi": "Tích luỹ theo tháng. Phần lớn người ta được 2–2,5 ngày cho mỗi tháng làm việc." },
+        { "vi": "ngày phép" },
+        { "vi": "nghỉ hè", "note_vi": "Thường 3–4 tuần liền trong tháng Bảy. Phần lớn cả nước ngừng lại." },
+        { "vi": "nghỉ đông" },
+        { "vi": "đề nghị thời gian nghỉ", "note_vi": "Được hỏi vào mùa xuân, thường tháng Hai hoặc tháng Ba. Hãy đăng ký sớm." },
+        { "vi": "ngày nghỉ bù (pekkanen)", "note_vi": "Ngày giảm giờ làm trong một số thoả ước tập thể. Hãy hỏi xem bạn có không." },
+        { "vi": "giờ làm linh hoạt", "note_vi": "Bắt đầu giữa 7 và 9 giờ, về khi đủ giờ. Rất phổ biến." },
+        { "vi": "số dư giờ linh hoạt", "note_vi": "Số giờ dư hoặc thiếu của bạn. Số dư dương có thể đổi thành một ngày nghỉ." },
+        { "vi": "ngày nghỉ lấy từ số dư giờ" },
+        { "vi": "giờ làm việc linh hoạt" },
+        { "vi": "làm việc từ xa" },
+        { "vi": "một ngày làm từ xa", "note_vi": "«Mä teen huomenna etänä» ở phần lớn nơi không cần xin phép — chỉ cần thông báo." },
+        { "vi": "một ngày lên công ty" },
+        { "vi": "làm thêm giờ", "note_vi": "Thường phải được thống nhất trước mới được trả. Hãy hỏi trước khi ở lại muộn." },
+        { "vi": "tiền làm thêm giờ" },
+        { "vi": "ghi nhận giờ làm" },
+        { "vi": "nghỉ ốm" },
+        { "vi": "tự khai báo nghỉ ốm", "note_vi": "Thứ giúp bạn khỏi phải đi khám. Thường áp dụng cho 1–3 ngày." },
+        { "vi": "giấy nghỉ bệnh của bác sĩ", "note_vi": "Phần lớn nơi cần từ ngày thứ 4. Hãy xem quy định của chỗ bạn." },
+        { "vi": "tôi bị ốm" },
+        { "vi": "con tôi bị ốm", "note_vi": "Ở phần lớn thoả ước thì bạn được nghỉ có lương — thường tối đa bốn ngày." },
+        { "vi": "nghỉ chăm con tạm thời", "note_vi": "Tên chính thức của việc ở nhà với con dưới mười tuổi bị ốm." },
+        { "vi": "nghỉ thai sản, nghỉ của cha mẹ" },
+        { "vi": "ngày nghỉ" },
+        { "vi": "vắng, không có mặt" },
+        { "vi": "có mặt" },
+        { "vi": "người thay thế, người trực hộ", "note_vi": "Hãy nêu tên trước khi bạn đi. Đó là phép lịch sự quan trọng nhất ở đây." },
+        { "vi": "liên lạc được", "note_vi": "«Mä en oo tavoitettavissa» khi đi phép là hoàn toàn bình thường và được tôn trọng." },
+        { "vi": "ghi vào lịch", "note_vi": "Hệ thống thông báo thật sự ở phần lớn các đội. Hãy làm việc này, bên cạnh việc nói với mọi người." }
+      ],
+      "phrases": [
+        { "vi": "Tuần sau tôi đi phép.", "when_to_use_vi": "Một câu thông báo, không phải lời xin, khi phép đã được duyệt." },
+        { "vi": "Tôi muốn nghỉ tháng Bảy, ba tuần.", "when_to_use_vi": "Hãy nói tháng và độ dài. Được hỏi vào mùa xuân, nên hãy sớm." },
+        { "vi": "Tôi lấy thứ Sáu làm ngày nghỉ từ số dư giờ.", "when_to_use_vi": "Cách dùng giờ linh hoạt hằng ngày. Thường chỉ cần thông báo." },
+        { "vi": "Số dư giờ linh hoạt của tôi đang dương mười hai tiếng.", "when_to_use_vi": "Đáng theo dõi. Số dư dương lớn là tiền hoặc ngày nghỉ bạn đã kiếm được." },
+        { "vi": "Mai tôi làm từ xa.", "when_to_use_vi": "Thông báo, không phải xin phép, ở phần lớn nơi làm việc Phần Lan." },
+        { "vi": "Tôi bị ốm, hôm nay tôi không đến.", "when_to_use_vi": "Toàn bộ tin nhắn. Không cần triệu chứng, không cần xin lỗi." },
+        { "vi": "Tôi sẽ tự khai báo cho ba ngày.", "when_to_use_vi": "Hãy xem giới hạn của bạn rồi dùng nó. Nó tồn tại để bạn không chiếm chỗ hẹn của bác sĩ." },
+        { "vi": "Con tôi bị ốm, hôm nay tôi ở nhà.", "when_to_use_vi": "Được chấp nhận không cần bàn. Thường có lương, tới vài ngày." },
+        { "vi": "Tôi thông báo cho ai?", "when_to_use_vi": "Hãy hỏi trong tuần đầu, trước khi bạn cần nó vào 7:40 một buổi sáng." },
+        { "vi": "Jussi là người trực hộ tôi.", "when_to_use_vi": "Hãy nêu người trực hộ trước khi đi. Đó là phép lịch sự đáng kể nhất." },
+        { "vi": "Khi đi phép tôi không liên lạc được.", "when_to_use_vi": "Hoàn toàn bình thường khi nói ở đây, và được tôn trọng. Không ai thử bạn." },
+        { "vi": "Tôi sẽ ghi nó vào lịch.", "when_to_use_vi": "Hệ thống thông báo thật sự. Hãy nói và rồi làm thật." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Nghỉ hè và một ngày nghỉ từ số dư giờ",
+          "setting_vi": "Tháng Ba. Anni đang thu các đề nghị nghỉ phép cho tháng Bảy.",
+          "note_vi": "Tháng, độ dài, người trực hộ. Ba mẩu thông tin và cuộc trò chuyện kết thúc.",
+          "lines": [
+            { "vi": "Chào! Tôi đang thu các đề nghị nghỉ phép. Đề nghị của bạn là gì?" },
+            { "vi": "Tháng Bảy, ba tuần. Tốt nhất là các tuần 28–30.", "note_vi": "Người Phần Lan lên kế hoạch theo số tuần. Hãy học số tuần của mình; nó xuất hiện liên tục." },
+            { "vi": "Thế thì ổn, lúc đó Jussi có mặt. Ai lo khách hàng của bạn?" },
+            { "vi": "Jussi, nếu anh ấy thấy ổn. Tôi sẽ trao đổi mọi việc với anh ấy trước khi đi phép." },
+            { "vi": "Tốt. Khi đi phép bạn có liên lạc được không?" },
+            { "vi": "Không. Tôi sẽ ở Việt Nam.", "note_vi": "Một câu trả lời trọn vẹn và hoàn toàn chấp nhận được. Không có lời biện giải nào theo sau." },
+            { "vi": "Rõ rồi, cũng không cần. Tôi ghi nó vào lịch." },
+            { "vi": "Cảm ơn. Và một việc nữa: tôi lấy thứ Sáu làm ngày nghỉ từ số dư giờ." },
+            { "vi": "Ừ, được. Bạn có bao nhiêu số dư?" },
+            { "vi": "Dương mười hai tiếng. Việc này tốn tám tiếng." },
+            { "vi": "Tốt là bạn theo dõi nó. Nhiều người không theo dõi, rồi cuối năm số dư bị xoá về không.", "note_vi": "Lời cảnh báo thật sự hữu ích. Hãy xem quy định về số dư của riêng bạn." },
+            { "vi": "Ồ, may mà biết. Tôi sẽ nghỉ hết mấy giờ đó trước Giáng sinh." }
+          ]
+        },
+        {
+          "title_vi": "7:40 sáng",
+          "setting_vi": "Duc đang sốt. Một tin cho Anni, một tin cho kênh của đội.",
+          "note_vi": "Bốn câu và xong việc. Không triệu chứng, không xin lỗi, và có nêu tên người trực hộ cho một việc gấp.",
+          "lines": [
+            { "vi": "Chào Anni. Tôi bị ốm, hôm nay tôi không đến. Tôi sẽ tự khai báo." },
+            { "vi": "Rõ rồi, chóng khoẻ nhé. Tự khai báo dùng được tới ba ngày." },
+            { "vi": "Cảm ơn. Hôm nay tôi có cuộc họp khách hàng lúc hai giờ." },
+            { "vi": "Tôi sẽ dịch nó. Bây giờ đừng nghĩ đến công việc." },
+            { "vi": "Jussi biết tình hình dự án đó, nếu có ai hỏi.", "note_vi": "Một câu chuyển giao. Đó là toàn bộ nghĩa vụ nghề nghiệp." },
+            { "vi": "Tốt. Mai nhắn cho tôi biết bạn thế nào." },
+            { "vi": "Vâng. Và nếu quá ba ngày thì tôi sẽ đặt hẹn bác sĩ." },
+            { "vi": "Đúng thế, lúc đó thì cần giấy. Khoa y tế lao động sẽ lo việc đó." },
+            { "vi": "Rõ rồi. Xin lỗi vì chuyện này đến đột ngột quá —" },
+            { "vi": "Không cần xin lỗi. Ai cũng có lúc ốm. Chóng khoẻ nhé.", "note_vi": "Lời xin lỗi là thứ duy nhất không cần thiết trong cả đoạn trao đổi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đăng ký nghỉ phép, lấy ngày nghỉ từ số dư, báo ốm",
+          "scenario_vi": "Nêu đề nghị nghỉ phép kèm người trực hộ, lấy một ngày saldovapaa, và báo ốm trong một câu.",
+          "your_role_vi": "Bạn, đang tự lo thời gian của mình",
+          "partner_role_vi": "Anni, quản lý của bạn",
+          "turns": [
+            { "vi": "Tôi đang thu các đề nghị nghỉ phép. Đề nghị của bạn là gì?" },
+            { "vi": "Tháng Bảy, ba tuần. Tốt nhất là các tuần 28–30.", "hint_vi": "Tháng, độ dài, số tuần. Người Phần Lan lên kế hoạch theo số tuần." },
+            { "vi": "Thế thì ổn. Ai lo khách hàng của bạn?" },
+            { "vi": "Jussi là người trực hộ tôi. Tôi sẽ trao đổi mọi việc với anh ấy trước.", "hint_vi": "Nêu tên người trực hộ là phép lịch sự quan trọng nhất ở đây." },
+            { "vi": "Tốt. Bạn có liên lạc được không?" },
+            { "vi": "Không. Khi đi phép tôi không liên lạc được.", "hint_vi": "Một câu trả lời trọn vẹn. Sau nó không cần biện giải gì." },
+            { "vi": "Rõ rồi, cũng không cần. Còn gì nữa không?" },
+            { "vi": "Tôi lấy thứ Sáu làm ngày nghỉ từ số dư giờ. Số dư của tôi đang dương.", "hint_vi": "Hãy theo dõi số dư. Phần dư không dùng thường bị xoá về không cuối năm." },
+            { "vi": "Ừ, được. Ghi nó vào lịch nhé." },
+            { "vi": "Tôi sẽ ghi. Và mai tôi làm từ xa.", "hint_vi": "Thông báo, không phải xin phép. Hãy nói thẳng." },
+            { "vi": "Tốt. Gặp bạn thứ Năm." },
+            { "vi": "Này, một việc nữa — tôi bị ốm, hôm nay tôi không đến. Tôi sẽ tự khai báo.", "hint_vi": "Toàn bộ tin nhắn. Không triệu chứng, không xin lỗi." }
+          ]
+        }
+      ]
+    }
+  }
+}

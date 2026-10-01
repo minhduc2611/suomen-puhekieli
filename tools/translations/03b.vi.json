@@ -1,0 +1,328 @@
+{
+  "lessons": {
+    "chatting-with-parents": {
+      "lesson": {
+        "title_vi": "Trò chuyện với phụ huynh khác ở cổng trường",
+        "subtitle_vi": "Cuộc trò chuyện hai phút biến thành một tình bạn",
+        "warmup_situation_vi": "Ngày nào bạn cũng gặp đúng bốn phụ huynh đó. Bạn đã gật đầu với họ suốt tám tháng. Chưa ai nói với ai một lời nào.",
+        "warmup_question_vi": "Ai là người phải phá vỡ chuyện đó — và chủ đề nào làm việc ấy trở nên dễ dàng?",
+        "rescue_vi": "Con bạn là bé hay chơi với bé Eeva nhà mình, đúng không?",
+        "rescue_note_vi": "Câu mở đầu hoàn hảo giữa các phụ huynh nhà trẻ. Nó không phải chuyện phiếm về thời tiết — nó nói về đúng cái mà hai bên thật sự có chung, và cho họ một thứ cụ thể để trả lời. Phụ huynh Phần Lan ấm lên ngay lập tức khi nói về chuyện con mình chơi với nhau."
+      },
+      "vocab": [
+        { "vi": "bố mẹ, phụ huynh" },
+        { "vi": "mẹ / má" },
+        { "vi": "bố / ba" },
+        { "vi": "đứa trẻ" },
+        { "vi": "hai đứa con" },
+        { "vi": "con đầu lòng" },
+        { "vi": "con út", "note_vi": "Một từ ấm áp và thông dụng. «Meidän kuopus» = út nhà mình." },
+        { "vi": "anh chị em ruột" },
+        { "vi": "tuổi, ở độ tuổi", "note_vi": "«Minkä ikäinen sun lapsi on?» = con bạn mấy tuổi?" },
+        { "vi": "cùng tuổi" },
+        { "vi": "làm ca", "note_vi": "Giải thích rất nhiều lịch đón con. Chủ đề trò chuyện thường gặp." },
+        { "vi": "nghỉ phép chăm con" },
+        { "vi": "trợ cấp chăm con tại nhà", "note_vi": "Khoản trợ cấp khi giữ con ở nhà thay vì gửi nhà trẻ. Phụ huynh bàn chuyện này rất nhiều." },
+        { "vi": "hoạt động ngoại khoá, sở thích", "note_vi": "«Onks sillä harrastuksia?» — một câu hỏi chuẩn giữa các phụ huynh." },
+        { "vi": "lớp học bơi" },
+        { "vi": "bóng đá" },
+        { "vi": "trượt băng" },
+        { "vi": "làm cho mệt", "note_vi": "«Mua väsyttää» = tôi mệt. Cực kỳ đồng cảm với mọi phụ huynh." },
+        { "vi": "kiệt sức, vắt kiệt" },
+        { "vi": "cuộc sống thường nhật, nếp ngày thường", "note_vi": "Một khái niệm Phần Lan quan trọng. «Arki on rankkaa» = ngày thường vất vả lắm." },
+        { "vi": "những năm tất bật", "literal_vi": "những-năm-giờ-cao-điểm", "note_vi": "Những năm vừa con nhỏ vừa sự nghiệp. Nói ra là mọi phụ huynh Phần Lan gật đầu." },
+        { "vi": "vượt qua, sống sót" },
+        { "vi": "chơi cùng nhau" },
+        { "vi": "cùng một lớp" },
+        { "vi": "số điện thoại", "note_vi": "«Vaihdetaanko numerot?» = mình đổi số nhé? Bước tiến tới tình bạn." }
+      ],
+      "phrases": [
+        { "vi": "Con bạn học cùng lớp với bé Eeva nhà mình, đúng không?", "when_to_use_vi": "Câu mở đầu an toàn nhất có thể. Bạn đã biết câu trả lời rồi; đó chính là điểm hay." },
+        { "vi": "Hai đứa lúc nào cũng chơi với nhau.", "when_to_use_vi": "Làm ấm lòng mọi phụ huynh Phần Lan ngay lập tức. Cụ thể và nói về con họ." },
+        { "vi": "Con bạn mấy tuổi rồi?", "when_to_use_vi": "Câu hỏi tiếp theo chuẩn. Cách trả lời: «Se on nelivuotias.»" },
+        { "vi": "Nhà mình có hai đứa, ba tuổi và sáu tuổi.", "when_to_use_vi": "Chỉ cần tuổi thôi. Không ai cần nhiều hơn thế." },
+        { "vi": "Nhà bạn có anh chị em nào học ở đây không?", "when_to_use_vi": "Thực tế — nó giải thích lịch sinh hoạt của họ và của bạn." },
+        { "vi": "Nhà bạn gửi ở nhà trẻ này bao lâu rồi?", "when_to_use_vi": "Giúp bạn biết thông tin về nơi này, từ người đã biết rõ." },
+        { "vi": "Theo bạn thì nhà trẻ này có tốt không?", "when_to_use_vi": "Phụ huynh Phần Lan trả lời câu này rất thật và rất hữu ích." },
+        { "vi": "Tôi mệt kinh khủng luôn.", "when_to_use_vi": "Điểm chung phổ quát. Chắc chắn được đồng tình." },
+        { "vi": "Ừ, những năm tất bật mà.", "when_to_use_vi": "Một từ làm công việc của cả một đoạn văn. Phụ huynh Phần Lan nào cũng nhận ra." },
+        { "vi": "Bé có học thêm hoạt động gì không?", "when_to_use_vi": "Dẫn tự nhiên đến chuyện đi chung xe, hẹn chơi và sắp xếp lịch chung." },
+        { "vi": "Mình đổi số điện thoại nhé?", "when_to_use_vi": "Bước từ người quen sang có liên lạc thật. Đề nghị ra là hoàn toàn bình thường." },
+        { "vi": "Mai lại gặp nhau giờ này nhé!", "when_to_use_vi": "Khép lại cuộc trò chuyện và đặt hẹn cho lần sau." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Phá vỡ tám tháng im lặng",
+          "setting_vi": "Bên ngoài nhà trẻ, 16:15. Hai phụ huynh đã gật đầu chào nhau từ tháng Tám.",
+          "note_vi": "Duc mở đầu bằng thứ hai người có chung, không phải bằng thời tiết. Hiệu quả nhanh hơn nhiều.",
+          "lines": [
+            { "vi": "Chào bạn! Xin lỗi — con bạn học cùng lớp với bé Eeva nhà mình, đúng không?" },
+            { "vi": "Đúng rồi! Liisa. Hai đứa lúc nào cũng chơi với nhau." },
+            { "vi": "Mình cũng nghĩ vậy. Mình là Duc." },
+            { "vi": "Riikka. Rất vui được làm quen! Đáng lẽ mình phải nói từ lâu rồi." },
+            { "vi": "Haha, mình cũng thế. Nhà bạn gửi ở đây bao lâu rồi?" },
+            { "vi": "Hai năm. Liisa vào lúc hai tuổi." },
+            { "vi": "Ồ thế à. Theo bạn thì nhà trẻ này có tốt không?" },
+            { "vi": "Tốt lắm. Các cô rất dễ thương. Thỉnh thoảng lớp hơi đông quá." },
+            { "vi": "Ừ, mình cũng đang nghĩ vậy. Thôi, mình mệt kinh khủng luôn." },
+            { "vi": "Haha, mình cũng thế. Những năm tất bật mà." },
+            { "vi": "Đúng thế. Này, mình đổi số nhé? Hai đứa có thể sang nhà mình chơi lúc nào đó." },
+            { "vi": "Ừ, sẵn lòng! Mình nhắn cho bạn." }
+          ]
+        },
+        {
+          "title_vi": "Bản ba mươi giây hằng ngày",
+          "setting_vi": "Hai phụ huynh giờ đã quen nhau. Hai phút dưới trời mưa.",
+          "note_vi": "Đây là thứ nó trở thành sau khi tảng băng đã vỡ. Ngắn, ấm, lặp lại mỗi ngày.",
+          "lines": [
+            { "vi": "Chào Duc! Thời tiết tệ quá đi." },
+            { "vi": "Chào bạn! Đúng thế. Hôm nay Liisa ổn không?" },
+            { "vi": "Ổn, nhưng nó ngủ ba tiếng. Giờ tối nay lại không ngủ cho xem." },
+            { "vi": "Ôi không. Nhà mình cũng thế. Eeva cũng ngủ lâu." },
+            { "vi": "Thế là cả hai đứa mình đều có một buổi tối dài." },
+            { "vi": "Haha, đúng. Bạn có nhớ thứ Bảy có tiệc sinh nhật không?" },
+            { "vi": "Có chứ! Hai giờ đúng không?" },
+            { "vi": "Chuẩn. Vậy gặp ở đó nhé." },
+            { "vi": "Gặp sau nhé! Và chúc buổi tối tốt lành — chúc may mắn với tối nay!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Bắt chuyện với một phụ huynh lần đầu",
+          "scenario_vi": "Bạn đã gật đầu với người này nhiều tháng. Hãy tự giới thiệu bằng thứ hai bên có chung, và kết thúc bằng việc đổi số.",
+          "your_role_vi": "Bạn, cuối cùng cũng lên tiếng",
+          "partner_role_vi": "Riikka, một phụ huynh khác",
+          "turns": [
+            { "vi": "Chào bạn! Con bạn học cùng lớp với bé Eeva nhà mình, đúng không?", "hint_vi": "Mở đầu bằng thứ hai bên có chung, không phải bằng thời tiết." },
+            { "vi": "Đúng rồi! Liisa. Hai đứa lúc nào cũng chơi với nhau." },
+            { "vi": "Mình cũng nghĩ vậy. Mình là Duc.", "hint_vi": "Giờ mới nói tên — bạn đã xứng đáng với màn giới thiệu này." },
+            { "vi": "Riikka. Rất vui được làm quen!" },
+            { "vi": "Mình cũng vậy. Nhà bạn gửi ở nhà trẻ này bao lâu rồi?", "hint_vi": "Hỏi điều gì đó mang lại cho bạn thông tin hữu ích." },
+            { "vi": "Hai năm. Chỗ này tốt lắm." },
+            { "vi": "Nghe mừng quá. Thôi, mình mệt kinh khủng luôn.", "hint_vi": "Đưa ra điểm chung phổ quát của phụ huynh." },
+            { "vi": "Haha, mình cũng thế. Những năm tất bật!" },
+            { "vi": "Đúng thế. Này, mình đổi số nhé?", "hint_vi": "Hãy thật sự bước bước đó. Đề nghị ra là hoàn toàn bình thường." }
+          ]
+        }
+      ]
+    },
+    "the-parent-meeting": {
+      "lesson": {
+        "title_vi": "Buổi họp phụ huynh (vasukeskustelu)",
+        "subtitle_vi": "Mục tiêu, lo lắng, câu hỏi",
+        "warmup_situation_vi": "Bạn có một buổi họp 45 phút về sự phát triển của con mình. Có biểu mẫu. Có kế hoạch. Hoàn toàn bằng tiếng Phần Lan và bạn được kỳ vọng đóng góp, chứ không chỉ ngồi nghe.",
+        "warmup_question_vi": "Vasu là gì, và bạn thật sự phải nói gì trong buổi họp này?",
+        "rescue_vi": "Cô giải thích chỗ này đơn giản hơn một chút được không ạ?",
+        "rescue_note_vi": "Tiếng Phần Lan trong giáo dục đầy những từ ghép trừu tượng dài — varhaiskasvatussuunnitelma, vuorovaikutustaidot, itsesäätely. Xin nói đơn giản hơn là hoàn toàn hợp lý và giáo viên làm việc đó rất giỏi. Họ thà diễn đạt lại còn hơn để bạn gật đầu với điều bạn không theo kịp."
+      },
+      "vocab": [
+        { "vi": "kế hoạch giáo dục mầm non", "note_vi": "Bé nào cũng có một bản. «Vasu» là từ mà mọi người thật sự dùng." },
+        { "vi": "buổi trao đổi về vasu", "note_vi": "Cuộc họp thường niên nơi bạn và giáo viên cùng viết bản kế hoạch." },
+        { "vi": "cuộc trao đổi, thảo luận" },
+        { "vi": "buổi gặp, cuộc hẹn" },
+        { "vi": "kế hoạch" },
+        { "vi": "mục tiêu", "note_vi": "Trọng tâm của buổi họp. «Mikä on tavoite?» = mục tiêu là gì?" },
+        { "vi": "sự phát triển" },
+        { "vi": "điểm mạnh", "note_vi": "Họ luôn bắt đầu bằng những điều này. Giáo dục Phần Lan mở đầu bằng điểm mạnh." },
+        { "vi": "thách thức", "note_vi": "Từ tế nhị để chỉ một khó khăn. Hãy lắng nghe từ này." },
+        { "vi": "nỗi lo", "note_vi": "«Onks teillä huolta?» — câu cần hỏi, và cần trả lời thật lòng." },
+        { "vi": "sự tương tác", "note_vi": "Thuật ngữ giáo dục mà chắc chắn bạn sẽ nghe." },
+        { "vi": "kỹ năng xã hội" },
+        { "vi": "phát triển ngôn ngữ", "note_vi": "Trọng tâm với trẻ song ngữ. Hãy chuẩn bị cho một cuộc trao đổi dài về chủ đề này." },
+        { "vi": "song ngữ", "note_vi": "Nhà trẻ Phần Lan coi đây là lợi thế, không phải vấn đề. Họ sẽ nói vậy." },
+        { "vi": "tiếng mẹ đẻ", "note_vi": "Họ sẽ khuyến khích bạn tiếp tục nói tiếng đó ở nhà. Rất dứt khoát." },
+        { "vi": "hỗ trợ (động từ)" },
+        { "vi": "sự hỗ trợ", "note_vi": "«Tehostettu tuki» = hỗ trợ tăng cường. Một hạng mục chính thức, không phải lời phán xét." },
+        { "vi": "sự độc lập" },
+        { "vi": "khả năng tự làm", "note_vi": "Một giá trị lớn của Phần Lan: tự mặc quần áo, tự ăn, từ năm ba tuổi." },
+        { "vi": "kỹ năng chơi" },
+        { "vi": "khả năng tập trung" },
+        { "vi": "theo dõi" },
+        { "vi": "đánh giá" },
+        { "vi": "ghi lại, ghi chép" },
+        { "vi": "ký tên", "note_vi": "Bạn ký vào bản vasu ở cuối buổi. Đọc trước đã — bạn có quyền yêu cầu sửa." },
+        { "vi": "đơn giản hơn" }
+      ],
+      "phrases": [
+        { "vi": "Cô giải thích chỗ này đơn giản hơn được không ạ?", "when_to_use_vi": "Dùng cho mọi từ ghép dài hơn bốn âm tiết. Giáo viên sẵn lòng diễn đạt lại." },
+        { "vi": "«Vasu» thực ra nghĩa là gì ạ?", "when_to_use_vi": "Hỏi một lần là hết thắc mắc mãi mãi. Không ai mong bạn phải biết sẵn." },
+        { "vi": "Mục tiêu của năm nay là gì ạ?", "when_to_use_vi": "Câu hỏi trung tâm của buổi họp. Hãy hỏi sớm." },
+        { "vi": "Cô có lo lắng gì không ạ?", "when_to_use_vi": "Hỏi thẳng. Giáo viên rất tế nhị và có thể không tự nêu ra." },
+        { "vi": "Tôi có suy nghĩ về một chuyện.", "when_to_use_vi": "Câu mở đầu để nêu nỗi lo của riêng bạn. Nhẹ hơn là nói thẳng vào." },
+        { "vi": "Tiếng Phần Lan của bé phát triển thế nào ạ?", "when_to_use_vi": "Câu hỏi mà mọi phụ huynh nhập cư đều muốn có câu trả lời. Cứ hỏi thẳng." },
+        { "vi": "Ở nhà chúng tôi nói tiếng Việt.", "when_to_use_vi": "Hãy nói ra. Gần như chắc chắn họ sẽ khuyến khích bạn tiếp tục." },
+        { "vi": "Chúng tôi có nên nói tiếng Phần Lan ở nhà không ạ?", "when_to_use_vi": "Câu trả lời từ các nhà giáo dục Phần Lan luôn nhất quán là không — hãy giữ cho tiếng mẹ đẻ thật vững." },
+        { "vi": "Ở nhà chúng tôi có thể làm gì ạ?", "when_to_use_vi": "Biến bản kế hoạch thành điều có thể hành động. Giáo viên rất thích câu hỏi này." },
+        { "vi": "Tôi xin bản này bằng văn bản được không ạ?", "when_to_use_vi": "Hoàn toàn hợp lý, và giúp bạn đọc thong thả sau đó." },
+        { "vi": "Tôi muốn đọc bản này trước khi ký.", "when_to_use_vi": "Đó là quyền của bạn. Cứ thong thả. Nếu có gì sai thì yêu cầu sửa." },
+        { "vi": "Lần sau mình gặp nhau khi nào ạ?", "when_to_use_vi": "Thường là một hoặc hai lần một năm, cộng với bất cứ lúc nào bạn yêu cầu." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Buổi vasukeskustelu",
+          "setting_vi": "Một phòng nhỏ, hai cái ghế, một tờ biểu mẫu trên bàn. 45 phút.",
+          "note_vi": "Duc đóng góp chứ không chỉ ngồi nghe. Buổi họp sinh ra là để làm việc đó.",
+          "lines": [
+            { "vi": "Mời anh vào! Anh ngồi đi ạ. Hôm nay mình làm bản vasu của Eeva." },
+            { "vi": "Cảm ơn cô. Xin lỗi — «vasu» thực ra nghĩa là gì ạ?" },
+            { "vi": "Câu hỏi hay đấy ạ! Đó là kế hoạch giáo dục mầm non. Tức là kế hoạch về những gì bọn em sẽ hỗ trợ trong năm nay." },
+            { "vi": "À, vâng. Giờ thì tôi hiểu rồi." },
+            { "vi": "Mình bắt đầu từ điểm mạnh nhé. Eeva rất hoà đồng và chơi tốt với tất cả các bạn." },
+            { "vi": "Nghe mừng quá. Thế tiếng Phần Lan của bé phát triển thế nào ạ?" },
+            { "vi": "Rất tốt ạ. Bé hiểu hết mọi thứ, và giờ nói nhiều hơn hồi mùa thu rất nhiều." },
+            { "vi": "Tốt quá. Ở nhà chúng tôi nói tiếng Việt — chúng tôi có nên chuyển sang tiếng Phần Lan không ạ?" },
+            { "vi": "Không, tuyệt đối không. Anh chị cứ nói tiếng Việt. Tiếng mẹ đẻ vững giúp ích cho việc học tiếng Phần Lan." },
+            { "vi": "Biết vậy tốt quá. Cảm ơn cô. Cô có lo lắng gì không ạ?" },
+            { "vi": "Không có lo lắng gì thật sự ạ. Bọn em đang rèn thêm khả năng tự làm — tự mặc quần áo và tự ăn." },
+            { "vi": "Vâng. Ở nhà chúng tôi có thể làm gì ạ?" },
+            { "vi": "Anh chị để bé tự thử, dù có lâu hơn. Đó là điều quan trọng nhất ạ." },
+            { "vi": "Lời khuyên hay đấy. Tôi muốn đọc bản này trước khi ký." },
+            { "vi": "Tất nhiên rồi ạ, anh cứ thong thả. Và em sẽ đăng lên Wilma nữa." }
+          ]
+        },
+        {
+          "title_vi": "Nêu nỗi lo của chính mình",
+          "setting_vi": "Năm phút cuối. Duc đã chờ để nói một điều.",
+          "note_vi": "«Mä oon miettiny yhtä juttua» là câu mở đầu. Rồi hãy nói thật cụ thể.",
+          "lines": [
+            { "vi": "Anh còn điều gì trong đầu không ạ?" },
+            { "vi": "Có, tôi có suy nghĩ về một chuyện." },
+            { "vi": "Anh cứ nói ạ." },
+            { "vi": "Ở nhà Eeva hay nói là bé không muốn đến nhà trẻ. Tôi không biết như thế có bình thường không." },
+            { "vi": "Ở tuổi này thì rất bình thường ạ. Nhưng may mà anh nói — bọn em sẽ theo dõi." },
+            { "vi": "Cảm ơn cô. Ở đây bé có vui không ạ?" },
+            { "vi": "Có ạ. Buổi sáng thì hơi khó một chút, nhưng năm phút sau là bé chơi rồi." },
+            { "vi": "Vậy thì tôi yên tâm hơn. Cảm ơn cô đã lắng nghe." },
+            { "vi": "Lúc nào cũng vậy ạ. Có gì băn khoăn thì anh cứ nói ngay nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đóng góp vào buổi họp",
+          "scenario_vi": "Hỏi kế hoạch là gì, hỏi về ngôn ngữ, và nêu một nỗi lo của riêng bạn.",
+          "your_role_vi": "Bạn, tại buổi vasukeskustelu",
+          "partner_role_vi": "Cô giáo",
+          "turns": [
+            { "vi": "Mời anh vào! Hôm nay mình làm bản vasu của Eeva." },
+            { "vi": "Cảm ơn cô. Mục tiêu của năm nay là gì ạ?", "hint_vi": "Hỏi câu trung tâm ngay từ sớm — nó định hình cả buổi họp." },
+            { "vi": "Bọn em rèn khả năng tự làm và kỹ năng chơi ạ." },
+            { "vi": "Vâng. Thế tiếng Phần Lan của bé phát triển thế nào ạ?", "hint_vi": "Câu hỏi mà mọi gia đình song ngữ cần có lời giải." },
+            { "vi": "Rất tốt ạ. Bé hiểu hết và ngày càng nói nhiều hơn." },
+            { "vi": "Tốt quá. Ở nhà chúng tôi nói tiếng Việt — như vậy có ổn không ạ?", "hint_vi": "Nói ra điều bạn thật sự làm ở nhà. Câu trả lời sẽ khiến bạn yên tâm." },
+            { "vi": "Không chỉ ổn mà còn hơn thế ạ. Tiếng mẹ đẻ vững giúp ích cho việc học tiếng Phần Lan." },
+            { "vi": "Cảm ơn cô. Tôi có suy nghĩ về một chuyện…", "hint_vi": "Câu mở đầu cho nỗi lo của riêng bạn. Rồi hãy nói cụ thể." },
+            { "vi": "Anh cứ nói ạ." },
+            { "vi": "Ở nhà bé nói là không muốn đến đây. Như thế có bình thường không ạ?", "hint_vi": "Nêu hành vi, rồi hỏi xem nó có bình thường không — chứ đừng hỏi nó có phải vấn đề không." }
+          ]
+        }
+      ]
+    },
+    "wilma-and-messages": {
+      "lesson": {
+        "title_vi": "Wilma và tin nhắn từ nhà trẻ",
+        "subtitle_vi": "Đọc và trả lời",
+        "warmup_situation_vi": "Một thông báo Wilma. Tin nhắn dài bốn câu tiếng Phần Lan hành chính với hai từ ghép bạn chưa từng thấy. Đâu đó trong đó có một hạn chót.",
+        "warmup_question_vi": "Bạn quét tìm cái gì trước — và một câu trả lời ngắn đến mức nào thì vẫn chấp nhận được?",
+        "rescue_vi": "Cảm ơn cô về tin nhắn. Tôi hiểu đúng là… phải không ạ?",
+        "rescue_note_vi": "Câu trả lời viết hoàn hảo khi bạn chắc chắn khoảng 80%. Nó cảm ơn họ, nêu cách hiểu của bạn, và mời một lời đính chính chỉ một chữ. Tiếng Phần Lan viết cho bạn thời gian để soạn — hãy dùng nó, và kiểm tra chi tiết then chốt thay vì đoán."
+      },
+      "vocab": [
+        { "vi": "Wilma", "note_vi": "Hệ thống liên lạc của trường và nhà trẻ. Bạn sẽ dùng nó nhiều năm." },
+        { "vi": "tin nhắn" },
+        { "vi": "bản tin, thông báo chung", "note_vi": "Thông báo một chiều. Thường không cần trả lời." },
+        { "vi": "thông báo" },
+        { "vi": "lời nhắc" },
+        { "vi": "giấy xin phép", "literal_vi": "tờ-giấy-cho-phép", "note_vi": "Nay thường là biểu mẫu trên Wilma. Cần câu trả lời của bạn trước hạn." },
+        { "vi": "sự cho phép" },
+        { "vi": "câu trả lời" },
+        { "vi": "trả lời (động từ)" },
+        { "vi": "hạn chót", "literal_vi": "ngày cuối cùng" },
+        { "vi": "thời hạn" },
+        { "vi": "trước (một mốc thời gian)", "note_vi": "«Perjantaihin mennessä» = trước thứ Sáu. Hãy quét tìm từ này." },
+        { "vi": "việc đăng ký" },
+        { "vi": "đăng ký tham gia" },
+        { "vi": "tham gia" },
+        { "vi": "ngày đi dã ngoại" },
+        { "vi": "đồ ăn mang theo", "note_vi": "Cho các chuyến đi. Thường là bánh mì kẹp và đồ uống." },
+        { "vi": "quần áo phù hợp thời tiết", "note_vi": "Bạn sẽ đọc cụm này cả trăm lần. Nó nghĩa là đồ đi mưa." },
+        { "vi": "buổi họp phụ huynh buổi tối" },
+        { "vi": "đóng cửa", "note_vi": "Hãy quét tìm từ này. Nhà trẻ đóng cửa vào một số ngày lễ và ngày tập huấn." },
+        { "vi": "giờ mở cửa" },
+        { "vi": "giờ gửi trẻ", "note_vi": "Ở nhiều đô thị bạn phải đặt trước. Lỡ hạn là rắc rối." },
+        { "vi": "đặt, đăng ký giữ chỗ" },
+        { "vi": "thân ái", "note_vi": "Cách kết thúc mọi tin nhắn. «Terveisin, Anna»." },
+        { "vi": "trân trọng", "note_vi": "Bản trang trọng. Viết tắt là «yst. terv.»" }
+      ],
+      "phrases": [
+        { "vi": "Cảm ơn cô về tin nhắn.", "when_to_use_vi": "Mở đầu mọi câu trả lời. Ngắn, ấm, và được mong đợi." },
+        { "vi": "Tôi hiểu đúng là chuyến đi vào thứ Sáu phải không ạ?", "when_to_use_vi": "Nước đi chủ chốt. Kiểm tra đúng chi tiết quan trọng mà không phải thừa nhận là mình rối chung chung." },
+        { "vi": "Vâng, tôi rõ rồi, cảm ơn cô!", "when_to_use_vi": "Một câu trả lời trọn vẹn và hoàn toàn chấp nhận được cho phần lớn thông báo. Hai chữ." },
+        { "vi": "Vâng, Eeva sẽ tham gia ạ.", "when_to_use_vi": "Trả lời một yêu cầu xin phép. Đó là toàn bộ câu trả lời." },
+        { "vi": "Rất tiếc là Eeva không tham gia được ạ.", "when_to_use_vi": "Từ chối. Không cần giải thích, dù thêm một câu thì thân thiện hơn." },
+        { "vi": "Tôi chưa hiểu rõ chỗ này ạ.", "when_to_use_vi": "Trích ra hoặc gọi tên phần đó. Giáo viên trả lời những câu này rất sẵn lòng." },
+        { "vi": "Mấy giờ chúng tôi cần có mặt ạ?", "when_to_use_vi": "Chi tiết hay bị chôn ở giữa một tin nhắn dài nhất." },
+        { "vi": "Chúng tôi có cần mang gì không ạ?", "when_to_use_vi": "Hỏi trước, đừng để sáng hôm đó mới phát hiện." },
+        { "vi": "Tôi báo Eeva nghỉ ạ.", "when_to_use_vi": "Tin nhắn báo ốm chuẩn. Thêm lý do trong một mệnh đề." },
+        { "vi": "Như thế có muộn quá không ạ?", "when_to_use_vi": "Khi bạn lỡ hạn. Thường là chưa muộn, và hỏi vẫn hơn im lặng." },
+        { "vi": "Cô gửi cả bản tiếng Anh được không ạ?", "when_to_use_vi": "Hợp lý với bất cứ thứ gì dài hoặc quan trọng. Nhiều nhà trẻ sẽ làm." },
+        { "vi": "Thân ái, Duc (bố của Eeva)", "when_to_use_vi": "Cách ký tên. Thêm bạn là phụ huynh của ai — đỡ cho họ phải tra lại." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một tin nhắn Wilma dài, và những gì cần quét tìm",
+          "setting_vi": "Đọc như một đoạn hội thoại. Tin nhắn trước, rồi suy nghĩ của Duc, rồi câu trả lời của anh.",
+          "note_vi": "Tiếng Phần Lan hành chính, rồi ba thứ thật sự quan trọng: ngày, giờ, mang gì.",
+          "lines": [
+            { "vi": "Chào quý phụ huynh! Tuần sau chúng tôi sẽ có chuyến đi tới công viên Keskuspuisto." },
+            { "vi": "Chuyến đi vào thứ Tư ngày 14/5. Chúng tôi khởi hành lúc 9:00, nên mong các bé có mặt lúc 8:45.", "note_vi": "Ngày, giờ khởi hành, giờ có mặt. Ba thứ này." },
+            { "vi": "Các bé cần có quần áo phù hợp thời tiết, ủng cao su và đồ ăn mang theo cùng bình nước.", "note_vi": "«sään mukaiset vaatteet» = đồ đi mưa. Danh sách cần mang." },
+            { "vi": "Chúng tôi xin nhận đăng ký qua Wilma trước thứ Sáu ngày 9/5.", "note_vi": "«mennessä» = trước. Đây là hạn chót. Luôn quét tìm từ này." },
+            { "vi": "Trân trọng, Anna và Mikko / Lớp Oravat" },
+            { "vi": "Được rồi. Thứ Tư, 8:45, ủng cao su và đồ ăn. Trả lời trước thứ Sáu.", "note_vi": "Bốn dữ kiện rút ra từ năm câu. Đó chính là kỹ năng." },
+            { "vi": "Cảm ơn cô về tin nhắn! Eeva sẽ tham gia chuyến đi ạ." },
+            { "vi": "Tôi hiểu đúng là chúng tôi cần có mặt lúc 8:45 phải không ạ?" },
+            { "vi": "Thân ái, Duc (bố của Eeva)" },
+            { "vi": "Cảm ơn anh đã đăng ký! Vâng, 8:45 là được ạ. Hẹn gặp thứ Tư!" }
+          ]
+        },
+        {
+          "title_vi": "Hai tin nhắn ngắn bạn sẽ gửi thường xuyên",
+          "setting_vi": "Một ngày con ốm và một câu trả lời muộn. Cả hai đều dài hai dòng.",
+          "note_vi": "Tin nhắn Wilma được mong đợi là ngắn. Đừng viết quá tay.",
+          "lines": [
+            { "vi": "Chào cô! Tôi báo Eeva nghỉ hôm nay — bé bị sốt ạ." },
+            { "vi": "Khi nào bé đi học lại được tôi sẽ báo. Thân ái, Duc" },
+            { "vi": "Cảm ơn anh đã báo. Chúc Eeva mau khỏe!" },
+            { "vi": "Chào cô! Xin lỗi, giờ tôi mới thấy phần đăng ký chuyến đi. Như thế có muộn quá không ạ?" },
+            { "vi": "Không muộn ạ! Em thêm Eeva vào danh sách. Anh nhớ ủng cao su nhé." },
+            { "vi": "Cảm ơn cô nhiều. Tôi sẽ nhớ!" },
+            { "vi": "Tốt ạ. Và tin nhắn nào chưa rõ thì anh cứ nói nhé." },
+            { "vi": "Cảm ơn cô, tôi sẽ nói. Như thế giúp tôi rất nhiều." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Trả lời một tin nhắn Wilma",
+          "scenario_vi": "Bạn đã đọc một thông báo dài về chuyến đi và nắm được phần lớn. Hãy đăng ký, kiểm tra một chi tiết, rồi ký tên.",
+          "your_role_vi": "Bạn, đang soạn câu trả lời",
+          "partner_role_vi": "Anna, cô giáo",
+          "turns": [
+            { "vi": "Chuyến đi thứ Tư 14/5. Khởi hành 9:00, có mặt 8:45. Đồ ăn mang theo và ủng cao su. Đăng ký trước thứ Sáu." },
+            { "vi": "Cảm ơn cô về tin nhắn!", "hint_vi": "Mở đầu mọi câu trả lời như vậy. Ngắn và được mong đợi." },
+            { "vi": "(đang chờ câu trả lời của bạn)" },
+            { "vi": "Vâng, Eeva sẽ tham gia chuyến đi ạ.", "hint_vi": "Trả lời đúng câu họ đã hỏi. Một dòng." },
+            { "vi": "(thêm Eeva vào danh sách)" },
+            { "vi": "Tôi hiểu đúng là chúng tôi cần có mặt lúc 8:45 phải không ạ?", "hint_vi": "Kiểm tra đúng chi tiết mà nếu sai sẽ khiến bạn trả giá." },
+            { "vi": "Vâng, 8:45 là được ạ." },
+            { "vi": "Vâng. Chúng tôi có cần mang gì ngoài đồ ăn và ủng cao su không ạ?", "hint_vi": "Xác nhận danh sách cần mang bằng cách nhắc lại." },
+            { "vi": "Không cần gì thêm ạ. Có bình nước thì tốt." },
+            { "vi": "Vâng, cảm ơn cô! Thân ái, Duc (bố của Eeva)", "hint_vi": "Ký tên kèm bạn là phụ huynh của ai — đỡ cho họ phải tra lại." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+
+# Generated from content/*.json — run `npm run content`
+client/public/content/
+data/audio-index.json
+
+# Generated audio: ~290 MB of MP3s. Run `npm run audio` to rebuild.
+client/public/audio/
+data/tts-cache/
+
+.env
+.DS_Store

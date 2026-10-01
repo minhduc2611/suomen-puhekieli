@@ -1,0 +1,317 @@
+{
+  "lessons": {
+    "paying-and-splitting": {
+      "lesson": {
+        "title_vi": "Trả tiền và chia tiền",
+        "subtitle_vi": "Maksetaanko erikseen? Kortilla, kiitos.",
+        "warmup_situation_vi": "Sáu người vừa ăn trưa. Ở vài nước sẽ có một người giành trả hết. Ở đây, sáu cái thẻ được rút ra.",
+        "warmup_question_vi": "Chia tiền ở Phần Lan có ngại không — hay khăng khăng trả hộ cả bàn mới là hành động kỳ lạ?",
+        "rescue_vi": "Cho trả riêng ạ.",
+        "rescue_note_vi": "Nói câu này ngay từ đầu, trước khi ai kịp quẹt thẻ. Nhà hàng Phần Lan chia hoá đơn như chuyện thường ngày, kể cả với nhóm đông, và không ai coi đó là rắc rối. Nói sớm thì khỏi phải gỡ rối về sau."
+      },
+      "vocab": [
+        { "vi": "trả tiền" },
+        { "vi": "việc thanh toán" },
+        { "vi": "hoá đơn tính tiền" },
+        { "vi": "riêng, tách ra" },
+        { "vi": "cùng nhau" },
+        { "vi": "chia đôi" },
+        { "vi": "bằng thẻ" },
+        { "vi": "bằng tiền mặt" },
+        { "vi": "thanh toán không tiếp xúc" },
+        { "vi": "thẻ ghi nợ" },
+        { "vi": "thẻ tín dụng" },
+        { "vi": "mã PIN" },
+        { "vi": "bấm vào đi", "note_vi": "Điều mà máy thanh toán hoặc nhân viên bảo bạn làm." },
+        { "vi": "đã được chấp nhận" },
+        { "vi": "bị từ chối", "note_vi": "Từ bạn không muốn thấy trên máy thanh toán." },
+        { "vi": "hoá đơn" },
+        { "vi": "tổng cộng" },
+        { "vi": "đều, chẵn", "note_vi": "«Jaetaan tasan» = chia đều nhé." },
+        { "vi": "chia" },
+        { "vi": "tiền boa", "note_vi": "Không được mong đợi ở Phần Lan. Phí phục vụ đã nằm trong giá. Làm tròn lên là quá đủ." },
+        { "vi": "tiền thối lại" },
+        { "vi": "nợ", "note_vi": "«Mä oon sulle velkaa» = tôi nợ bạn." },
+        { "vi": "MobilePay", "note_vi": "Cách người Phần Lan trả tiền lại cho nhau. «Mä maksan sulle MobilePayllä.»" }
+      ],
+      "phrases": [
+        { "vi": "Mình trả riêng hay trả chung?", "when_to_use_vi": "Hỏi nhóm của bạn trước khi người phục vụ tới. Tiết kiệm cho mọi người một vòng khách sáo." },
+        { "vi": "Cho trả riêng ạ.", "when_to_use_vi": "Nói với người phục vụ, trước khi ai kịp trả. Hoàn toàn là chuyện thường ở đây." },
+        { "vi": "Thẻ, cảm ơn.", "when_to_use_vi": "Câu được nói nhiều nhất trong mọi giao dịch ở Phần Lan." },
+        { "vi": "Ở đây nhận thẻ không?", "when_to_use_vi": "Hầu như luôn là có. Đáng hỏi ở chợ và các kiosk nhỏ." },
+        { "vi": "Ở đây có thanh toán không tiếp xúc không?", "when_to_use_vi": "Ở đâu cũng có, nhưng hạn mức thì khác nhau." },
+        { "vi": "Bữa này tôi trả.", "when_to_use_vi": "Ngỏ ý trả tiền. Nói một lần thôi — nài lần thứ hai bắt đầu nghe kỳ ở đây." },
+        { "vi": "Không cần đâu, mình trả riêng đi.", "when_to_use_vi": "Từ chối lời mời của ai đó. Không hề bất lịch sự — đây mới là mặc định." },
+        { "vi": "Lần trước bạn trả rồi, giờ đến lượt tôi.", "when_to_use_vi": "Cách luân phiên kiểu Phần Lan. Giữ cho mọi thứ cân bằng theo thời gian." },
+        { "vi": "Tôi nợ bạn đấy.", "when_to_use_vi": "Được trả sau bằng MobilePay, thường là trong vòng một tiếng." },
+        { "vi": "Tôi chuyển MobilePay cho bạn nhé.", "when_to_use_vi": "Cách người Phần Lan trả nợ nhau. Tiền mặt gần như không bao giờ đổi tay." },
+        { "vi": "Chia đều đi.", "when_to_use_vi": "Khi chẳng ai muốn ngồi tính toán. Hay dùng giữa bạn bè." },
+        { "vi": "Cho tôi xin hoá đơn được không?", "when_to_use_vi": "Cần cho việc quyết toán chi phí công tác. Nói trước khi họ huỷ giao dịch trên máy." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Bốn người, bốn cái thẻ",
+          "setting_vi": "Cuối một bữa trưa công việc. Không ai giành trả hoá đơn.",
+          "note_vi": "Đây là cái kết bình thường của một bữa ăn ở Phần Lan. Không diễn, không mặc cả.",
+          "lines": [
+            { "vi": "Anh chị dùng có ngon không ạ? Mình tính tiền nhé?" },
+            { "vi": "Vâng cảm ơn, ngon lắm ạ." },
+            { "vi": "Anh chị trả chung hay trả riêng ạ?" },
+            { "vi": "Trả riêng ạ." },
+            { "vi": "Vâng. Ai trả trước ạ?" },
+            { "vi": "Tôi trả được. Tôi ăn món súp cá hồi và một cà phê." },
+            { "vi": "Của anh là mười bốn năm mươi ạ." },
+            { "vi": "Thẻ. Và cho tôi xin hoá đơn được không?" },
+            { "vi": "Tất nhiên rồi ạ. Của anh đây." },
+            { "vi": "Cảm ơn! Đồ ăn ngon lắm." }
+          ]
+        },
+        {
+          "title_vi": "Thanh toán với nhau giữa bạn bè",
+          "setting_vi": "Ra ngoài sau bữa ăn. Một người đã trả hết, những người còn lại trả lại họ.",
+          "note_vi": "Không ai cầm tiền mặt. MobilePay giải quyết toàn bộ trong hai mươi giây.",
+          "lines": [
+            { "vi": "Tớ trả cả hoá đơn rồi, mọi người trả lại tớ nhé." },
+            { "vi": "Ừ, tớ nợ bao nhiêu?" },
+            { "vi": "Hai mươi hai. Mà thôi chia đều đi, cho dễ." },
+            { "vi": "Được. Chia đều là bao nhiêu?" },
+            { "vi": "Hai mươi một đầu người.", "note_vi": "«per naama» — nghĩa đen là «trên mỗi cái mặt». Rất thông dụng, hơi đùa đùa." },
+            { "vi": "Ok, tớ chuyển MobilePay luôn đây." },
+            { "vi": "Cảm ơn! Nhận được rồi." },
+            { "vi": "Tốt. Lần sau tớ trả." },
+            { "vi": "Chốt." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Chia hoá đơn và trả phần của mình",
+          "scenario_vi": "Cuối một bữa ăn nhóm. Xin tính riêng, trả tiền, và lấy hoá đơn.",
+          "your_role_vi": "Bạn, một trong bốn người",
+          "partner_role_vi": "Người phục vụ",
+          "turns": [
+            { "vi": "Mình tính tiền nhé ạ?" },
+            { "vi": "Vâng cảm ơn. Và cho tính riêng ạ.", "hint_vi": "Nói ngay bây giờ, trước khi ai kịp trả — đỡ phải gỡ rối về sau." },
+            { "vi": "Vâng. Anh dùng những gì ạ?" },
+            { "vi": "Tôi ăn súp cá hồi và một cà phê.", "hint_vi": "Liệt kê món của riêng bạn — người phục vụ sẽ cộng lại." },
+            { "vi": "Mười bốn năm mươi ạ." },
+            { "vi": "Thẻ, cảm ơn.", "hint_vi": "Hai chữ. Câu nói phổ biến nhất trong giao dịch ở Phần Lan." },
+            { "vi": "Anh bấm mã đi ạ. …Xong rồi. Lấy hoá đơn không ạ?" },
+            { "vi": "Vâng cảm ơn. Đồ ăn ngon lắm!", "hint_vi": "Nhận hoá đơn, rồi để lại một lời khen trên đường ra." }
+          ]
+        }
+      ]
+    },
+    "lunch-with-friends": {
+      "lesson": {
+        "title_vi": "Ăn trưa với bạn bè",
+        "subtitle_vi": "Nói về đồ ăn: Tää on tosi hyvää!",
+        "warmup_situation_vi": "Bạn đang ăn cùng bạn bè Phần Lan. Đồ ăn ngon. Bạn nói «hyvä» rồi hết vốn.",
+        "warmup_question_vi": "Có bao nhiêu cách khen một bữa ăn — và tại sao lại là «hyvää» chứ không phải «hyvä»?",
+        "rescue_vi": "Cái này ngon thật đấy!",
+        "rescue_note_vi": "Cách phân từ «hyvää» thay vì «hyvä» là thứ đánh dấu rằng đây là đồ ăn bạn đang ăn chứ không phải một vật nói chung. Nắm đúng cái đuôi này là bạn lập tức nghe tự nhiên hơn ở mọi bữa ăn suốt phần đời còn lại."
+      },
+      "vocab": [
+        { "vi": "ngon (nói về đồ ăn)", "note_vi": "Cách phân từ. Đồ ăn luôn ở cách phân từ: «Tää on hyvää», không bao giờ «Tää on hyvä»." },
+        { "vi": "rất ngon, tuyệt hảo" },
+        { "vi": "đậm đà, có vị" },
+        { "vi": "nhạt nhẽo, vô vị" },
+        { "vi": "mặn" },
+        { "vi": "ngọt" },
+        { "vi": "cay" },
+        { "vi": "nhẹ, dịu" },
+        { "vi": "tươi" },
+        { "vi": "có vị (như)", "note_vi": "«Miltä se maistuu?» = nó có vị thế nào?" },
+        { "vi": "ngon không? / bạn thấy sao?", "note_vi": "Được hỏi liên tục trong bữa ăn. Trả lời: «Joo, tosi hyvää!»" },
+        { "vi": "cơn đói" },
+        { "vi": "no" },
+        { "vi": "đầy, no căng", "note_vi": "«Mä oon ihan täynnä» = tôi no căng rồi." },
+        { "vi": "suất ăn, phần" },
+        { "vi": "một suất lớn" },
+        { "vi": "nếm thử", "note_vi": "«Haluutsä maistaa?» = bạn muốn nếm thử không?" },
+        { "vi": "món ưa thích" },
+        { "vi": "thử xem" },
+        { "vi": "gợi ý, giới thiệu" },
+        { "vi": "tương quan giá cả và chất lượng", "literal_vi": "tỉ-lệ-giá-chất-lượng", "note_vi": "Người Phần Lan bàn chuyện này thật sự trong bữa trưa." },
+        { "vi": "đắt" },
+        { "vi": "rẻ" },
+        { "vi": "cảm ơn vì bữa ăn", "note_vi": "Nói khi rời bàn ăn, kể cả ở nhà. Một thói quen thật sự ở đây." }
+      ],
+      "phrases": [
+        { "vi": "Cái này ngon thật đấy!", "when_to_use_vi": "Lời khen chủ lực của bạn. Nhớ «hyvää», không phải «hyvä» — đồ ăn đi với cách phân từ." },
+        { "vi": "Ngon không?", "when_to_use_vi": "Được hỏi bởi người phục vụ, chủ nhà và bạn bè. Câu trả lời mong đợi là một lời khen ngắn." },
+        { "vi": "Ừ, ngon tuyệt.", "when_to_use_vi": "Cao hơn «hyvää» một bậc. Dùng khi bạn thật sự thấy thế." },
+        { "vi": "Món đó vị thế nào?", "when_to_use_vi": "Hỏi về món của người khác để lần sau còn gọi." },
+        { "vi": "Bạn muốn nếm thử không?", "when_to_use_vi": "Chia đồ ăn. Mời một lần; người Phần Lan nào muốn sẽ nói có." },
+        { "vi": "Cái này với tôi thì hơi mặn quá.", "when_to_use_vi": "«Mulle» (với tôi) biến nó thành sở thích, không phải lời chê người nấu." },
+        { "vi": "Món đó có cay không?", "when_to_use_vi": "Ngưỡng «tulista» của người Phần Lan thấp hơn bạn tưởng đấy. Cứ hỏi." },
+        { "vi": "Tôi no căng rồi.", "when_to_use_vi": "Từ chối ăn thêm. Nói với vẻ hài lòng, không phải xin lỗi." },
+        { "vi": "Suất to. Đáng đồng tiền.", "when_to_use_vi": "Một nhận xét bữa trưa thật sự phổ biến ở đây, không phải đùa." },
+        { "vi": "Lần sau tôi cũng gọi món này.", "when_to_use_vi": "Lời khen cao, nói một cách gián tiếp. Rất Phần Lan." },
+        { "vi": "Quán này là quán tôi thích nhất.", "when_to_use_vi": "Giới thiệu một chỗ cho bạn bè." },
+        { "vi": "Cảm ơn vì bữa ăn!", "when_to_use_vi": "Nói khi rời bàn — ở nhà, ở nhà bạn, kể cả ở căng tin công ty. Một thói quen thật sự." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Hai người bạn trong bữa trưa",
+          "setting_vi": "Một quán ăn trưa. Đồ ăn vừa được bưng ra.",
+          "note_vi": "Để ý mọi tính từ về đồ ăn đều kết thúc bằng -a hoặc -ä. Đó là cách phân từ, và nó không phải tuỳ chọn.",
+          "lines": [
+            { "vi": "Thế nào, ngon không?" },
+            { "vi": "Ừ, ngon thật! Cậu ăn món gì đấy?" },
+            { "vi": "Món rau hầm kia. Cậu muốn nếm thử không?" },
+            { "vi": "Ừ cảm ơn. …Ồ, ngon tuyệt." },
+            { "vi": "Đúng không? Mà lại nhẹ, chẳng cay tí nào." },
+            { "vi": "Lần sau tớ gọi món đó." },
+            { "vi": "Đáng lắm. Suất lại to, đáng đồng tiền." },
+            { "vi": "Đúng thế. Tớ gần no rồi đây." },
+            { "vi": "Chừa bụng cho cà phê đấy." },
+            { "vi": "Lúc nào chẳng thế." }
+          ]
+        },
+        {
+          "title_vi": "Được đãi ăn ở nhà người ta",
+          "setting_vi": "Một người bạn đã nấu ăn. Mức độ quan trọng cao hơn.",
+          "note_vi": "Người Phần Lan nấu ăn mà không đi câu lời khen, nên lời khen có sức nặng hơn. Nói một lần, thật rõ.",
+          "lines": [
+            { "vi": "Thế nào, cậu dám nếm không? Đây là công thức của mẹ tớ đấy." },
+            { "vi": "Tất nhiên rồi. …Chà. Cái này ngon thật." },
+            { "vi": "Thật à? Tớ cứ sợ nó mặn quá." },
+            { "vi": "Không hề. Hoàn hảo luôn." },
+            { "vi": "Lấy thêm đi, còn nhiều lắm." },
+            { "vi": "Ừ tớ lấy. Cậu làm nước sốt đó thế nào?" },
+            { "vi": "Dễ lắm. Tớ gửi công thức cho." },
+            { "vi": "Cảm ơn! …Thôi được rồi, giờ tớ no căng luôn." },
+            { "vi": "Tốt. Cà phê nhé?" },
+            { "vi": "Lúc nào chẳng được. Và cảm ơn vì bữa ăn, ngon lắm." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Khen đồ ăn cho đúng cách",
+          "scenario_vi": "Một người bạn đã nấu cho bạn ăn. Hãy khen, hỏi về món đó, và cảm ơn họ lúc cuối.",
+          "your_role_vi": "Bạn, đang được đãi ăn",
+          "partner_role_vi": "Anni, người nấu",
+          "turns": [
+            { "vi": "Thế nào, ngon không?" },
+            { "vi": "Ừ, cái này ngon thật đấy!", "hint_vi": "«hyvää» với đuôi phân từ — đồ ăn không bao giờ là «hyvä»." },
+            { "vi": "Hay quá! Tớ cứ sợ nó mặn quá." },
+            { "vi": "Không hề. Hoàn hảo luôn.", "hint_vi": "Bác bỏ nỗi lo đó thẳng thừng — đừng nói nước đôi." },
+            { "vi": "Lấy thêm đi, còn nhiều lắm." },
+            { "vi": "Cảm ơn, tớ lấy. Cậu làm nước sốt đó thế nào?", "hint_vi": "Hỏi cách nấu là lời khen cao nhất có thể." },
+            { "vi": "Dễ lắm, tớ gửi công thức cho cậu." },
+            { "vi": "Tuyệt vời. Và cảm ơn vì bữa ăn!", "hint_vi": "Kết bằng «kiitos ruuasta» — đây là thói quen thật, không phải phép xã giao." }
+          ]
+        }
+      ]
+    },
+    "cafes-kiosks-buffet": {
+      "lesson": {
+        "title_vi": "Quán cà phê, kiosk và bữa trưa buffet",
+        "subtitle_vi": "Những luật bất thành văn không ai nói cho bạn biết",
+        "warmup_situation_vi": "Bạn bước vào một quán lounas lúc giữa trưa. Ai cũng có vẻ biết chính xác phải đi đâu, lấy gì, và không được làm gì. Bạn đứng yên lâu hơn bốn giây so với mức cần thiết.",
+        "warmup_question_vi": "Luật là gì — và luật nào mà phạm vào thì bạn thật sự sẽ bị nhìn?",
+        "rescue_vi": "Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?",
+        "rescue_note_vi": "Xin nguyên quy trình trong một câu. Người Phần Lan giải thích hệ thống rất sẵn lòng và chính xác; cái họ không làm là tự đoán rằng bạn cần giúp. Hỏi đi là bạn được câu trả lời đầy đủ."
+      },
+      "vocab": [
+        { "vi": "bữa trưa (suất cố định)", "note_vi": "Thường 10,50–13 €, phục vụ 11–14 giờ, gồm salad, bánh mì, đồ uống và cà phê." },
+        { "vi": "bữa trưa buffet" },
+        { "vi": "bàn buffet", "literal_vi": "bàn đứng" },
+        { "vi": "bàn tự phục vụ" },
+        { "vi": "quầy salad" },
+        { "vi": "đã tính trong giá", "note_vi": "Salad, bánh mì và cà phê gần như luôn được tính. Không chắc thì hỏi." },
+        { "vi": "được bao gồm" },
+        { "vi": "tự lấy" },
+        { "vi": "cái đĩa" },
+        { "vi": "cái khay" },
+        { "vi": "chỗ trả (khay)", "note_vi": "Bạn tự dọn bàn của mình. Luôn luôn. Đây là luật khiến người ta hay mắc lỗi nhất." },
+        { "vi": "chỗ trả bát đĩa", "note_vi": "Hãy tìm tấm biển này. Để khay lại trên bàn là lỗi thật sự duy nhất." },
+        { "vi": "hàng chờ" },
+        { "vi": "xếp hàng" },
+        { "vi": "số thứ tự" },
+        { "vi": "kiosk, quầy nhỏ" },
+        { "vi": "quầy nướng, quán ăn nhanh", "note_vi": "Một định chế của đêm khuya. Quê hương của món lihapiirakka." },
+        { "vi": "quán cà phê" },
+        { "vi": "tự phục vụ" },
+        { "vi": "rót thêm, lấy thêm", "note_vi": "Cà phê thường được lấy thêm miễn phí vào bữa trưa. «Saaks kahvia hakee lisää?»" },
+        { "vi": "không giới hạn" },
+        { "vi": "lần, lượt", "note_vi": "«Yhden kerran» = một lượt lên lấy đồ. Vài nơi giới hạn số lượt." },
+        { "vi": "giờ mở cửa" },
+        { "vi": "đóng cửa" }
+      ],
+      "phrases": [
+        { "vi": "Còn phục vụ bữa trưa không ạ?", "when_to_use_vi": "Bữa trưa dừng đúng 14:00, đôi khi 13:30. Lúc 13:45 thì luôn đáng hỏi." },
+        { "vi": "Suất trưa gồm những gì ạ?", "when_to_use_vi": "Thường là salad, bánh mì, đồ uống và cà phê. Hỏi còn hơn trả tiền hai lần." },
+        { "vi": "Cà phê có tính trong giá không ạ?", "when_to_use_vi": "Vào bữa trưa thì gần như luôn có, và thường được lấy thêm miễn phí." },
+        { "vi": "Salad tự lấy được không ạ?", "when_to_use_vi": "Hầu như luôn là được. Quầy salad là tự phục vụ." },
+        { "vi": "Lấy thêm được không ạ?", "when_to_use_vi": "Phần lớn buffet không giới hạn; vài nơi chỉ cho một lượt. Đáng hỏi một câu." },
+        { "vi": "Tôi để khay ở đâu ạ?", "when_to_use_vi": "Bạn tự dọn. Hãy tìm chữ «astianpalautus»." },
+        { "vi": "Tôi chưa đến đây bao giờ.", "when_to_use_vi": "Kích hoạt một lời giải thích đầy đủ về cả hệ thống. Người Phần Lan làm việc này rất giỏi." },
+        { "vi": "Trả tiền trước hay sau ạ?", "when_to_use_vi": "Tuỳ nơi. Nhầm chỗ này là cú vấp phổ biến nhất của khách lạ." },
+        { "vi": "Tôi có phải lấy số thứ tự không ạ?", "when_to_use_vi": "Ở quầy thực phẩm, hiệu thuốc và văn phòng. Tìm cái máy nhả phiếu nhỏ." },
+        { "vi": "Đây có phải hàng chờ tính tiền không ạ?", "when_to_use_vi": "Hàng ở Phần Lan trật tự nhưng đôi khi vô hình. Hỏi còn hơn chen." },
+        { "vi": "Quán mở đến mấy giờ ạ?", "when_to_use_vi": "Nhiều quán cà phê đóng lúc 17:00 và gần như mọi thứ đóng sớm vào Chủ nhật." },
+        { "vi": "Cho một bánh nhân thịt đầy đủ ạ.", "when_to_use_vi": "Đơn gọi kinh điển ở quầy nướng. «Kaikilla» = với tất cả topping." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lần đầu đến một quán lounas",
+          "setting_vi": "12:15. Duc chưa từng đến đây và nói thẳng ra.",
+          "note_vi": "Một câu nói thật lòng giúp anh ấy có trọn cả quy trình.",
+          "lines": [
+            { "vi": "Chào! Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?" },
+            { "vi": "Vâng, đơn giản thôi ạ. Anh lấy đĩa ở đằng kia, đồ ăn nóng ở phía kia." },
+            { "vi": "Vâng. Thế còn salad?" },
+            { "vi": "Quầy salad ngay bên cạnh đó ạ. Đã tính trong giá rồi." },
+            { "vi": "Còn cà phê thì sao?" },
+            { "vi": "Cũng tính trong giá. Và anh muốn lấy thêm bao nhiêu cũng được ạ." },
+            { "vi": "Tốt. Trả tiền trước hay sau ạ?" },
+            { "vi": "Trước ạ, ở quầy này. Mười ba euro." },
+            { "vi": "Thẻ nhé. Và ăn xong tôi để khay ở đâu ạ?" },
+            { "vi": "Đằng kia ạ, chỗ có chữ astianpalautus." },
+            { "vi": "Rõ rồi. Cảm ơn chị đã chỉ!" },
+            { "vi": "Không có gì ạ. Chúc anh ngon miệng!" }
+          ]
+        },
+        {
+          "title_vi": "Ở quầy nướng, đêm muộn",
+          "setting_vi": "23:40. Một quầy nướng kiểu kiosk. Không ai nói năng cẩn thận cả.",
+          "note_vi": "Nhanh, cụt, thân thiện. Chữ «kaikilla» ở đây làm rất nhiều việc.",
+          "lines": [
+            { "vi": "Chào. Một bánh nhân thịt đầy đủ." },
+            { "vi": "Đầy đủ nhé. Thêm xúc xích không?" },
+            { "vi": "Ừ, cho vào đi." },
+            { "vi": "Đồ uống?" },
+            { "vi": "Một nước ngọt." },
+            { "vi": "Tám năm mươi. Thẻ được." },
+            { "vi": "Tốt. Quán mở đến mấy giờ?" },
+            { "vi": "Đến ba giờ. Thứ Sáu thì đến bốn." },
+            { "vi": "Biết vậy hay. Cảm ơn!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Tìm hiểu xem quán này vận hành thế nào",
+          "scenario_vi": "Bạn chưa từng đến đây. Hãy được giải thích cả hệ thống mà không giả vờ là mình đã biết.",
+          "your_role_vi": "Bạn, lần đầu đến đây",
+          "partner_role_vi": "Người đứng quầy tính tiền",
+          "turns": [
+            { "vi": "Chào! Anh ăn trưa ạ?" },
+            { "vi": "Vâng. Tôi chưa đến đây bao giờ — ở đây làm thế nào ạ?", "hint_vi": "Một câu nói thật lòng cho bạn trọn cả quy trình." },
+            { "vi": "Anh lấy đĩa ở kia, đồ ăn nóng ở đằng kia ạ." },
+            { "vi": "Vâng. Salad và cà phê có tính trong giá không ạ?", "hint_vi": "Hỏi cả hai cùng lúc — chúng thường đi thành cặp." },
+            { "vi": "Cả hai đều tính rồi ạ. Anh lấy thêm được." },
+            { "vi": "Tốt. Trả tiền trước hay sau ạ?", "hint_vi": "Câu hỏi giúp bạn tránh được nhiều ngượng nghịu nhất." },
+            { "vi": "Trước ạ. Mười ba euro." },
+            { "vi": "Thẻ nhé. Và tôi để khay ở đâu ạ?", "hint_vi": "Ở đây bạn tự dọn bàn — luôn hỏi cho rõ để ở đâu." },
+            { "vi": "Đằng kia, chỗ trả bát đĩa ạ." },
+            { "vi": "Rõ rồi, cảm ơn chị đã chỉ!", "hint_vi": "Cảm ơn vì lời giải thích, không chỉ vì đồ ăn." }
+          ]
+        }
+      ]
+    }
+  }
+}

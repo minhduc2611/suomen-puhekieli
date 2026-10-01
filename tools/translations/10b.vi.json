@@ -1,0 +1,317 @@
+{
+  "lessons": {
+    "hairdresser": {
+      "lesson": {
+        "title_vi": "Ở tiệm cắt tóc",
+        "subtitle_vi": "Nói rõ bạn muốn gì — và dừng nó lại đúng lúc",
+        "warmup_situation_vi": "Bạn đang ngồi trên ghế. Người thợ hỏi bạn muốn kiểu gì. Trong đầu bạn có một hình dung rất rõ và khoảng bốn trong số những từ cần để mô tả nó.",
+        "warmup_question_vi": "Bạn mang gì theo — và câu nào dừng được cây kéo?",
+        "rescue_vi": "Chờ đã — ngắn thêm một chút nữa ạ.",
+        "rescue_note_vi": "Bạn có thể dừng hoặc điều chỉnh ở bất cứ lúc nào và đó là chuyện hoàn toàn bình thường. Thợ cắt tóc thích bị ngắt giữa lúc cắt hơn nhiều so với một khách im lặng mà không hài lòng lúc cuối. Hãy lên tiếng ngay khi có gì không đúng."
+      },
+      "vocab": [
+        { "vi": "thợ cắt tóc nam" }, { "vi": "thợ làm tóc" }, { "vi": "tiệm cắt tóc và làm tóc" },
+        { "vi": "lịch hẹn", "note_vi": "Đặt trên mạng hoặc qua điện thoại. Một số tiệm nam nhận khách vãng lai." },
+        { "vi": "không cần hẹn trước" },
+        { "vi": "tóc", "note_vi": "Trong tiếng Phần Lan luôn ở dạng số nhiều. «Mun hiukset on liian pitkät.»" },
+        { "vi": "việc cắt tóc" }, { "vi": "cắt" }, { "vi": "ngắn hơn" }, { "vi": "dài hơn" },
+        { "vi": "xentimét", "note_vi": "Hãy nói bằng xentimét. «Kaks senttiä pois» thì không thể hiểu sai." },
+        { "vi": "bỏ đi, cắt bớt", "note_vi": "«Kaks senttiä pois» = cắt bớt hai xentimét. Chỉ dẫn rõ nhất có thể." },
+        { "vi": "hai bên" }, { "vi": "phía sau" }, { "vi": "phía trên đỉnh" }, { "vi": "tóc mái" },
+        { "vi": "vùng gáy cổ" },
+        { "vi": "bằng tông đơ", "note_vi": "«Koneella kolme» = tông đơ số ba. Đơn giản và chính xác." },
+        { "vi": "bằng kéo" }, { "vi": "kiểu vuốt mờ, tỉa nhỏ dần" }, { "vi": "tỉa thưa ra" },
+        { "vi": "tạo kiểu" }, { "vi": "gội đầu" }, { "vi": "màu nhuộm" }, { "vi": "highlight, nhuộm sợi" },
+        { "vi": "râu" },
+        { "vi": "tỉa gọn lại", "note_vi": "«Siisti vaan» = chỉ tỉa gọn thôi. Một chỉ dẫn an toàn, tối thiểu." },
+        { "vi": "như lần trước", "note_vi": "Nếu bạn thích lần trước, đây là câu hay nhất trong bài này." },
+        { "vi": "hình ảnh", "note_vi": "Hãy mang một cái. Nó giải quyết toàn bộ vấn đề từ vựng." },
+        { "vi": "thế là đủ" }, { "vi": "hài lòng" }
+      ],
+      "phrases": [
+        { "vi": "Tôi có ảnh. Kiểu như thế này ạ.", "when_to_use_vi": "Mang một cái trên điện thoại. Nó giải quyết toàn bộ vấn đề từ vựng." },
+        { "vi": "Cắt bớt hai xentimét ạ.", "when_to_use_vi": "Chỉ dẫn rõ nhất có thể. Con số hơn tính từ." },
+        { "vi": "Hai bên tông đơ số ba, phía trên dùng kéo.", "when_to_use_vi": "Chính xác và mọi thợ cắt tóc nam đều hiểu." },
+        { "vi": "Như lần trước ạ.", "when_to_use_vi": "Câu hay nhất trong bài, khi bạn đã có một lần cắt mà bạn thích." },
+        { "vi": "Chỉ tỉa gọn thôi, đừng ngắn nhiều.", "when_to_use_vi": "Chỉ dẫn tối thiểu an toàn khi bạn không muốn thay đổi gì." },
+        { "vi": "Hôm nay còn chỗ trống không ạ?", "when_to_use_vi": "Nhiều tiệm nam nhận khách vãng lai. Luôn đáng hỏi." },
+        { "vi": "Cắt tóc bao nhiêu tiền ạ?", "when_to_use_vi": "Hỏi trước khi ngồi xuống. Giá khác nhau rất nhiều." },
+        { "vi": "Chờ đã — ngắn thêm một chút nữa.", "when_to_use_vi": "Hãy ngắt ngay khi có gì không đúng. Hoàn toàn bình thường." },
+        { "vi": "Thế là đủ ạ, cảm ơn.", "when_to_use_vi": "Dừng họ ở đó. Nói bình tĩnh thì đó chỉ là thông tin." },
+        { "vi": "Anh tỉa thưa ra một chút được không ạ?", "when_to_use_vi": "Cho tóc dày. Một yêu cầu phổ biến và dễ hiểu." },
+        { "vi": "Để tóc mái dài hơn nhé.", "when_to_use_vi": "Hãy nói rõ từng phần. Nó ngăn được thảm hoạ kinh điển." },
+        { "vi": "Tốt lắm, cảm ơn anh! Sáu tuần nữa tôi lại đặt hẹn.", "when_to_use_vi": "Đặt hẹn lúc bạn đang hài lòng và đang đứng ở đó. Dễ hơn nhiều so với để sau." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một lần cắt tóc, có mang ảnh",
+          "setting_vi": "Chiếc ghế. Duc mang theo một tấm ảnh và nói bằng xentimét.",
+          "note_vi": "Ảnh cộng con số cộng một lần chỉnh giữa lúc cắt. Đó là trọn bộ kỹ thuật.",
+          "lines": [
+            { "vi": "Chào mừng anh! Anh ngồi đi. Anh muốn kiểu gì ạ?" },
+            { "vi": "Chào chị! Tôi có ảnh — kiểu như thế này ạ." },
+            { "vi": "À, vâng. Tức là hai bên ngắn và phía trên dài hơn?" },
+            { "vi": "Chính xác. Hai bên tông đơ số ba, và phía trên cắt bớt khoảng hai xentimét." },
+            { "vi": "Tốt. Còn tóc mái thì sao ạ?" },
+            { "vi": "Để nó dài hơn nhé. Tôi thích như thế." },
+            { "vi": "Vâng. Mình gội đầu trước nhé?" },
+            { "vi": "Vâng cảm ơn. Và cái này bao nhiêu tiền ạ?" },
+            { "vi": "Ba mươi hai euro, đã gồm gội đầu ạ." },
+            { "vi": "Được." },
+            { "vi": "…Đó. Thế này ổn không ạ?" },
+            { "vi": "Chờ đã — hai bên ngắn thêm một chút nữa ạ." },
+            { "vi": "Tất nhiên rồi. …Thế này ạ?" },
+            { "vi": "Thế là đủ ạ, cảm ơn. Tốt lắm!" },
+            { "vi": "Anh thích là em vui rồi. Mình đặt luôn lịch lần sau nhé?" },
+            { "vi": "Vâng, sáu tuần nữa." }
+          ]
+        },
+        {
+          "title_vi": "Khách vãng lai, chỉ dẫn tối thiểu",
+          "setting_vi": "Không hẹn trước, không ảnh, và không tham vọng gì.",
+          "note_vi": "«Sama kuin viimeksi» và «siisti vaan» giữa hai câu đó đã bao phủ phần lớn các lần đi cắt.",
+          "lines": [
+            { "vi": "Chào anh! Hôm nay còn chỗ trống không ạ?" },
+            { "vi": "Có, mười lăm phút nữa. Được không ạ?" },
+            { "vi": "Được lắm. Cắt tóc bao nhiêu tiền ạ?" },
+            { "vi": "Hai mươi lăm. …Nào, mình làm gì đây?" },
+            { "vi": "Như lần trước ạ. Hoặc chỉ tỉa gọn thôi, đừng ngắn nhiều." },
+            { "vi": "Vâng. Râu nữa không ạ?" },
+            { "vi": "Vâng, tỉa cả râu luôn." },
+            { "vi": "…Xong. Anh nhìn gương xem." },
+            { "vi": "Tốt lắm, cảm ơn anh!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Có được kiểu tóc bạn muốn",
+          "scenario_vi": "Dùng ảnh và con số, hỏi giá, và chỉnh lại giữa lúc cắt.",
+          "your_role_vi": "Bạn, đang ngồi trên ghế",
+          "partner_role_vi": "Người thợ làm tóc",
+          "turns": [
+            { "vi": "Chào mừng anh! Anh muốn kiểu gì ạ?" },
+            { "vi": "Chào chị! Tôi có ảnh — kiểu như thế này ạ.", "hint_vi": "Mang một cái trên điện thoại. Nó giải quyết hẳn vấn đề từ vựng." },
+            { "vi": "Vâng. Tức là hai bên ngắn và phía trên dài hơn?" },
+            { "vi": "Chính xác. Hai bên tông đơ số ba, phía trên cắt bớt hai xentimét.", "hint_vi": "Con số hơn tính từ. Tông đơ theo số, độ dài theo xentimét." },
+            { "vi": "Tốt. Còn tóc mái thì sao ạ?" },
+            { "vi": "Để nó dài hơn nhé.", "hint_vi": "Hãy nói rõ từng phần. Nó ngăn được thảm hoạ kinh điển." },
+            { "vi": "Vâng. Mình gội đầu trước nhé?" },
+            { "vi": "Vâng cảm ơn. Và cái này bao nhiêu tiền ạ?", "hint_vi": "Hỏi trước khi cây kéo bắt đầu. Giá khác nhau rất nhiều." },
+            { "vi": "Ba mươi hai, gồm gội đầu. …Đó. Thế này ổn không ạ?" },
+            { "vi": "Chờ đã — hai bên ngắn thêm một chút nữa.", "hint_vi": "Ngắt ngay khi có gì không đúng. Hoàn toàn bình thường." },
+            { "vi": "Tất nhiên rồi. Thế này ạ?" },
+            { "vi": "Thế là đủ ạ, cảm ơn. Tốt lắm!", "hint_vi": "Dừng họ ở đó, rồi nói là bạn hài lòng. Cả hai đều quan trọng." }
+          ]
+        }
+      ]
+    },
+    "repairs-and-workmen": {
+      "lesson": {
+        "title_vi": "Sửa chữa và thợ đến nhà",
+        "subtitle_vi": "Mikä siinä on vikana? Paljonks se maksaa?",
+        "warmup_situation_vi": "Có thứ gì đó bị hỏng. Có người đang đến xem. Bạn phải mô tả một sự cố mà chính bạn cũng không hiểu hết, bằng một ngôn ngữ bạn cũng chưa nắm hết, rồi sau đó phải hiểu được một cái giá.",
+        "warmup_question_vi": "Bạn nói gì khi không gọi được tên vấn đề — và bạn hỏi gì trước khi công việc bắt đầu?",
+        "rescue_vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem.",
+        "rescue_note_vi": "Với một sự cố vật lý thì cho xem luôn hiệu quả hơn mô tả. Hãy nói câu này rồi làm hiện tượng đó ra — mở vòi nước, bấm cái nút, làm cho tiếng ồn xuất hiện. Người thợ chẩn đoán từ hành vi, không phải từ vốn từ của bạn."
+      },
+      "vocab": [
+        { "vi": "sửa chữa" }, { "vi": "việc sửa chữa" }, { "vi": "bảo dưỡng" }, { "vi": "thợ lắp đặt, kỹ thuật viên" },
+        { "vi": "thợ sửa ống nước" }, { "vi": "thợ điện" }, { "vi": "lỗi, sự cố" }, { "vi": "nó bị gì" },
+        { "vi": "bị hỏng" }, { "vi": "không hoạt động" },
+        { "vi": "chảy, rò rỉ", "note_vi": "«Hana vuotaa» = vòi nước bị rò. Hãy báo rò rỉ ngay lập tức." },
+        { "vi": "bị tắc", "note_vi": "«Viemäri on tukossa» = đường ống thoát bị tắc." },
+        { "vi": "đường ống thoát nước" }, { "vi": "vòi nước" }, { "vi": "hệ thống sưởi" }, { "vi": "lò sưởi, radiator" },
+        { "vi": "điện", "note_vi": "«Sähköt katkes» = mất điện." },
+        { "vi": "cầu chì" },
+        { "vi": "một tiếng kêu lạ", "note_vi": "Một cách chẩn đoán hoàn toàn hợp lệ. Rồi hãy bắt chước tiếng đó cho họ nghe." },
+        { "vi": "một cái mùi" }, { "vi": "nó bắt đầu khi nào" },
+        { "vi": "bản ước tính", "note_vi": "Hãy xin một bản bằng văn bản trước khi công việc bắt đầu. Luôn luôn." },
+        { "vi": "bản dự toán chi phí" },
+        { "vi": "phí theo giờ", "note_vi": "Thường 60–90 €/giờ cộng thuế. Hãy hỏi con số." },
+        { "vi": "phí đi lại", "note_vi": "Thường được tính riêng. Hãy hỏi." },
+        { "vi": "phụ tùng thay thế" }, { "vi": "bảo hành" },
+        { "vi": "khoản giảm thuế cho việc nhà", "note_vi": "Bạn được trừ một phần chi phí công vào thuế. Hãy xin hoá đơn tách khoản." },
+        { "vi": "hoá đơn" }, { "vi": "sự tách khoản chi tiết" }, { "vi": "giờ đó có được không" }
+      ],
+      "phrases": [
+        { "vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem.", "when_to_use_vi": "Rồi làm hiện tượng đó ra. Cho xem luôn hiệu quả hơn mô tả." },
+        { "vi": "Nó kêu một tiếng lạ. Kiểu như thế này.", "when_to_use_vi": "Hãy bắt chước tiếng đó. Thợ thật sự chẩn đoán được từ đó." },
+        { "vi": "Vòi nước trong bếp bị rò.", "when_to_use_vi": "Báo rò rỉ ngay — hư hại do nước leo thang rất nhanh và rất tốn kém." },
+        { "vi": "Đường ống thoát bị tắc.", "when_to_use_vi": "Rất thường gặp. Hãy nói rõ ống nào." },
+        { "vi": "Nó bắt đầu khoảng một tuần trước.", "when_to_use_vi": "Họ sẽ hỏi. Hãy chuẩn bị sẵn mốc thời gian." },
+        { "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?", "when_to_use_vi": "Luôn hỏi. Một yêu cầu hoàn toàn chuẩn mực và được mong đợi." },
+        { "vi": "Phí theo giờ của bên anh là bao nhiêu ạ?", "when_to_use_vi": "Hãy hỏi con số, và hỏi xem đã gồm thuế chưa." },
+        { "vi": "Có tính thêm phí đi lại không ạ?", "when_to_use_vi": "Thường là có, thành một khoản riêng. Hãy hỏi trước khi đặt hẹn." },
+        { "vi": "Mất bao lâu ạ?", "when_to_use_vi": "Để lên kế hoạch, và vì ở đây thời gian thường đồng nghĩa với tiền." },
+        { "vi": "Việc sửa có được bảo hành không ạ?", "when_to_use_vi": "Thường là có với phần công. Hãy để họ nói rõ ra." },
+        { "vi": "Tôi xin hoá đơn có tách khoản được không ạ?", "when_to_use_vi": "Cần cho khoản giảm thuế việc nhà. Hãy hỏi ngay từ đầu." },
+        { "vi": "Sáng thứ Năm có được không ạ?", "when_to_use_vi": "Hãy đề xuất một khung giờ cụ thể. Thợ hay nói khoảng; hãy chốt lại." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Gọi thợ sửa ống nước",
+          "setting_vi": "Một vòi nước bị rò. Duc mô tả bằng cách chỉ cho xem và hỏi về chi phí.",
+          "note_vi": "Dự toán, phí giờ, phí đi lại, hoá đơn tách khoản. Cả bốn trước khi đặt hẹn.",
+          "lines": [
+            { "vi": "Xin nghe, Dịch vụ nước và sưởi." },
+            { "vi": "Chào anh! Nhà tôi vòi nước bếp bị rò." },
+            { "vi": "Vâng. Nó rò ở vòi hay rò từ bên dưới, trong tủ ạ?" },
+            { "vi": "Tôi không chắc. Trong tủ có nước." },
+            { "vi": "Vâng, có thể là chỗ nối. Nó bắt đầu khi nào ạ?" },
+            { "vi": "Khoảng một tuần trước, nhưng giờ nặng hơn." },
+            { "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?" },
+            { "vi": "Được ạ. Tôi xem tại chỗ rồi báo giá trước khi làm." },
+            { "vi": "Tốt. Phí theo giờ của bên anh là bao nhiêu ạ?" },
+            { "vi": "Tám mươi euro một giờ, đã gồm thuế ạ." },
+            { "vi": "Có tính thêm phí đi lại không ạ?" },
+            { "vi": "Ba mươi euro một lần ạ." },
+            { "vi": "Vâng. Và tôi xin hoá đơn có tách khoản được không ạ? Tôi muốn khấu trừ thuế việc nhà." },
+            { "vi": "Tất nhiên rồi, bên tôi tách riêng công và vật liệu. Sáng thứ Năm có được không ạ?" },
+            { "vi": "Được. Chính xác mấy giờ ạ?" },
+            { "vi": "Khoảng từ tám đến mười giờ. Tôi gọi trước khi đến ạ." }
+          ]
+        },
+        {
+          "title_vi": "Cho xem thay vì mô tả",
+          "setting_vi": "Kỹ thuật viên đã đến. Duc không có từ, nên anh làm hiện tượng đó ra.",
+          "note_vi": "Anh bắt chước tiếng kêu và vặn cái núm. Chẩn đoán trong hai mươi giây.",
+          "lines": [
+            { "vi": "Chào anh! Nào, nó bị gì ạ?" },
+            { "vi": "Tôi không biết nó bị gì. Tôi chỉ cho anh xem." },
+            { "vi": "Khi tôi bật nó lên, nó kêu một tiếng lạ. Kiểu như thế này — rrrr." },
+            { "vi": "À. Thế cái lồng có quay không ạ?" },
+            { "vi": "Có quay một chút, nhưng chậm. Và có mùi lạ toả ra." },
+            { "vi": "Nghe như vòng bi. Tôi xem thử." },
+            { "vi": "Sửa cái đó có đắt không ạ?" },
+            { "vi": "Phụ tùng khoảng một trăm, công khoảng hai tiếng. Tôi báo giá chính xác khi mở nó ra." },
+            { "vi": "Vâng. Anh nói trước khi bắt đầu, để tôi quyết định." },
+            { "vi": "Tất nhiên rồi. Mà sửa có đáng không ạ? Máy này tám năm rồi." },
+            { "vi": "Câu hỏi hay đấy. Anh khuyên thế nào?" },
+            { "vi": "Nói thật: sửa bây giờ, nhưng chuẩn bị tinh thần mua máy mới trong vài năm tới." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đặt một lần sửa chữa với điều kiện tốt",
+          "scenario_vi": "Mô tả sự cố bằng cách cho xem, rồi lấy dự toán, phí giờ, phí đi lại và hoá đơn tách khoản.",
+          "your_role_vi": "Bạn, với một vòi nước bị rò",
+          "partner_role_vi": "Thợ sửa ống nước qua điện thoại",
+          "turns": [
+            { "vi": "Xin nghe, Dịch vụ nước và sưởi." },
+            { "vi": "Chào anh! Nhà tôi vòi nước bếp bị rò.", "hint_vi": "Báo rò rỉ ngay lập tức. Hư hại do nước leo thang rất nhanh." },
+            { "vi": "Nó rò ở vòi hay rò từ bên dưới ạ?" },
+            { "vi": "Tôi không chắc. Trong tủ có nước.", "hint_vi": "Mô tả điều bạn quan sát được, đừng mô tả điều bạn đoán là nguyên nhân." },
+            { "vi": "Vâng. Nó bắt đầu khi nào ạ?" },
+            { "vi": "Khoảng một tuần trước, nhưng giờ nặng hơn.", "hint_vi": "Mốc thời gian cộng chiều hướng. Cả hai đều quan trọng." },
+            { "vi": "Vâng, tôi đến xem." },
+            { "vi": "Tôi xin một bản dự toán trước khi các anh bắt đầu được không ạ?", "hint_vi": "Luôn hỏi. Hoàn toàn chuẩn mực và được mong đợi." },
+            { "vi": "Được, tôi báo giá trước khi làm. Phí giờ là 80 euro ạ." },
+            { "vi": "Có tính thêm phí đi lại không ạ?", "hint_vi": "Thường là có, thành khoản riêng. Hãy hỏi trước khi đặt hẹn." },
+            { "vi": "Ba mươi euro ạ." },
+            { "vi": "Vâng. Và tôi xin hoá đơn có tách khoản được không ạ?", "hint_vi": "Cần cho khoản giảm thuế việc nhà. Hãy hỏi ngay từ đầu." }
+          ]
+        }
+      ]
+    },
+    "transport": {
+      "lesson": {
+        "title_vi": "Xe hơi, xe buýt, tàu và taxi",
+        "subtitle_vi": "Vé, chậm chuyến và hỏi đường",
+        "warmup_situation_vi": "Màn hình báo tàu của bạn trễ 25 phút và một thứ gì nữa mà bạn không đọc được. Có một thông báo phát ra. Mọi người quanh bạn bắt đầu đi về phía một sân ga khác.",
+        "warmup_question_vi": "Bạn hỏi gì, và hỏi ai — khi rõ ràng mọi người khác biết điều gì đó mà bạn không biết?",
+        "rescue_vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.",
+        "rescue_note_vi": "Hãy hỏi người khách đứng gần nhất, đừng đi tìm nhân viên — họ ở gần hơn, họ vừa nghe được, và họ sẽ nói cho bạn. Người Phần Lan dè dặt trong việc mở lời nhưng thật sự sẵn lòng giúp khi được hỏi một câu thực tế trực tiếp."
+      },
+      "vocab": [
+        { "vi": "tàu hoả" }, { "vi": "xe buýt" }, { "vi": "tàu điện mặt đất" }, { "vi": "tàu điện ngầm" },
+        { "vi": "vé" }, { "vi": "vé lượt" }, { "vi": "vé theo kỳ" },
+        { "vi": "thẻ đi lại", "note_vi": "Ở Helsinki, app HSL phần lớn đã thay thế nó." },
+        { "vi": "vùng giá vé", "note_vi": "Helsinki có các vùng A–D. Mua đúng vùng, không thì bị phạt." },
+        { "vi": "nhân viên kiểm vé", "note_vi": "Tiền phạt là 80 €. Họ có kiểm tra thật." },
+        { "vi": "nhà ga" }, { "vi": "sân ga" }, { "vi": "đường ray" }, { "vi": "điểm dừng" },
+        { "vi": "đổi tuyến, chuyển xe" }, { "vi": "trễ, chậm" }, { "vi": "bị chậm" }, { "vi": "bị huỷ" },
+        { "vi": "phương tiện thay thế", "note_vi": "Thường là xe buýt. Hãy nghe từ này trong các thông báo." },
+        { "vi": "thời gian biểu" }, { "vi": "tiếp theo" }, { "vi": "khởi hành" }, { "vi": "đến" },
+        { "vi": "thông báo phát thanh" },
+        { "vi": "vé có chỗ ngồi", "note_vi": "Bắt buộc trên tàu đường dài. Số ghế ghi trên vé." },
+        { "vi": "toa tàu" }, { "vi": "taxi" }, { "vi": "điểm đón taxi" }, { "vi": "chuyến đi" },
+        { "vi": "chuyến đi bao nhiêu tiền", "note_vi": "Giá taxi ở đây khác nhau tuỳ hãng. Hãy hỏi trước khi lên xe." },
+        { "vi": "tắc đường" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.", "when_to_use_vi": "Hỏi người khách gần nhất. Họ vừa nghe được và sẽ nói cho bạn." },
+        { "vi": "Tàu đi Tampere khởi hành từ sân ga nào ạ?", "when_to_use_vi": "Sân ga có thay đổi, nhất là khi có chậm chuyến." },
+        { "vi": "Tàu này có bị chậm không ạ?", "when_to_use_vi": "Màn hình đôi khi chậm hơn thực tế. Hãy hỏi một người." },
+        { "vi": "Xe buýt này có đi trung tâm không ạ?", "when_to_use_vi": "Hỏi tài xế khi lên xe. Nhanh hơn đọc lộ trình." },
+        { "vi": "Tôi mua vé ở đâu ạ?", "when_to_use_vi": "Ở Helsinki thì dùng app. Nơi khác thì máy bán vé, kiosk hoặc tài xế." },
+        { "vi": "Tôi cần những vùng nào ạ?", "when_to_use_vi": "Hỏi trước khi đi. Tiền phạt sai vùng là 80 euro." },
+        { "vi": "Tôi phải đổi xe ở đâu ạ?", "when_to_use_vi": "Lấy tên điểm dừng, và tốt nhất là ghi lại." },
+        { "vi": "Còn bao nhiêu điểm dừng nữa ạ?", "when_to_use_vi": "Dễ theo hơn một tên phố mà bạn chưa nghe bao giờ." },
+        { "vi": "Anh nói giúp khi nào tới nhé?", "when_to_use_vi": "Hỏi tài xế. Họ thường sẽ nói, và họ nhớ." },
+        { "vi": "Chỗ này trống không ạ?", "when_to_use_vi": "Trên tàu. Ghế đã đặt được hiện trên màn hình nhỏ phía trên." },
+        { "vi": "Đi ra trung tâm bao nhiêu tiền ạ?", "when_to_use_vi": "Giá taxi ở đây khác nhau tuỳ hãng. Luôn hỏi trước khi lên xe." },
+        { "vi": "Lúc tắc đường thì mất bao lâu ạ?", "when_to_use_vi": "Cho taxi và để lên kế hoạch. Bạn sẽ nhận được ước tính thật." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một chuyến chậm và một lần đổi sân ga",
+          "setting_vi": "Nhà ga chính. Một thông báo mà Duc không nghe được, và mọi người đang di chuyển.",
+          "note_vi": "Anh hỏi người khách gần nhất thay vì đi tìm nhân viên. Nhanh hơn nhiều.",
+          "lines": [
+            { "vi": "Xin chú ý! Tàu số 74 đi Tampere hôm nay khởi hành từ đường ray số chín, không phải đường ray số ba." },
+            { "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được." },
+            { "vi": "Tàu Tampere đi từ đường ray số chín. Nó đổi rồi." },
+            { "vi": "À, cảm ơn anh! Nó có bị chậm không ạ?" },
+            { "vi": "Có, khoảng hai mươi phút." },
+            { "vi": "Vâng. Đường ray số chín ở đâu ạ?" },
+            { "vi": "Ở phía cuối kia, rẽ trái. Tôi cũng đi đường đó, anh đi theo tôi." },
+            { "vi": "Cảm ơn anh nhiều!" },
+            { "vi": "Xin lỗi thêm một câu — tôi có vé chỗ ngồi ở toa số 5. Nó ở đâu ạ?" },
+            { "vi": "Số toa ghi ở cửa. Toa số năm thường ở giữa." },
+            { "vi": "Biết vậy hay. Cảm ơn anh đã giúp!" }
+          ]
+        },
+        {
+          "title_vi": "Xe buýt, vùng giá vé và một chuyến taxi",
+          "setting_vi": "Ba đoạn trao đổi ngắn. Vùng giá vé quan trọng; tiền phạt là 80 euro.",
+          "note_vi": "Hỏi tài xế khi lên xe nhanh hơn đọc bất kỳ bản đồ lộ trình nào.",
+          "lines": [
+            { "vi": "Chào anh! Xe buýt này có đi trung tâm không ạ?" },
+            { "vi": "Có ạ. Anh có vé chưa?" },
+            { "vi": "Chưa. Tôi cần những vùng nào ạ?" },
+            { "vi": "AB là đủ. Anh mua trên app, rẻ hơn ạ." },
+            { "vi": "Vâng. Và anh nói giúp khi nào tới nhé?" },
+            { "vi": "Được, tôi sẽ nói ạ." },
+            { "vi": "Chào anh! Đi ra ga tàu bao nhiêu tiền ạ?" },
+            { "vi": "Khoảng hai mươi lăm euro. Ba mươi nếu tắc đường ạ." },
+            { "vi": "Giờ này thì mất bao lâu ạ?" },
+            { "vi": "Mười lăm phút, vào giờ này. Thẻ được không ạ?" },
+            { "vi": "Được. Đi thôi!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xử lý một chuyến chậm và một lần đổi sân ga",
+          "scenario_vi": "Hỏi một khách khác xem vừa thông báo gì, rồi tìm sân ga và toa của bạn.",
+          "your_role_vi": "Bạn, ở sảnh nhà ga",
+          "partner_role_vi": "Một hành khách khác",
+          "turns": [
+            { "vi": "Xin chú ý! Tàu đi Tampere khởi hành từ đường ray số chín." },
+            { "vi": "Xin lỗi, họ vừa nói gì ạ? Tôi không nghe được.", "hint_vi": "Hỏi người khách gần nhất. Họ vừa nghe được." },
+            { "vi": "Tàu Tampere đi từ đường ray số chín. Nó đổi rồi." },
+            { "vi": "À, cảm ơn anh! Nó có bị chậm không ạ?", "hint_vi": "Hỏi câu thứ hai khi họ còn ở đó." },
+            { "vi": "Có, khoảng hai mươi phút." },
+            { "vi": "Vâng. Đường ray số chín ở đâu ạ?", "hint_vi": "Thực tế và cụ thể. Họ sẽ chỉ hoặc dẫn bạn đi." },
+            { "vi": "Ở phía cuối kia, rẽ trái." },
+            { "vi": "Cảm ơn anh! Tôi có vé chỗ ngồi ở toa số 5 — nó ở đâu ạ?", "hint_vi": "Vé chỗ ngồi là bắt buộc trên tàu đường dài." },
+            { "vi": "Số toa ghi ở cửa. Toa năm ở giữa." },
+            { "vi": "Biết vậy hay. Cảm ơn anh đã giúp!", "hint_vi": "Họ đã đi thêm một bước vì bạn. Hãy ghi nhận nó." }
+          ]
+        }
+      ]
+    }
+  }
+}

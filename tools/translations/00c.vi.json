@@ -1,0 +1,110 @@
+{
+  "lessons": {
+    "sounds-instead-of-words": {
+      "lesson": {
+        "title_vi": "Những tiếng người Phần Lan phát ra thay cho từ ngữ",
+        "subtitle_vi": "Nii. Joo-o. Öö. No niin.",
+        "warmup_situation_vi": "Bạn kể một câu chuyện. Người kia không nói gì ngoài «Nii.» … «Nii.» … «Ai jaa.» Bạn nghĩ họ chán rồi nên ngừng kể.",
+        "warmup_question_vi": "Họ chán thật — hay đó chính là cái gật đầu kiểu Phần Lan?",
+        "rescue_vi": "Ừ… vâng. Ừm, chờ chút.",
+        "rescue_note_vi": "Đây không phải từ đệm đáng xấu hổ. Đây là cách bạn giữ lượt nói trong khi đầu đang ráp một câu tiếng Phần Lan. Im lặng khiến người ta chuyển sang tiếng Anh; «öö» thì không."
+      },
+      "vocab": [
+        { "vi": "ừ / ờ / vâng", "note_vi": "Từ chủ lực. Nghĩa là «tôi đang nghe, kể tiếp đi». Không phải đồng ý, chỉ là có mặt." },
+        { "vi": "ừừ… (chưa xuôi tai)", "note_vi": "Cùng một từ, kéo dài và hạ giọng. Nghĩa là «hừm, tôi không chắc lắm»." },
+        { "vi": "ừ, vâng", "note_vi": "Có, thân mật. «Kyllä» là bản trang trọng và nghe nhấn mạnh khi nói." },
+        { "vi": "ờ thì… vâng (miễn cưỡng)", "note_vi": "joo kéo dài = «đồng ý nhưng tôi có điều chưa thông». Hãy nghe nó trước khi người ta phản đối." },
+        { "vi": "à / ra vậy", "note_vi": "Không phải «vâng»! Cẩn thận — «jaa» trong tiếng Đức là «có», nhưng trong tiếng Phần Lan là «à, ra vậy»." },
+        { "vi": "hừm, để tôi nghĩ", "note_vi": "Nói trong lúc suy nghĩ. Mua thời gian." },
+        { "vi": "ồ, à", "note_vi": "Bất ngờ. «Ai, oikeesti?» = Ồ, thật à?" },
+        { "vi": "ồ thế à / à vậy hả", "note_vi": "Quan tâm vừa phải. Phản ứng phổ biến nhất trong chuyện phiếm tiếng Phần Lan." },
+        { "vi": "ồ thật á?!", "note_vi": "Lên giọng là bất ngờ thật sự." },
+        { "vi": "ừm, à", "note_vi": "Từ «um» của tiếng Phần Lan. Cứ dùng thoải mái — nghe rất bản xứ, mà đúng là bản xứ." },
+        { "vi": "ừm, thì, kiểu như", "note_vi": "Từ dùng để nghĩ. Bắt đầu câu bằng nó là bạn nghe như đang tìm chữ, chứ không phải đang bí." },
+        { "vi": "thì, à", "note_vi": "Mở đầu phần lớn câu nói. «No mitä kuuluu?» «No joo.» Không phải «no» phủ định của tiếng Anh." },
+        { "vi": "thôi được rồi / vậy nhé / xong", "note_vi": "Cụm linh hoạt nhất tiếng Phần Lan. Mở đầu, kết thúc, dỗ trẻ con, và cả «đã bảo rồi mà»." },
+        { "vi": "thôi… chuyển chuyện khác nào", "note_vi": "Kéo dài = «đổi chủ đề đi» hoặc «bắt đầu thôi»." },
+        { "vi": "đúng, chính xác", "note_vi": "Đọc là «yust»." },
+        { "vi": "à ra vậy / ừ, sao cũng được", "note_vi": "Ấm áp hay mỉa mai hoàn toàn tuỳ ngữ điệu. Nghe kỹ trước khi dùng." },
+        { "vi": "được, ok" },
+        { "vi": "ừm", "note_vi": "Thuần tuý là tiếng đang nghe. Rất hay gặp khi gọi điện thoại." },
+        { "vi": "có chứ, chắc chắn", "note_vi": "«Kyl mä tiiän» = tôi biết chứ." },
+        { "vi": "à không, ý tôi là", "note_vi": "Tự sửa lời. «Kuudelta, eiku seittemältä.» Tuyệt đối thiết yếu với người học." },
+        { "vi": "kiểu như", "note_vi": "Giống hệt «like» trong tiếng Anh. Cùng chức năng, cùng tần suất, cùng tiếng xấu nhè nhẹ." },
+        { "vi": "ý tôi là, tức là", "note_vi": "Để làm rõ. «Siis mä tarkotin…» = ý tôi là, tôi muốn nói…" },
+        { "vi": "vậy à", "note_vi": "Phản ứng với tin tức. Trung tính đến hơi nể." },
+        { "vi": "trời đất / ôi chao", "note_vi": "Hốt hoảng nhẹ. An toàn trong mọi hoàn cảnh." }
+      ],
+      "phrases": [
+        { "vi": "Ừ, ừ. Kể tiếp đi.", "when_to_use_vi": "Nghe chủ động. Cứ vài câu lại «nii» một cái, không thì người kể tưởng bạn đơ rồi." },
+        { "vi": "Ồ thế à, thật không?", "when_to_use_vi": "Phản ứng mặc định với mọi tin tức. Dùng được cho cả việc mới lẫn thời tiết xấu." },
+        { "vi": "Thôi nào, đi thôi!", "when_to_use_vi": "«No niin» + hành động = lùa cả nhóm đứng dậy." },
+        { "vi": "Ừm… để tôi nghĩ một chút.", "when_to_use_vi": "Giữ lượt nói trong lúc dựng câu. Tốt hơn im lặng rất nhiều." },
+        { "vi": "Ừm, nói thế nào nhỉ…", "when_to_use_vi": "Bạn có ý nhưng chưa có chữ. Người Phần Lan cũng làm thế suốt." },
+        { "vi": "À không, ý tôi là sáu giờ.", "when_to_use_vi": "Sửa mình giữa câu. «Eiku» là công cụ sửa lỗi nhanh nhất trong tiếng này." },
+        { "vi": "Ờ thì, vâng, nhưng mà…", "when_to_use_vi": "Phản đối nhẹ nhàng. Chữ joo kéo dài đã làm hết phần làm mềm cho bạn." },
+        { "vi": "À ra thế, giờ thì tôi hiểu rồi.", "when_to_use_vi": "Khoảnh khắc mọi thứ vỡ ra. Nói rất đã." },
+        { "vi": "Ý tôi là, bạn muốn nói gì cơ?", "when_to_use_vi": "Xin làm rõ mà không nghe như bạn bị hụt về ngôn ngữ." },
+        { "vi": "Vậy à. Tôi không biết đấy.", "when_to_use_vi": "Tiếp nhận thông tin. Lịch sự, quan tâm vừa phải, rất Phần Lan." },
+        { "vi": "Thì, nó kiểu như, hơi khó giải thích.", "when_to_use_vi": "Ba từ đệm trong một câu mà nghe hoàn toàn bản xứ." },
+        { "vi": "Ừm. Đời là thế.", "when_to_use_vi": "Đồng tình với một lời than về thời tiết, giá cả hay thủ tục hành chính. Cả nước đều mê câu này." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một câu chuyện, và người nghe",
+          "setting_vi": "Duc kể Anni nghe về cuối tuần của mình. Hãy xem Anni đóng góp những gì.",
+          "note_vi": "Anni gần như không nói gì — mà vẫn hoàn toàn nhập cuộc. Đó là kiểu lắng nghe của người Phần Lan.",
+          "lines": [
+            { "vi": "Cuối tuần bọn tôi đi nhà gỗ." },
+            { "vi": "Ồ thế à." },
+            { "vi": "Ừ, vui lắm. Nhưng mà mưa suốt." },
+            { "vi": "Ừ, ừm." },
+            { "vi": "Rồi cái phòng sauna lại hỏng." },
+            { "vi": "Không thể nào! Thế các bạn làm gì?", "note_vi": "«Ei oo totta» — câu trọn vẹn đầu tiên, để dành cho tin thật sự." },
+            { "vi": "Thì, bọn tôi sửa. Mất ba tiếng." },
+            { "vi": "Trời đất. Thế rồi nó chạy chứ?" },
+            { "vi": "Chạy! Và đó là buổi sauna ngon nhất từ trước đến giờ." },
+            { "vi": "À ra vậy. Thôi, đời là thế mà." }
+          ]
+        },
+        {
+          "title_vi": "Nghĩ thành tiếng",
+          "setting_vi": "Duc bị hỏi một câu chưa từng nghĩ tới. Anh vẫn trả lời.",
+          "note_vi": "Đếm số từ đệm. Đây mới là cái mà sự trôi chảy nghe ra — không phải nhanh, mà là không đứt.",
+          "lines": [
+            { "vi": "Theo bạn điều tuyệt nhất ở Phần Lan là gì?" },
+            { "vi": "Ừm… hừm. Câu hỏi hay đấy.", "note_vi": "Mua được ba giây, không cần đến tiếng Anh." },
+            { "vi": "Ừm, tôi sẽ nói là… thì, sự yên bình." },
+            { "vi": "Ừ?", "note_vi": "Một âm tiết mang nghĩa «kể tiếp đi»." },
+            { "vi": "Ừ, ý tôi là kiểu như, rừng lúc nào cũng ở gần. À không, tôi không chỉ nói về rừng đâu." },
+            { "vi": "Ừm." },
+            { "vi": "Mà là chuyện… không ai vội vã suốt ngày. Bạn hiểu không?" },
+            { "vi": "Ừ, tôi hiểu chứ. Đời là thế mà." },
+            { "vi": "Vậy đó. Đó là câu trả lời của tôi." },
+            { "vi": "Câu trả lời hay. Mà bạn nói y như người Phần Lan." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Làm người nghe",
+          "scenario_vi": "Ai đó kể cho bạn nghe về tuần của họ. Việc duy nhất của bạn là giữ cho họ kể tiếp mà không cướp lời.",
+          "your_role_vi": "Bạn, đang lắng nghe",
+          "partner_role_vi": "Anni, đang kể chuyện",
+          "turns": [
+            { "vi": "Tuần vừa rồi của tôi điên rồ luôn." },
+            { "vi": "Ồ thế à? Chuyện gì vậy?", "hint_vi": "Phản ứng, rồi mở cửa cho họ kể." },
+            { "vi": "Thì, thứ hai xe nhà tôi hỏng." },
+            { "vi": "Ôi không. Rồi sao?", "hint_vi": "Thông cảm cộng một âm tiết để họ kể tiếp." },
+            { "vi": "Rồi thứ ba máy tính tôi cũng hỏng luôn." },
+            { "vi": "Không thể nào! Trời đất.", "hint_vi": "Đẩy phản ứng mạnh hơn — câu chuyện đang leo thang." },
+            { "vi": "Nhưng thứ năm thì tôi nhận được chỗ làm mới ấy." },
+            { "vi": "Thật á? Chúc mừng nhé!", "hint_vi": "Bất ngờ, rồi chúc mừng." },
+            { "vi": "Cảm ơn! Nói chung là một tuần điên rồ." },
+            { "vi": "Thôi vậy là ổn, mà kết thúc đẹp đấy!", "hint_vi": "Đóng câu chuyện bằng «no niin» và một lời tổng kết tích cực." }
+          ]
+        }
+      ]
+    }
+  }
+}

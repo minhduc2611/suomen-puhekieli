@@ -1,0 +1,209 @@
+{
+  "module": {
+    "title_vi": "Hàng xóm và chuyện nhà ở",
+    "subtitle_vi": "Sống trong một taloyhtiö mà không có những khoảng lặng khó xử.",
+    "description_vi": "Một toà nhà chung cư Phần Lan vận hành bằng quy định viết ra, lịch phân công chung và rất nhiều sự im lặng. Chương này bao gồm lời chào ở cầu thang — kể cả khi nào thì không chào — lịch sauna và phòng giặt, báo sự cố cho bên bảo trì, nói thẳng với hàng xóm về tiếng ồn và chỗ đỗ xe, và giấy tờ khi dọn vào và dọn ra. Chủ đề xuyên suốt: gần như mọi vấn đề ở đây đều được giải quyết bằng một tin nhắn ngắn gửi đúng người."
+  },
+  "lessons": {
+    "stairwell-greetings": {
+      "lesson": {
+        "title_vi": "Chào hỏi ở cầu thang",
+        "subtitle_vi": "Và khi nào người Phần Lan không chào",
+        "warmup_situation_vi": "Bạn gặp một người hàng xóm trong thang máy. Bạn nói «moi». Họ nói «moi». Rồi mười một tầng im lặng hoàn toàn, và bạn dành suốt quãng đó để tự hỏi mình đã làm gì sai.",
+        "warmup_question_vi": "Bạn có làm gì sai không? Quy tắc thật sự về việc chào hỏi ở cầu thang Phần Lan là gì?",
+        "rescue_vi": "Chào! …Hôm nay ở đây yên tĩnh thật.",
+        "rescue_note_vi": "Nếu sự im lặng thật sự làm bạn khó chịu, một lời nhận xét nhẹ về toà nhà hoặc thời tiết lúc nào cũng có sẵn và lúc nào cũng an toàn. Nhưng bạn không có nghĩa vụ phải lấp nó, và họ cũng vậy — sự im lặng không phải một lời phán xét về bạn."
+      },
+      "vocab": [
+        { "vi": "công ty nhà ở (chủ sở hữu toà nhà)", "note_vi": "Pháp nhân sở hữu toà nhà. Bạn sẽ nghe từ này liên tục." },
+        { "vi": "lồng cầu thang" }, { "vi": "hành lang cầu thang" }, { "vi": "lồng cầu thang" },
+        { "vi": "thang máy" }, { "vi": "người hàng xóm" }, { "vi": "hàng xóm tầng trên" },
+        { "vi": "hàng xóm tầng dưới" }, { "vi": "đối diện" }, { "vi": "chào hỏi" },
+        { "vi": "gật đầu", "note_vi": "Một cái gật đầu ở đây là một lời chào trọn vẹn. Nó không phải sự bất lịch sự." },
+        { "vi": "sự im lặng" }, { "vi": "lịch sự" },
+        { "vi": "sự riêng tư", "note_vi": "Giá trị nằm sau sự im lặng. Không bắt chuyện là đang tôn trọng không gian của bạn." },
+        { "vi": "chuyện phiếm ngắn" }, { "vi": "một khuôn mặt quen" }, { "vi": "dọn vào toà nhà" },
+        { "vi": "người ở, cư dân" }, { "vi": "tầng" }, { "vi": "cửa" }, { "vi": "chuông cửa" },
+        { "vi": "bảng tên", "note_vi": "Trên cửa và trên bảng ở dưới nhà. Hãy nhờ isännöitsijä thêm tên bạn." },
+        { "vi": "bảng thông báo", "note_vi": "Ở lồng cầu thang. Hãy đọc nó — đây là cách toà nhà nói chuyện với bạn." },
+        { "vi": "thông báo" }, { "vi": "giúp một tay" },
+        { "vi": "giữ cửa", "note_vi": "Luôn làm việc này. Đây là một trong vài phép lịch sự rõ ràng không mơ hồ ở đây." },
+        { "vi": "mang, xách" }, { "vi": "tự giới thiệu" }, { "vi": "lâu rồi mới gặp" }
+      ],
+      "phrases": [
+        { "vi": "Chào!", "when_to_use_vi": "Lời chào trọn vẹn ở cầu thang. Không cần và không ai mong gì hơn." },
+        { "vi": "Chào bác.", "when_to_use_vi": "Trang trọng hơn một chút, hay dùng với hàng xóm lớn tuổi. Cả hai đều ổn." },
+        { "vi": "Chào bác, cháu là Duc, cháu mới dọn vào tầng ba.", "when_to_use_vi": "Đáng nói một lần, với những hàng xóm bạn sẽ gặp thật." },
+        { "vi": "Hôm nay lạnh thật đấy!", "when_to_use_vi": "Câu nhận xét an toàn trong thang máy nếu bạn muốn nói gì. Không ai phiền." },
+        { "vi": "Tôi giữ cửa cho.", "when_to_use_vi": "Luôn làm việc này. Một trong vài phép lịch sự rõ ràng ở đây." },
+        { "vi": "Bác có cần giúp mấy thứ đó không?", "when_to_use_vi": "Cho người đang vất vả với đồ mua hoặc đồ nội thất. Ngỏ ý một lần." },
+        { "vi": "Cảm ơn, tôi xoay được.", "when_to_use_vi": "Cách người ta thường từ chối. Đừng nài thêm sau câu này." },
+        { "vi": "Xin lỗi, anh ở toà nhà này không ạ?", "when_to_use_vi": "Cho một người lạ ở cửa. Kiểm tra một cách lịch sự trước khi cho vào." },
+        { "vi": "Gặp lại nhé!", "when_to_use_vi": "Lúc ra khỏi thang máy. Hai âm tiết và cuộc tương tác hoàn tất." },
+        { "vi": "Lâu rồi mới gặp!", "when_to_use_vi": "Cho một người hàng xóm mấy tháng không gặp. Thật sự ấm áp." },
+        { "vi": "Bác có thấy thông báo trên bảng chưa?", "when_to_use_vi": "Một câu mở đầu thật giữa các hàng xóm. Ai cũng đọc cái bảng đó." },
+        { "vi": "Chúc bác một ngày tốt lành!", "when_to_use_vi": "Câu chia tay ở cầu thang ấm áp nhất có sẵn. Được dùng nhiều." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mười một tầng im lặng, và vì sao thế là ổn",
+          "setting_vi": "Một cái thang máy. Hai người hàng xóm, mỗi người một lời chào, rồi không gì cả.",
+          "note_vi": "Đây là một cuộc tương tác xã giao hoàn toàn thành công ở Phần Lan. Không có gì sai cả.",
+          "lines": [
+            { "vi": "Chào." },
+            { "vi": "Chào." },
+            { "vi": "…", "note_vi": "Mười một tầng. Không ai thấy khó chịu ngoại trừ có thể là bạn." },
+            { "vi": "Gặp lại nhé." },
+            { "vi": "Gặp lại nhé!" },
+            { "vi": "Chào bác! À, cháu là Duc — cháu mới dọn vào tầng ba.", "note_vi": "Một tuần sau, anh tự giới thiệu đàng hoàng. Điều này được hoan nghênh." },
+            { "vi": "Ồ hay quá, chào mừng cháu! Bác là Eeva, bác ở tầng bốn." },
+            { "vi": "Rất vui được làm quen. Toà nhà này có tốt không ạ?" },
+            { "vi": "Tốt, rất yên tĩnh. Cháu cứ đọc bảng thông báo, mọi thứ quan trọng đều ở trên đó." },
+            { "vi": "Vâng, cảm ơn bác đã chỉ!" },
+            { "vi": "Và cần gì thì cháu cứ nói. Bác thường ở nhà." },
+            { "vi": "Cảm ơn bác, bác tốt quá. Chúc bác một ngày tốt lành!" }
+          ]
+        },
+        {
+          "title_vi": "Cửa, đồ mua và một người lạ",
+          "setting_vi": "Ba khoảnh khắc ngắn ở cầu thang trong một tuần.",
+          "note_vi": "Giữ cửa và ngỏ ý giúp một lần là hai phép lịch sự thật sự. Cả hai đều ngắn.",
+          "lines": [
+            { "vi": "Chào bác! Cháu giữ cửa cho." },
+            { "vi": "Cảm ơn cháu!" },
+            { "vi": "Bác có cần giúp mấy cái túi đó không?" },
+            { "vi": "Cảm ơn, bác xoay được. Nhưng cháu hỏi thế là tốt." },
+            { "vi": "Vâng. Gặp lại bác nhé!" },
+            { "vi": "Xin lỗi, anh ở toà nhà này không ạ?" },
+            { "vi": "Không, tôi đến thăm nhà Virtanen. Tầng bốn." },
+            { "vi": "À, vâng. Anh cứ bấm chuông, cái bên trái ấy." },
+            { "vi": "Cảm ơn anh!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Tự giới thiệu với một người hàng xóm",
+          "scenario_vi": "Chào, tự giới thiệu đàng hoàng một lần, và học được điều gì hữu ích về toà nhà.",
+          "your_role_vi": "Bạn, mới ở toà nhà",
+          "partner_role_vi": "Eeva, ở tầng bốn",
+          "turns": [
+            { "vi": "Chào." },
+            { "vi": "Chào bác! À, cháu là Duc — cháu mới dọn vào tầng ba.", "hint_vi": "Đáng làm một lần. Nói tên và tầng của bạn." },
+            { "vi": "Ồ hay quá, chào mừng! Bác là Eeva, tầng bốn." },
+            { "vi": "Rất vui được làm quen. Toà nhà này có tốt không ạ?", "hint_vi": "Một câu hỏi thật, và bạn sẽ nhận được câu trả lời hữu ích." },
+            { "vi": "Tốt, rất yên tĩnh. Cháu cứ đọc bảng thông báo." },
+            { "vi": "Vâng, cảm ơn bác đã chỉ!", "hint_vi": "Bảng thông báo thật sự là cách toà nhà nói chuyện với bạn." },
+            { "vi": "Và cần gì thì cháu cứ nói." },
+            { "vi": "Cảm ơn bác, bác tốt quá. Chúc bác một ngày tốt lành!", "hint_vi": "Kết lại một cách ấm áp và ngắn gọn. Đó là toàn bộ hình thức." }
+          ]
+        }
+      ]
+    },
+    "shared-spaces": {
+      "lesson": {
+        "title_vi": "Lượt sauna, phòng giặt và không gian chung",
+        "subtitle_vi": "Vuorolistat, pesutupa ja varaukset",
+        "warmup_situation_vi": "Có một phòng sauna ở tầng hầm, một phòng giặt bên cạnh, và một tờ đăng ký trên tường với một hệ thống bạn không nhận ra. Mọi người khác đều có suất. Bạn thì không.",
+        "warmup_question_vi": "Bạn lấy suất thế nào — và ai quản tờ giấy đó?",
+        "rescue_vi": "Mấy lượt này đặt thế nào ạ?",
+        "rescue_note_vi": "Hãy hỏi bất cứ người hàng xóm nào thay vì nghiên cứu tờ giấy. Mỗi toà nhà làm hơi khác nhau — một tờ giấy, một cuộc gọi cho isännöitsijä, hoặc một cái app — và một người hàng xóm sẽ giải thích hệ thống địa phương trong một câu."
+      },
+      "vocab": [
+        { "vi": "phòng giặt chung", "note_vi": "Dùng chung, phải đặt lượt, và rẻ hơn nhiều so với tự mua máy." },
+        { "vi": "lượt dùng phòng giặt" }, { "vi": "phòng sấy" },
+        { "vi": "máy là ép, máy cán", "note_vi": "Vẫn phổ biến trong phòng giặt Phần Lan. Dùng cho ga giường." },
+        { "vi": "phòng sauna của toà nhà", "note_vi": "Phần lớn toà nhà đều có. Thường miễn phí hoặc vài euro một tháng." },
+        { "vi": "lượt sauna" }, { "vi": "danh sách phân lượt" }, { "vi": "đặt lượt" }, { "vi": "lượt đã đặt" },
+        { "vi": "huỷ" }, { "vi": "lượt còn trống" },
+        { "vi": "lượt cố định hằng tuần", "note_vi": "Một số cư dân có lượt cố định. Hãy hỏi xem còn lượt nào trống." },
+        { "vi": "mặt đồng hồ đặt lượt", "note_vi": "Một cái núm xoay kiểu cũ trên tường. Một số toà nhà vẫn dùng." },
+        { "vi": "người quản lý toà nhà", "note_vi": "Người điều hành phần hành chính của toà nhà. Hãy biết đó là ai." },
+        { "vi": "công ty bảo trì" }, { "vi": "tầng hầm" },
+        { "vi": "phòng kho", "note_vi": "Mỗi căn hộ có một phòng. Phòng của bạn được đánh số trùng với số căn hộ." },
+        { "vi": "kho dạng lồng lưới" }, { "vi": "kho để xe đạp" }, { "vi": "kho đồ ngoài trời" },
+        { "vi": "nhà để rác" },
+        { "vi": "việc phân loại rác", "note_vi": "Hữu cơ, giấy, bìa, thuỷ tinh, kim loại, nhựa, rác chung. Hãy làm nghiêm túc." },
+        { "vi": "rác hữu cơ" }, { "vi": "bìa carton" }, { "vi": "rác chung" },
+        { "vi": "ngày lao động chung ở sân", "note_vi": "Một hoặc hai lần một năm. Đến một lần là bạn thành người được biết mặt." },
+        { "vi": "đại hội thường niên của toà nhà", "note_vi": "Nơi các quyết định về toà nhà được đưa ra. Đáng dự một lần." },
+        { "vi": "nội quy toà nhà", "note_vi": "Dán ở lồng cầu thang. Hãy đọc một lần, đọc đàng hoàng." },
+        { "vi": "giờ yên tĩnh bắt đầu", "note_vi": "Thường là 22:00. Điều này thật sự được thực thi." }
+      ],
+      "phrases": [
+        { "vi": "Mấy lượt này đặt thế nào ạ?", "when_to_use_vi": "Hỏi một người hàng xóm. Mỗi toà nhà làm hơi khác nhau." },
+        { "vi": "Phòng giặt còn lượt trống không ạ?", "when_to_use_vi": "Đôi khi danh sách đầy hai tuần. Đáng biết sớm." },
+        { "vi": "Tôi đặt thứ Bảy hai giờ.", "when_to_use_vi": "Ghi tên và số căn hộ của bạn lên tờ giấy." },
+        { "vi": "Toà nhà có phòng sauna không ạ?", "when_to_use_vi": "Phần lớn đều có. Thường miễn phí hoặc một khoản phí tháng nhỏ." },
+        { "vi": "Một lượt sauna một tháng bao nhiêu ạ?", "when_to_use_vi": "Thường 5–15 euro. Hãy hỏi isännöitsijä." },
+        { "vi": "Người quản lý toà nhà của mình là ai ạ?", "when_to_use_vi": "Hãy biết điều này sớm. Họ giải quyết phần lớn vấn đề của toà nhà." },
+        { "vi": "Phòng kho của tôi ở đâu ạ?", "when_to_use_vi": "Nó được đánh số trùng với căn hộ của bạn. Hỏi nếu không tìm được." },
+        { "vi": "Bìa carton bỏ ở đâu ạ?", "when_to_use_vi": "Việc phân loại rác ở đây được coi trọng. Hãy hỏi thay vì đoán." },
+        { "vi": "Giờ yên tĩnh bắt đầu lúc mấy giờ ạ?", "when_to_use_vi": "Thường 22:00, và nó thật sự được thực thi. Hãy biết nó." },
+        { "vi": "Ngày lao động ở sân là khi nào ạ?", "when_to_use_vi": "Đến một lần mỗi năm. Nó làm bạn thành một cư dân được biết và được tin." },
+        { "vi": "Tôi không dùng được lượt của tôi — bạn lấy nhé?", "when_to_use_vi": "Nhường lượt không dùng cho hàng xóm. Luôn được trân trọng." },
+        { "vi": "Nội quy toà nhà ở đâu ạ?", "when_to_use_vi": "Trên bảng ở cầu thang. Hãy đọc một lần, đọc đàng hoàng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Tìm hiểu hệ thống đặt lượt",
+          "setting_vi": "Tầng hầm. Một tờ giấy, một cái núm trên tường, và một người hàng xóm biết chuyện.",
+          "note_vi": "Một câu hỏi với người hàng xóm thay thế hai mươi phút nhìn tờ giấy.",
+          "lines": [
+            { "vi": "Chào bác! Xin lỗi — mấy lượt này đặt thế nào ạ?" },
+            { "vi": "Chào cháu! Phòng giặt thì ở danh sách kia. Cháu chỉ cần ghi tên và số căn hộ." },
+            { "vi": "Vâng, dễ. Còn lượt trống không ạ?" },
+            { "vi": "Sáng thứ Bảy còn trống. Buổi chiều thì hết nhanh." },
+            { "vi": "Cháu lấy sáng thứ Bảy. Còn sauna thì sao ạ?" },
+            { "vi": "Sauna là chuyện khác. Lượt đó đặt với người quản lý toà nhà, và là lượt cố định." },
+            { "vi": "À, lượt cố định. Một tháng bao nhiêu ạ?" },
+            { "vi": "Mười euro. Nó tính kèm vào phí bảo trì." },
+            { "vi": "Vâng. Người quản lý toà nhà của mình là ai ạ?" },
+            { "vi": "Kiinteistö-Palvelu, số điện thoại ở trên bảng thông báo." },
+            { "vi": "Cảm ơn bác! Và còn một câu nữa — phòng kho của cháu ở đâu ạ?" },
+            { "vi": "Ở tầng hầm, cùng số với căn hộ cháu. Lồng số 12." },
+            { "vi": "Tuyệt vời. Cảm ơn bác nhiều!" }
+          ]
+        },
+        {
+          "title_vi": "Rác, giờ yên tĩnh và ngày lao động ở sân",
+          "setting_vi": "Cạnh nhà để rác. Ba câu hỏi thực tế.",
+          "note_vi": "Phân loại rác và giờ yên tĩnh là hai quy định thật sự quan trọng ở đây.",
+          "lines": [
+            { "vi": "Chào bác! Bìa carton bỏ ở đâu ạ?" },
+            { "vi": "Vào cái thùng to có chữ «kartonki». Và nhớ gấp dẹp lại." },
+            { "vi": "Vâng. Còn rác hữu cơ ạ?" },
+            { "vi": "Thùng nâu, bên trái. Dùng túi phân huỷ nhé." },
+            { "vi": "Cảm ơn bác. Và giờ yên tĩnh bắt đầu lúc mấy giờ ạ?" },
+            { "vi": "Mười giờ. Nên tuân theo đấy, ở toà này cái gì cũng nghe thấy." },
+            { "vi": "Biết vậy hay. Mà ngày lao động ở sân là khi nào ạ?" },
+            { "vi": "Tháng Năm, thông báo sẽ dán lên bảng." },
+            { "vi": "Cháu sẽ đến. Cảm ơn bác đã chỉ!" },
+            { "vi": "Tốt! Ở đó lúc nào cũng có cà phê và xúc xích." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Tìm hiểu các hệ thống của toà nhà",
+          "scenario_vi": "Hỏi cách đặt lượt, lấy một suất, và tìm hiểu về sauna cùng phòng kho của bạn.",
+          "your_role_vi": "Bạn, ở tầng hầm",
+          "partner_role_vi": "Eeva, một người hàng xóm biết chuyện",
+          "turns": [
+            { "vi": "Chào bác! Xin lỗi — mấy lượt này đặt thế nào ạ?", "hint_vi": "Hỏi một người hàng xóm. Mỗi toà nhà làm khác nhau." },
+            { "vi": "Cháu chỉ cần ghi tên và số căn hộ lên danh sách kia." },
+            { "vi": "Vâng. Còn lượt trống không ạ?", "hint_vi": "Danh sách có thể đầy hai tuần. Đáng biết sớm." },
+            { "vi": "Sáng thứ Bảy còn trống." },
+            { "vi": "Cháu lấy suất đó. Còn sauna thì sao ạ?", "hint_vi": "Sauna thường là một hệ thống hoàn toàn riêng." },
+            { "vi": "Cái đó đặt với người quản lý toà nhà, và là lượt cố định." },
+            { "vi": "Người quản lý toà nhà của mình là ai ạ?", "hint_vi": "Hãy biết sớm. Họ giải quyết phần lớn vấn đề của toà nhà." },
+            { "vi": "Kiinteistö-Palvelu, số ở trên bảng thông báo." },
+            { "vi": "Cảm ơn bác! Và phòng kho của cháu ở đâu ạ?", "hint_vi": "Nó được đánh số trùng với căn hộ của bạn." },
+            { "vi": "Ở tầng hầm, lồng số 12." },
+            { "vi": "Tuyệt vời. Cảm ơn bác nhiều!", "hint_vi": "Họ vừa tiết kiệm cho bạn một tiếng. Hãy nói ra." }
+          ]
+        }
+      ]
+    }
+  }
+}

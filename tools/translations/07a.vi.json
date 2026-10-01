@@ -1,0 +1,311 @@
+{
+  "module": {
+    "title_vi": "Ở phòng gym",
+    "subtitle_vi": "Chuyện phiếm không cần đến từ điển.",
+    "description_vi": "Phòng gym là nơi dễ luyện nói nhất ở Phần Lan: các đoạn trao đổi đều ngắn, vốn từ nhỏ và lặp lại, và không ai mong đợi một cuộc trò chuyện dài. Chương này bao gồm các câu hỏi về thẻ thành viên ở quầy, hai câu bạn cần để dùng chung thiết bị, cách theo một lớp tập nhóm bằng tai, những người tập quen mặt rồi cũng sẽ bắt chuyện với bạn, và cách trình bày mục tiêu cùng chấn thương với huấn luyện viên."
+  },
+  "lessons": {
+    "front-desk": {
+      "lesson": {
+        "title_vi": "Quầy tiếp đón và thẻ thành viên",
+        "subtitle_vi": "Onks teillä kuukausikorttia?",
+        "warmup_situation_vi": "Bạn muốn đăng ký một phòng gym. Trên áp phích có bốn loại thẻ bằng tiếng Phần Lan, một khoản phí gia nhập bạn không hiểu, và một thời hạn hợp đồng mà bạn chắc chắn muốn kiểm tra trước khi ký.",
+        "warmup_question_vi": "Ba điều nào bạn buộc phải hỏi trước khi ký bất cứ thứ gì?",
+        "rescue_vi": "Tôi muốn đọc hợp đồng trước khi ký.",
+        "rescue_note_vi": "Hoàn toàn hợp lý và không ai phản đối. Hợp đồng phòng gym ở Phần Lan thường có thời hạn tối thiểu và thời gian báo trước khi huỷ, cả hai đều đáng hiểu trước khi bạn cam kết. Muốn mang về nhà đọc cũng được."
+      },
+      "vocab": [
+        { "vi": "phòng gym", "note_vi": "Thường rút thành «sali». «Mä meen salille» = tôi đi phòng gym." },
+        { "vi": "phòng gym (rút gọn)" }, { "vi": "tư cách thành viên" }, { "vi": "thẻ thành viên" },
+        { "vi": "thẻ tháng" }, { "vi": "thẻ năm" },
+        { "vi": "phí vào một lần", "note_vi": "Đáng hỏi nếu bạn chỉ đến một lần." },
+        { "vi": "phí gia nhập", "note_vi": "Thường được miễn trong các chương trình khuyến mãi. Luôn hỏi xem có miễn được không." },
+        { "vi": "hợp đồng" },
+        { "vi": "có thời hạn cố định", "note_vi": "Từ quan trọng. Hợp đồng có thời hạn thường không huỷ sớm được." },
+        { "vi": "không thời hạn, vô thời hạn" },
+        { "vi": "thời gian báo trước khi huỷ", "note_vi": "Thường là một tháng. Kiểm tra trước khi ký." },
+        { "vi": "huỷ, chấm dứt" },
+        { "vi": "tạm đóng băng (thẻ)", "note_vi": "Thường dùng khi đi du lịch hoặc bị thương. Hãy hỏi xem có được không." },
+        { "vi": "quãng nghỉ, tạm dừng" }, { "vi": "giờ mở cửa" },
+        { "vi": "24 giờ, cả ngày đêm", "note_vi": "Nhiều phòng gym Phần Lan mở 24 giờ. Bạn được cấp một thẻ từ." },
+        { "vi": "thẻ từ, móc khoá điện tử" }, { "vi": "phòng thay đồ" }, { "vi": "tủ khoá" },
+        { "vi": "ổ khoá", "note_vi": "Thường bạn phải tự mang khoá. Hãy hỏi." },
+        { "vi": "vòi sen" },
+        { "vi": "buổi hướng dẫn nhập môn", "note_vi": "Buổi đầu miễn phí chỉ bạn cách dùng máy. Hãy hỏi xin." },
+        { "vi": "buổi giới thiệu, dẫn đi xem" },
+        { "vi": "buổi tập thử", "note_vi": "Phần lớn phòng gym cho một buổi miễn phí. Luôn hỏi." },
+        { "vi": "giảm giá sinh viên" }, { "vi": "chương trình ưu đãi" }, { "vi": "giá" }, { "vi": "mỗi tháng" }
+      ],
+      "phrases": [
+        { "vi": "Tôi muốn đăng ký thành viên.", "when_to_use_vi": "Câu mở đầu của bạn ở quầy." },
+        { "vi": "Thẻ tháng giá bao nhiêu ạ?", "when_to_use_vi": "Câu hỏi đầu tiên. Rồi hỏi còn khoản nào nữa không." },
+        { "vi": "Có thêm phí gia nhập không ạ?", "when_to_use_vi": "Thường là có. Hãy hỏi xem có miễn được không — đôi khi được." },
+        { "vi": "Đây là hợp đồng có thời hạn không ạ?", "when_to_use_vi": "Câu hỏi quan trọng nhất. Loại có thời hạn thường không huỷ được." },
+        { "vi": "Thời gian báo trước khi huỷ là bao lâu ạ?", "when_to_use_vi": "Thường một tháng. Biết trước khi ký, đừng biết sau." },
+        { "vi": "Thẻ có tạm đóng băng được không ạ?", "when_to_use_vi": "Dùng khi đi du lịch hay bị thương. Rất đáng biết." },
+        { "vi": "Ở đây có buổi tập thử không ạ?", "when_to_use_vi": "Phần lớn phòng gym cho một buổi miễn phí. Luôn hỏi trước khi đăng ký." },
+        { "vi": "Có buổi hướng dẫn nhập môn không ạ?", "when_to_use_vi": "Một buổi chỉ bạn cách dùng máy. Thường đã bao gồm trong giá." },
+        { "vi": "Phòng mở cửa những giờ nào ạ?", "when_to_use_vi": "Nhiều nơi mở 24 giờ bằng thẻ từ, nhưng giờ có nhân viên thì ngắn hơn." },
+        { "vi": "Tôi có cần tự mang ổ khoá không ạ?", "when_to_use_vi": "Thường là có. Đáng biết trước buổi đầu tiên." },
+        { "vi": "Có giảm giá sinh viên không ạ?", "when_to_use_vi": "Hãy hỏi. Cũng hỏi về giá cho người nghỉ hưu và người thất nghiệp nếu phù hợp." },
+        { "vi": "Tôi muốn đọc hợp đồng trước.", "when_to_use_vi": "Hoàn toàn hợp lý. Muốn mang về nhà đọc cũng được." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đăng ký một phòng gym",
+          "setting_vi": "Quầy tiếp đón. Duc hỏi hết mọi thứ trước khi ký bất cứ gì.",
+          "note_vi": "Bốn câu hỏi, theo thứ tự: giá, phụ phí, hợp đồng, huỷ.",
+          "lines": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị! Tôi muốn đăng ký thành viên. Thẻ tháng giá bao nhiêu ạ?" },
+            { "vi": "Thẻ tháng là 39,90 mỗi tháng ạ." },
+            { "vi": "Vâng. Có thêm phí gia nhập không ạ?" },
+            { "vi": "Bình thường là 49 euro, nhưng hiện đang có khuyến mãi nên bằng không ạ." },
+            { "vi": "Tốt. Đây là hợp đồng có thời hạn không ạ?" },
+            { "vi": "Anh chọn được ạ. Loại có thời hạn 12 tháng thì rẻ hơn, hoặc loại vô thời hạn." },
+            { "vi": "Loại vô thời hạn thì thời gian báo trước khi huỷ là bao lâu ạ?" },
+            { "vi": "Một tháng ạ." },
+            { "vi": "Vâng. Và nếu tôi đi công tác thì có tạm đóng băng thẻ được không ạ?" },
+            { "vi": "Được ạ, tối đa hai tháng một năm." },
+            { "vi": "Tốt. Tôi lấy loại vô thời hạn. Nhưng tôi muốn đọc hợp đồng trước." },
+            { "vi": "Tất nhiên rồi, đây ạ. Anh cứ thong thả." },
+            { "vi": "Cảm ơn chị. Và có buổi hướng dẫn nhập môn không ạ?" },
+            { "vi": "Có ạ, đã tính trong giá. Anh đặt lịch trên mạng nhé." }
+          ]
+        },
+        {
+          "title_vi": "Một buổi tập thử, thật nhanh",
+          "setting_vi": "Chỉ đi ngang qua. Duc muốn xem chỗ này trước.",
+          "note_vi": "Ngắn, thực tế. Anh ra về mà không ký gì và thế là ổn.",
+          "lines": [
+            { "vi": "Chào chị! Ở đây có buổi tập thử không ạ?" },
+            { "vi": "Có ạ, một buổi miễn phí. Anh muốn thử luôn bây giờ không?" },
+            { "vi": "Vâng, nếu được. Tôi có cần tự mang ổ khoá không ạ?" },
+            { "vi": "Có ạ, nhưng hôm nay tôi cho anh mượn một cái được." },
+            { "vi": "Cảm ơn chị. Và ở đây có khăn không ạ?" },
+            { "vi": "Không ạ, lần sau anh mang khăn riêng nhé." },
+            { "vi": "Vâng. Phòng mở cửa những giờ nào ạ?" },
+            { "vi": "Phòng gym mở cả ngày đêm, nhưng có nhân viên từ 8 đến 20 giờ ạ." },
+            { "vi": "Tuyệt vời. Cảm ơn chị!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đăng ký phòng gym mà không phải hối hận",
+          "scenario_vi": "Hỏi về giá, phụ phí, loại hợp đồng, thời gian báo huỷ và việc đóng băng trước khi ký.",
+          "your_role_vi": "Bạn, đang ở quầy tiếp đón",
+          "partner_role_vi": "Nhân viên tiếp đón",
+          "turns": [
+            { "vi": "Chào anh! Tôi giúp gì được ạ?" },
+            { "vi": "Chào chị! Thẻ tháng giá bao nhiêu ạ?", "hint_vi": "Bắt đầu từ giá, rồi mở rộng dần ra." },
+            { "vi": "39,90 mỗi tháng ạ." },
+            { "vi": "Có thêm phí gia nhập không ạ?", "hint_vi": "Thường là có. Hãy hỏi xem có miễn được không." },
+            { "vi": "Bình thường là 49, nhưng đang có khuyến mãi ạ." },
+            { "vi": "Tốt. Đây là hợp đồng có thời hạn không ạ?", "hint_vi": "Câu hỏi quan trọng nhất. Loại có thời hạn thường không huỷ được." },
+            { "vi": "Anh chọn được ạ. 12 tháng hoặc vô thời hạn." },
+            { "vi": "Thời gian báo trước khi huỷ là bao lâu ạ?", "hint_vi": "Biết trước khi ký, đừng biết sau." },
+            { "vi": "Một tháng ạ." },
+            { "vi": "Vâng. Tôi muốn đọc hợp đồng trước.", "hint_vi": "Hoàn toàn hợp lý. Không ai phản đối." }
+          ]
+        }
+      ]
+    },
+    "sharing-equipment": {
+      "lesson": {
+        "title_vi": "Dùng chung thiết bị",
+        "subtitle_vi": "Onks tää vapaa? Voidaanko vuorotella?",
+        "warmup_situation_vi": "Khăn của ai đó đang đặt trên cái ghế tập mà bạn muốn dùng. Người đó đứng cách mười hai mét, đang xem điện thoại. Bạn đã đứng đây chín mươi giây.",
+        "warmup_question_vi": "Hai câu nào giải quyết được mọi tình huống tranh thiết bị trong một phòng gym Phần Lan?",
+        "rescue_vi": "Xin lỗi, mình vẫn đang dùng cái này.",
+        "rescue_note_vi": "Nói một cách lịch sự, kèm một cái chỉ tay nhỏ về phía thiết bị. Người Phần Lan sẽ xin lỗi và đi ngay. Trong đoạn trao đổi này hoàn toàn không có xung đột nào — nó chỉ là thông tin, và cả hai bên đều coi nó như vậy."
+      },
+      "vocab": [
+        { "vi": "trống, còn rảnh", "note_vi": "«Onks tää vapaa?» là câu hữu dụng nhất trong phòng gym." },
+        { "vi": "đã có người, đã được giữ" }, { "vi": "đang được dùng" },
+        { "vi": "thay phiên nhau", "note_vi": "«Voidaanko vuorotella?» = mình thay phiên nhé? Phổ biến và được hoan nghênh." },
+        { "vi": "lượt" },
+        { "vi": "một set, một lượt tập", "note_vi": "«Mulla on kaks sarjaa jäljellä» = mình còn hai set nữa." },
+        { "vi": "một lần lặp (rep)" }, { "vi": "còn lại" }, { "vi": "máy tập" }, { "vi": "ghế tập" },
+        { "vi": "thanh đòn, đòn tạ" }, { "vi": "bánh tạ" }, { "vi": "tạ tay" }, { "vi": "tạ ấm" },
+        { "vi": "thảm tập" }, { "vi": "máy chạy bộ" }, { "vi": "xe đạp tập" }, { "vi": "trọng lượng, tạ" },
+        { "vi": "điều chỉnh" }, { "vi": "độ cao" }, { "vi": "mượn" },
+        { "vi": "giúp, đỡ tạ", "note_vi": "«Voitsä auttaa?» trong phòng gym có thể nghĩa là «bạn đỡ tạ giúp mình được không?»" },
+        { "vi": "đỡ tạ (bảo hộ)" },
+        { "vi": "lau sạch", "note_vi": "Lau máy sau khi dùng. Được mong đợi ở mọi nơi, không ngoại lệ." },
+        { "vi": "dung dịch khử khuẩn" },
+        { "vi": "trả về chỗ cũ", "note_vi": "Trả tạ về giá. Một quy tắc xã giao thật sự ở đây." },
+        { "vi": "giá đỡ tạ" }, { "vi": "chờ đợi" }
+      ],
+      "phrases": [
+        { "vi": "Cái này trống không?", "when_to_use_vi": "Câu hữu dụng nhất trong mọi phòng gym Phần Lan. Hãy học nó trước tiên." },
+        { "vi": "Có ai đang dùng cái này không?", "when_to_use_vi": "Khi có cái khăn mà không có người. Nói ra với cả phòng." },
+        { "vi": "Mình thay phiên nhau nhé?", "when_to_use_vi": "Hoàn toàn bình thường và thường được hoan nghênh. Cả hai đỡ phải chờ." },
+        { "vi": "Mình còn hai set nữa.", "when_to_use_vi": "Cho họ biết chính xác bao lâu. Tốt hơn nhiều so với «một lát»." },
+        { "vi": "Cứ dùng đi, mình xong rồi.", "when_to_use_vi": "Nhường lại. Ngắn và thân thiện." },
+        { "vi": "Xin lỗi, mình vẫn đang dùng cái này.", "when_to_use_vi": "Hoàn toàn không có xung đột gì. Họ sẽ đi ngay." },
+        { "vi": "Bạn có cần cái này không?", "when_to_use_vi": "Ngỏ ý chia sẻ hoặc nhường. Dễ nói và biết nghĩ cho người khác." },
+        { "vi": "Mình mượn mấy cái bánh tạ kia được không?", "when_to_use_vi": "Nếu chúng đang để không cạnh ai đó. Luôn hỏi." },
+        { "vi": "Bạn đỡ tạ giúp mình được không?", "when_to_use_vi": "Nhờ người lạ là chuyện hoàn toàn bình thường ở phòng gym. Không ai từ chối." },
+        { "vi": "Bạn làm mấy set?", "when_to_use_vi": "Để ước lượng thời gian chờ. Thân thiện, không hối." },
+        { "vi": "Mình lau máy nhé.", "when_to_use_vi": "Được mong đợi sau mỗi máy. Không có ngoại lệ nào." },
+        { "vi": "Không gấp đâu, bạn cứ từ từ.", "when_to_use_vi": "Khi ai đó xin lỗi vì chậm. Rộng lượng và dễ nói." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Dùng chung một ghế tập",
+          "setting_vi": "Phòng gym đông lúc 17:30. Một ghế trống, hai người cùng muốn.",
+          "note_vi": "Hai câu là xong. Để ý «kaks sarjaa» cụ thể đến mức nào.",
+          "lines": [
+            { "vi": "Chào! Cái này trống không?" },
+            { "vi": "Xin lỗi, mình vẫn đang dùng. Mình còn hai set nữa." },
+            { "vi": "Không gấp đâu. Mình thay phiên nhau nhé?" },
+            { "vi": "Ừ, được đấy. Bạn nâng bao nhiêu?" },
+            { "vi": "Sáu mươi. Còn bạn?" },
+            { "vi": "Tám mươi. Không sao, mình đổi bánh tạ." },
+            { "vi": "Được. Bạn làm trước đi." },
+            { "vi": "Cảm ơn. …Đó. Đến lượt bạn." },
+            { "vi": "Cảm ơn. Mà bạn đỡ tạ giúp mình được không?" },
+            { "vi": "Ừ tất nhiên." },
+            { "vi": "Cảm ơn. …Xong. Mình lau máy nhé." },
+            { "vi": "Tốt. Chúc tập vui!" }
+          ]
+        },
+        {
+          "title_vi": "Cái khăn không có chủ",
+          "setting_vi": "Một cái máy có khăn đặt trên đó mà không thấy ai gần.",
+          "note_vi": "Hãy nói to ra với cả phòng. Bao giờ cũng có người trả lời.",
+          "lines": [
+            { "vi": "Xin lỗi — có ai đang dùng cái này không?" },
+            { "vi": "Có, mình đây. Xin lỗi, mình đi lấy nước." },
+            { "vi": "Không sao. Bạn làm mấy set?" },
+            { "vi": "Ba set nữa. Mà mình thay phiên cũng được nếu bạn muốn." },
+            { "vi": "Ừ cảm ơn, thế thì tốt." },
+            { "vi": "Bạn có cần mấy cái bánh tạ này không?" },
+            { "vi": "Không, mình lấy loại nhẹ hơn. Bạn cứ dùng đi." },
+            { "vi": "Cảm ơn. Không gấp đâu, bạn cứ từ từ." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Dùng chung một máy tập",
+          "scenario_vi": "Hỏi xem có trống không, đề nghị thay phiên, nhờ đỡ tạ, và lau máy.",
+          "your_role_vi": "Bạn, muốn dùng cái ghế tập",
+          "partner_role_vi": "Một người tập khác",
+          "turns": [
+            { "vi": "Chào! Cái này trống không?", "hint_vi": "Câu hữu dụng nhất trong một phòng gym Phần Lan." },
+            { "vi": "Xin lỗi, mình vẫn đang dùng. Còn hai set nữa." },
+            { "vi": "Không gấp đâu. Mình thay phiên nhau nhé?", "hint_vi": "Hoàn toàn bình thường và thường được hoan nghênh." },
+            { "vi": "Ừ, được đấy. Bạn nâng bao nhiêu?" },
+            { "vi": "Sáu mươi. Còn bạn?", "hint_vi": "Trả lời rồi đẩy lại — giờ thì đây là chuyện phiếm." },
+            { "vi": "Tám mươi. Mình đổi bánh tạ." },
+            { "vi": "Được. Bạn đỡ tạ giúp mình được không?", "hint_vi": "Nhờ người lạ đỡ tạ là chuyện hoàn toàn bình thường ở đây." },
+            { "vi": "Ừ tất nhiên." },
+            { "vi": "Cảm ơn. …Xong, mình lau máy nhé.", "hint_vi": "Lau máy là điều được mong đợi. Nói rồi làm." }
+          ]
+        }
+      ]
+    },
+    "group-class": {
+      "lesson": {
+        "title_vi": "Theo một lớp tập nhóm",
+        "subtitle_vi": "Oikee, vasen, ylös, alas, vielä kerran!",
+        "warmup_situation_vi": "Một lớp đạp xe. Huấn luyện viên hô to trên tiếng nhạc lớn, mọi người khác đều biết chính xác phải làm gì, còn bạn thì chậm nửa nhịp ở mọi hiệu lệnh.",
+        "warmup_question_vi": "Bạn không bắt được cả câu. Mười hai từ nào gánh cả lớp học?",
+        "rescue_vi": "Em lần đầu đi lớp này — em đứng hàng cuối được không ạ?",
+        "rescue_note_vi": "Hãy nói với huấn luyện viên trước khi lớp bắt đầu. Họ sẽ để mắt đến bạn, làm mẫu rõ hơn, và thường sẽ đến chỉnh tư thế cho bạn một lần. Huấn luyện viên Phần Lan thật sự giỏi việc này và việc bạn mới không có gì đáng ngượng."
+      },
+      "vocab": [
+        { "vi": "thể dục nhóm" },
+        { "vi": "lớp học, tiết", "note_vi": "«Spinning-tunti» = lớp đạp xe." },
+        { "vi": "huấn luyện viên, người hướng dẫn" },
+        { "vi": "việc đăng ký", "note_vi": "Lớp hot thì hết chỗ. Đăng ký trên mạng, thường trước đúng một ngày." },
+        { "vi": "bên phải" }, { "vi": "bên trái" }, { "vi": "lên" }, { "vi": "xuống" },
+        { "vi": "ra trước" }, { "vi": "ra sau" }, { "vi": "sang bên" },
+        { "vi": "một lần nữa", "note_vi": "Bạn sẽ nghe câu này liên tục. Nó không bao giờ có nghĩa là một lần." },
+        { "vi": "năm cái nữa" },
+        { "vi": "cuối cùng", "note_vi": "Từ mà bạn đang mong chờ." },
+        { "vi": "nhanh hơn" }, { "vi": "chậm hơn" }, { "vi": "hít thở đi" }, { "vi": "giữ" },
+        { "vi": "thư giãn, buông lỏng" },
+        { "vi": "thẳng", "note_vi": "«Selkä suorana» = lưng thẳng. Bạn sẽ nghe câu này nhiều." },
+        { "vi": "gập lại" }, { "vi": "siết, ép" },
+        { "vi": "giãn cơ", "note_vi": "Năm phút cuối của mọi lớp học." },
+        { "vi": "khởi động" }, { "vi": "hạ nhiệt cuối buổi" }, { "vi": "quãng nghỉ" },
+        { "vi": "tốt, được lắm", "note_vi": "Được hô vào mặt bạn như lời động viên. Hãy nhận lấy." },
+        { "vi": "bạn còn trụ được không?" },
+        { "vi": "phiên bản dễ hơn", "note_vi": "Lúc nào cũng được đề nghị. Hãy nhận mà không phải ngượng." }
+      ],
+      "phrases": [
+        { "vi": "Em lần đầu đi lớp này.", "when_to_use_vi": "Nói với huấn luyện viên trước lớp. Nó thay đổi mọi thứ." },
+        { "vi": "Em đứng hàng cuối được không ạ?", "when_to_use_vi": "Bạn thấy được mọi người khác. Huấn luyện viên hiểu ngay." },
+        { "vi": "Em có cần đăng ký trước không ạ?", "when_to_use_vi": "Lớp hot thì hết chỗ. Thường đăng ký trên mạng." },
+        { "vi": "Em cần mang gì theo ạ?", "when_to_use_vi": "Thảm, khăn, nước, giày trong nhà — tuỳ lớp." },
+        { "vi": "Lớp này có nặng không ạ?", "when_to_use_vi": "Hỏi trước, đừng hỏi giữa lớp. Bạn sẽ được trả lời thật." },
+        { "vi": "Động tác này có phiên bản dễ hơn không ạ?", "when_to_use_vi": "Lúc nào cũng có. Hãy nhận mà không ngượng ngùng gì." },
+        { "vi": "Em tập nhẹ hơn một chút nhé.", "when_to_use_vi": "Nói ra và không ai nghĩ gì cả." },
+        { "vi": "Em làm thế này đúng không ạ?", "when_to_use_vi": "Hỏi huấn luyện viên. Họ sẽ đến chỉnh tư thế cho bạn đàng hoàng." },
+        { "vi": "Động tác này phải cảm thấy ở cơ nào ạ?", "when_to_use_vi": "Một câu hỏi hay và huấn luyện viên rất thích." },
+        { "vi": "Mình có được nghỉ không ạ?", "when_to_use_vi": "Hỏi trong hy vọng, giữa lớp. Thường câu trả lời là sắp rồi." },
+        { "vi": "Vừa rồi là cái cuối cùng ạ?", "when_to_use_vi": "Câu nói đầy hy vọng nhất trong mọi lớp tập nhóm." },
+        { "vi": "Cảm ơn buổi tập ạ!", "when_to_use_vi": "Nói với huấn luyện viên lúc ra về. Luôn được trân trọng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Trước lớp học",
+          "setting_vi": "Hai phút trước một lớp đạp xe. Duc nói chuyện với huấn luyện viên.",
+          "note_vi": "Ba mươi giây trò chuyện làm cho bốn mươi lăm phút tiếp theo trở nên vừa sức.",
+          "lines": [
+            { "vi": "Chào chị! Em lần đầu đi lớp này." },
+            { "vi": "Chào em, chào mừng! Em đạp xe kiểu này bao giờ chưa?" },
+            { "vi": "Chưa bao giờ. Em đứng hàng cuối được không ạ?" },
+            { "vi": "Được chứ. Chị điều chỉnh xe cho em, lại đây." },
+            { "vi": "Cảm ơn chị. Lớp này có nặng không ạ?" },
+            { "vi": "Khá nặng đấy, nhưng em tự điều chỉnh lực cản. Lần đầu thì tập nhẹ thôi." },
+            { "vi": "Vâng. Có thể em sẽ không hiểu hết các hiệu lệnh." },
+            { "vi": "Không sao. Em cứ nhìn chị, chị làm mẫu hết." },
+            { "vi": "Thế thì giúp em nhiều lắm. Cảm ơn chị!" },
+            { "vi": "Và nếu nặng quá thì em lấy phiên bản dễ hơn. Cứ nói nhé." }
+          ]
+        },
+        {
+          "title_vi": "Trong lớp học",
+          "setting_vi": "Nhạc lớn, hiệu lệnh hô to. Đây là những từ quan trọng.",
+          "note_vi": "Bạn sẽ không bắt được cả câu. Bắt mười hai từ này là bạn theo được bất cứ lớp nào.",
+          "lines": [
+            { "vi": "Lên! Và xuống. Tốt!" },
+            { "vi": "Chân phải ra trước. Chân trái ra sau." },
+            { "vi": "Lưng thẳng! Hít thở!" },
+            { "vi": "Mười cái nữa. Nhanh hơn!" },
+            { "vi": "Năm cái nữa… bốn… ba…" },
+            { "vi": "Và cái cuối! Cả lớp tốt lắm!" },
+            { "vi": "Vừa rồi là cái cuối cùng ạ?" },
+            { "vi": "Của set đó. Giờ còn hai set nữa." },
+            { "vi": "Ôi không. Em tập nhẹ hơn một chút nhé." },
+            { "vi": "Ý hay đấy. Lần đầu chị cũng gần chết." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Sống sót qua lớp học đầu tiên",
+          "scenario_vi": "Nói với huấn luyện viên là bạn mới, hỏi về độ nặng, và xin giúp đỡ trong lúc tập.",
+          "your_role_vi": "Bạn, lần đầu đi lớp này",
+          "partner_role_vi": "Huấn luyện viên",
+          "turns": [
+            { "vi": "Chào em! Chào mừng đến lớp." },
+            { "vi": "Chào chị! Em lần đầu đi lớp này.", "hint_vi": "Nói trước lớp. Nó thay đổi cách họ dạy bạn." },
+            { "vi": "Hay quá! Em làm cái này bao giờ chưa?" },
+            { "vi": "Chưa bao giờ. Em đứng hàng cuối được không ạ?", "hint_vi": "Từ đó bạn thấy được mọi người khác. Huấn luyện viên hiểu ngay." },
+            { "vi": "Được chứ. Chị sắp chỗ cho em." },
+            { "vi": "Cảm ơn chị. Lớp này có nặng không ạ?", "hint_vi": "Hỏi trước, đừng hỏi giữa lớp. Bạn sẽ được trả lời thật." },
+            { "vi": "Khá nặng, nhưng em tự điều chỉnh nhịp." },
+            { "vi": "Vâng. Có thể em sẽ không hiểu hết các hiệu lệnh.", "hint_vi": "Nói ra nghĩa là họ sẽ làm mẫu rõ hơn." },
+            { "vi": "Em cứ nhìn chị, chị làm mẫu hết." },
+            { "vi": "Thế thì giúp em nhiều lắm. Cảm ơn chị trước ạ!", "hint_vi": "Ấm áp và hơi buồn cười. Huấn luyện viên sẽ nhớ bạn." }
+          ]
+        }
+      ]
+    }
+  }
+}

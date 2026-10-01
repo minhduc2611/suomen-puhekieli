@@ -1,0 +1,2485 @@
+{
+  "slug": "start-here",
+  "number": "00",
+  "emoji": "🔑",
+  "title": "Start here: how Finns actually talk",
+  "subtitle": "The bridge between textbook Finnish and the street.",
+  "description": "If you have studied Finnish from a book, you know a language that almost nobody speaks out loud. This module is the conversion table. Five lessons, and afterwards the other modules will sound like Finnish instead of noise.",
+  "level": "A1",
+  "lessons": [
+    {
+      "slug": "book-vs-spoken",
+      "number": "0.1",
+      "title": "Book Finnish vs spoken Finnish",
+      "subtitle": "minä → mä, olen → oon, he → ne",
+      "warmup_situation": "You studied 'Minä olen Duc. Minä asun Helsingissä.' Your neighbour says 'Mä oon Anni, mä asun tossa vieressä.' You recognise maybe two words.",
+      "warmup_question": "Which words changed — and would you have guessed they were the same language?",
+      "rescue_fi": "Anteeks, mä opiskelen vielä. Puhutsä vähän hitaammin?",
+      "rescue_en": "Sorry, I'm still learning. Could you speak a bit more slowly?",
+      "rescue_note": "Naming that you're learning is the single most useful thing you can do. Finns will slow down and almost nobody switches to English if you ask in Finnish.",
+      "vocab": [
+        {
+          "fi": "mä",
+          "fi_book": "minä",
+          "en": "I",
+          "pos": "pronoun",
+          "note": "Also heard as 'mää' in the west and 'mie' in the east. All normal.",
+          "vi": "tôi",
+          "note_vi": "Cũng nghe thành «mää» ở miền tây và «mie» ở miền đông. Đều bình thường."
+        },
+        {
+          "fi": "sä",
+          "fi_book": "sinä",
+          "en": "you",
+          "pos": "pronoun",
+          "note": "'sää' / 'sie' regionally.",
+          "vi": "bạn",
+          "note_vi": "«sää» / «sie» tuỳ vùng."
+        },
+        {
+          "fi": "se",
+          "fi_book": "hän",
+          "en": "he / she / it",
+          "pos": "pronoun",
+          "note": "This is the big one: spoken Finnish uses 'se' for people. 'Hän' in speech sounds formal or ironic.",
+          "vi": "anh ấy / chị ấy / nó",
+          "note_vi": "Đây là điểm lớn nhất: tiếng nói dùng «se» cho cả người. «Hän» khi nói nghe trang trọng hoặc mỉa mai."
+        },
+        {
+          "fi": "me",
+          "fi_book": "me",
+          "en": "we",
+          "pos": "pronoun",
+          "vi": "chúng tôi, chúng ta"
+        },
+        {
+          "fi": "te",
+          "fi_book": "te",
+          "en": "you (plural)",
+          "pos": "pronoun",
+          "vi": "các bạn"
+        },
+        {
+          "fi": "ne",
+          "fi_book": "he",
+          "en": "they",
+          "pos": "pronoun",
+          "note": "Same story as 'se'. 'He' is written Finnish.",
+          "vi": "họ",
+          "note_vi": "Giống chuyện «se». «He» là tiếng viết."
+        },
+        {
+          "fi": "oon",
+          "fi_book": "olen",
+          "en": "I am",
+          "pos": "verb",
+          "vi": "tôi là"
+        },
+        {
+          "fi": "oot",
+          "fi_book": "olet",
+          "en": "you are",
+          "pos": "verb",
+          "vi": "bạn là"
+        },
+        {
+          "fi": "on",
+          "fi_book": "on / ovat",
+          "en": "is / are",
+          "pos": "verb",
+          "note": "Spoken Finnish uses singular 'on' for 'they' too: 'ne on' = they are.",
+          "vi": "là (số ít / số nhiều)",
+          "note_vi": "Tiếng nói dùng «on» số ít cho cả «họ»: «ne on» = họ là."
+        },
+        {
+          "fi": "ollaan",
+          "fi_book": "olemme",
+          "en": "we are",
+          "pos": "verb",
+          "note": "The passive form doubles as the we-form in speech. This happens with every verb.",
+          "vi": "chúng tôi là",
+          "note_vi": "Dạng bị động kiêm luôn dạng «chúng tôi» khi nói. Điều này xảy ra với mọi động từ."
+        },
+        {
+          "fi": "ootte",
+          "fi_book": "olette",
+          "en": "you are (plural)",
+          "pos": "verb",
+          "vi": "các bạn là"
+        },
+        {
+          "fi": "mun",
+          "fi_book": "minun",
+          "en": "my",
+          "pos": "pronoun",
+          "vi": "của tôi"
+        },
+        {
+          "fi": "sun",
+          "fi_book": "sinun",
+          "en": "your",
+          "pos": "pronoun",
+          "vi": "của bạn"
+        },
+        {
+          "fi": "meiän",
+          "fi_book": "meidän",
+          "en": "our",
+          "pos": "pronoun",
+          "note": "The 'd' drops in most of the country.",
+          "vi": "của chúng tôi",
+          "note_vi": "Chữ «d» rụng ở hầu hết cả nước."
+        },
+        {
+          "fi": "mulla",
+          "fi_book": "minulla",
+          "en": "I have (lit. on me)",
+          "pos": "pronoun",
+          "note": "Finnish has no verb 'to have'. 'Mulla on nälkä' = I'm hungry.",
+          "vi": "tôi có (nghĩa đen: ở trên tôi)",
+          "note_vi": "Tiếng Phần Lan không có động từ «có». «Mulla on nälkä» = tôi đói."
+        },
+        {
+          "fi": "sulle",
+          "fi_book": "sinulle",
+          "en": "to you / for you",
+          "pos": "pronoun",
+          "vi": "cho bạn, với bạn"
+        },
+        {
+          "fi": "mua",
+          "fi_book": "minua",
+          "en": "me (object)",
+          "pos": "pronoun",
+          "vi": "tôi (tân ngữ)"
+        },
+        {
+          "fi": "tää",
+          "fi_book": "tämä",
+          "en": "this",
+          "pos": "pronoun",
+          "vi": "cái này"
+        },
+        {
+          "fi": "toi",
+          "fi_book": "tuo",
+          "en": "that",
+          "pos": "pronoun",
+          "vi": "cái kia"
+        },
+        {
+          "fi": "nää",
+          "fi_book": "nämä",
+          "en": "these",
+          "pos": "pronoun",
+          "vi": "những cái này"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä oon Duc.",
+          "fi_book": "Minä olen Duc.",
+          "en": "I'm Duc.",
+          "when_to_use": "Your default introduction everywhere except a job interview.",
+          "register": "neutral",
+          "vi": "Tôi là Duc.",
+          "when_to_use_vi": "Câu giới thiệu mặc định ở mọi nơi, trừ phỏng vấn xin việc."
+        },
+        {
+          "fi": "Sä oot Anni, eiks niin?",
+          "fi_book": "Sinä olet Anni, eikö niin?",
+          "en": "You're Anni, right?",
+          "when_to_use": "Checking a name you half-remember. Much better than guessing silently.",
+          "register": "casual",
+          "vi": "Bạn là Anni, đúng không?",
+          "when_to_use_vi": "Để xác nhận một cái tên bạn nhớ mang máng. Tốt hơn nhiều so với đoán thầm."
+        },
+        {
+          "fi": "Se on mun kaveri.",
+          "fi_book": "Hän on minun ystäväni.",
+          "en": "That's my friend.",
+          "literal": "it is my friend",
+          "when_to_use": "Introducing someone. Using 'se' for a person feels rude in English, but it is completely normal here.",
+          "register": "casual",
+          "vi": "Đây là bạn tôi.",
+          "literal_vi": "nó là bạn tôi",
+          "when_to_use_vi": "Giới thiệu ai đó. Dùng «se» cho người nghe thô trong tiếng Anh, nhưng ở đây hoàn toàn bình thường."
+        },
+        {
+          "fi": "Me ollaan tossa.",
+          "fi_book": "Me olemme tuolla.",
+          "en": "We're over there.",
+          "when_to_use": "Telling someone where your table, group or car is.",
+          "register": "casual",
+          "vi": "Chúng tôi ở đằng kia.",
+          "when_to_use_vi": "Chỉ cho ai đó biết bàn, nhóm hay xe của bạn ở đâu."
+        },
+        {
+          "fi": "Ne on jo lähteny.",
+          "fi_book": "He ovat jo lähteneet.",
+          "en": "They've already left.",
+          "when_to_use": "Notice three changes at once: he→ne, ovat→on, lähteneet→lähteny.",
+          "register": "casual",
+          "vi": "Họ đi rồi.",
+          "when_to_use_vi": "Để ý ba thay đổi cùng lúc: he→ne, ovat→on, lähteneet→lähteny."
+        },
+        {
+          "fi": "Mulla on nälkä.",
+          "fi_book": "Minulla on nälkä.",
+          "en": "I'm hungry.",
+          "literal": "on me is hunger",
+          "when_to_use": "Same pattern for kiire (rush), jano (thirst), kylmä (cold), hauskaa (fun).",
+          "register": "neutral",
+          "vi": "Tôi đói.",
+          "literal_vi": "ở trên tôi có cái đói",
+          "when_to_use_vi": "Cùng mẫu cho kiire (vội), jano (khát), kylmä (lạnh), hauskaa (vui)."
+        },
+        {
+          "fi": "Onks sulla hetki?",
+          "fi_book": "Onko sinulla hetki?",
+          "en": "Do you have a second?",
+          "when_to_use": "Opening line before asking anyone for anything.",
+          "register": "casual",
+          "vi": "Bạn có rảnh một chút không?",
+          "when_to_use_vi": "Câu mở đầu trước khi nhờ ai đó bất cứ việc gì."
+        },
+        {
+          "fi": "Mitä sä teet?",
+          "fi_book": "Mitä sinä teet?",
+          "en": "What are you doing?",
+          "when_to_use": "At speed this collapses further into 'Mitsä teet?'",
+          "register": "casual",
+          "vi": "Bạn đang làm gì đấy?",
+          "when_to_use_vi": "Nói nhanh nó rút thành «Mitsä teet?»"
+        },
+        {
+          "fi": "Missä sä oot?",
+          "fi_book": "Missä sinä olet?",
+          "en": "Where are you?",
+          "when_to_use": "The most-sent Finnish text message.",
+          "register": "casual",
+          "vi": "Bạn đang ở đâu?",
+          "when_to_use_vi": "Tin nhắn được gửi nhiều nhất ở Phần Lan."
+        },
+        {
+          "fi": "Mennään!",
+          "fi_book": "Menkäämme! / Mennään.",
+          "en": "Let's go!",
+          "when_to_use": "The passive is how Finns say 'let's'. Syödään = let's eat. Katotaan = let's see.",
+          "register": "casual",
+          "vi": "Đi thôi!",
+          "when_to_use_vi": "Dạng bị động là cách người Phần Lan nói «mình cùng…». Syödään = ăn thôi. Katotaan = xem nào."
+        },
+        {
+          "fi": "Mä en tiiä.",
+          "fi_book": "Minä en tiedä.",
+          "en": "I don't know.",
+          "when_to_use": "'tiedä → tiiä' — the d disappears, as in meidän → meiän.",
+          "register": "casual",
+          "vi": "Tôi không biết.",
+          "when_to_use_vi": "«tiedä → tiiä» — chữ d biến mất, giống meidän → meiän."
+        },
+        {
+          "fi": "Tää on tosi hyvä.",
+          "fi_book": "Tämä on todella hyvä.",
+          "en": "This is really good.",
+          "when_to_use": "'tosi' is the everyday intensifier. 'Todella' sounds like a review.",
+          "register": "casual",
+          "vi": "Cái này ngon thật.",
+          "when_to_use_vi": "«tosi» là từ nhấn mạnh hằng ngày. «Todella» nghe như bài phê bình."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Two neighbours in the stairwell",
+          "setting": "You are carrying groceries up. A neighbour holds the door.",
+          "speed": "slow",
+          "note": "Read along. Every spoken form here has a book form you already know.",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "Moi! Sä oot se uusi naapuri, eiks niin?",
+              "en": "Hi! You're the new neighbour, right?",
+              "note": "eiks niin = eikö niin, 'isn't that so'",
+              "vi": "Chào! Bạn là người hàng xóm mới, đúng không?",
+              "note_vi": "eiks niin = eikö niin, «không phải vậy sao»"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, mä oon Duc. Me muutettiin tänne viime kuussa.",
+              "en": "Yeah, I'm Duc. We moved here last month.",
+              "note": "muutettiin = the passive doing duty as 'we moved'",
+              "vi": "Vâng, tôi là Duc. Chúng tôi chuyển đến đây tháng trước.",
+              "note_vi": "muutettiin = dạng bị động đóng vai «chúng tôi đã chuyển»"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kiva! Mä oon Anni, mä asun tossa vieressä.",
+              "en": "Nice! I'm Anni, I live right next door.",
+              "vi": "Hay quá! Tôi là Anni, tôi ở ngay bên cạnh."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hauska tutustua. Ootsä asunu täällä kauan?",
+              "en": "Nice to meet you. Have you lived here long?",
+              "note": "Ootsä = oletko sinä. asunu = asunut.",
+              "vi": "Rất vui được làm quen. Bạn ở đây lâu chưa?",
+              "note_vi": "Ootsä = oletko sinä. asunu = asunut."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Aika kauan, joo. Meiän perhe muutti tänne kymmenen vuotta sitten.",
+              "en": "Quite a while, yeah. Our family moved here ten years ago.",
+              "vi": "Khá lâu rồi. Gia đình tôi chuyển đến đây mười năm trước."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai jaa! Onks tää hyvä paikka asua?",
+              "en": "Oh really! Is this a good place to live?",
+              "vi": "Ồ thế à! Đây có phải chỗ ở tốt không?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "On, tosi rauhallinen. Ne naapurit tuolla ylhäällä on kans tosi mukavia.",
+              "en": "It is, really quiet. The neighbours upstairs are really nice too.",
+              "note": "ne … on = 'they are'. kans = kanssa, 'too'.",
+              "vi": "Có chứ, rất yên tĩnh. Mấy người hàng xóm tầng trên cũng rất dễ chịu.",
+              "note_vi": "ne … on = «họ là». kans = kanssa, «cũng»."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä kuulla. No, mun pitää viedä nää ylös. Nähdään!",
+              "en": "Good to hear. Well, I have to take these up. See you!",
+              "vi": "Nghe hay quá. Thôi, tôi phải mang mấy thứ này lên. Gặp lại nhé!"
+            }
+          ],
+          "title_vi": "Hai người hàng xóm ở cầu thang",
+          "setting_vi": "Bạn đang xách đồ đi lên. Người hàng xóm giữ cửa.",
+          "note_vi": "Đọc theo. Mọi dạng nói ở đây đều có dạng sách mà bạn đã biết."
+        },
+        {
+          "title": "The same conversation at real speed",
+          "setting": "Same stairwell. Nobody is being careful now.",
+          "speed": "natural",
+          "note": "Shorter, faster, more run-together. Don't try to catch every word — catch the topic.",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "Moi, sä oot se uus naapuri?",
+              "en": "Hi, you're the new neighbour?",
+              "note": "uus = uusi. Final -i often drops.",
+              "vi": "Chào, bạn là hàng xóm mới hả?",
+              "note_vi": "uus = uusi. Chữ -i cuối thường rụng."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, Duc. Muutettiin viime kuussa.",
+              "en": "Yeah, Duc. We moved last month.",
+              "note": "The pronoun 'me' is simply gone. The verb form carries it.",
+              "vi": "Vâng, Duc. Chuyển đến tháng trước.",
+              "note_vi": "Đại từ «me» biến mất hẳn. Dạng động từ đã gánh nó."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Anni. Asun tossa vieres.",
+              "en": "Anni. I live right there.",
+              "note": "vieres = vieressä. Final -sä eats itself.",
+              "vi": "Anni. Tôi ở ngay đằng kia.",
+              "note_vi": "vieres = vieressä. Đuôi -sä tự nuốt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hauska tutustuu. Ootsä asunu täällä kauan?",
+              "en": "Nice to meet you. Have you lived here long?",
+              "vi": "Rất vui được làm quen. Bạn ở đây lâu chưa?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Joo aika kauan, kymmenen vuotta suunnilleen.",
+              "en": "Yeah, quite a while, about ten years.",
+              "vi": "Ừ khá lâu, tầm mười năm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Onks kiva paikka?",
+              "en": "Is it a nice place?",
+              "note": "The whole subject vanished. Context supplies it.",
+              "vi": "Chỗ này ổn không?",
+              "note_vi": "Cả chủ ngữ biến mất. Ngữ cảnh tự bù vào."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "On on, tosi rauhallinen.",
+              "en": "It is, yeah, really quiet.",
+              "note": "Doubling the verb — 'on on' — is a warm yes.",
+              "vi": "Ổn ổn, rất yên tĩnh.",
+              "note_vi": "Lặp động từ — «on on» — là một câu «có» thân mật."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. No mun pitää mennä. Moi moi!",
+              "en": "Good. Well, I have to go. Bye!",
+              "vi": "Tốt. Thôi tôi phải đi. Chào nhé!"
+            }
+          ],
+          "title_vi": "Vẫn cuộc trò chuyện đó, ở tốc độ thật",
+          "setting_vi": "Cùng cầu thang. Không ai giữ ý nữa.",
+          "note_vi": "Ngắn hơn, nhanh hơn, dính vào nhau hơn. Đừng cố nghe từng chữ — hãy nắm chủ đề."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Meet the neighbour",
+          "scenario": "You bump into a neighbour you have never spoken to. Introduce yourself, say when you moved in, and ask one question back.",
+          "your_role": "You, new in the building",
+          "partner_role": "Anni, lived here for years",
+          "turns": [
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Moi! Sä oot se uusi naapuri, eiks niin?",
+              "en": "Hi! You're the new neighbour, right?",
+              "vi": "Chào! Bạn là người hàng xóm mới, đúng không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, mä oon Duc. Hauska tutustua!",
+              "en": "Yeah, I'm Duc. Nice to meet you!",
+              "hint": "Confirm, give your name, be pleased about it.",
+              "vi": "Vâng, tôi là Duc. Rất vui được làm quen!",
+              "hint_vi": "Xác nhận, nói tên, tỏ ra vui vì điều đó."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Anni. Ootsä muuttanu tänne äskettäin?",
+              "en": "Anni. Did you move here recently?",
+              "vi": "Anni. Bạn mới chuyển đến đây à?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, me muutettiin viime kuussa.",
+              "en": "Yeah, we moved last month.",
+              "hint": "Say when you moved — use the me-ollaan pattern.",
+              "vi": "Vâng, chúng tôi chuyển đến tháng trước.",
+              "hint_vi": "Nói bạn chuyển đến khi nào — dùng mẫu me-ollaan."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Kiva! Mistä sä oot kotoisin?",
+              "en": "Nice! Where are you from?",
+              "vi": "Hay quá! Bạn từ đâu đến?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä oon Vietnamista. Entä sä, ootsä täältä?",
+              "en": "I'm from Vietnam. How about you, are you from here?",
+              "hint": "Answer, then hand the question back with 'Entä sä?'",
+              "vi": "Tôi từ Việt Nam. Còn bạn, bạn người ở đây à?",
+              "hint_vi": "Trả lời, rồi đẩy câu hỏi lại bằng «Entä sä?»"
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Oon joo, syntyny Helsingissä.",
+              "en": "I am, yeah, born in Helsinki.",
+              "vi": "Đúng rồi, sinh ra ở Helsinki."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ai jaa! No, mun pitää mennä. Nähdään!",
+              "en": "Oh really! Well, I've got to go. See you!",
+              "hint": "React, then close the conversation warmly.",
+              "vi": "Ồ thế à! Thôi, tôi phải đi đây. Gặp lại nhé!",
+              "hint_vi": "Phản ứng, rồi kết thúc cuộc trò chuyện một cách thân thiện."
+            }
+          ],
+          "title_vi": "Làm quen với hàng xóm",
+          "scenario_vi": "Bạn gặp một người hàng xóm chưa từng nói chuyện. Hãy giới thiệu bản thân, nói bạn chuyển đến khi nào, và hỏi lại một câu.",
+          "your_role_vi": "Bạn, mới đến toà nhà",
+          "partner_role_vi": "Anni, sống ở đây đã nhiều năm"
+        }
+      ],
+      "title_vi": "Tiếng Phần Lan trong sách vs tiếng nói",
+      "subtitle_vi": "minä → mä, olen → oon, he → ne",
+      "warmup_situation_vi": "Bạn đã học «Minä olen Duc. Minä asun Helsingissä.» Người hàng xóm nói «Mä oon Anni, mä asun tossa vieressä.» Bạn nhận ra được chừng hai từ.",
+      "warmup_question_vi": "Những từ nào đã đổi — và bạn có đoán được chúng cùng một thứ tiếng không?",
+      "rescue_vi": "Xin lỗi, tôi vẫn đang học. Bạn nói chậm hơn một chút được không?",
+      "rescue_note_vi": "Nói rõ là mình đang học là việc hữu ích nhất bạn có thể làm. Người Phần Lan sẽ nói chậm lại, và hầu như không ai chuyển sang tiếng Anh nếu bạn hỏi bằng tiếng Phần Lan."
+    },
+    {
+      "slug": "five-sounds",
+      "number": "0.2",
+      "title": "The five sounds that trip everyone",
+      "subtitle": "Long vowels, double consonants, y / ä / ö",
+      "warmup_situation": "You ask for 'tapaaminen' but say 'tapaminen'. You mean to say 'I'll meet you' and it comes out closer to 'I'll kill you' (tapaan / tapan).",
+      "warmup_question": "In Finnish, is length a detail — or is it the whole word?",
+      "rescue_fi": "Sanoinks mä sen oikein?",
+      "rescue_en": "Did I say that right?",
+      "rescue_note": "Finns are generous correctors when invited, and almost never correct uninvited. Asking opens the door.",
+      "vocab": [
+        {
+          "fi": "tuli",
+          "en": "fire",
+          "pos": "noun",
+          "note": "Short u. One beat.",
+          "vi": "lửa",
+          "note_vi": "u ngắn. Một nhịp."
+        },
+        {
+          "fi": "tuuli",
+          "en": "wind",
+          "pos": "noun",
+          "note": "Long u. Hold it twice as long — it is a different word, not an accent.",
+          "vi": "gió",
+          "note_vi": "u dài. Giữ lâu gấp đôi — đó là một từ khác, không phải giọng điệu."
+        },
+        {
+          "fi": "tulli",
+          "en": "customs",
+          "pos": "noun",
+          "note": "Short u, long l. The consonant is what stretches here.",
+          "vi": "hải quan",
+          "note_vi": "u ngắn, l dài. Ở đây phụ âm mới là phần kéo dài."
+        },
+        {
+          "fi": "kuka",
+          "en": "who",
+          "pos": "pronoun",
+          "vi": "ai"
+        },
+        {
+          "fi": "kukka",
+          "en": "flower",
+          "pos": "noun",
+          "note": "Hold the k: ku-kka. There is a tiny silence before it.",
+          "vi": "bông hoa",
+          "note_vi": "Giữ âm k: ku-kka. Có một khoảng lặng rất nhỏ trước nó."
+        },
+        {
+          "fi": "tapan",
+          "en": "I kill",
+          "pos": "verb",
+          "vi": "tôi giết"
+        },
+        {
+          "fi": "tapaan",
+          "en": "I meet",
+          "pos": "verb",
+          "note": "The one everyone gets wrong at least once. Lengthen the a.",
+          "vi": "tôi gặp",
+          "note_vi": "Từ mà ai cũng nói sai ít nhất một lần. Kéo dài âm a."
+        },
+        {
+          "fi": "tila",
+          "en": "space, room",
+          "pos": "noun",
+          "vi": "chỗ, không gian"
+        },
+        {
+          "fi": "tilaa",
+          "en": "order (it) / more space",
+          "pos": "verb",
+          "vi": "đặt (cái gì đó) / thêm chỗ"
+        },
+        {
+          "fi": "muta",
+          "en": "mud",
+          "pos": "noun",
+          "vi": "bùn"
+        },
+        {
+          "fi": "mutta",
+          "en": "but",
+          "pos": "conjunction",
+          "vi": "nhưng"
+        },
+        {
+          "fi": "y",
+          "en": "the y sound",
+          "pos": "letter",
+          "note": "Say the German ü / French u. Round your lips for 'oo' but say 'ee'.",
+          "vi": "âm y",
+          "note_vi": "Giống ü trong tiếng Đức. Tròn môi như nói «u» nhưng phát ra «i»."
+        },
+        {
+          "fi": "ä",
+          "en": "the ä sound",
+          "pos": "letter",
+          "note": "The 'a' in English 'cat'. Not the 'a' in 'father' — that's Finnish a.",
+          "vi": "âm ä",
+          "note_vi": "Giống «a» trong «cat» tiếng Anh. Không phải «a» trong «father» — đó là chữ a của tiếng Phần Lan."
+        },
+        {
+          "fi": "ö",
+          "en": "the ö sound",
+          "pos": "letter",
+          "note": "The vowel in English 'bird', lips rounded.",
+          "vi": "âm ö",
+          "note_vi": "Giống nguyên âm trong «bird» tiếng Anh, môi tròn lại."
+        },
+        {
+          "fi": "hyvä",
+          "en": "good",
+          "pos": "adjective",
+          "note": "y then ä — two of the hard sounds in one short word. Worth drilling.",
+          "vi": "tốt, hay",
+          "note_vi": "y rồi ä — hai âm khó trong một từ ngắn. Đáng luyện."
+        },
+        {
+          "fi": "tyttö",
+          "en": "girl",
+          "pos": "noun",
+          "note": "y, double t, ö. The full obstacle course.",
+          "vi": "cô bé, con gái",
+          "note_vi": "y, t đôi, ö. Đủ bộ chướng ngại vật."
+        },
+        {
+          "fi": "syödä",
+          "en": "to eat",
+          "pos": "verb",
+          "note": "'syö' is one gliding sound, not sy-ö.",
+          "vi": "ăn",
+          "note_vi": "«syö» là một âm lướt liền, không phải sy-ö."
+        },
+        {
+          "fi": "yö",
+          "en": "night",
+          "pos": "noun",
+          "note": "Two vowels, no consonants. Glide from y to ö without stopping.",
+          "vi": "đêm",
+          "note_vi": "Hai nguyên âm, không phụ âm. Lướt từ y sang ö mà không dừng."
+        },
+        {
+          "fi": "työ",
+          "en": "work",
+          "pos": "noun",
+          "vi": "công việc"
+        },
+        {
+          "fi": "äiti",
+          "en": "mother",
+          "pos": "noun",
+          "vi": "mẹ"
+        },
+        {
+          "fi": "öljy",
+          "en": "oil",
+          "pos": "noun",
+          "note": "ö and y in four letters.",
+          "vi": "dầu",
+          "note_vi": "ö và y trong bốn chữ cái."
+        },
+        {
+          "fi": "ensimmäinen",
+          "en": "first",
+          "pos": "adjective",
+          "note": "Double m. Stress is always on the first syllable: EN-sim-mäi-nen.",
+          "vi": "đầu tiên",
+          "note_vi": "m đôi. Trọng âm luôn ở âm tiết đầu: EN-sim-mäi-nen."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Tapaan sut huomenna.",
+          "en": "I'll meet you tomorrow.",
+          "when_to_use": "Drill the long a. 'Tapan sut huomenna' means something much worse.",
+          "register": "casual",
+          "vi": "Mai tôi sẽ gặp bạn.",
+          "when_to_use_vi": "Luyện âm a dài. «Tapan sut huomenna» mang nghĩa tệ hơn nhiều."
+        },
+        {
+          "fi": "Onks siellä tilaa?",
+          "en": "Is there room there?",
+          "when_to_use": "At a table, in a car, in a class.",
+          "register": "casual",
+          "vi": "Ở đó còn chỗ không?",
+          "when_to_use_vi": "Ở bàn ăn, trên xe, trong lớp."
+        },
+        {
+          "fi": "Ulkona on kova tuuli.",
+          "en": "It's very windy out.",
+          "literal": "outside is a strong wind",
+          "when_to_use": "Weather small talk, and a free long-vowel drill.",
+          "register": "neutral",
+          "vi": "Ngoài trời gió to.",
+          "literal_vi": "bên ngoài là một cơn gió mạnh",
+          "when_to_use_vi": "Chuyện phiếm về thời tiết, kiêm luôn bài luyện nguyên âm dài miễn phí."
+        },
+        {
+          "fi": "Hyvää yötä!",
+          "en": "Good night!",
+          "when_to_use": "Two long vowels and a y-ö glide. If you can say this cleanly, your pronunciation is fine.",
+          "register": "neutral",
+          "vi": "Chúc ngủ ngon!",
+          "when_to_use_vi": "Hai nguyên âm dài và một âm lướt y-ö. Nói câu này gọn ghẽ được là phát âm của bạn ổn."
+        },
+        {
+          "fi": "Hyvää työpäivää!",
+          "en": "Have a good day at work!",
+          "when_to_use": "Said to someone heading out in the morning. A genuinely useful tongue-twister.",
+          "register": "neutral",
+          "vi": "Chúc một ngày làm việc tốt lành!",
+          "when_to_use_vi": "Nói với người sắp ra khỏi nhà buổi sáng. Một câu líu lưỡi thật sự hữu ích."
+        },
+        {
+          "fi": "Mä en kuule eroa.",
+          "en": "I can't hear the difference.",
+          "when_to_use": "Say this to a Finn and they will happily drill the minimal pair with you.",
+          "register": "casual",
+          "vi": "Tôi không nghe ra khác nhau.",
+          "when_to_use_vi": "Nói câu này với người Phần Lan và họ sẽ vui vẻ luyện cặp từ đó với bạn."
+        },
+        {
+          "fi": "Sano se uudestaan, hitaasti.",
+          "en": "Say it again, slowly.",
+          "when_to_use": "Your pronunciation-practice command.",
+          "register": "casual",
+          "vi": "Nói lại đi, chậm thôi.",
+          "when_to_use_vi": "Câu lệnh luyện phát âm của bạn."
+        },
+        {
+          "fi": "Onks toi pitkä vai lyhyt?",
+          "en": "Is that one long or short?",
+          "when_to_use": "Asking about a vowel you are unsure of. Finns understand this question instantly.",
+          "register": "casual",
+          "vi": "Cái đó dài hay ngắn?",
+          "when_to_use_vi": "Hỏi về một nguyên âm bạn không chắc. Người Phần Lan hiểu ngay câu này."
+        },
+        {
+          "fi": "Mä meen kauppaan.",
+          "fi_book": "Minä menen kauppaan.",
+          "en": "I'm going to the shop.",
+          "when_to_use": "'meen' has a long e. Listen for how much longer it is than you expect.",
+          "register": "casual",
+          "vi": "Tôi đi ra cửa hàng.",
+          "when_to_use_vi": "«meen» có âm e dài. Hãy nghe xem nó dài hơn bạn tưởng bao nhiêu."
+        },
+        {
+          "fi": "Se on tosi vaikee sana.",
+          "fi_book": "Se on todella vaikea sana.",
+          "en": "That's a really hard word.",
+          "when_to_use": "Completely acceptable thing to say out loud, any time.",
+          "register": "casual",
+          "vi": "Từ đó khó thật đấy.",
+          "when_to_use_vi": "Hoàn toàn có thể nói ra miệng, bất cứ lúc nào."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Getting corrected, kindly",
+          "setting": "A colleague overhears you practising.",
+          "speed": "slow",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Mä tapan sut huomenna kahvilassa.",
+              "en": "I'll kill you tomorrow at the café.",
+              "note": "Not what he meant.",
+              "vi": "Mai tôi sẽ giết bạn ở quán cà phê.",
+              "note_vi": "Không phải ý anh ấy định nói."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Hetkinen! Sä tarkotit varmaan tapaan.",
+              "en": "Hold on! You probably meant 'tapaan'.",
+              "vi": "Khoan đã! Chắc bạn định nói «tapaan»."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai, mikä ero siinä on?",
+              "en": "Oh, what's the difference?",
+              "vi": "Ồ, khác nhau chỗ nào?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Tapan on yks aa. Tapaan on kaks. Ta-paan.",
+              "en": "'Tapan' has one a. 'Tapaan' has two. Ta-paan.",
+              "vi": "«Tapan» có một chữ a. «Tapaan» có hai. Ta-paan."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tapaan. Näinkö?",
+              "en": "Tapaan. Like this?",
+              "vi": "Tapaan. Thế này à?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Just noin! Pidä sitä vähän pidempään.",
+              "en": "Exactly! Hold it a bit longer.",
+              "vi": "Chính xác! Giữ lâu hơn một chút."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä tapaan sut huomenna.",
+              "en": "I'll meet you tomorrow.",
+              "vi": "Mai tôi sẽ gặp bạn."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Täydellistä. Toi oli oikein.",
+              "en": "Perfect. That was right.",
+              "vi": "Hoàn hảo. Vừa rồi đúng rồi đấy."
+            }
+          ],
+          "title_vi": "Được sửa lỗi một cách tử tế",
+          "setting_vi": "Một đồng nghiệp nghe thấy bạn đang luyện."
+        },
+        {
+          "title": "Minimal pairs, fast",
+          "setting": "A friend quizzes you. Listen, don't read.",
+          "speed": "natural",
+          "note": "Play this with your eyes closed and decide which word you heard.",
+          "lines": [
+            {
+              "speaker": "Jussi",
+              "fi": "Tuli. Tuuli. Tulli.",
+              "en": "Fire. Wind. Customs.",
+              "vi": "Lửa. Gió. Hải quan."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Kuka toi on? Kukka on pöydällä.",
+              "en": "Who is that? The flower is on the table.",
+              "vi": "Kia là ai? Bông hoa ở trên bàn."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Muta on märkää, mutta se kuivuu.",
+              "en": "Mud is wet, but it dries.",
+              "vi": "Bùn thì ướt, nhưng nó sẽ khô."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Tilaa on. Tilaa kaks kahvii.",
+              "en": "There is room. Order two coffees.",
+              "vi": "Còn chỗ đấy. Gọi hai cà phê đi."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Yö, työ, syö, tyyli.",
+              "en": "Night, work, eat, style.",
+              "vi": "Đêm, công việc, ăn, phong cách."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Hyvä tyttö, hyvää yötä.",
+              "en": "Good girl, good night.",
+              "vi": "Cô bé ngoan, chúc ngủ ngon."
+            }
+          ],
+          "title_vi": "Cặp từ tối thiểu, nói nhanh",
+          "setting_vi": "Một người bạn đố bạn. Hãy nghe, đừng đọc.",
+          "note_vi": "Nghe đoạn này với mắt nhắm và quyết xem bạn nghe ra từ nào."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Ask for a correction",
+          "scenario": "You try a word, get it wrong, and ask to be corrected instead of moving on.",
+          "your_role": "You, practising out loud",
+          "partner_role": "Jussi, a patient colleague",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Onks toi pitkä vai lyhyt?",
+              "en": "Is that long or short?",
+              "hint": "Ask about the vowel length.",
+              "vi": "Cái đó dài hay ngắn?",
+              "hint_vi": "Hỏi về độ dài nguyên âm."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Se on pitkä. Tuuuli.",
+              "en": "It's long. Tuuuli.",
+              "vi": "Nó dài. Tuuuli."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Tuuli. Sanoinks mä sen oikein?",
+              "en": "Tuuli. Did I say it right?",
+              "hint": "Repeat it, then ask if you got it.",
+              "vi": "Tuuli. Tôi nói vậy đúng không?",
+              "hint_vi": "Lặp lại, rồi hỏi xem mình nói đúng chưa."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Joo, just noin!",
+              "en": "Yeah, exactly!",
+              "vi": "Ừ, chính xác!"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitti! Tää on tosi vaikee.",
+              "en": "Thanks! This is really hard.",
+              "hint": "Thank them and admit it's difficult — it keeps them helping.",
+              "vi": "Cảm ơn! Cái này khó thật.",
+              "hint_vi": "Cảm ơn và thừa nhận là khó — như thế họ sẽ tiếp tục giúp bạn."
+            }
+          ],
+          "title_vi": "Nhờ người ta sửa cho mình",
+          "scenario_vi": "Bạn thử một từ, nói sai, và nhờ sửa thay vì bỏ qua.",
+          "your_role_vi": "Bạn, đang luyện nói to",
+          "partner_role_vi": "Jussi, một đồng nghiệp kiên nhẫn"
+        }
+      ],
+      "title_vi": "Năm âm khiến ai cũng vấp",
+      "subtitle_vi": "Nguyên âm dài, phụ âm đôi, y / ä / ö",
+      "warmup_situation_vi": "Bạn định nói «tapaaminen» nhưng lại bật ra «tapaminen». Bạn muốn nói «tôi sẽ gặp bạn» mà thành ra gần với «tôi sẽ giết bạn» (tapaan / tapan).",
+      "warmup_question_vi": "Trong tiếng Phần Lan, độ dài là tiểu tiết — hay là cả cái từ?",
+      "rescue_vi": "Tôi nói vậy có đúng không?",
+      "rescue_note_vi": "Người Phần Lan sửa lỗi rất nhiệt tình khi được mời, và gần như không bao giờ sửa khi chưa được mời. Hỏi câu này là mở cửa."
+    },
+    {
+      "slug": "questions-without-ko",
+      "number": "0.3",
+      "title": "Questions without the textbook -ko",
+      "subtitle": "Onks? Tuuks? Meneeks?",
+      "warmup_situation": "You learned 'Onko sinulla aikaa?'. Nobody has ever said that to you. What you hear is 'Onks sulla aikaa?' — and once, so fast it was 'Onksulaikaa?'",
+      "warmup_question": "Where did the -ko go?",
+      "rescue_fi": "Anteeks, oliks toi kysymys?",
+      "rescue_en": "Sorry, was that a question?",
+      "rescue_note": "Genuinely useful. Spoken Finnish questions can be so compressed that you miss the question mark entirely.",
+      "vocab": [
+        {
+          "fi": "-ks",
+          "fi_book": "-ko / -kö",
+          "en": "question ending",
+          "pos": "particle",
+          "note": "The whole lesson in one item. Onko → onks. Menetkö → menetks → meeks.",
+          "vi": "đuôi nghi vấn",
+          "note_vi": "Cả bài học gói trong một mục. Onko → onks. Menetkö → menetks → meeks."
+        },
+        {
+          "fi": "onks",
+          "fi_book": "onko",
+          "en": "is there / is it",
+          "pos": "question",
+          "vi": "có … không (về sự vật)"
+        },
+        {
+          "fi": "ooks / ootsä",
+          "fi_book": "oletko",
+          "en": "are you",
+          "pos": "question",
+          "note": "'Ootsä' fuses the verb and 'sä' into one word.",
+          "vi": "bạn có phải / bạn có đang",
+          "note_vi": "«Ootsä» dính động từ với «sä» thành một từ."
+        },
+        {
+          "fi": "oliks",
+          "fi_book": "oliko",
+          "en": "was it",
+          "pos": "question",
+          "vi": "đã … phải không"
+        },
+        {
+          "fi": "tuuks",
+          "fi_book": "tuletko",
+          "en": "are you coming",
+          "pos": "question",
+          "vi": "bạn có đến không"
+        },
+        {
+          "fi": "meeks / meetsä",
+          "fi_book": "menetkö",
+          "en": "are you going",
+          "pos": "question",
+          "vi": "bạn có đi không"
+        },
+        {
+          "fi": "voitsä",
+          "fi_book": "voitko sinä",
+          "en": "can you",
+          "pos": "question",
+          "vi": "bạn có thể … không"
+        },
+        {
+          "fi": "voinks mä",
+          "fi_book": "voinko minä",
+          "en": "can I",
+          "pos": "question",
+          "vi": "tôi có thể … không"
+        },
+        {
+          "fi": "tiiätsä",
+          "fi_book": "tiedätkö sinä",
+          "en": "do you know",
+          "pos": "question",
+          "vi": "bạn có biết không"
+        },
+        {
+          "fi": "haluuks",
+          "fi_book": "haluatko",
+          "en": "do you want",
+          "pos": "question",
+          "vi": "bạn có muốn không"
+        },
+        {
+          "fi": "saaks",
+          "fi_book": "saako",
+          "en": "may one / can I",
+          "pos": "question",
+          "vi": "có được phép không"
+        },
+        {
+          "fi": "pitääks",
+          "fi_book": "pitääkö",
+          "en": "does one have to",
+          "pos": "question",
+          "vi": "có phải … không (bắt buộc)"
+        },
+        {
+          "fi": "mennäänks",
+          "fi_book": "mennäänkö",
+          "en": "shall we go",
+          "pos": "question",
+          "note": "The 'shall we' form. Syödäänks? Katotaanks? Lähetäänks?",
+          "vi": "mình đi nhé",
+          "note_vi": "Mẫu «mình cùng… nhé». Syödäänks? Katotaanks? Lähetäänks?"
+        },
+        {
+          "fi": "eiks",
+          "fi_book": "eikö",
+          "en": "isn't it / right?",
+          "pos": "question",
+          "note": "'eiks niin?' tacked onto the end = 'right?'",
+          "vi": "phải không / đúng không",
+          "note_vi": "«eiks niin?» gắn ở cuối câu = «đúng không?»"
+        },
+        {
+          "fi": "millon",
+          "fi_book": "milloin",
+          "en": "when",
+          "pos": "question",
+          "vi": "khi nào"
+        },
+        {
+          "fi": "mitä",
+          "en": "what",
+          "pos": "question",
+          "vi": "cái gì"
+        },
+        {
+          "fi": "missä",
+          "en": "where",
+          "pos": "question",
+          "vi": "ở đâu"
+        },
+        {
+          "fi": "mihin",
+          "en": "to where",
+          "pos": "question",
+          "vi": "đến đâu"
+        },
+        {
+          "fi": "miks",
+          "fi_book": "miksi",
+          "en": "why",
+          "pos": "question",
+          "vi": "tại sao"
+        },
+        {
+          "fi": "kuka",
+          "en": "who",
+          "pos": "question",
+          "vi": "ai"
+        },
+        {
+          "fi": "kenen",
+          "en": "whose",
+          "pos": "question",
+          "vi": "của ai"
+        },
+        {
+          "fi": "paljonks",
+          "fi_book": "paljonko",
+          "en": "how much",
+          "pos": "question",
+          "vi": "bao nhiêu"
+        },
+        {
+          "fi": "kauanks",
+          "fi_book": "kauanko",
+          "en": "how long",
+          "pos": "question",
+          "vi": "bao lâu"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Onks sulla aikaa?",
+          "fi_book": "Onko sinulla aikaa?",
+          "en": "Do you have time?",
+          "when_to_use": "Before asking anyone for anything, at work or anywhere else.",
+          "register": "casual",
+          "vi": "Bạn có rảnh không?",
+          "when_to_use_vi": "Trước khi nhờ ai đó bất cứ việc gì, ở chỗ làm hay bất cứ đâu."
+        },
+        {
+          "fi": "Ootsä valmis?",
+          "fi_book": "Oletko sinä valmis?",
+          "en": "Are you ready?",
+          "when_to_use": "Leaving the house, starting a meeting, anywhere.",
+          "register": "casual",
+          "vi": "Bạn sẵn sàng chưa?",
+          "when_to_use_vi": "Lúc ra khỏi nhà, lúc bắt đầu họp, bất cứ đâu."
+        },
+        {
+          "fi": "Tuuks sä mukaan?",
+          "fi_book": "Tuletko sinä mukaan?",
+          "en": "Are you coming along?",
+          "when_to_use": "The standard invitation. Lunch, a walk, the pub.",
+          "register": "casual",
+          "vi": "Bạn đi cùng không?",
+          "when_to_use_vi": "Lời mời chuẩn. Ăn trưa, đi dạo, đi quán."
+        },
+        {
+          "fi": "Mennäänks kahville?",
+          "fi_book": "Mennäänkö kahville?",
+          "en": "Shall we go for a coffee?",
+          "when_to_use": "The most Finnish social move there is. Say it at work and you have a friend.",
+          "register": "casual",
+          "vi": "Mình đi cà phê nhé?",
+          "when_to_use_vi": "Nước đi xã giao Phần Lan nhất có thể. Nói câu này ở chỗ làm là bạn có bạn."
+        },
+        {
+          "fi": "Voitsä auttaa?",
+          "fi_book": "Voitko sinä auttaa?",
+          "en": "Can you help?",
+          "when_to_use": "Direct and completely polite in Finnish. No softening needed.",
+          "register": "neutral",
+          "vi": "Bạn giúp được không?",
+          "when_to_use_vi": "Trực tiếp và hoàn toàn lịch sự trong tiếng Phần Lan. Không cần làm mềm thêm."
+        },
+        {
+          "fi": "Voinks mä kysyy jotain?",
+          "fi_book": "Voinko minä kysyä jotain?",
+          "en": "Can I ask something?",
+          "when_to_use": "Interrupting politely in a meeting or a class.",
+          "register": "neutral",
+          "vi": "Tôi hỏi một câu được không?",
+          "when_to_use_vi": "Cách ngắt lời lịch sự trong cuộc họp hay lớp học."
+        },
+        {
+          "fi": "Tiiätsä missä toi on?",
+          "fi_book": "Tiedätkö sinä missä tuo on?",
+          "en": "Do you know where that is?",
+          "when_to_use": "Asking directions from a passer-by.",
+          "register": "casual",
+          "vi": "Bạn có biết chỗ đó ở đâu không?",
+          "when_to_use_vi": "Hỏi đường người qua lại."
+        },
+        {
+          "fi": "Saaks tässä istuu?",
+          "fi_book": "Saako tässä istua?",
+          "en": "Can I sit here?",
+          "literal": "is one allowed to sit here",
+          "when_to_use": "On a train, in a café. The passive avoids naming yourself — very Finnish.",
+          "register": "neutral",
+          "vi": "Tôi ngồi đây được không?",
+          "literal_vi": "ở đây có được phép ngồi không",
+          "when_to_use_vi": "Trên tàu, trong quán. Dạng bị động tránh nhắc đến bản thân — rất Phần Lan."
+        },
+        {
+          "fi": "Pitääks mun varata aika?",
+          "fi_book": "Pitääkö minun varata aika?",
+          "en": "Do I need to book an appointment?",
+          "when_to_use": "Hairdresser, doctor, bank, anywhere.",
+          "register": "neutral",
+          "vi": "Tôi có cần đặt lịch không?",
+          "when_to_use_vi": "Tiệm tóc, bác sĩ, ngân hàng, bất cứ đâu."
+        },
+        {
+          "fi": "Paljonks tää maksaa?",
+          "fi_book": "Paljonko tämä maksaa?",
+          "en": "How much is this?",
+          "when_to_use": "The price question, every shop.",
+          "register": "neutral",
+          "vi": "Cái này bao nhiêu tiền?",
+          "when_to_use_vi": "Câu hỏi giá, ở mọi cửa hàng."
+        },
+        {
+          "fi": "Kauanks sä oot ollu Suomessa?",
+          "fi_book": "Kuinka kauan olet ollut Suomessa?",
+          "en": "How long have you been in Finland?",
+          "when_to_use": "You will be asked this roughly a thousand times.",
+          "register": "casual",
+          "vi": "Bạn ở Phần Lan bao lâu rồi?",
+          "when_to_use_vi": "Bạn sẽ được hỏi câu này khoảng một nghìn lần."
+        },
+        {
+          "fi": "Sä oot Annin kaveri, eiks niin?",
+          "en": "You're Anni's friend, right?",
+          "when_to_use": "Tag question. Turns a guess into a safe opener.",
+          "register": "casual",
+          "vi": "Bạn là bạn của Anni, đúng không?",
+          "when_to_use_vi": "Câu hỏi đuôi. Biến một phỏng đoán thành câu mở đầu an toàn."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Making a plan",
+          "setting": "Two colleagues, late morning.",
+          "speed": "slow",
+          "note": "Count the questions. Not one uses -ko.",
+          "lines": [
+            {
+              "speaker": "Jussi",
+              "fi": "Moi! Onks sulla kiire?",
+              "en": "Hi! Are you busy?",
+              "vi": "Chào! Bạn có bận không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo. Mitä sä mietit?",
+              "en": "Nope. What are you thinking?",
+              "note": "'Ei oo' — the standard no.",
+              "vi": "Không. Bạn đang nghĩ gì thế?",
+              "note_vi": "«Ei oo» — câu «không» tiêu chuẩn."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Mennäänks kahville? Mä oon ihan puhki.",
+              "en": "Shall we go for a coffee? I'm completely wiped.",
+              "vi": "Mình đi cà phê nhé? Tôi kiệt sức rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, mennään. Tuleeks Anni kans?",
+              "en": "Yeah, let's. Is Anni coming too?",
+              "vi": "Ừ, đi thôi. Anni có đi không?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "En tiiä. Kysytäänks siltä?",
+              "en": "I don't know. Shall we ask her?",
+              "note": "'siltä' = from her/him. Again 'se' for a person.",
+              "vi": "Không biết. Hỏi cô ấy nhé?",
+              "note_vi": "«siltä» = từ cô ấy/anh ấy. Lại là «se» dùng cho người."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kysy sä. Millon te yleensä meette?",
+              "en": "You ask. When do you usually go?",
+              "vi": "Bạn hỏi đi. Các bạn thường đi lúc mấy giờ?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Yleensä kymmeneltä. Sopiiks se sulle?",
+              "en": "Usually at ten. Does that work for you?",
+              "vi": "Thường là mười giờ. Vậy có hợp với bạn không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii hyvin. Nähdään alhaalla!",
+              "en": "Works great. See you downstairs!",
+              "vi": "Hợp lắm. Gặp nhau ở dưới nhé!"
+            }
+          ],
+          "title_vi": "Lên kế hoạch",
+          "setting_vi": "Hai đồng nghiệp, gần trưa.",
+          "note_vi": "Đếm số câu hỏi. Không câu nào dùng -ko."
+        },
+        {
+          "title": "Same plan, real speed",
+          "setting": "Doorway, thirty seconds, one of them already walking.",
+          "speed": "natural",
+          "note": "Questions get so short they are almost one syllable. Listen for the rising tone.",
+          "lines": [
+            {
+              "speaker": "Jussi",
+              "fi": "Moi, onks kiire?",
+              "en": "Hi, you busy?",
+              "vi": "Chào, bận không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei oo.",
+              "en": "Nope.",
+              "vi": "Không."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Kahville?",
+              "en": "Coffee?",
+              "note": "A single word can be a whole invitation.",
+              "vi": "Cà phê?",
+              "note_vi": "Một từ duy nhất có thể là cả một lời mời."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo. Tuleeks Anni?",
+              "en": "Yeah. Is Anni coming?",
+              "vi": "Ừ. Anni đi không?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Emmä tiiä. Kysytään.",
+              "en": "Dunno. Let's ask.",
+              "note": "'Emmä tiiä' = en mä tiedä, fused.",
+              "vi": "Chả biết. Hỏi đi.",
+              "note_vi": "«Emmä tiiä» = en mä tiedä, dính lại."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Millon?",
+              "en": "When?",
+              "vi": "Khi nào?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Nyt heti. Sopiiks?",
+              "en": "Right now. Works?",
+              "vi": "Ngay bây giờ. Được không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii. Mennään.",
+              "en": "Works. Let's go.",
+              "vi": "Được. Đi thôi."
+            }
+          ],
+          "title_vi": "Cùng kế hoạch đó, ở tốc độ thật",
+          "setting_vi": "Ở cửa, ba mươi giây, một người đã bước đi.",
+          "note_vi": "Câu hỏi ngắn đến mức gần như một âm tiết. Hãy nghe ngữ điệu đi lên."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Invite someone for coffee",
+          "scenario": "Get a colleague out of the office for fifteen minutes, using only -ks questions.",
+          "your_role": "You, needing a break",
+          "partner_role": "Jussi, at his desk",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Onks sulla hetki?",
+              "en": "Hi! Do you have a second?",
+              "hint": "Open by asking if they have time.",
+              "vi": "Chào! Bạn có rảnh một chút không?",
+              "hint_vi": "Mở đầu bằng cách hỏi họ có thời gian không."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Joo on. Mitä?",
+              "en": "Yeah I do. What's up?",
+              "vi": "Có chứ. Gì thế?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mennäänks kahville?",
+              "en": "Shall we go for a coffee?",
+              "hint": "Use the mennään + -ks pattern.",
+              "vi": "Mình đi cà phê nhé?",
+              "hint_vi": "Dùng mẫu mennään + -ks."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Joo mielellään. Millon?",
+              "en": "Yeah, gladly. When?",
+              "vi": "Ừ, sẵn lòng. Khi nào?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Sopiiks nyt heti?",
+              "en": "Does right now work?",
+              "hint": "Propose a time as a -ks question.",
+              "vi": "Ngay bây giờ được không?",
+              "hint_vi": "Đề xuất một thời điểm dưới dạng câu hỏi -ks."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Sopii. Tuleeks joku muu kans?",
+              "en": "Works. Is anyone else coming?",
+              "vi": "Được. Có ai đi nữa không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kysytäänks Annilta?",
+              "en": "Shall we ask Anni?",
+              "hint": "Suggest asking someone, again with -ks.",
+              "vi": "Rủ Anni nhé?",
+              "hint_vi": "Đề nghị rủ thêm ai đó, vẫn dùng -ks."
+            },
+            {
+              "speaker": "Jussi",
+              "is_your_turn": false,
+              "fi": "Joo, kysytään. Nähdään alhaalla.",
+              "en": "Yeah, let's. See you downstairs.",
+              "vi": "Ừ, rủ đi. Gặp ở dưới nhà."
+            }
+          ],
+          "title_vi": "Rủ ai đó đi cà phê",
+          "scenario_vi": "Kéo một đồng nghiệp ra khỏi văn phòng mười lăm phút, chỉ dùng câu hỏi đuôi -ks.",
+          "your_role_vi": "Bạn, đang cần nghỉ giải lao",
+          "partner_role_vi": "Jussi, đang ngồi ở bàn"
+        }
+      ],
+      "title_vi": "Câu hỏi không cần đuôi -ko trong sách",
+      "subtitle_vi": "Onks? Tuuks? Meneeks?",
+      "warmup_situation_vi": "Bạn học «Onko sinulla aikaa?». Chưa ai từng nói câu đó với bạn. Cái bạn nghe được là «Onks sulla aikaa?» — và có lần nhanh đến mức thành «Onksulaikaa?»",
+      "warmup_question_vi": "Đuôi -ko đi đâu mất rồi?",
+      "rescue_vi": "Xin lỗi, đó là câu hỏi à?",
+      "rescue_note_vi": "Thật sự hữu ích. Câu hỏi trong tiếng Phần Lan nói có thể bị nén đến mức bạn không nhận ra đó là câu hỏi."
+    },
+    {
+      "slug": "survival-kit",
+      "number": "0.4",
+      "title": "Your survival kit",
+      "subtitle": "The eight phrases that keep a conversation alive when you understood nothing",
+      "warmup_situation": "Someone says three fast sentences to you. You caught the word 'huomenna'. They are waiting.",
+      "warmup_question": "What do you say — and what do you say that doesn't end the conversation in English?",
+      "rescue_fi": "Mä en ymmärtäny. Voitsä sanoo sen toisin?",
+      "rescue_en": "I didn't understand. Could you say it another way?",
+      "rescue_note": "Better than 'say it again': repeating the same sentence slower often doesn't help, but rephrasing almost always does. This is the single highest-value phrase in the course.",
+      "vocab": [
+        {
+          "fi": "anteeks",
+          "fi_book": "anteeksi",
+          "en": "sorry / excuse me",
+          "pos": "particle",
+          "note": "Does triple duty: apology, getting attention, and 'pardon?'",
+          "vi": "xin lỗi / làm ơn cho hỏi",
+          "note_vi": "Làm ba việc: xin lỗi, gây chú ý, và «bạn nói gì cơ?»"
+        },
+        {
+          "fi": "hitaammin",
+          "en": "more slowly",
+          "pos": "adverb",
+          "vi": "chậm hơn"
+        },
+        {
+          "fi": "uudestaan",
+          "en": "again",
+          "pos": "adverb",
+          "vi": "lại, lần nữa"
+        },
+        {
+          "fi": "toisin",
+          "en": "differently, another way",
+          "pos": "adverb",
+          "vi": "theo cách khác"
+        },
+        {
+          "fi": "tarkottaa",
+          "fi_book": "tarkoittaa",
+          "en": "to mean",
+          "pos": "verb",
+          "vi": "có nghĩa là"
+        },
+        {
+          "fi": "ymmärtää",
+          "en": "to understand",
+          "pos": "verb",
+          "vi": "hiểu"
+        },
+        {
+          "fi": "ymmärtäny",
+          "fi_book": "ymmärtänyt",
+          "en": "understood",
+          "pos": "verb",
+          "vi": "đã hiểu"
+        },
+        {
+          "fi": "sanoo",
+          "fi_book": "sanoa",
+          "en": "to say",
+          "pos": "verb",
+          "note": "The -oa ending becomes -oo in speech: sanoa → sanoo, puhua → puhuu.",
+          "vi": "nói",
+          "note_vi": "Đuôi -oa thành -oo khi nói: sanoa → sanoo, puhua → puhuu."
+        },
+        {
+          "fi": "toistaa",
+          "en": "to repeat",
+          "pos": "verb",
+          "vi": "lặp lại"
+        },
+        {
+          "fi": "kirjottaa",
+          "fi_book": "kirjoittaa",
+          "en": "to write",
+          "pos": "verb",
+          "vi": "viết"
+        },
+        {
+          "fi": "hetkinen",
+          "en": "just a moment",
+          "pos": "particle",
+          "vi": "chờ một chút"
+        },
+        {
+          "fi": "suomeks",
+          "fi_book": "suomeksi",
+          "en": "in Finnish",
+          "pos": "adverb",
+          "vi": "bằng tiếng Phần Lan"
+        },
+        {
+          "fi": "englanniks",
+          "fi_book": "englanniksi",
+          "en": "in English",
+          "pos": "adverb",
+          "vi": "bằng tiếng Anh"
+        },
+        {
+          "fi": "sana",
+          "en": "word",
+          "pos": "noun",
+          "vi": "từ, chữ"
+        },
+        {
+          "fi": "vähän",
+          "en": "a little",
+          "pos": "adverb",
+          "note": "Softens everything. 'Mä puhun vähän suomee' is friendlier than 'en puhu suomea'.",
+          "vi": "một chút",
+          "note_vi": "Làm mềm mọi thứ. «Mä puhun vähän suomee» nghe thân thiện hơn «en puhu suomea»."
+        },
+        {
+          "fi": "vielä",
+          "en": "still / yet",
+          "pos": "adverb",
+          "note": "'Mä opiskelen vielä' = I'm still learning. Buys you enormous goodwill.",
+          "vi": "vẫn còn, chưa xong",
+          "note_vi": "«Mä opiskelen vielä» = tôi vẫn đang học. Mang lại rất nhiều thiện cảm."
+        },
+        {
+          "fi": "opiskella",
+          "en": "to study",
+          "pos": "verb",
+          "vi": "học"
+        },
+        {
+          "fi": "tarkottaaks",
+          "en": "does it mean",
+          "pos": "question",
+          "vi": "nó có nghĩa là … phải không"
+        },
+        {
+          "fi": "just",
+          "en": "exactly / just",
+          "pos": "particle",
+          "note": "Pronounced 'yust'. 'Just joo' = 'ah, right'.",
+          "vi": "đúng, chính xác",
+          "note_vi": "Đọc là «yust». «Just joo» = «à, ra vậy»."
+        },
+        {
+          "fi": "eli",
+          "en": "in other words, so",
+          "pos": "conjunction",
+          "note": "Use it to check you got it: 'Eli mä tuun kuudelta?'",
+          "vi": "tức là, vậy thì",
+          "note_vi": "Dùng để kiểm tra xem mình hiểu đúng chưa: «Eli mä tuun kuudelta?»"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Anteeks, mitä?",
+          "fi_book": "Anteeksi, mitä?",
+          "en": "Sorry, what?",
+          "when_to_use": "The basic 'I missed that'. Neutral, not rude.",
+          "register": "neutral",
+          "vi": "Xin lỗi, gì cơ?",
+          "when_to_use_vi": "Câu «tôi không nghe kịp» cơ bản. Trung tính, không thô."
+        },
+        {
+          "fi": "Voitsä puhuu vähän hitaammin?",
+          "fi_book": "Voitko puhua vähän hitaammin?",
+          "en": "Could you speak a bit more slowly?",
+          "when_to_use": "'vähän' matters — asking for 'a bit' slower gets a better result than asking for slow.",
+          "register": "neutral",
+          "vi": "Bạn nói chậm hơn một chút được không?",
+          "when_to_use_vi": "Chữ «vähän» quan trọng — xin «chậm hơn một chút» hiệu quả hơn xin nói thật chậm."
+        },
+        {
+          "fi": "Mä en ymmärtäny.",
+          "fi_book": "Minä en ymmärtänyt.",
+          "en": "I didn't understand.",
+          "when_to_use": "Past tense is better than 'en ymmärrä' — it's about that sentence, not about your Finnish in general.",
+          "register": "neutral",
+          "vi": "Tôi chưa hiểu.",
+          "when_to_use_vi": "Thì quá khứ tốt hơn «en ymmärrä» — nó nói về câu đó, chứ không phải về trình độ tiếng Phần Lan của bạn."
+        },
+        {
+          "fi": "Mitä se tarkottaa?",
+          "fi_book": "Mitä se tarkoittaa?",
+          "en": "What does that mean?",
+          "when_to_use": "Point at the one word that broke the sentence.",
+          "register": "neutral",
+          "vi": "Cái đó nghĩa là gì?",
+          "when_to_use_vi": "Chỉ vào đúng một từ đã làm vỡ cả câu."
+        },
+        {
+          "fi": "Miten se sanotaan suomeks?",
+          "en": "How do you say that in Finnish?",
+          "literal": "how is it said in Finnish",
+          "when_to_use": "When you know the thing but not the word. Point or mime.",
+          "register": "neutral",
+          "vi": "Cái đó tiếng Phần Lan nói thế nào?",
+          "literal_vi": "nó được nói bằng tiếng Phần Lan như thế nào",
+          "when_to_use_vi": "Khi bạn biết thứ đó nhưng không biết từ. Hãy chỉ hoặc ra hiệu."
+        },
+        {
+          "fi": "Voitsä toistaa?",
+          "en": "Could you repeat that?",
+          "when_to_use": "Short version, good on the phone.",
+          "register": "neutral",
+          "vi": "Bạn nhắc lại được không?",
+          "when_to_use_vi": "Bản rút gọn, hợp khi nói điện thoại."
+        },
+        {
+          "fi": "Voitsä kirjottaa sen?",
+          "en": "Could you write it down?",
+          "when_to_use": "Addresses, times, names, medicine doses. Always ask.",
+          "register": "neutral",
+          "vi": "Bạn viết ra được không?",
+          "when_to_use_vi": "Địa chỉ, giờ giấc, tên, liều thuốc. Luôn luôn hỏi."
+        },
+        {
+          "fi": "Hetkinen, mä mietin.",
+          "en": "One moment, I'm thinking.",
+          "when_to_use": "Buys you five seconds without anyone switching to English. Enormously useful.",
+          "register": "casual",
+          "vi": "Chờ chút, để tôi nghĩ đã.",
+          "when_to_use_vi": "Mua cho bạn năm giây mà không ai chuyển sang tiếng Anh. Cực kỳ hữu ích."
+        },
+        {
+          "fi": "Mä puhun vähän suomee, mut opiskelen vielä.",
+          "fi_book": "Puhun vähän suomea, mutta opiskelen vielä.",
+          "en": "I speak a little Finnish, but I'm still learning.",
+          "when_to_use": "Your opening disclaimer. Note it says what you CAN do first. 'En puhu suomea' invites English.",
+          "register": "neutral",
+          "vi": "Tôi nói được chút tiếng Phần Lan, nhưng vẫn đang học.",
+          "when_to_use_vi": "Câu rào đón mở đầu. Để ý nó nói cái bạn LÀM ĐƯỢC trước. «En puhu suomea» là mời gọi tiếng Anh."
+        },
+        {
+          "fi": "Eli mä tuun kuudelta, eiks niin?",
+          "en": "So I come at six, right?",
+          "when_to_use": "Repeat back what you think you heard. Catches misunderstandings before they cost you.",
+          "register": "casual",
+          "vi": "Tức là tôi đến lúc sáu giờ, đúng không?",
+          "when_to_use_vi": "Nhắc lại cái bạn nghĩ mình vừa nghe. Bắt được hiểu lầm trước khi nó gây rắc rối."
+        },
+        {
+          "fi": "Jatketaan suomeks, mä haluun harjotella.",
+          "fi_book": "Jatketaan suomeksi, haluan harjoitella.",
+          "en": "Let's keep going in Finnish, I want to practise.",
+          "when_to_use": "When they switch to English out of kindness. This is how you switch back without offending.",
+          "register": "casual",
+          "vi": "Mình nói tiếp bằng tiếng Phần Lan nhé, tôi muốn luyện.",
+          "when_to_use_vi": "Khi họ chuyển sang tiếng Anh vì tử tế. Đây là cách quay lại mà không làm phật lòng."
+        },
+        {
+          "fi": "Sori, mä oon vähän hukassa.",
+          "en": "Sorry, I'm a bit lost.",
+          "literal": "I am a bit lost",
+          "when_to_use": "Mid-conversation, when you've lost the thread entirely. Honest and disarming.",
+          "register": "casual",
+          "vi": "Xin lỗi, tôi hơi lạc rồi.",
+          "literal_vi": "tôi hơi bị lạc",
+          "when_to_use_vi": "Giữa chừng cuộc trò chuyện, khi bạn mất hẳn mạch. Thành thật và làm dịu không khí."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Lost and recovered",
+          "setting": "A colleague explains something about a meeting. Duc misses most of it and recovers.",
+          "speed": "slow",
+          "note": "Watch how Duc never once says 'sorry, English?'",
+          "lines": [
+            {
+              "speaker": "Anni",
+              "fi": "Hei, se palaveri siirty huomiselle, ja se pidetään nyt siinä isossa neukkarissa.",
+              "en": "Hey, the meeting moved to tomorrow, and it's now in the big meeting room.",
+              "vi": "Này, cuộc họp dời sang mai rồi, và giờ nó họp ở phòng họp lớn kia."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, voitsä sanoo sen vähän hitaammin?",
+              "en": "Sorry, could you say that a bit more slowly?",
+              "vi": "Xin lỗi, bạn nói chậm hơn một chút được không?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Joo sori. Se palaveri... on huomenna. Ei tänään.",
+              "en": "Yeah sorry. The meeting... is tomorrow. Not today.",
+              "vi": "Ừ xin lỗi. Cuộc họp đó… là ngày mai. Không phải hôm nay."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei, huomenna. Mitä 'neukkari' tarkottaa?",
+              "en": "Okay, tomorrow. What does 'neukkari' mean?",
+              "vi": "Được rồi, ngày mai. «Neukkari» nghĩa là gì?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Ai niin. Neukkari on neuvotteluhuone, se iso huone tuolla.",
+              "en": "Oh right. 'Neukkari' is a meeting room, that big room over there.",
+              "note": "Finnish slang loves clipping long words: neuvotteluhuone → neukkari.",
+              "vi": "À đúng rồi. Neukkari là phòng họp, cái phòng lớn đằng kia.",
+              "note_vi": "Tiếng lóng Phần Lan rất thích cắt ngắn từ dài: neuvotteluhuone → neukkari."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ahaa. Eli huomenna, isossa neukkarissa. Mihin aikaan?",
+              "en": "Ahh. So tomorrow, in the big meeting room. At what time?",
+              "vi": "À ra thế. Tức là ngày mai, ở phòng họp lớn. Mấy giờ?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Kymmeneltä.",
+              "en": "At ten.",
+              "vi": "Mười giờ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kymmeneltä. Voitsä kirjottaa sen mulle Slackiin?",
+              "en": "At ten. Could you write it to me on Slack?",
+              "vi": "Mười giờ. Bạn nhắn cho tôi trên Slack được không?"
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Totta kai. Laitan heti.",
+              "en": "Of course. I'll send it right away.",
+              "vi": "Tất nhiên rồi. Tôi gửi ngay."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti! Ja kiitos kärsivällisyydestä.",
+              "en": "Thanks! And thanks for your patience.",
+              "vi": "Cảm ơn! Và cảm ơn vì đã kiên nhẫn."
+            }
+          ],
+          "title_vi": "Lạc rồi tìm lại được",
+          "setting_vi": "Một đồng nghiệp giải thích chuyện cuộc họp. Duc bỏ lỡ gần hết rồi gỡ lại.",
+          "note_vi": "Để ý Duc không một lần nào nói «xin lỗi, tiếng Anh nhé?»"
+        },
+        {
+          "title": "They switch to English — you switch back",
+          "setting": "A shop. The assistant hears your accent and helpfully changes language.",
+          "speed": "natural",
+          "note": "This happens constantly. It is kindness, not judgement, and you can decline it warmly.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Onks teillä tätä isompana?",
+              "en": "Hi! Do you have this in a bigger size?",
+              "vi": "Chào! Cái này có cỡ to hơn không ạ?"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Sorry, we can speak English if it's easier?",
+              "en": "(in English)",
+              "vi": "(bằng tiếng Anh) Xin lỗi, mình nói tiếng Anh cho dễ nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, mut jatketaan suomeks — mä haluun harjotella.",
+              "en": "Thanks, but let's continue in Finnish — I want to practise.",
+              "vi": "Cảm ơn, nhưng mình nói tiếp tiếng Phần Lan nhé — tôi muốn luyện."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Joo totta kai! Hyvä juttu. Mikä koko?",
+              "en": "Yeah of course! Good stuff. What size?",
+              "vi": "Vâng tất nhiên! Hay đấy. Cỡ nào ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Emmä tiiä... se iso.",
+              "en": "I don't know... the big one.",
+              "note": "Not knowing a word is not a reason to stop.",
+              "vi": "Tôi không biết nữa… cái to ấy.",
+              "note_vi": "Không biết một từ không phải là lý do để dừng lại."
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Large siis. Katotaan... joo, meillä on. Hetki.",
+              "en": "Large, then. Let's see... yeah, we have it. One moment.",
+              "vi": "Tức là cỡ L. Để xem… vâng, có ạ. Chờ chút."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti tosi paljon!",
+              "en": "Thanks so much!",
+              "vi": "Cảm ơn nhiều lắm!"
+            },
+            {
+              "speaker": "Myyjä",
+              "fi": "Eipä kestä. Ja sä puhut tosi hyvin!",
+              "en": "No problem. And you speak really well!",
+              "vi": "Không có gì. Mà anh nói giỏi thật đấy!"
+            }
+          ],
+          "title_vi": "Họ chuyển sang tiếng Anh — bạn chuyển ngược lại",
+          "setting_vi": "Một cửa hàng. Nhân viên nghe giọng bạn và nhiệt tình đổi ngôn ngữ.",
+          "note_vi": "Chuyện này xảy ra liên tục. Đó là sự tử tế, không phải phán xét, và bạn có thể từ chối một cách ấm áp."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Recover from understanding nothing",
+          "scenario": "Someone tells you something important too fast. Get the information without leaving Finnish.",
+          "your_role": "You, having caught one word",
+          "partner_role": "Anni, talking at normal speed",
+          "turns": [
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Hei, muistitsä et se juttu siirty ens viikolle ja paikka vaihtu?",
+              "en": "Hey, did you remember that the thing moved to next week and the place changed?",
+              "vi": "Này, bạn có nhớ là cái vụ đó dời sang tuần sau và đổi địa điểm rồi không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Anteeks, mä en ymmärtäny. Voitsä sanoo sen toisin?",
+              "en": "Sorry, I didn't understand. Could you say it another way?",
+              "hint": "Don't just ask for a repeat — ask for a rephrasing.",
+              "vi": "Xin lỗi, tôi chưa hiểu. Bạn nói cách khác được không?",
+              "hint_vi": "Đừng chỉ xin nhắc lại — hãy xin diễn đạt cách khác."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Joo. Se tapaaminen... ei oo tällä viikolla. Se on ens viikolla.",
+              "en": "Yeah. The meeting... isn't this week. It's next week.",
+              "vi": "Ừ. Cuộc gặp đó… không phải tuần này. Nó ở tuần sau."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Okei, ens viikolla. Ja mikä vaihtu?",
+              "en": "Okay, next week. And what changed?",
+              "hint": "Confirm the part you got, then ask about the part you didn't.",
+              "vi": "Được rồi, tuần sau. Thế cái gì đổi?",
+              "hint_vi": "Xác nhận phần bạn đã nắm, rồi hỏi phần chưa nắm."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Paikka. Se on nyt kirjastossa, ei koululla.",
+              "en": "The place. It's at the library now, not the school.",
+              "vi": "Địa điểm. Giờ nó ở thư viện, không phải ở trường."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Eli ens viikolla kirjastossa. Voitsä kirjottaa sen mulle?",
+              "en": "So next week at the library. Could you write it down for me?",
+              "hint": "Repeat the whole thing back, then ask for it in writing.",
+              "vi": "Tức là tuần sau ở thư viện. Bạn viết ra cho tôi được không?",
+              "hint_vi": "Nhắc lại toàn bộ, rồi xin viết ra giấy."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Joo laitan viestin. Hyvä et kysyit!",
+              "en": "Yeah, I'll send a message. Good that you asked!",
+              "vi": "Ừ tôi nhắn cho. May mà bạn hỏi đấy!"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitti! Mä opiskelen vielä, joten kysyn paljon.",
+              "en": "Thanks! I'm still learning, so I ask a lot.",
+              "hint": "Close by framing your questions as normal — it makes the next one easier.",
+              "vi": "Cảm ơn! Tôi vẫn đang học nên hỏi nhiều lắm.",
+              "hint_vi": "Kết lại bằng cách coi việc mình hỏi là bình thường — lần sau sẽ dễ hỏi hơn."
+            }
+          ],
+          "title_vi": "Gỡ lại khi chẳng hiểu gì",
+          "scenario_vi": "Ai đó nói với bạn một chuyện quan trọng, quá nhanh. Hãy lấy được thông tin mà không rời khỏi tiếng Phần Lan.",
+          "your_role_vi": "Bạn, mới bắt được một từ",
+          "partner_role_vi": "Anni, nói ở tốc độ bình thường"
+        }
+      ],
+      "title_vi": "Bộ đồ nghề sinh tồn",
+      "subtitle_vi": "Tám câu giữ cho cuộc trò chuyện sống sót khi bạn chẳng hiểu gì",
+      "warmup_situation_vi": "Ai đó nói với bạn ba câu thật nhanh. Bạn bắt được mỗi từ «huomenna». Họ đang chờ.",
+      "warmup_question_vi": "Bạn nói gì — và nói gì để cuộc trò chuyện không kết thúc bằng tiếng Anh?",
+      "rescue_vi": "Tôi chưa hiểu. Bạn nói cách khác được không?",
+      "rescue_note_vi": "Tốt hơn «nói lại đi»: lặp lại cùng một câu chậm hơn thường không giúp được gì, nhưng diễn đạt cách khác thì gần như luôn có tác dụng. Đây là câu giá trị nhất trong cả khoá học."
+    },
+    {
+      "slug": "sounds-instead-of-words",
+      "number": "0.5",
+      "title": "The sounds Finns make instead of words",
+      "subtitle": "Nii. Joo-o. Öö. No niin.",
+      "warmup_situation": "You tell a story. The other person says nothing except 'Nii.' … 'Nii.' … 'Ai jaa.' You assume they're bored and stop talking.",
+      "warmup_question": "Were they bored — or were those the Finnish equivalent of nodding?",
+      "rescue_fi": "Nii... joo. Öö, hetkinen.",
+      "rescue_en": "Right... yeah. Uh, hold on.",
+      "rescue_note": "These aren't filler to be embarrassed about. They're how you hold the floor while your brain assembles a Finnish sentence. Silence makes people switch to English; 'öö' doesn't.",
+      "vocab": [
+        {
+          "fi": "nii",
+          "fi_book": "niin",
+          "en": "right / mm-hm / yeah",
+          "pos": "particle",
+          "note": "The workhorse. Means 'I'm listening, keep going'. Not agreement, just presence.",
+          "vi": "ừ / ờ / vâng",
+          "note_vi": "Từ chủ lực. Nghĩa là «tôi đang nghe, kể tiếp đi». Không phải đồng ý, chỉ là có mặt."
+        },
+        {
+          "fi": "nii-i",
+          "en": "riiight (unconvinced)",
+          "pos": "particle",
+          "note": "Same word, dragged out and falling in pitch. Means 'hmm, I'm not sure about that'.",
+          "vi": "ừừ… (chưa xuôi tai)",
+          "note_vi": "Cùng một từ, kéo dài và hạ giọng. Nghĩa là «hừm, tôi không chắc lắm»."
+        },
+        {
+          "fi": "joo",
+          "en": "yeah",
+          "pos": "particle",
+          "note": "Yes, informally. 'Kyllä' is the formal one and sounds emphatic in speech.",
+          "vi": "ừ, vâng",
+          "note_vi": "Có, thân mật. «Kyllä» là bản trang trọng và nghe nhấn mạnh khi nói."
+        },
+        {
+          "fi": "joo-o",
+          "en": "weeell, yeah (reluctant)",
+          "pos": "particle",
+          "note": "Drawn-out joo = 'yes but I have reservations'. Listen for it before someone disagrees.",
+          "vi": "ờ thì… vâng (miễn cưỡng)",
+          "note_vi": "joo kéo dài = «đồng ý nhưng tôi có điều chưa thông». Hãy nghe nó trước khi người ta phản đối."
+        },
+        {
+          "fi": "jaa",
+          "en": "oh / I see",
+          "pos": "particle",
+          "note": "Not 'yes'! Careful — 'jaa' is German for yes but Finnish for 'oh, I see'.",
+          "vi": "à / ra vậy",
+          "note_vi": "Không phải «vâng»! Cẩn thận — «jaa» trong tiếng Đức là «có», nhưng trong tiếng Phần Lan là «à, ra vậy»."
+        },
+        {
+          "fi": "jaa-a",
+          "en": "hmm, let me think",
+          "pos": "particle",
+          "note": "Said while thinking. Buys time.",
+          "vi": "hừm, để tôi nghĩ",
+          "note_vi": "Nói trong lúc suy nghĩ. Mua thời gian."
+        },
+        {
+          "fi": "ai",
+          "en": "oh",
+          "pos": "particle",
+          "note": "Surprise. 'Ai, oikeesti?' = Oh, really?",
+          "vi": "ồ, à",
+          "note_vi": "Bất ngờ. «Ai, oikeesti?» = Ồ, thật à?"
+        },
+        {
+          "fi": "ai jaa",
+          "en": "oh really / huh",
+          "pos": "particle",
+          "note": "Mild interest. The most common reaction in Finnish small talk.",
+          "vi": "ồ thế à / à vậy hả",
+          "note_vi": "Quan tâm vừa phải. Phản ứng phổ biến nhất trong chuyện phiếm tiếng Phần Lan."
+        },
+        {
+          "fi": "aijaa?",
+          "en": "oh really?!",
+          "pos": "particle",
+          "note": "Rising pitch makes it genuine surprise.",
+          "vi": "ồ thật á?!",
+          "note_vi": "Lên giọng là bất ngờ thật sự."
+        },
+        {
+          "fi": "öö",
+          "en": "uh, um",
+          "pos": "particle",
+          "note": "The Finnish 'um'. Use it freely — it sounds native and it is.",
+          "vi": "ừm, à",
+          "note_vi": "Từ «um» của tiếng Phần Lan. Cứ dùng thoải mái — nghe rất bản xứ, mà đúng là bản xứ."
+        },
+        {
+          "fi": "tota",
+          "fi_book": "tuota",
+          "en": "um, well, so",
+          "pos": "particle",
+          "note": "The thinking word. Start a sentence with it and you sound like you're formulating, not failing.",
+          "vi": "ừm, thì, kiểu như",
+          "note_vi": "Từ dùng để nghĩ. Bắt đầu câu bằng nó là bạn nghe như đang tìm chữ, chứ không phải đang bí."
+        },
+        {
+          "fi": "no",
+          "en": "well",
+          "pos": "particle",
+          "note": "Starts most spoken sentences. 'No mitä kuuluu?' 'No joo.' Not the English 'no'.",
+          "vi": "thì, à",
+          "note_vi": "Mở đầu phần lớn câu nói. «No mitä kuuluu?» «No joo.» Không phải «no» phủ định của tiếng Anh."
+        },
+        {
+          "fi": "no niin",
+          "en": "right then / okay so / there we go",
+          "pos": "particle",
+          "note": "The most versatile phrase in Finnish. Starts things, ends things, comforts children, expresses 'I told you so'.",
+          "vi": "thôi được rồi / vậy nhé / xong",
+          "note_vi": "Cụm linh hoạt nhất tiếng Phần Lan. Mở đầu, kết thúc, dỗ trẻ con, và cả «đã bảo rồi mà»."
+        },
+        {
+          "fi": "no nii-in",
+          "en": "aaanyway / moving on",
+          "pos": "particle",
+          "note": "Drawn out = 'let's change the subject' or 'let's get started'.",
+          "vi": "thôi… chuyển chuyện khác nào",
+          "note_vi": "Kéo dài = «đổi chủ đề đi» hoặc «bắt đầu thôi»."
+        },
+        {
+          "fi": "just",
+          "en": "right / exactly",
+          "pos": "particle",
+          "note": "Pronounced 'yust'.",
+          "vi": "đúng, chính xác",
+          "note_vi": "Đọc là «yust»."
+        },
+        {
+          "fi": "just joo",
+          "en": "ah, I see / sure, whatever",
+          "pos": "particle",
+          "note": "Warm or sarcastic depending entirely on tone. Listen before you use it.",
+          "vi": "à ra vậy / ừ, sao cũng được",
+          "note_vi": "Ấm áp hay mỉa mai hoàn toàn tuỳ ngữ điệu. Nghe kỹ trước khi dùng."
+        },
+        {
+          "fi": "okei",
+          "en": "okay",
+          "pos": "particle",
+          "vi": "được, ok"
+        },
+        {
+          "fi": "mm",
+          "en": "mm",
+          "pos": "particle",
+          "note": "Pure listening noise. Very common on the phone.",
+          "vi": "ừm",
+          "note_vi": "Thuần tuý là tiếng đang nghe. Rất hay gặp khi gọi điện thoại."
+        },
+        {
+          "fi": "kyl",
+          "fi_book": "kyllä",
+          "en": "yeah, sure (emphatic)",
+          "pos": "particle",
+          "note": "'Kyl mä tiiän' = I do know.",
+          "vi": "có chứ, chắc chắn",
+          "note_vi": "«Kyl mä tiiän» = tôi biết chứ."
+        },
+        {
+          "fi": "eiku",
+          "fi_book": "ei kun",
+          "en": "no wait, I mean",
+          "pos": "particle",
+          "note": "Self-correction. 'Kuudelta, eiku seittemältä.' Absolutely essential for learners.",
+          "vi": "à không, ý tôi là",
+          "note_vi": "Tự sửa lời. «Kuudelta, eiku seittemältä.» Tuyệt đối thiết yếu với người học."
+        },
+        {
+          "fi": "niinku",
+          "fi_book": "niin kuin",
+          "en": "like",
+          "pos": "particle",
+          "note": "Exactly like English 'like'. Same job, same frequency, same mild stigma.",
+          "vi": "kiểu như",
+          "note_vi": "Giống hệt «like» trong tiếng Anh. Cùng chức năng, cùng tần suất, cùng tiếng xấu nhè nhẹ."
+        },
+        {
+          "fi": "siis",
+          "en": "I mean / so",
+          "pos": "particle",
+          "note": "Clarifying. 'Siis mä tarkotin...' = I mean, I meant...",
+          "vi": "ý tôi là, tức là",
+          "note_vi": "Để làm rõ. «Siis mä tarkotin…» = ý tôi là, tôi muốn nói…"
+        },
+        {
+          "fi": "vai nii",
+          "en": "is that so",
+          "pos": "particle",
+          "note": "Reacting to news. Neutral to slightly impressed.",
+          "vi": "vậy à",
+          "note_vi": "Phản ứng với tin tức. Trung tính đến hơi nể."
+        },
+        {
+          "fi": "hyvänen aika",
+          "en": "good grief / oh my",
+          "pos": "particle",
+          "note": "Mild alarm. Safe in any company.",
+          "vi": "trời đất / ôi chao",
+          "note_vi": "Hốt hoảng nhẹ. An toàn trong mọi hoàn cảnh."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Nii, nii. Jatka.",
+          "en": "Right, right. Go on.",
+          "when_to_use": "Active listening. Say 'nii' every few sentences or the speaker will think you've frozen.",
+          "register": "casual",
+          "vi": "Ừ, ừ. Kể tiếp đi.",
+          "when_to_use_vi": "Nghe chủ động. Cứ vài câu lại «nii» một cái, không thì người kể tưởng bạn đơ rồi."
+        },
+        {
+          "fi": "Ai jaa, oikeesti?",
+          "fi_book": "Ai jaa, oikeasti?",
+          "en": "Oh really?",
+          "when_to_use": "Your default reaction to any piece of news. Works for everything from a new job to bad weather.",
+          "register": "casual",
+          "vi": "Ồ thế à, thật không?",
+          "when_to_use_vi": "Phản ứng mặc định với mọi tin tức. Dùng được cho cả việc mới lẫn thời tiết xấu."
+        },
+        {
+          "fi": "No niin, mennään!",
+          "en": "Right then, let's go!",
+          "when_to_use": "'No niin' + action = getting a group moving.",
+          "register": "casual",
+          "vi": "Thôi nào, đi thôi!",
+          "when_to_use_vi": "«No niin» + hành động = lùa cả nhóm đứng dậy."
+        },
+        {
+          "fi": "Tota... mä mietin vähän.",
+          "en": "Um... let me think for a bit.",
+          "when_to_use": "Holding the floor while you build a sentence. Far better than silence.",
+          "register": "casual",
+          "vi": "Ừm… để tôi nghĩ một chút.",
+          "when_to_use_vi": "Giữ lượt nói trong lúc dựng câu. Tốt hơn im lặng rất nhiều."
+        },
+        {
+          "fi": "Öö, miten mä sanoisin...",
+          "en": "Uh, how would I put this...",
+          "when_to_use": "You have the idea but not the words. Finns do this too, constantly.",
+          "register": "casual",
+          "vi": "Ừm, nói thế nào nhỉ…",
+          "when_to_use_vi": "Bạn có ý nhưng chưa có chữ. Người Phần Lan cũng làm thế suốt."
+        },
+        {
+          "fi": "Eiku, mä tarkotin kuudelta.",
+          "en": "No wait, I meant at six.",
+          "when_to_use": "Fixing yourself mid-sentence. 'Eiku' is the fastest repair tool in the language.",
+          "register": "casual",
+          "vi": "À không, ý tôi là sáu giờ.",
+          "when_to_use_vi": "Sửa mình giữa câu. «Eiku» là công cụ sửa lỗi nhanh nhất trong tiếng này."
+        },
+        {
+          "fi": "Joo-o, mut...",
+          "en": "Weeell, yeah, but...",
+          "when_to_use": "Disagreeing gently. The drawn-out joo does all the softening for you.",
+          "register": "casual",
+          "vi": "Ờ thì, vâng, nhưng mà…",
+          "when_to_use_vi": "Phản đối nhẹ nhàng. Chữ joo kéo dài đã làm hết phần làm mềm cho bạn."
+        },
+        {
+          "fi": "Just joo, nyt mä tajusin.",
+          "en": "Ah right, now I get it.",
+          "when_to_use": "The moment something clicks. Very satisfying to say.",
+          "register": "casual",
+          "vi": "À ra thế, giờ thì tôi hiểu rồi.",
+          "when_to_use_vi": "Khoảnh khắc mọi thứ vỡ ra. Nói rất đã."
+        },
+        {
+          "fi": "Siis mitä sä tarkotat?",
+          "en": "I mean, what do you mean?",
+          "when_to_use": "Asking for clarification without sounding like you missed the language.",
+          "register": "casual",
+          "vi": "Ý tôi là, bạn muốn nói gì cơ?",
+          "when_to_use_vi": "Xin làm rõ mà không nghe như bạn bị hụt về ngôn ngữ."
+        },
+        {
+          "fi": "Vai nii. En tienny.",
+          "fi_book": "Vai niin. En tiennyt.",
+          "en": "Is that so. I didn't know.",
+          "when_to_use": "Receiving information. Polite, mildly interested, very Finnish.",
+          "register": "neutral",
+          "vi": "Vậy à. Tôi không biết đấy.",
+          "when_to_use_vi": "Tiếp nhận thông tin. Lịch sự, quan tâm vừa phải, rất Phần Lan."
+        },
+        {
+          "fi": "No, se on niinku vähän vaikee selittää.",
+          "en": "Well, it's like, a bit hard to explain.",
+          "when_to_use": "Three fillers in one sentence and it sounds completely native.",
+          "register": "casual",
+          "vi": "Thì, nó kiểu như, hơi khó giải thích.",
+          "when_to_use_vi": "Ba từ đệm trong một câu mà nghe hoàn toàn bản xứ."
+        },
+        {
+          "fi": "Mm-m. Nii se on.",
+          "en": "Mm. That's how it is.",
+          "when_to_use": "Agreeing with a complaint about weather, prices or bureaucracy. Nationally beloved.",
+          "register": "casual",
+          "vi": "Ừm. Đời là thế.",
+          "when_to_use_vi": "Đồng tình với một lời than về thời tiết, giá cả hay thủ tục hành chính. Cả nước đều mê câu này."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "A story, and the listener",
+          "setting": "Duc tells Anni about his weekend. Watch what Anni contributes.",
+          "speed": "slow",
+          "note": "Anni says almost nothing — and is fully engaged. That is the Finnish listening style.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Me käytiin viikonloppuna mökillä.",
+              "en": "We went to the cottage at the weekend.",
+              "vi": "Cuối tuần bọn tôi đi nhà gỗ."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Ai jaa.",
+              "en": "Oh really.",
+              "vi": "Ồ thế à."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, se oli tosi kiva. Mut siellä satoi koko ajan.",
+              "en": "Yeah, it was really nice. But it rained the whole time.",
+              "vi": "Ừ, vui lắm. Nhưng mà mưa suốt."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Nii, mm.",
+              "en": "Right, mm.",
+              "vi": "Ừ, ừm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ja sitten sauna ei toiminu.",
+              "en": "And then the sauna didn't work.",
+              "vi": "Rồi cái phòng sauna lại hỏng."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Ei oo totta! Mitä te teitte?",
+              "en": "No way! What did you do?",
+              "note": "'Ei oo totta' — the first full sentence, saved for the actual news.",
+              "vi": "Không thể nào! Thế các bạn làm gì?",
+              "note_vi": "«Ei oo totta» — câu trọn vẹn đầu tiên, để dành cho tin thật sự."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "No, me korjattiin se. Kesti kolme tuntia.",
+              "en": "Well, we fixed it. Took three hours.",
+              "vi": "Thì, bọn tôi sửa. Mất ba tiếng."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Hyvänen aika. Mut toimiks se sit?",
+              "en": "Good grief. But did it work then?",
+              "vi": "Trời đất. Thế rồi nó chạy chứ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Toimi! Ja se oli paras sauna ikinä.",
+              "en": "It did! And it was the best sauna ever.",
+              "vi": "Chạy! Và đó là buổi sauna ngon nhất từ trước đến giờ."
+            },
+            {
+              "speaker": "Anni",
+              "fi": "Just joo. No niin, sillee se menee.",
+              "en": "Ah, right. Well, that's how it goes.",
+              "vi": "À ra vậy. Thôi, đời là thế mà."
+            }
+          ],
+          "title_vi": "Một câu chuyện, và người nghe",
+          "setting_vi": "Duc kể Anni nghe về cuối tuần của mình. Hãy xem Anni đóng góp những gì.",
+          "note_vi": "Anni gần như không nói gì — mà vẫn hoàn toàn nhập cuộc. Đó là kiểu lắng nghe của người Phần Lan."
+        },
+        {
+          "title": "Thinking out loud",
+          "setting": "Duc is asked a question he hasn't thought about. He answers anyway.",
+          "speed": "natural",
+          "note": "Count the fillers. This is what fluency actually sounds like — not fast, but unbroken.",
+          "lines": [
+            {
+              "speaker": "Jussi",
+              "fi": "Mikä on sun mielestä paras asia Suomessa?",
+              "en": "What do you think is the best thing about Finland?",
+              "vi": "Theo bạn điều tuyệt nhất ở Phần Lan là gì?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Öö... jaa-a. Hyvä kysymys.",
+              "en": "Uh... hmm. Good question.",
+              "note": "Three seconds bought, no English.",
+              "vi": "Ừm… hừm. Câu hỏi hay đấy.",
+              "note_vi": "Mua được ba giây, không cần đến tiếng Anh."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tota, mä sanoisin et... no, se rauha.",
+              "en": "Um, I'd say that... well, the peace.",
+              "vi": "Ừm, tôi sẽ nói là… thì, sự yên bình."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Nii?",
+              "en": "Yeah?",
+              "note": "One syllable meaning 'go on'.",
+              "vi": "Ừ?",
+              "note_vi": "Một âm tiết mang nghĩa «kể tiếp đi»."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, siis niinku, metsä on aina lähellä. Eiku, en mä tarkota vaan metsää.",
+              "en": "Yeah, I mean like, the forest is always close. No wait, I don't just mean the forest.",
+              "vi": "Ừ, ý tôi là kiểu như, rừng lúc nào cũng ở gần. À không, tôi không chỉ nói về rừng đâu."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Mm.",
+              "en": "Mm.",
+              "vi": "Ừm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Vaan sitä et... kukaan ei oo kiireinen koko ajan. Ymmärrätsä?",
+              "en": "But that... nobody is in a rush all the time. You know?",
+              "vi": "Mà là chuyện… không ai vội vã suốt ngày. Bạn hiểu không?"
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Joo, kyl mä ymmärrän. Nii se on.",
+              "en": "Yeah, I do understand. That's how it is.",
+              "vi": "Ừ, tôi hiểu chứ. Đời là thế mà."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "No niin. Se on mun vastaus.",
+              "en": "There we go. That's my answer.",
+              "vi": "Vậy đó. Đó là câu trả lời của tôi."
+            },
+            {
+              "speaker": "Jussi",
+              "fi": "Hyvä vastaus. Ja sä puhuit ihan suomalaisittain.",
+              "en": "Good answer. And you talked like a Finn.",
+              "vi": "Câu trả lời hay. Mà bạn nói y như người Phần Lan."
+            }
+          ],
+          "title_vi": "Nghĩ thành tiếng",
+          "setting_vi": "Duc bị hỏi một câu chưa từng nghĩ tới. Anh vẫn trả lời.",
+          "note_vi": "Đếm số từ đệm. Đây mới là cái mà sự trôi chảy nghe ra — không phải nhanh, mà là không đứt."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Be the listener",
+          "scenario": "Someone tells you about their week. Your only job is to keep them going without taking over.",
+          "your_role": "You, listening",
+          "partner_role": "Anni, telling a story",
+          "turns": [
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Mulla oli ihan hullu viikko.",
+              "en": "I had a completely crazy week.",
+              "vi": "Tuần vừa rồi của tôi điên rồ luôn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ai jaa? Mitä tapahtu?",
+              "en": "Oh really? What happened?",
+              "hint": "React, then open the door.",
+              "vi": "Ồ thế à? Chuyện gì vậy?",
+              "hint_vi": "Phản ứng, rồi mở cửa cho họ kể."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "No, meiän auto hajos maanantaina.",
+              "en": "Well, our car broke down on Monday.",
+              "vi": "Thì, thứ hai xe nhà tôi hỏng."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Voi ei. Nii?",
+              "en": "Oh no. And?",
+              "hint": "Sympathy plus one syllable to keep them talking.",
+              "vi": "Ôi không. Rồi sao?",
+              "hint_vi": "Thông cảm cộng một âm tiết để họ kể tiếp."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Ja sit tiistaina mun kone hajos kans.",
+              "en": "And then on Tuesday my computer broke too.",
+              "vi": "Rồi thứ ba máy tính tôi cũng hỏng luôn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei oo totta! Hyvänen aika.",
+              "en": "No way! Good grief.",
+              "hint": "Escalate the reaction — the story is escalating.",
+              "vi": "Không thể nào! Trời đất.",
+              "hint_vi": "Đẩy phản ứng mạnh hơn — câu chuyện đang leo thang."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Mut torstaina mä sain sen uuden työpaikan.",
+              "en": "But on Thursday I got that new job.",
+              "vi": "Nhưng thứ năm thì tôi nhận được chỗ làm mới ấy."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Oikeesti? Onneks olkoon!",
+              "en": "Really? Congratulations!",
+              "hint": "Surprise, then congratulate.",
+              "vi": "Thật á? Chúc mừng nhé!",
+              "hint_vi": "Bất ngờ, rồi chúc mừng."
+            },
+            {
+              "speaker": "Anni",
+              "is_your_turn": false,
+              "fi": "Kiitti! Ihan hullu viikko siis.",
+              "en": "Thanks! A crazy week, then.",
+              "vi": "Cảm ơn! Nói chung là một tuần điên rồ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "No niin, mut hyvin päätty!",
+              "en": "Well there we go, but it ended well!",
+              "hint": "Close the story with 'no niin' and a positive summary.",
+              "vi": "Thôi vậy là ổn, mà kết thúc đẹp đấy!",
+              "hint_vi": "Đóng câu chuyện bằng «no niin» và một lời tổng kết tích cực."
+            }
+          ],
+          "title_vi": "Làm người nghe",
+          "scenario_vi": "Ai đó kể cho bạn nghe về tuần của họ. Việc duy nhất của bạn là giữ cho họ kể tiếp mà không cướp lời.",
+          "your_role_vi": "Bạn, đang lắng nghe",
+          "partner_role_vi": "Anni, đang kể chuyện"
+        }
+      ],
+      "title_vi": "Những tiếng người Phần Lan phát ra thay cho từ ngữ",
+      "subtitle_vi": "Nii. Joo-o. Öö. No niin.",
+      "warmup_situation_vi": "Bạn kể một câu chuyện. Người kia không nói gì ngoài «Nii.» … «Nii.» … «Ai jaa.» Bạn nghĩ họ chán rồi nên ngừng kể.",
+      "warmup_question_vi": "Họ chán thật — hay đó chính là cái gật đầu kiểu Phần Lan?",
+      "rescue_vi": "Ừ… vâng. Ừm, chờ chút.",
+      "rescue_note_vi": "Đây không phải từ đệm đáng xấu hổ. Đây là cách bạn giữ lượt nói trong khi đầu đang ráp một câu tiếng Phần Lan. Im lặng khiến người ta chuyển sang tiếng Anh; «öö» thì không."
+    }
+  ],
+  "title_vi": "Bắt đầu từ đây: người Phần Lan nói chuyện thế nào",
+  "subtitle_vi": "Cầu nối giữa tiếng Phần Lan trong sách và tiếng Phần Lan ngoài đời.",
+  "description_vi": "Nếu bạn học tiếng Phần Lan từ sách, bạn đang biết một thứ tiếng gần như không ai nói ra miệng. Chương này là bảng quy đổi. Năm bài, và sau đó các chương còn lại sẽ nghe ra tiếng Phần Lan chứ không còn là tiếng ồn."
+}

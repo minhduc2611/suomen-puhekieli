@@ -1,0 +1,310 @@
+{
+  "module": {
+    "title_vi": "Ở cửa hàng và trung tâm thương mại",
+    "subtitle_vi": "Kauppa, kassa, kauppakeskus — những đoạn trao đổi bạn có vài lần mỗi tuần.",
+    "description_vi": "Đây là việc bạn làm thường xuyên hơn bất cứ thứ gì khác trong khoá học: vài lần mỗi tuần, suốt nhiều năm. Các đoạn trao đổi đều ngắn và theo khuôn mẫu rất chặt, nên đây là nơi tốt nhất để luyện sự trôi chảy — nhưng chúng cũng nhanh, và một thông báo lỗi ở quầy tự thanh toán thì không chờ ai. Chín bài học bao gồm các lối đi, quầy thu ngân, máy tự thanh toán, các quầy phục vụ, cân đo và tiền cọc chai, phòng thử đồ, việc đổi trả, dịch vụ khách hàng, và cái chợ trời nơi bạn thật sự được mặc cả."
+  },
+  "lessons": {
+    "finding-things": {
+      "lesson": {
+        "title_vi": "Tìm đồ trong siêu thị",
+        "subtitle_vi": "Anteeks, missä on…? Onks teillä…?",
+        "warmup_situation_vi": "Bạn cần bột nở. Bạn đã đi qua đúng ba lối đi đó bốn lần. Một nhân viên đang xếp hàng lên kệ cách tám mét và bạn đã lấy đà để bắt chuyện suốt hai phút.",
+        "warmup_question_vi": "Câu hỏi ngắn nhất nào giúp bạn có câu trả lời — và bạn làm gì khi hoàn toàn không biết từ tiếng Phần Lan?",
+        "rescue_vi": "Tôi không biết cái đó tiếng Phần Lan gọi là gì. Nó là một loại bột dùng để làm bánh.",
+        "rescue_note_vi": "Hãy mô tả công dụng, đừng mô tả vật thể. Nhân viên cửa hàng Phần Lan rất giỏi trò này và thường đoán đúng ngay lần đầu. «Semmonen… jolla…» — một loại thứ mà bạn dùng để… — là khuôn câu hữu dụng nhất trong cả chương này."
+      },
+      "vocab": [
+        { "vi": "cửa hàng" }, { "vi": "cửa hàng thực phẩm" }, { "vi": "siêu thị" }, { "vi": "kệ hàng" },
+        { "vi": "lối đi giữa các kệ" }, { "vi": "khu, gian hàng" }, { "vi": "khu đông lạnh" },
+        { "vi": "tủ mát" }, { "vi": "khu bánh mì" }, { "vi": "trái cây và rau củ" },
+        { "vi": "sản phẩm từ sữa" }, { "vi": "thịt và cá" }, { "vi": "hàng khô" }, { "vi": "việc làm bánh" },
+        { "vi": "bột nở", "note_vi": "Từ mà ai cũng đi tìm. Học một lần là tiết kiệm được nhiều năm." },
+        { "vi": "gia vị" }, { "vi": "đồ hộp" }, { "vi": "tìm kiếm" }, { "vi": "tìm thấy" },
+        { "vi": "được tìm thấy", "note_vi": "«Mistä löytyy…?» = có thể tìm thấy… ở đâu? Nhẹ hơn «missä on» một chút." },
+        { "vi": "một loại, kiểu như thế", "note_vi": "Người bạn thân nhất của bạn. «Semmonen jolla leivotaan» = một loại thứ dùng để làm bánh." },
+        { "vi": "hết hàng" }, { "vi": "đã bán hết" }, { "vi": "đang đặt hàng" },
+        { "vi": "danh mục hàng, chủng loại", "note_vi": "«Ei kuulu valikoimaan» = bên chúng tôi không bán món đó." },
+        { "vi": "nhân viên bán hàng" }, { "vi": "chỉ đường" }, { "vi": "ở đằng kia" },
+        { "vi": "ở phía trong cùng" }, { "vi": "bên trái" }, { "vi": "bên phải" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, bột nở ở đâu ạ?", "when_to_use_vi": "Câu hỏi cơ bản. Thẳng thắn và hoàn toàn bình thường." },
+        { "vi": "Kệ gia vị ở đâu tìm được ạ?", "when_to_use_vi": "Nhẹ hơn «missä on» một chút. Cả hai đều ổn." },
+        { "vi": "Ở đây có sữa không lactose không ạ?", "when_to_use_vi": "Để hỏi xem họ có bán món đó hay không, chứ không phải hỏi nó ở đâu." },
+        { "vi": "Tôi không biết cái đó tiếng Phần Lan gọi là gì.", "when_to_use_vi": "Rồi hãy mô tả nó. Nhân viên rất giỏi việc này và thường đoán đúng." },
+        { "vi": "Nó là một loại bột dùng để làm bánh.", "when_to_use_vi": "«Semmonen… jolla…» là khuôn câu hữu dụng nhất trong chương này." },
+        { "vi": "Cái đó hết hàng rồi ạ?", "when_to_use_vi": "Khi kệ trống. Đôi khi trong kho vẫn còn." },
+        { "vi": "Có nhập thêm không ạ?", "when_to_use_vi": "Câu hỏi tiếp theo hữu ích. Thường là «huomenna»." },
+        { "vi": "Có lựa chọn nào khác thay thế không ạ?", "when_to_use_vi": "Cho họ cơ hội gợi ý món thay thế, mà họ thường làm được." },
+        { "vi": "Nó ở khu nào ạ?", "when_to_use_vi": "Dùng cho các siêu thị lớn. Giúp bạn đến được đúng nửa toà nhà." },
+        { "vi": "Chị chỉ giúp được không ạ?", "when_to_use_vi": "Khi họ chỉ đường quá nhanh. Họ thường dẫn bạn đến tận nơi." },
+        { "vi": "Tôi đang tìm cái này — cái này đúng không ạ?", "when_to_use_vi": "Giơ một gói hàng lên. Cách làm rõ nhanh nhất có thể." },
+        { "vi": "Cảm ơn, tôi tìm thấy rồi!", "when_to_use_vi": "Hãy nói nếu họ đã giúp mà rồi bạn tự tìm được. Một phép lịch sự nhỏ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Hỏi mua thứ mà bạn không gọi được tên",
+          "setting_vi": "Một siêu thị lớn. Duc cần bột nở và không biết từ đó.",
+          "note_vi": "Anh mô tả công dụng. Đó là toàn bộ kỹ thuật.",
+          "lines": [
+            { "vi": "Xin lỗi! Chị giúp tôi được không?" },
+            { "vi": "Vâng tất nhiên. Anh tìm gì ạ?" },
+            { "vi": "Tôi không biết cái đó tiếng Phần Lan gọi là gì. Nó là một loại bột dùng để làm bánh." },
+            { "vi": "À. Anh nói bột nở hay đường vani ạ?" },
+            { "vi": "Cái làm cho bánh nở lên ấy. Bột nở, đúng rồi!" },
+            { "vi": "Nó ở khu làm bánh, lối đi số bốn, kệ trên cùng ạ." },
+            { "vi": "Lối đi số bốn. Cảm ơn chị! À còn một việc nữa — ở đây có kem không lactose không ạ?" },
+            { "vi": "Có ạ, trong tủ mát ở phía trong kia, bên trái." },
+            { "vi": "Vâng. Tôi đã ra đó, nhưng kệ trống. Hết hàng rồi ạ?" },
+            { "vi": "Có thể ạ. Chờ một chút, tôi vào kho xem." },
+            { "vi": "Cảm ơn chị nhiều!" },
+            { "vi": "…Tìm được một hộp. Đây ạ." },
+            { "vi": "Chị cứu cả buổi tối của tôi rồi. Cảm ơn chị!" }
+          ]
+        },
+        {
+          "title_vi": "Ba câu hỏi nhanh",
+          "setting_vi": "Các lối đi khác nhau, các nhân viên khác nhau. Ngắn và hiệu quả.",
+          "note_vi": "Không câu nào cần hơn hai dòng. Đó là hình dạng bình thường.",
+          "lines": [
+            { "vi": "Xin lỗi, men nở ở đâu ạ?" },
+            { "vi": "Trong tủ mát ạ, cạnh chỗ sữa." },
+            { "vi": "Cảm ơn!" },
+            { "vi": "Ở đây có đậu phụ không ạ?" },
+            { "vi": "Có ạ, ở khu đồ chay. Lối đi số hai, phía trong." },
+            { "vi": "Vâng, cảm ơn." },
+            { "vi": "Loại gạo kia hết rồi — có nhập thêm không ạ?" },
+            { "vi": "Mai có xe hàng về. Anh thử chiều mai nhé." },
+            { "vi": "Bây giờ có loại nào thay thế không ạ?" },
+            { "vi": "Loại gạo hoa nhài kia cũng khá giống ạ." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Tìm thứ bạn không gọi được tên",
+          "scenario_vi": "Xin giúp đỡ, mô tả món đồ theo công dụng, rồi xử lý tình huống kệ trống.",
+          "your_role_vi": "Bạn, đang mắc ở lối đi số ba",
+          "partner_role_vi": "Một nhân viên bán hàng",
+          "turns": [
+            { "vi": "Xin lỗi! Chị giúp tôi được không?", "hint_vi": "Mở đầu bằng câu này. Nó khiến họ dừng lại hẳn để nghe bạn." },
+            { "vi": "Vâng tất nhiên. Anh tìm gì ạ?" },
+            { "vi": "Tôi không biết cái đó tiếng Phần Lan gọi là gì. Nó là một loại bột dùng để làm bánh.", "hint_vi": "Mô tả công dụng. «Semmonen… jolla…» là khuôn câu then chốt." },
+            { "vi": "Anh nói bột nở ạ?" },
+            { "vi": "Cái làm cho bánh nở lên ấy — đúng rồi, chính nó!", "hint_vi": "Xác nhận thêm một chi tiết nữa để cả hai đều chắc chắn." },
+            { "vi": "Ở khu làm bánh, lối đi số bốn ạ." },
+            { "vi": "Cảm ơn chị! Và ở đây có kem không lactose không ạ?", "hint_vi": "Hỏi câu thứ hai luôn khi họ vẫn còn đứng đó." },
+            { "vi": "Có ạ, trong tủ mát phía trong." },
+            { "vi": "Tôi đã ra đó, nhưng kệ trống. Hết hàng rồi ạ?", "hint_vi": "Kệ trống không phải lúc nào cũng là hết hàng. Hãy hỏi." },
+            { "vi": "Tôi vào kho xem ạ." },
+            { "vi": "Cảm ơn chị nhiều!", "hint_vi": "Họ đã đi thêm một bước vì bạn. Hãy nói ra." }
+          ]
+        }
+      ]
+    },
+    "at-the-checkout": {
+      "lesson": {
+        "title_vi": "Ở quầy thu ngân (kassa)",
+        "subtitle_vi": "Onks kanta-asiakaskorttia? Pussia?",
+        "warmup_situation_vi": "Băng chuyền đang chạy, nhân viên thu ngân rất nhanh, và có ba người phía sau bạn. Bốn câu hỏi bắn tới trong tám giây và mỗi câu đều có một câu trả lời một từ mà bạn cần sẵn sàng.",
+        "warmup_question_vi": "Bốn câu hỏi đó là gì — và bạn có trả lời được hết mà không cần suy nghĩ không?",
+        "rescue_vi": "Chờ chút, tôi đang tìm thẻ.",
+        "rescue_note_vi": "Mua cho bạn mười giây cần thiết mà không phải hoảng. Hàng người phía sau sẽ chờ mà không nói một lời — hàng đợi ở quầy thu ngân Phần Lan kiên nhẫn đến mức khiến người ta ngạc nhiên, và nhân viên thà chờ còn hơn thấy bạn luống cuống."
+      },
+      "vocab": [
+        { "vi": "quầy thu ngân" }, { "vi": "hàng chờ ở quầy" }, { "vi": "băng chuyền" },
+        { "vi": "băng chuyền quầy thu ngân" },
+        { "vi": "thanh chia hàng", "note_vi": "Cái thanh nhựa giữa hàng của bạn và của người tiếp theo. Hãy dùng nó." },
+        { "vi": "thẻ khách hàng thân thiết", "note_vi": "S-Etukortti hoặc K-Plussa. Lần nào cũng bị hỏi, ở mọi nơi." },
+        { "vi": "thẻ ưu đãi (rút gọn)" }, { "vi": "điểm thưởng" }, { "vi": "hoá đơn tính tiền" },
+        { "vi": "túi", "note_vi": "Có tính tiền. 20–40 xu. Họ sẽ hỏi." },
+        { "vi": "túi đựng hàng" },
+        { "vi": "túi vải", "note_vi": "«Mulla on oma» = tôi có túi riêng. Câu trả lời thông dụng." },
+        { "vi": "máy thanh toán thẻ" }, { "vi": "thanh toán không tiếp xúc" }, { "vi": "mã PIN" },
+        { "vi": "bấm mã đi" }, { "vi": "đã được chấp nhận" }, { "vi": "cắm thẻ vào" }, { "vi": "lấy thẻ ra" },
+        { "vi": "đóng gói, cho vào túi", "note_vi": "Bạn tự cho hàng vào túi, và làm nhanh. Không ai giúp và không ai mong được giúp." },
+        { "vi": "giới hạn tuổi", "note_vi": "Với rượu và thuốc lá. Họ sẽ hỏi giấy tờ, kể cả với người ngoài 30 tuổi." },
+        { "vi": "giấy tờ tuỳ thân" }, { "vi": "giấy phép lái xe" }, { "vi": "giảm giá" },
+        { "vi": "giá khuyến mãi" }, { "vi": "giá sai" }, { "vi": "tổng cộng" },
+        { "vi": "người tiếp theo", "note_vi": "«Seuraava!» — cách nhân viên thu ngân gọi bạn tới." }
+      ],
+      "phrases": [
+        { "vi": "Tôi không có, cảm ơn.", "when_to_use_vi": "Câu trả lời cho câu hỏi về thẻ thân thiết khi bạn không có. Hai từ." },
+        { "vi": "Thẻ đây ạ.", "when_to_use_vi": "Thẻ thân thiết. Hãy lấy ra trước khi họ quét xong hàng." },
+        { "vi": "Không cần túi, tôi có túi riêng.", "when_to_use_vi": "Câu trả lời tiêu chuẩn. Túi vải đã sẵn trong tay." },
+        { "vi": "Vâng, cho một túi ạ.", "when_to_use_vi": "Nếu bạn cần. Nó sẽ được tính vào hoá đơn." },
+        { "vi": "Cho tôi hoá đơn ạ.", "when_to_use_vi": "Giữ lại cho những thứ có thể đem trả. Nói trước khi họ huỷ nó." },
+        { "vi": "Không cần hoá đơn ạ.", "when_to_use_vi": "Dùng cho việc mua đồ ăn hằng ngày." },
+        { "vi": "Thẻ nhé, cảm ơn.", "when_to_use_vi": "Câu được nói nhiều nhất trong mọi giao dịch ở Phần Lan." },
+        { "vi": "Chờ chút, tôi đang tìm thẻ.", "when_to_use_vi": "Hàng người phía sau sẽ chờ. Thật đấy." },
+        { "vi": "Giấy phép lái xe của tôi đây.", "when_to_use_vi": "Cho rượu. Họ hỏi tất cả mọi người, ở mọi độ tuổi." },
+        { "vi": "Xin lỗi, món đó đang khuyến mãi. Ba cái giá hai cái.", "when_to_use_vi": "Lỗi giá vẫn xảy ra. Nói một cách lịch sự là được sửa." },
+        { "vi": "Cái đó có vẻ là giá sai.", "when_to_use_vi": "Bản nhẹ nhàng hơn. Nhân viên kiểm tra lại mà không phiền hà gì." },
+        { "vi": "Cảm ơn, chúc chị một ngày tốt lành!", "when_to_use_vi": "Câu ra về của bạn. Ở đây nó được nói và đáp lại hàng nghìn lần mỗi ngày." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Trọn bộ quầy thu ngân, chậm rãi",
+          "setting_vi": "Một buổi chiều vắng. Nhân viên có thời gian và hỏi hết mọi thứ.",
+          "note_vi": "Năm câu hỏi. Mỗi câu trả lời chỉ một hai từ.",
+          "lines": [
+            { "vi": "Chào anh! Anh có thẻ khách hàng thân thiết không?" },
+            { "vi": "Có, đây ạ." },
+            { "vi": "Cảm ơn. …Cái này của anh không ạ?", "note_vi": "Giơ lên một món rơi lại giữa hai lượt khách." },
+            { "vi": "Không phải. Có lẽ của người trước." },
+            { "vi": "Vâng. Anh có cần túi không ạ?" },
+            { "vi": "Không cần, tôi có túi vải riêng." },
+            { "vi": "Tốt. Anh mua bia à? Cho tôi xem giấy tờ tuỳ thân được không ạ?" },
+            { "vi": "Tất nhiên rồi. Giấy phép lái xe đây." },
+            { "vi": "Cảm ơn anh. Tổng cộng ba mươi hai euro năm mươi." },
+            { "vi": "Xin lỗi, miếng phô mai đó đang khuyến mãi — hai cái giá một cái." },
+            { "vi": "Ồ, tôi kiểm tra lại. …Vâng, anh nói đúng. Giờ giảm được tám euro hai mươi." },
+            { "vi": "Cảm ơn chị. Thẻ nhé." },
+            { "vi": "Anh bấm mã đi. …Xong rồi. Lấy hoá đơn không ạ?" },
+            { "vi": "Vâng cảm ơn. Chúc chị một ngày tốt lành!" }
+          ]
+        },
+        {
+          "title_vi": "Vẫn quầy đó, ở tốc độ chiều thứ Sáu",
+          "setting_vi": "17 giờ 45 một ngày thứ Sáu. Mọi thứ đều bị nén lại.",
+          "note_vi": "Tám giây, bốn câu hỏi. Đây là lý do bạn muốn câu trả lời thành phản xạ.",
+          "lines": [
+            { "vi": "Chào anh, thẻ ưu đãi?" },
+            { "vi": "Đây ạ." },
+            { "vi": "Túi?" },
+            { "vi": "Không cần." },
+            { "vi": "Hai mươi tám bảy mươi lăm." },
+            { "vi": "Thẻ." },
+            { "vi": "Hoá đơn?" },
+            { "vi": "Không cần, cảm ơn." },
+            { "vi": "Cảm ơn, chào anh!" },
+            { "vi": "Chào chị!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Qua quầy thu ngân ở tốc độ cao",
+          "scenario_vi": "Trả lời bốn câu hỏi, mỗi câu một hai từ, và sửa một lỗi giá.",
+          "your_role_vi": "Bạn, đang ở quầy",
+          "partner_role_vi": "Một nhân viên thu ngân nhanh nhẹn",
+          "turns": [
+            { "vi": "Chào anh! Anh có thẻ khách hàng thân thiết không?" },
+            { "vi": "Có, đây ạ.", "hint_vi": "Lấy thẻ ra trước khi họ quét xong hàng." },
+            { "vi": "Cảm ơn. Anh có cần túi không ạ?" },
+            { "vi": "Không cần, tôi có túi riêng.", "hint_vi": "Câu trả lời tiêu chuẩn. Ở đây túi có tính tiền." },
+            { "vi": "Anh mua bia à? Cho xem giấy tờ được không ạ?" },
+            { "vi": "Tất nhiên rồi. Giấy phép lái xe đây.", "hint_vi": "Họ hỏi tất cả mọi người, ở mọi tuổi. Đừng thấy bị xúc phạm." },
+            { "vi": "Cảm ơn. Tổng cộng ba mươi hai năm mươi." },
+            { "vi": "Xin lỗi, miếng phô mai đó đang khuyến mãi.", "hint_vi": "Lỗi giá vẫn xảy ra. Nói lịch sự là được sửa." },
+            { "vi": "Tôi kiểm tra… vâng, anh nói đúng." },
+            { "vi": "Cảm ơn. Thẻ nhé, và cho tôi hoá đơn.", "hint_vi": "Cách thanh toán và hoá đơn trong một hơi. Đó là bản hiệu quả." }
+          ]
+        }
+      ]
+    },
+    "self-checkout": {
+      "lesson": {
+        "title_vi": "Quầy tự thanh toán và những rắc rối của nó",
+        "subtitle_vi": "Odottamaton tuote — và cách gọi người đến giúp",
+        "warmup_situation_vi": "Cái máy đã dừng lại. Có một dòng chữ đỏ trên màn hình, một cái đèn nháy phía trên đầu bạn, và mười một món đã quét mà bạn không thể bỏ ra.",
+        "warmup_question_vi": "Thông báo lỗi nói gì — và câu nào giải quyết được mọi lỗi trong số đó?",
+        "rescue_vi": "Xin lỗi, cái máy này bị treo. Chị giúp được không?",
+        "rescue_note_vi": "Dùng được cho mọi lỗi ở quầy tự thanh toán mà bạn không cần đọc thông báo. Hãy khoát tay, nói câu đó, rồi lùi lại. Nhân viên đã gặp đúng lỗi này bốn trăm lần và sẽ sửa trong mười giây."
+      },
+      "vocab": [
+        { "vi": "quầy tự thanh toán" }, { "vi": "tự phục vụ" }, { "vi": "quét (mã)" }, { "vi": "mã vạch" },
+        { "vi": "đầu đọc mã" }, { "vi": "màn hình" }, { "vi": "màn hình cảm ứng" }, { "vi": "bắt đầu" },
+        { "vi": "thanh toán" }, { "vi": "huỷ" }, { "vi": "xoá, bỏ ra" },
+        { "vi": "món hàng bất thường", "note_vi": "Lỗi kinh điển. Thường nghĩa là trọng lượng trong khay không khớp." },
+        { "vi": "khu vực cân", "note_vi": "«Aseta tuote punnitusalueelle» = hãy đặt món hàng vào khu vực cân." },
+        { "vi": "hãy đặt" }, { "vi": "hãy chờ" },
+        { "vi": "chờ nhân viên", "note_vi": "Dòng thông báo có nghĩa là bạn không tự sửa được." },
+        { "vi": "nhân viên" },
+        { "vi": "nhân viên giám sát quầy", "note_vi": "Người đứng lảng vảng gần mấy cái máy. Hãy khoát tay với họ." },
+        { "vi": "bị treo, bị kẹt", "note_vi": "Khẩu ngữ và cực kỳ đúng cho máy móc. «Kone jumittaa.»" },
+        { "vi": "không hoạt động" }, { "vi": "lỗi" },
+        { "vi": "kiểm tra tuổi", "note_vi": "Rượu luôn cần nhân viên phê duyệt ở quầy tự thanh toán. Luôn luôn." },
+        { "vi": "sự phê duyệt" },
+        { "vi": "hàng rời (bán theo cân)", "note_vi": "Trái cây và rau củ. Bạn phải tự tìm chúng trên màn hình theo tên." },
+        { "vi": "tìm món hàng" },
+        { "vi": "mã sản phẩm", "note_vi": "Con số nhỏ trên nhãn giá. Nhanh hơn là đi tìm." },
+        { "vi": "tiền cọc chai" }, { "vi": "máy nhận trả chai" },
+        { "vi": "phiếu (đổi tiền cọc)", "note_vi": "Tờ phiếu từ máy trả chai. Hãy quét nó trước khi thanh toán." },
+        { "vi": "sự xác nhận" }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, cái máy này bị treo.", "when_to_use_vi": "Bao phủ mọi thông báo lỗi mà bạn không cần đọc. Câu chữa cháy phổ quát." },
+        { "vi": "Chị giúp được không? Nó nói gì đó về món hàng bất thường.", "when_to_use_vi": "Gọi tên lỗi giúp nhanh hơn một chút, nhưng không cần thiết." },
+        { "vi": "Tôi có mua rượu vang — có cần phê duyệt không ạ?", "when_to_use_vi": "Luôn là có. Hãy báo sớm thay vì đợi máy chặn bạn lại." },
+        { "vi": "Tôi không tìm thấy món này trên màn hình.", "when_to_use_vi": "Dùng cho trái cây và rau bán rời. Vấn đề rất phổ biến." },
+        { "vi": "Mã sản phẩm của cái này là gì ạ?", "when_to_use_vi": "Nhanh hơn tìm theo tên. Con số nằm trên nhãn ở kệ." },
+        { "vi": "Tôi bỏ cái này ra thế nào ạ?", "when_to_use_vi": "Khi bạn quét một món hai lần. Nhân viên làm được ngay." },
+        { "vi": "Nó quét cái đó hai lần.", "when_to_use_vi": "Rất phổ biến. Hãy nói trước khi thanh toán, đừng nói sau." },
+        { "vi": "Mã vạch không đọc được.", "when_to_use_vi": "Nhãn bị hỏng hoặc bị cong. Họ sẽ nhập tay." },
+        { "vi": "Tôi đã quét phiếu tiền cọc, nhưng nó không hiện ra.", "when_to_use_vi": "Phiếu trả chai đôi khi lỗi. Hãy nói trước khi thanh toán." },
+        { "vi": "Ở đây tôi trả bằng thẻ được không ạ?", "when_to_use_vi": "Một số quầy chỉ nhận thẻ, một số nhận tiền mặt. Đáng nhìn qua trước." },
+        { "vi": "Hoá đơn in ra rồi, cảm ơn!", "when_to_use_vi": "Xác nhận bạn đã xong để nhân viên đi lo việc khác." },
+        { "vi": "Cảm ơn chị đã giúp!", "when_to_use_vi": "Hãy nói ra. Họ sửa những lỗi này suốt ngày và ít khi được cảm ơn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Ba lỗi trong một lần thanh toán",
+          "setting_vi": "Một quầy tự thanh toán với rượu, rau bán rời và một món bị quét hai lần.",
+          "note_vi": "Cả ba đều cần nhân viên. Anh báo chuyện rượu vang sớm, nhờ đó tránh được hẳn một lần máy dừng.",
+          "lines": [
+            { "vi": "Món hàng bất thường trong khu vực cân. Xin chờ nhân viên." },
+            { "vi": "Xin lỗi! Cái máy này bị treo. Chị giúp được không?" },
+            { "vi": "Vâng, tôi đến ngay. …À, nó quét hộp sữa hai lần rồi." },
+            { "vi": "Tôi bỏ nó ra thế nào ạ?" },
+            { "vi": "Để tôi làm, việc đó cần mã của tôi. …Xong rồi." },
+            { "vi": "Cảm ơn chị. Này, nhân lúc chị ở đây — tôi có mua rượu vang, có cần phê duyệt không ạ?" },
+            { "vi": "Vâng lúc nào cũng cần. Cho tôi xem giấy tờ được không ạ?" },
+            { "vi": "Đây ạ. Và còn một việc nữa — tôi không tìm thấy mấy quả cà chua này trên màn hình." },
+            { "vi": "Hàng bán rời ở chỗ «Tìm món hàng» kia ạ. Hoặc anh nhập mã sản phẩm, nó ở trên nhãn giá." },
+            { "vi": "À, nó ở đây. Bốn-sáu-hai-một." },
+            { "vi": "Chính xác. Giờ anh thanh toán được rồi." },
+            { "vi": "Hoá đơn in ra rồi. Cảm ơn chị đã giúp!" },
+            { "vi": "Không có gì. Chúc anh một ngày tốt lành!" }
+          ]
+        },
+        {
+          "title_vi": "Một mã vạch không đọc được",
+          "setting_vi": "Nhanh, vấn đề nhỏ, giải quyết trong bốn dòng.",
+          "note_vi": "Vấn đề phổ biến nhất ở quầy tự thanh toán và cũng ít kịch tính nhất.",
+          "lines": [
+            { "vi": "Xin lỗi, mã vạch cái này không đọc được." },
+            { "vi": "Cho tôi xem… vâng, nó bị nhăn. Tôi nhập tay cho." },
+            { "vi": "Cảm ơn chị. Và tôi đã quét phiếu tiền cọc, nhưng nó không hiện ra." },
+            { "vi": "Cho tôi xem phiếu… à, phiếu phải quét trước khi anh bắt đầu. Tôi thêm vào bằng tay." },
+            { "vi": "Biết vậy hay, để lần sau." },
+            { "vi": "Vâng, nhiều người không biết chuyện đó. Đó, giờ nó đã vào rồi." },
+            { "vi": "Cảm ơn chị nhiều!" },
+            { "vi": "Không có gì đâu ạ." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xử lý ba lỗi ở quầy tự thanh toán",
+          "scenario_vi": "Gọi người đến, xử lý món bị quét hai lần, báo chuyện rượu, và tìm một món bán rời.",
+          "your_role_vi": "Bạn, đang mắc ở cái máy",
+          "partner_role_vi": "Nhân viên giám sát quầy",
+          "turns": [
+            { "vi": "Món hàng bất thường. Xin chờ nhân viên." },
+            { "vi": "Xin lỗi! Cái máy này bị treo. Chị giúp được không?", "hint_vi": "Một câu này bao phủ mọi lỗi. Bạn không cần đọc thông báo." },
+            { "vi": "Vâng, tôi đến. Nó quét hộp sữa hai lần rồi." },
+            { "vi": "Tôi bỏ nó ra thế nào ạ?", "hint_vi": "Thường bạn không bỏ được — cần mã nhân viên. Nhưng cứ hỏi." },
+            { "vi": "Để tôi làm, việc đó cần mã của tôi." },
+            { "vi": "Cảm ơn chị. Và tôi có mua rượu vang — có cần phê duyệt không ạ?", "hint_vi": "Báo luôn khi họ còn ở đây. Tránh được một lần máy dừng nữa." },
+            { "vi": "Vâng lúc nào cũng cần. Cho xem giấy tờ được không ạ?" },
+            { "vi": "Đây ạ. Và tôi không tìm thấy mấy quả cà chua này trên màn hình.", "hint_vi": "Giải quyết hết mọi vấn đề trong một lần họ đến." },
+            { "vi": "Anh nhập mã sản phẩm, nó ở trên nhãn giá." },
+            { "vi": "À, nó ở đây. Cảm ơn chị đã giúp!", "hint_vi": "Họ sửa những lỗi này suốt ngày và ít khi được cảm ơn. Hãy nói ra." }
+          ]
+        }
+      ]
+    }
+  }
+}

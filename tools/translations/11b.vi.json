@@ -1,0 +1,322 @@
+{
+  "lessons": {
+    "reporting-a-fault": {
+      "lesson": {
+        "title_vi": "Báo sự cố cho bên bảo trì",
+        "subtitle_vi": "Meillä vuotaa hana.",
+        "warmup_situation_vi": "Nước đang chảy qua trần nhà tắm của bạn. Lúc đó là 21:40. Bạn có số điện thoại bảo trì trên bảng thông báo và không biết chuyện này có tính là cấp bách hay không.",
+        "warmup_question_vi": "Thế nào thì tính là cấp bách — và bạn nói gì trong câu đầu tiên?",
+        "rescue_vi": "Nhà tôi có nước chảy qua trần. Chuyện này có cấp bách không ạ?",
+        "rescue_note_vi": "Hãy mô tả tình huống và để họ xếp loại nó. Ở Phần Lan nước gần như luôn là cấp bách vì nó phá hoại toà nhà rất nhanh, và hỏi thẳng câu đó giúp bạn có câu trả lời rõ ràng thay vì một phỏng đoán."
+      },
+      "vocab": [
+        { "vi": "công ty bảo trì", "note_vi": "Số điện thoại trên bảng ở cầu thang. Hãy lưu vào máy ngay bây giờ." },
+        { "vi": "nhân viên bảo trì" },
+        { "vi": "dịch vụ trực ngoài giờ", "note_vi": "Cho trường hợp khẩn ngoài giờ. Thường là số đắt hơn." },
+        { "vi": "phiếu báo sự cố", "note_vi": "Giờ thường khai trên mạng. Hãy hỏi toà nhà bạn dùng kênh nào." },
+        { "vi": "báo sự cố" }, { "vi": "cấp bách, gấp" },
+        { "vi": "chảy, rò rỉ", "note_vi": "Ở đây mọi vụ rò đều là cấp bách. Báo ngay khi bạn thấy." },
+        { "vi": "hư hại do nước", "note_vi": "Từ khiến mọi người di chuyển nhanh. Hãy dùng nó nếu đúng vậy." },
+        { "vi": "hơi ẩm" },
+        { "vi": "nấm mốc", "note_vi": "Báo ngay và bằng văn bản. Chuyện này được coi rất nghiêm trọng." },
+        { "vi": "trần, mái" }, { "vi": "sàn" }, { "vi": "tường" }, { "vi": "đường ống" },
+        { "vi": "hệ thống sưởi không chạy" }, { "vi": "lò sưởi bị lạnh" }, { "vi": "hệ thống thông gió" },
+        { "vi": "thang máy bị kẹt" }, { "vi": "đèn không sáng" }, { "vi": "ổ khoá" }, { "vi": "cửa không mở được" },
+        { "vi": "căn hộ" },
+        { "vi": "số căn hộ", "note_vi": "Họ sẽ hỏi trước tiên. Hãy chuẩn bị sẵn nó cùng địa chỉ." },
+        { "vi": "địa chỉ" }, { "vi": "nó bắt đầu khi nào" }, { "vi": "đang nặng hơn" },
+        { "vi": "đang trên đường đến", "note_vi": "«Huoltomies on tulossa» = nhân viên bảo trì đang trên đường." },
+        { "vi": "khi nào các anh đến" }, { "vi": "bạn có ở nhà không" },
+        { "vi": "chìa khoá tổng", "note_vi": "Bên bảo trì thường có một cái. Có thể bạn không cần phải có mặt." }
+      ],
+      "phrases": [
+        { "vi": "Nhà tôi vòi nước trong nhà tắm bị rò.", "when_to_use_vi": "Vị trí cộng sự cố. Câu đầu tiên trọn vẹn." },
+        { "vi": "Nhà tôi có nước chảy qua trần.", "when_to_use_vi": "Luôn là cấp bách. Báo ngay lập tức, bất kể mấy giờ." },
+        { "vi": "Chuyện này có cấp bách không ạ?", "when_to_use_vi": "Để họ xếp loại nó. Bạn sẽ có câu trả lời rõ ràng." },
+        { "vi": "Địa chỉ là Mäkikatu 4, căn hộ 12.", "when_to_use_vi": "Họ hỏi câu này trước tiên, lần nào cũng vậy. Hãy chuẩn bị sẵn." },
+        { "vi": "Nó bắt đầu chiều nay và đang nặng hơn.", "when_to_use_vi": "Mốc thời gian cộng chiều hướng. Cả hai ảnh hưởng đến việc họ đến nhanh cỡ nào." },
+        { "vi": "Lò sưởi lạnh hẳn.", "when_to_use_vi": "Vào mùa đông chuyện này được coi là cấp bách. Báo trong cùng ngày." },
+        { "vi": "Hệ thống sưởi không chạy chút nào.", "when_to_use_vi": "Trong mùa đông Phần Lan đây là một tình huống khẩn cấp thật sự." },
+        { "vi": "Khi nào các anh đến được ạ?", "when_to_use_vi": "Hãy lấy một khung giờ, đừng nhận «sắp tới»." },
+        { "vi": "Tôi có cần ở nhà không ạ?", "when_to_use_vi": "Thường là không — bên bảo trì thường có chìa khoá tổng. Hãy hỏi." },
+        { "vi": "Tôi đã gửi phiếu báo sự cố trên mạng.", "when_to_use_vi": "Nhiều toà nhà thích cách này hơn. Rồi gọi nếu gấp." },
+        { "vi": "Tôi chụp ảnh rồi gửi cho anh.", "when_to_use_vi": "Cực kỳ hữu ích với bất cứ thứ gì nhìn thấy được. Hãy chủ động đề nghị." },
+        { "vi": "Cảm ơn các anh đã đến nhanh như vậy.", "when_to_use_vi": "Hãy nói ra. Nhân viên bảo trì ít khi được cảm ơn." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Nước chảy qua trần lúc 21:40",
+          "setting_vi": "Số trực bảo trì ngoài giờ. Duc mô tả và để họ xếp loại nó.",
+          "note_vi": "Địa chỉ, sự cố, mốc thời gian, rồi mới hỏi về mức cấp bách. Theo thứ tự đó.",
+          "lines": [
+            { "vi": "Trực bảo trì, Nieminen xin nghe." },
+            { "vi": "Chào anh, buổi tối tốt lành! Nhà tôi có nước chảy qua trần nhà tắm." },
+            { "vi": "Vâng. Địa chỉ và số căn hộ là gì ạ?" },
+            { "vi": "Mäkikatu 4, căn hộ 12, tầng ba." },
+            { "vi": "Cảm ơn anh. Nó bắt đầu khi nào ạ?" },
+            { "vi": "Khoảng một tiếng trước. Và đang nặng hơn." },
+            { "vi": "Chuyện này có cấp bách không ạ?" },
+            { "vi": "Có ạ. Nước thì lúc nào cũng cấp bách. Tôi cử người đến ngay." },
+            { "vi": "Cảm ơn anh. Mất bao lâu ạ?" },
+            { "vi": "Nửa tiếng, nhiều nhất là một tiếng ạ." },
+            { "vi": "Vâng. Tôi có cần ở nhà không ạ?" },
+            { "vi": "Sẽ tốt nếu anh ở nhà, vì anh ấy cần vào được bên trong." },
+            { "vi": "Tôi ở nhà. Và tôi chụp ảnh gửi cho anh, nếu như thế giúp được." },
+            { "vi": "Cảm ơn, có giúp ạ. Anh gửi vào số này nhé." },
+            { "vi": "Vâng. Và tôi có nên báo cho hàng xóm tầng trên không ạ?" },
+            { "vi": "Sẽ tốt nếu anh làm được. Sự cố có lẽ nằm ở trên đó ạ." }
+          ]
+        },
+        {
+          "title_vi": "Một lò sưởi lạnh và một cái đèn hỏng",
+          "setting_vi": "Hai chuyện không khẩn cấp, được báo đúng cách.",
+          "note_vi": "Trong mùa đông Phần Lan, một lò sưởi lạnh được coi trọng hơn bạn tưởng nhiều.",
+          "lines": [
+            { "vi": "Chào anh! Nhà tôi lò sưởi ở phòng khách lạnh hẳn." },
+            { "vi": "Vâng, mùa đông thế này thì đó là chuyện cấp bách. Địa chỉ ạ?" },
+            { "vi": "Mäkikatu 4, căn hộ 12." },
+            { "vi": "Các lò sưởi khác có ấm không ạ?" },
+            { "vi": "Có, chỉ có cái này lạnh." },
+            { "vi": "Nghe như có khí trong lò sưởi. Sáng mai sẽ có người đến ạ." },
+            { "vi": "Tốt. Và ở cầu thang tầng hai đèn không sáng." },
+            { "vi": "Cảm ơn anh đã báo, bên tôi thay luôn cùng lúc ạ." },
+            { "vi": "Cảm ơn anh! Tôi có cần khai phiếu báo sự cố trên mạng nữa không ạ?" },
+            { "vi": "Không cần, tôi đã ghi lại rồi. Cảm ơn anh đã gọi." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Báo một sự cố cấp bách",
+          "scenario_vi": "Mô tả hư hại do nước, cho địa chỉ, để họ xếp loại mức cấp bách, và đề nghị gửi ảnh.",
+          "your_role_vi": "Bạn, lúc 21:40",
+          "partner_role_vi": "Đường dây trực bảo trì",
+          "turns": [
+            { "vi": "Trực bảo trì, Nieminen xin nghe." },
+            { "vi": "Chào anh! Nhà tôi có nước chảy qua trần nhà tắm.", "hint_vi": "Vị trí cộng sự cố trong câu đầu tiên. Chưa cần gì khác." },
+            { "vi": "Địa chỉ và số căn hộ là gì ạ?" },
+            { "vi": "Mäkikatu 4, căn hộ 12, tầng ba.", "hint_vi": "Lần nào họ cũng hỏi câu này trước. Hãy chuẩn bị sẵn." },
+            { "vi": "Cảm ơn. Nó bắt đầu khi nào ạ?" },
+            { "vi": "Khoảng một tiếng trước, và đang nặng hơn.", "hint_vi": "Mốc thời gian cộng chiều hướng. Cả hai ảnh hưởng đến tốc độ họ đến." },
+            { "vi": "Vâng." },
+            { "vi": "Chuyện này có cấp bách không ạ?", "hint_vi": "Để họ xếp loại. Bạn có câu trả lời rõ thay vì một phỏng đoán." },
+            { "vi": "Có. Nước lúc nào cũng cấp bách. Tôi cử người đến." },
+            { "vi": "Cảm ơn anh. Tôi có cần ở nhà không ạ?", "hint_vi": "Thường là không — bên bảo trì thường có chìa khoá tổng." },
+            { "vi": "Sẽ tốt, anh ấy cần vào được bên trong." },
+            { "vi": "Tôi ở nhà. Và tôi chụp ảnh rồi gửi cho anh.", "hint_vi": "Cực kỳ hữu ích với thứ nhìn thấy được. Hãy chủ động đề nghị." }
+          ]
+        }
+      ]
+    },
+    "talking-to-the-neighbour": {
+      "lesson": {
+        "title_vi": "Nói chuyện với người hàng xóm",
+        "subtitle_vi": "Tiếng ồn, chỗ đỗ xe và những việc nhờ nhỏ",
+        "warmup_situation_vi": "Người hàng xóm tầng trên bật nhạc đến mười hai giờ rưỡi đêm suốt ba tối liền. Bạn có thể viết một tờ giấy nặc danh, khiếu nại với công ty nhà ở, hoặc gõ cửa họ.",
+        "warmup_question_vi": "Cách nào trong ba cách đó thật sự hiệu quả — và bạn diễn đạt thế nào?",
+        "rescue_vi": "Xin lỗi, tôi không muốn làm khó, nhưng…",
+        "rescue_note_vi": "Câu mở đầu này giải toả gần như hoàn toàn. Nó cho thấy bạn muốn giải quyết chứ không muốn làm to chuyện, mà đó chính là điều người Phần Lan ưu tiên — và nó giữ cho cuộc trò chuyện ở giữa hai người thay vì trở thành việc của công ty nhà ở."
+      },
+      "vocab": [
+        { "vi": "tiếng ồn" }, { "vi": "tiếng ồn ào" }, { "vi": "tiếng đập, tiếng loảng xoảng" }, { "vi": "âm nhạc" },
+        { "vi": "nghe thấy được", "note_vi": "«Se kuuluu meille asti» = nhà tôi nghe thấy đến tận bên này." },
+        { "vi": "xuyên qua" }, { "vi": "vào ban đêm" },
+        { "vi": "giờ yên tĩnh", "note_vi": "Thường 22:00–07:00 và được ghi trong nội quy toà nhà." },
+        { "vi": "nội quy toà nhà" }, { "vi": "nó gây khó chịu" },
+        { "vi": "việc sửa chữa cải tạo", "note_vi": "Được phép trong một số giờ nhất định. Hàng xóm thường dán thông báo trước." },
+        { "vi": "việc khoan tường" },
+        { "vi": "chỗ đỗ xe", "note_vi": "Thường được đánh số và thuê từ công ty nhà ở." },
+        { "vi": "việc đỗ xe" }, { "vi": "chỗ cho khách" }, { "vi": "chỗ của tôi" }, { "vi": "đỗ sai chỗ" },
+        { "vi": "cột sưởi máy xe", "note_vi": "Để sưởi máy xe trước khi chạy vào mùa đông. Thật sự cần thiết." },
+        { "vi": "dời xe đi" }, { "vi": "việc nhờ vả" },
+        { "vi": "tưới cây", "note_vi": "Việc nhờ hàng xóm kinh điển. Hãy nhờ và cũng hãy ngỏ ý giúp." },
+        { "vi": "lấy thư" }, { "vi": "chìa khoá" }, { "vi": "trông giúp, để mắt giúp" },
+        { "vi": "đang đi vắng" }, { "vi": "khó, gây khó xử" }, { "vi": "dàn xếp một việc" },
+        { "vi": "nói thẳng", "note_vi": "Cách được ưa hơn ở đây. Nói thẳng luôn hơn nặc danh." },
+        { "vi": "một tờ giấy dán cửa", "note_vi": "Phương án ngấm ngầm. Gõ cửa hiệu quả hơn nhiều." }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, tôi không muốn làm khó, nhưng…", "when_to_use_vi": "Câu mở đầu giải toả. Nó giữ chuyện này ở giữa hai người." },
+        { "vi": "Tiếng nhạc đó vang đến tận nhà tôi.", "when_to_use_vi": "Nêu sự việc mà không buộc tội. Thường họ hoàn toàn không biết." },
+        { "vi": "Nhà tôi có em bé nhỏ đang ngủ.", "when_to_use_vi": "Cực kỳ hiệu quả và hoàn toàn công bằng. Hãy dùng nếu đúng vậy." },
+        { "vi": "Sau mười giờ bạn để nhỏ hơn một chút được không?", "when_to_use_vi": "Một yêu cầu cụ thể, hợp lý. Tốt hơn nhiều so với «bớt ồn đi»." },
+        { "vi": "Tôi không biết là nó vang đến thế.", "when_to_use_vi": "Câu bạn nói nếu bạn là người gây ồn. Thường là thật." },
+        { "vi": "Tuần sau nhà tôi sửa nhà — xin lỗi trước về tiếng ồn nhé.", "when_to_use_vi": "Hãy báo trước cho hàng xóm. Dán cả một tờ lên bảng thông báo." },
+        { "vi": "Xe đó đang đỗ ở chỗ của tôi.", "when_to_use_vi": "Chỗ đỗ được đánh số và cho thuê. Hãy nói thẳng." },
+        { "vi": "Bạn dời xe được không? Đó là chỗ của tôi.", "when_to_use_vi": "Thẳng thắn và không cảm tính. Thường là một sự nhầm lẫn thật thà." },
+        { "vi": "Nhà tôi đi vắng, bạn tưới cây giúp được không?", "when_to_use_vi": "Việc nhờ hàng xóm kinh điển. Hãy ngỏ ý làm lại cho họ." },
+        { "vi": "Tôi lấy thư giúp bạn được, nếu bạn muốn.", "when_to_use_vi": "Ngỏ ý trước là cách một quan hệ hàng xóm thật sự bắt đầu." },
+        { "vi": "Cứ nói nhé, nếu nhà tôi gây ồn.", "when_to_use_vi": "Hãy nói câu này sớm với hàng xóm mới. Nó mở ra một kênh liên lạc." },
+        { "vi": "Cảm ơn bạn đã nói thẳng.", "when_to_use_vi": "Nếu có ai nêu vấn đề với bạn. Ở đây điều đó thật sự được trân trọng." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Gõ cửa thay vì viết giấy",
+          "setting_vi": "Cửa tầng trên. Tối thứ ba có nhạc. Duc gõ cửa.",
+          "note_vi": "Câu mở đầu giải toả, nêu sự việc, yêu cầu cụ thể. Cả cuộc trò chuyện chín mươi giây.",
+          "lines": [
+            { "vi": "Chào bạn! Mình là Duc ở tầng dưới, căn hộ 12." },
+            { "vi": "Chào bạn! Có chuyện gì không?" },
+            { "vi": "Xin lỗi, mình không muốn làm khó, nhưng tiếng nhạc vang đến nhà mình khá rõ." },
+            { "vi": "Ôi không. Mình không biết là nó vang đến thế." },
+            { "vi": "Ban ngày thì chẳng sao cả. Nhưng nhà mình có em bé nhỏ đang ngủ." },
+            { "vi": "Tất nhiên rồi, xin lỗi bạn. Mình để nhỏ lại." },
+            { "vi": "Cảm ơn bạn. Sau mười giờ để nhỏ hơn một chút được không? Ngoài ra thì hoàn toàn không sao." },
+            { "vi": "Ừ, chắc chắn. Và cứ nói nhé nếu nhà mình có gây ồn gì khác." },
+            { "vi": "Mình sẽ nói. Và ngược lại cũng vậy — cứ nói nếu nhà mình ồn quá." },
+            { "vi": "Chốt. Cảm ơn bạn đã sang nói thẳng." },
+            { "vi": "Không có gì. Thế này hơn là dán giấy lên cửa!" },
+            { "vi": "Haha, chắc chắn rồi." }
+          ]
+        },
+        {
+          "title_vi": "Chỗ đỗ xe, và một việc nhờ theo cả hai chiều",
+          "setting_vi": "Ngoài sân. Một cái xe đỗ sai chỗ, rồi một lời nhờ trước kỳ nghỉ.",
+          "note_vi": "Để ý anh ngỏ ý giúp trước khi nhờ. Đó là trình tự có hiệu quả.",
+          "lines": [
+            { "vi": "Chào bạn! Xin lỗi — xe kia có phải của nhà bạn không?" },
+            { "vi": "Phải, sao thế?" },
+            { "vi": "Nó đang đỗ ở chỗ của mình, số 12. Bạn dời được không?" },
+            { "vi": "Ôi chết, xin lỗi! Mình tưởng chỗ đó trống." },
+            { "vi": "Không sao, dễ nhầm mà. Chỗ cho khách ở đằng kia cạnh cổng ấy." },
+            { "vi": "Cảm ơn bạn, mình dời ngay." },
+            { "vi": "À này — mình lấy thư giúp nhà bạn được, nếu có lúc nào nhà bạn đi vắng." },
+            { "vi": "Ồ cảm ơn, thế thì hay quá! Nhà mình đi Tây Ban Nha vào tháng Bảy." },
+            { "vi": "Mình lo việc đó. Và tháng Tám bạn tưới cây giúp nhà mình được không? Nhà mình đi hai tuần." },
+            { "vi": "Tất nhiên rồi. Đến lúc đó mình đổi chìa khoá nhé?" },
+            { "vi": "Ừ, ý hay. Cảm ơn bạn!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nêu vấn đề tiếng ồn cho đúng cách",
+          "scenario_vi": "Gõ cửa, giải toả, nêu sự việc, đưa ra yêu cầu cụ thể, và mở kênh liên lạc cả hai chiều.",
+          "your_role_vi": "Bạn, sau ba tối nghe nhạc",
+          "partner_role_vi": "Người hàng xóm tầng trên",
+          "turns": [
+            { "vi": "Chào bạn! Có chuyện gì không?" },
+            { "vi": "Chào bạn! Mình là Duc ở tầng dưới. Xin lỗi, mình không muốn làm khó, nhưng…", "hint_vi": "Câu mở đầu giải toả. Nó giữ chuyện này ở giữa hai người." },
+            { "vi": "Ừ, bạn nói đi." },
+            { "vi": "Tiếng nhạc vang đến nhà mình khá rõ.", "hint_vi": "Nêu sự việc mà không buộc tội. Thường họ không hề biết." },
+            { "vi": "Ôi không, mình không biết." },
+            { "vi": "Ban ngày thì chẳng sao. Nhưng nhà mình có em bé nhỏ đang ngủ.", "hint_vi": "Nhượng bộ phần không sao, rồi nêu lý do thật." },
+            { "vi": "Tất nhiên rồi, xin lỗi bạn." },
+            { "vi": "Sau mười giờ để nhỏ hơn được không? Ngoài ra thì hoàn toàn không sao.", "hint_vi": "Một yêu cầu cụ thể luôn hơn «bớt ồn đi»." },
+            { "vi": "Ừ, chắc chắn." },
+            { "vi": "Cảm ơn bạn. Và cứ nói nhé nếu có lúc nào nhà mình ồn quá.", "hint_vi": "Mở kênh cả hai chiều. Nó làm bạn thành người dễ sống cạnh." }
+          ]
+        }
+      ]
+    },
+    "moving-in-and-out": {
+      "lesson": {
+        "title_vi": "Dọn vào và dọn ra",
+        "subtitle_vi": "Taloyhtiö, isännöitsijä, vuokranantaja",
+        "warmup_situation_vi": "Bạn đã ký hợp đồng thuê. Có tiền cọc, một buổi kiểm tra bàn giao, một tờ khai đổi địa chỉ, một bảng tên phải đặt và một hợp đồng điện phải mở — tất cả trong cùng một tuần.",
+        "warmup_question_vi": "Những gì phải xong trước khi bạn nhận chìa khoá, và những gì phải xong trước khi bạn lấy lại tiền cọc?",
+        "rescue_vi": "Bước tiếp theo là gì ạ?",
+        "rescue_note_vi": "Việc dọn nhà liên quan đến năm sáu tổ chức không nói chuyện với nhau, và hỏi câu này ở cuối mỗi cuộc trò chuyện giúp bạn đi hết danh sách. Chủ nhà và người quản lý toà nhà trả lời rất chính xác vì họ đã làm việc này cả nghìn lần."
+      },
+      "vocab": [
+        { "vi": "chủ nhà cho thuê" }, { "vi": "người thuê nhà" }, { "vi": "hợp đồng thuê nhà" },
+        { "vi": "không thời hạn", "note_vi": "Tốt hơn määräaikainen với người thuê. Hãy kiểm tra bạn đang ký loại nào." },
+        { "vi": "có thời hạn cố định" },
+        { "vi": "thời gian báo trước khi chấm dứt", "note_vi": "Một tháng với người thuê, ba tháng với chủ nhà. Hãy biết điều này." },
+        { "vi": "tiền cọc", "note_vi": "Thường một đến hai tháng tiền thuê. Bạn được nhận lại nếu căn hộ sạch sẽ." },
+        { "vi": "tiền cọc thuê nhà" }, { "vi": "tiền thuê nhà" },
+        { "vi": "phí bảo trì (cho chủ sở hữu)", "note_vi": "Dành cho chủ sở hữu. Bao gồm việc duy tu toà nhà, thường cả nước và có khi cả sưởi." },
+        { "vi": "phí nước" },
+        { "vi": "hợp đồng điện", "note_vi": "Bạn tự mở cái này. Hãy làm trước khi dọn vào." },
+        { "vi": "tờ khai chuyển chỗ ở", "note_vi": "Khai với DVV. Bắt buộc theo luật, và nó cập nhật mọi thứ khác." },
+        { "vi": "việc đổi địa chỉ" }, { "vi": "ngày dọn nhà" }, { "vi": "chìa khoá" }, { "vi": "việc giao chìa khoá" },
+        { "vi": "buổi kiểm tra", "note_vi": "Đi một vòng cùng chủ nhà và chụp ảnh mọi thứ. Cả hai đầu." },
+        { "vi": "kiểm tra tình trạng" },
+        { "vi": "biên bản", "note_vi": "Hãy lấy biên bản kiểm tra bằng văn bản và có ký. Nó bảo vệ tiền cọc của bạn." },
+        { "vi": "hao mòn bình thường", "note_vi": "Bạn không chịu trách nhiệm về điều này. Hãy học cụm từ này." },
+        { "vi": "việc dọn dẹp", "note_vi": "Hãy để lại căn hộ thật sạch. Đây là tranh chấp tiền cọc chính." },
+        { "vi": "dọn dẹp lần cuối" }, { "vi": "người quản lý toà nhà" },
+        { "vi": "giấy chứng nhận của người quản lý toà nhà", "note_vi": "Cần khi mua nhà. Đầy thông tin về tình hình tài chính của toà nhà." },
+        { "vi": "bảng tên", "note_vi": "Đặt từ isännöitsijä để thư đến được với bạn." },
+        { "vi": "việc thông báo cho công ty nhà ở" }, { "vi": "bước tiếp theo" }
+      ],
+      "phrases": [
+        { "vi": "Bước tiếp theo là gì ạ?", "when_to_use_vi": "Hỏi ở cuối mỗi cuộc trò chuyện. Dọn nhà là một danh sách dài." },
+        { "vi": "Cái này là không thời hạn hay có thời hạn cố định ạ?", "when_to_use_vi": "Hỏi trước khi ký. Nó quyết định bạn có rời đi được hay không." },
+        { "vi": "Thời gian báo trước là bao lâu ạ?", "when_to_use_vi": "Một tháng với bạn, ba tháng với chủ nhà. Xác nhận là nó có ghi." },
+        { "vi": "Tiền cọc là bao nhiêu ạ?", "when_to_use_vi": "Thường một đến hai tháng tiền thuê. Hãy lấy biên nhận." },
+        { "vi": "Khi nào tôi được nhận lại tiền cọc ạ?", "when_to_use_vi": "Thường trong vòng một tháng sau khi dọn ra, sau buổi kiểm tra." },
+        { "vi": "Tiền nước có tính trong tiền thuê không ạ?", "when_to_use_vi": "Thường là một khoản cố định mỗi tháng mỗi người. Hãy hỏi rõ." },
+        { "vi": "Tôi có phải tự làm hợp đồng điện không ạ?", "when_to_use_vi": "Hầu như luôn là có. Làm trước khi dọn vào, không phải sau." },
+        { "vi": "Mình có làm buổi kiểm tra trước khi dọn vào không ạ?", "when_to_use_vi": "Hãy yêu cầu ở cả hai đầu, và tự chụp ảnh mọi thứ." },
+        { "vi": "Tôi xin biên bản bằng văn bản được không ạ?", "when_to_use_vi": "Đây là thứ bảo vệ tiền cọc của bạn. Hãy xin bản có ký." },
+        { "vi": "Cái đó là hao mòn bình thường.", "when_to_use_vi": "Bạn không chịu trách nhiệm về nó. Hãy biết cụm này cho buổi kiểm tra cuối." },
+        { "vi": "Tôi sẽ khai đổi địa chỉ trên mạng.", "when_to_use_vi": "Ở DVV. Bắt buộc theo luật và nó cập nhật phần lớn các sổ đăng ký khác." },
+        { "vi": "Anh đặt giúp một cái bảng tên cho cửa được không ạ?", "when_to_use_vi": "Nhờ isännöitsijä. Nếu không thư của bạn có thể không đến được." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Ký hợp đồng thuê cho đúng cách",
+          "setting_vi": "Bàn bếp nhà chủ, hợp đồng đặt trước mặt.",
+          "note_vi": "Sáu câu hỏi trước khi ký. Tất cả đều giúp tiết kiệm tiền hoặc tránh rắc rối về sau.",
+          "lines": [
+            { "vi": "Nào, hợp đồng đây. Anh cứ đọc thong thả." },
+            { "vi": "Cảm ơn anh. Cái này là không thời hạn hay có thời hạn cố định ạ?" },
+            { "vi": "Không thời hạn. Không có kỳ hạn cố định." },
+            { "vi": "Tốt. Và thời gian báo trước là bao lâu ạ?" },
+            { "vi": "Anh một tháng, tôi ba tháng. Luật quy định vậy." },
+            { "vi": "Vâng. Tiền cọc là bao nhiêu, và khi nào tôi nhận lại ạ?" },
+            { "vi": "Hai tháng tiền thuê. Nhận lại trong vòng một tháng, nếu căn hộ ổn." },
+            { "vi": "Tiền nước có tính trong tiền thuê không ạ?" },
+            { "vi": "Nước là 20 euro một tháng mỗi người, tính riêng. Điện anh tự lo." },
+            { "vi": "Vâng, tôi làm hợp đồng điện trước khi dọn vào. Mình có làm buổi kiểm tra trước khi tôi dọn vào không ạ?" },
+            { "vi": "Có, mình đi một vòng căn hộ cùng nhau lúc giao chìa khoá." },
+            { "vi": "Tốt. Tôi xin biên bản bằng văn bản được không, và tôi cũng chụp ảnh nhé?" },
+            { "vi": "Tất nhiên rồi, cái đó có lợi cho cả hai bên." },
+            { "vi": "Cảm ơn anh. Bước tiếp theo là gì ạ?" },
+            { "vi": "Ký tên, chuyển tiền cọc vào tài khoản, rồi nhận chìa khoá ngày đầu tháng." }
+          ]
+        },
+        {
+          "title_vi": "Buổi kiểm tra cuối cùng",
+          "setting_vi": "Lúc dọn ra. Tiền cọc phụ thuộc vào mười phút tới.",
+          "note_vi": "«Normaalia kulumista» là cụm từ quan trọng. Bạn không chịu trách nhiệm về nó.",
+          "lines": [
+            { "vi": "Nào, mình xem qua. Căn hộ trông tốt đấy." },
+            { "vi": "Cảm ơn anh. Tôi đã dọn dẹp lần cuối vào cuối tuần." },
+            { "vi": "Thấy rõ. …Trên cái tường này có một vết xước nhỏ." },
+            { "vi": "Vâng, do cái sofa. Theo tôi thì đó là hao mòn bình thường." },
+            { "vi": "Đúng vậy. Không ảnh hưởng đến tiền cọc." },
+            { "vi": "Tốt. Tôi có ảnh từ ngày dọn vào, nếu cần." },
+            { "vi": "Không cần, mọi thứ đều ổn. Tôi trả lại tiền cọc tuần sau." },
+            { "vi": "Cảm ơn anh. Anh gửi biên bản qua email được không ạ?" },
+            { "vi": "Tôi gửi hôm nay. Và anh có nhớ khai đổi địa chỉ chưa?" },
+            { "vi": "Tôi khai trên mạng rồi. Cảm ơn anh về mọi thứ!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Ký hợp đồng thuê mà không mất tiền",
+          "scenario_vi": "Kiểm tra loại hợp đồng, thời gian báo trước, tiền cọc, các khoản phí và buổi kiểm tra trước khi ký.",
+          "your_role_vi": "Bạn, sắp ký",
+          "partner_role_vi": "Chủ nhà",
+          "turns": [
+            { "vi": "Hợp đồng đây. Anh cứ đọc thong thả." },
+            { "vi": "Cảm ơn anh. Cái này là không thời hạn hay có thời hạn cố định ạ?", "hint_vi": "Nó quyết định bạn có rời đi được hay không. Hỏi trước khi ký." },
+            { "vi": "Không thời hạn." },
+            { "vi": "Tốt. Thời gian báo trước là bao lâu ạ?", "hint_vi": "Một tháng với bạn, ba tháng với chủ nhà. Xác nhận là có ghi." },
+            { "vi": "Anh một tháng, tôi ba tháng." },
+            { "vi": "Tiền cọc là bao nhiêu, và khi nào tôi nhận lại ạ?", "hint_vi": "Hỏi cả hai nửa trong một câu. Hãy lấy biên nhận khi trả." },
+            { "vi": "Hai tháng tiền thuê, nhận lại trong vòng một tháng." },
+            { "vi": "Tiền nước có tính trong tiền thuê không? Và tôi có phải tự làm hợp đồng điện ạ?", "hint_vi": "Cả hai thường tính riêng. Lo hợp đồng điện trước khi dọn vào." },
+            { "vi": "Nước tính riêng, điện anh tự lo." },
+            { "vi": "Vâng. Mình có làm buổi kiểm tra trước khi tôi dọn vào không ạ?", "hint_vi": "Hãy yêu cầu ở cả hai đầu. Tự chụp ảnh mọi thứ." },
+            { "vi": "Có, lúc giao chìa khoá." },
+            { "vi": "Tôi xin biên bản bằng văn bản được không? Và bước tiếp theo là gì ạ?", "hint_vi": "Biên bản bảo vệ tiền cọc của bạn. Rồi lấy việc cần làm tiếp theo." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "module": {
+    "title_vi": "Đi khám bác sĩ",
+    "subtitle_vi": "Mô tả mình bị gì và hiểu được câu trả lời.",
+    "description_vi": "Đây là chương mà nói sai sẽ có hậu quả thật, nên nó được xây dựng quanh sự chính xác chứ không phải sự trôi chảy. Bạn sẽ học cách đặt lịch khám qua điện thoại, mô tả triệu chứng với đúng đuôi cách, hiểu chính xác hướng dẫn liều thuốc, xử lý ở hiệu thuốc, đưa con đi khám, và gọi 112. Thói quen quan trọng nhất được dạy ở đây: nhắc lại hướng dẫn trước khi bạn rời phòng khám."
+  },
+  "lessons": {
+    "booking-by-phone": {
+      "lesson": {
+        "title_vi": "Đặt lịch khám qua điện thoại",
+        "subtitle_vi": "Haluaisin varata ajan lääkärille.",
+        "warmup_situation_vi": "Bạn phải gọi cho trạm y tế. Có menu tự động, rồi nhạc chờ, rồi một y tá nói rất nhanh và hỏi những câu bạn không ngờ tới. Bạn không thấy mặt họ và không chỉ tay vào đâu được.",
+        "warmup_question_vi": "Bạn chuẩn bị gì trước khi bấm số — và bạn nói gì trong mười giây đầu tiên?",
+        "rescue_vi": "Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?",
+        "rescue_note_vi": "Hãy nói câu này ngay đầu cuộc gọi, đừng đợi đến lúc đã lạc. Nhân viên trạm y tế gặp chuyện này hằng ngày, sẽ chậm lại ngay lập tức, và thường kiểm tra xem bạn có hiểu không trong lúc nói. Báo trước làm thay đổi cả cuộc gọi."
+      },
+      "vocab": [
+        { "vi": "trạm y tế", "note_vi": "Phòng khám công ở khu bạn ở. Được phân theo nơi cư trú." },
+        { "vi": "trung tâm y tế" },
+        { "vi": "bác sĩ" },
+        { "vi": "y tá", "note_vi": "Bạn thường nói chuyện với y tá trước. Họ sàng lọc và quyết định bạn có cần gặp bác sĩ không." },
+        { "vi": "lịch hẹn, thời gian", "note_vi": "«Varata aika» = đặt lịch hẹn. Cụm cốt lõi." },
+        { "vi": "đặt, giữ chỗ" },
+        { "vi": "việc đặt lịch hẹn" },
+        { "vi": "huỷ", "note_vi": "Hãy huỷ nếu bạn không đến được. Không huỷ có thể bị tính phí." },
+        { "vi": "dời, chuyển lịch" },
+        { "vi": "khẩn, gấp", "note_vi": "Hãy nói từ này nếu đúng là vậy. Nó thay đổi thứ tự hàng chờ." },
+        { "vi": "phòng khám cấp cứu, ngoài giờ", "note_vi": "Cho trường hợp gấp nhưng chưa nguy hiểm tính mạng. Gọi 116 117 trước." },
+        { "vi": "khung giờ còn trống" },
+        { "vi": "mã số định danh cá nhân", "note_vi": "Mã hetu của bạn. Lần nào họ cũng hỏi. Hãy thuộc lòng bằng tiếng Phần Lan." },
+        { "vi": "mã định danh (rút gọn)" },
+        { "vi": "tên" },
+        { "vi": "đánh vần", "note_vi": "«Voitsä tavata sen?» = anh đánh vần được không? Bạn sẽ được hỏi câu này." },
+        { "vi": "số điện thoại" },
+        { "vi": "triệu chứng" },
+        { "vi": "vấn đề, chỗ khó chịu", "note_vi": "«Mikä vaiva?» = anh bị làm sao? Một câu mở đầu thường gặp." },
+        { "vi": "lý do" },
+        { "vi": "gọi điện" },
+        { "vi": "gọi lại", "note_vi": "Rất phổ biến: bạn để lại số và họ gọi lại. Hôm đó hãy nghe cả số lạ." },
+        { "vi": "chờ đến lượt" },
+        { "vi": "lượt" },
+        { "vi": "thế có được không?", "note_vi": "Họ sẽ đề nghị một giờ kèm câu này. Trả lời «sopii» hoặc «ei sovi»." },
+        { "vi": "tuần sau" },
+        { "vi": "càng sớm càng tốt" }
+      ],
+      "phrases": [
+        { "vi": "Tôi muốn đặt lịch khám với bác sĩ.", "when_to_use_vi": "Câu mở đầu. Thể điều kiện «haluaisin», và «lääkärille» với đuôi -lle." },
+        { "vi": "Tôi cần một lịch hẹn càng sớm càng tốt.", "when_to_use_vi": "Khi gấp nhưng chưa phải cấp cứu." },
+        { "vi": "Mã định danh của tôi là…", "when_to_use_vi": "Họ sẽ hỏi. Hãy tập đọc to mã hetu bằng tiếng Phần Lan trước khi gọi." },
+        { "vi": "Tôi tên Duc Nguyen. Tôi đánh vần: D-U-C…", "when_to_use_vi": "Chủ động đánh vần trước khi họ hỏi. Tránh được một đoạn trao đổi rối rắm." },
+        { "vi": "Tôi sốt ba ngày rồi.", "when_to_use_vi": "Đúng cấu trúc họ muốn: triệu chứng cộng thời gian. Hãy chuẩn bị câu này trước tiên." },
+        { "vi": "Chuyện này khá gấp ạ.", "when_to_use_vi": "Dùng một cách trung thực. Nó thật sự thay đổi cách họ xử lý cuộc gọi." },
+        { "vi": "Thứ Năm hai giờ có được không ạ?", "when_to_use_vi": "Hoặc trả lời đề nghị của họ: «Sopii» / «Ei valitettavasti sovi»." },
+        { "vi": "Có giờ nào sớm hơn không ạ?", "when_to_use_vi": "Luôn đáng hỏi. Người ta huỷ lịch liên tục." },
+        { "vi": "Tôi muốn huỷ lịch hẹn.", "when_to_use_vi": "Hãy huỷ thật. Lịch bỏ trống có thể bị tính phí." },
+        { "vi": "Chị cho tôi vào danh sách gọi lại được không ạ?", "when_to_use_vi": "Cách làm tiêu chuẩn. Họ sẽ gọi lại trong ngày, thường từ một số lạ." },
+        { "vi": "Tôi đến đâu và mấy giờ ạ?", "when_to_use_vi": "Xác nhận cả hai trước khi cúp máy. Trạm y tế thường có vài toà nhà." },
+        { "vi": "Tức là thứ Năm hai giờ, tầng hai. Cảm ơn chị!", "when_to_use_vi": "Nhắc lại toàn bộ lịch hẹn. Đây là thói quen ngăn được sai sót." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Đặt lịch, có báo trước là nói chậm",
+          "setting_vi": "Duc gọi cho trạm y tế và nói ngay từ đầu rằng tiếng Phần Lan của mình còn hạn chế.",
+          "note_vi": "Anh chuẩn bị ba thứ trước khi bấm số: triệu chứng, thời gian kéo dài, và mã hetu.",
+          "lines": [
+            { "vi": "Trạm y tế, Laine xin nghe." },
+            { "vi": "Chào chị! Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?" },
+            { "vi": "Tất nhiên rồi. Tôi giúp gì được ạ?" },
+            { "vi": "Cảm ơn chị. Tôi muốn đặt lịch khám với bác sĩ." },
+            { "vi": "Vâng. Anh bị làm sao ạ?" },
+            { "vi": "Tôi sốt ba ngày rồi, và họng rất đau." },
+            { "vi": "Vâng. Có ho hay khó thở không ạ?" },
+            { "vi": "Ho một chút. Không khó thở." },
+            { "vi": "Tốt. Mã định danh của anh là gì ạ?" },
+            { "vi": "Là 120388-123A." },
+            { "vi": "Cảm ơn anh. Ngày mai lúc 14:30 còn trống. Anh thấy được không ạ?" },
+            { "vi": "Được lắm. Tôi đến đâu ạ?" },
+            { "vi": "Vào cửa chính, tầng hai, đăng ký ở máy tự động ạ." },
+            { "vi": "Tức là mai 14:30, tầng hai, đăng ký ở máy. Cảm ơn chị!" },
+            { "vi": "Chính xác ạ. Hẹn gặp anh!" }
+          ]
+        },
+        {
+          "title_vi": "Hệ thống gọi lại",
+          "setting_vi": "Một buổi sáng đông. Không còn giờ trống trên đường dây nên họ lấy số thay vào đó.",
+          "note_vi": "Cuộc gọi lại đến từ số lạ. Hôm đó hãy nghe tất cả.",
+          "lines": [
+            { "vi": "Trạm y tế xin chào." },
+            { "vi": "Chào chị! Tôi cần lịch khám bác sĩ, khá sớm ạ." },
+            { "vi": "Vâng. Hiện giờ bên tôi đang rất đông. Tôi đưa anh vào danh sách gọi lại nhé?" },
+            { "vi": "Vâng, được ạ. Khi nào họ gọi?" },
+            { "vi": "Hôm nay, muộn nhất là trước bốn giờ ạ." },
+            { "vi": "Vâng. Số của tôi là 040 123 4567." },
+            { "vi": "Cảm ơn anh. Số gọi đến có thể hiện là số lạ ạ." },
+            { "vi": "Vâng, tôi sẽ nghe hết. Cảm ơn chị!" },
+            { "vi": "Vâng. Chào anh!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Đặt một lịch khám",
+          "scenario_vi": "Gọi điện, nói rõ trình độ tiếng Phần Lan của bạn, mô tả vấn đề, và nhắc lại lịch hẹn để xác nhận.",
+          "your_role_vi": "Bạn, đang gọi điện",
+          "partner_role_vi": "Một y tá ở trạm y tế",
+          "turns": [
+            { "vi": "Trạm y tế, Laine xin nghe." },
+            { "vi": "Chào chị! Xin lỗi, tôi nói tiếng Phần Lan còn ít. Chị nói chậm được không ạ?", "hint_vi": "Nói câu này trước, đừng đợi đến lúc đã lạc. Nó thay đổi cả cuộc gọi." },
+            { "vi": "Tất nhiên rồi. Tôi giúp gì được ạ?" },
+            { "vi": "Tôi muốn đặt lịch khám với bác sĩ.", "hint_vi": "Câu cốt lõi. Thể điều kiện, và «lääkärille» với đuôi -lle." },
+            { "vi": "Vâng. Anh bị làm sao ạ?" },
+            { "vi": "Tôi sốt ba ngày rồi.", "hint_vi": "Triệu chứng cộng thời gian. Chuẩn bị câu này trước khi bấm số." },
+            { "vi": "Vâng. Mã định danh của anh là gì ạ?" },
+            { "vi": "Là 120388-123A.", "hint_vi": "Hãy thuộc lòng mã hetu, bằng tiếng Phần Lan." },
+            { "vi": "Cảm ơn anh. Ngày mai 14:30 được không ạ?" },
+            { "vi": "Được ạ. Tức là mai 14:30 — tôi đến đâu ạ?", "hint_vi": "Xác nhận giờ và hỏi địa điểm. Cả hai đều quan trọng." }
+          ]
+        }
+      ]
+    },
+    "symptoms": {
+      "lesson": {
+        "title_vi": "Triệu chứng",
+        "subtitle_vi": "Mulla on kuumetta. Päätä särkee. Kurkku on kipee.",
+        "warmup_situation_vi": "Bác sĩ hỏi bạn bị gì. Bạn biết từ «đầu» và từ «đau» nhưng không biết ghép chúng lại thế nào.",
+        "warmup_question_vi": "Tiếng Phần Lan có ba mẫu câu khác nhau để nói một chỗ nào đó bị đau. Mẫu nào đi với bộ phận nào?",
+        "rescue_vi": "Để tôi chỉ chỗ.",
+        "rescue_note_vi": "Chỉ tay là một chiến lược giao tiếp y tế hoàn toàn chính đáng và bác sĩ nào cũng chấp nhận ngay. Hãy nói câu này để nó thành một hành động có chủ ý chứ không phải một thất bại, rồi chỉ. Bạn sẽ được hiểu hoàn hảo."
+      },
+      "vocab": [
+        { "vi": "triệu chứng" },
+        { "vi": "cơn đau" },
+        { "vi": "đau, nhức", "note_vi": "Mẫu 1: «Kurkku on kipeä» = họng tôi đau." },
+        { "vi": "nhức, đau âm ỉ", "note_vi": "Mẫu 2: «Päätä särkee» = đầu tôi nhức. Bộ phận cơ thể ở cách phân từ." },
+        { "vi": "đau (khi chạm vào)", "note_vi": "Mẫu 3: «Tähän sattuu» = chỗ này đau. Dùng kèm chỉ tay." },
+        { "vi": "sốt", "note_vi": "«Mulla on kuumetta» — luôn dùng cách phân từ với kuume." },
+        { "vi": "sốt (cách phân từ)" },
+        { "vi": "ho" },
+        { "vi": "sổ mũi" },
+        { "vi": "họng" },
+        { "vi": "đầu" },
+        { "vi": "đau đầu" },
+        { "vi": "bụng, dạ dày" },
+        { "vi": "đau bụng" },
+        { "vi": "buồn nôn" },
+        { "vi": "chóng mặt" },
+        { "vi": "mệt mỏi, kiệt sức" },
+        { "vi": "khó thở", "note_vi": "Hãy nói rõ từ này nếu đúng. Nó lập tức nâng mức khẩn cấp." },
+        { "vi": "phát ban" },
+        { "vi": "sưng phù" },
+        { "vi": "tiêu chảy" },
+        { "vi": "táo bón" },
+        { "vi": "mất ngủ" },
+        { "vi": "bắt đầu", "note_vi": "«Millon se alko?» = nó bắt đầu khi nào? Bạn sẽ được hỏi." },
+        { "vi": "trở nặng hơn" },
+        { "vi": "làm dịu, đỡ hơn" },
+        { "vi": "liên tục" },
+        { "vi": "từng lúc, không liên tục" },
+        { "vi": "suốt cả ngày, liên tục" },
+        { "vi": "vào buổi sáng" }
+      ],
+      "phrases": [
+        { "vi": "Tôi bị sốt.", "when_to_use_vi": "Luôn dùng cách phân từ: kuumetta, yskää, nuhaa. «Mulla on» + cách phân từ." },
+        { "vi": "Họng tôi đau lắm.", "when_to_use_vi": "Mẫu 1: bộ phận + on + kipeä. Dùng được cho kurkku, korva, polvi." },
+        { "vi": "Tôi nhức đầu.", "when_to_use_vi": "Mẫu 2: bộ phận ở cách phân từ + särkee. Vatsaa särkee, hampaita särkee." },
+        { "vi": "Chỗ này đau.", "when_to_use_vi": "Mẫu 3, kèm chỉ tay. Hữu dụng nhất trong ba mẫu." },
+        { "vi": "Chỗ này có đau không?", "when_to_use_vi": "Bác sĩ sẽ hỏi câu này trong lúc ấn. Trả lời «joo» hoặc «ei»." },
+        { "vi": "Nó bắt đầu từ ba ngày trước.", "when_to_use_vi": "Thời gian kéo dài là thứ thứ hai mọi bác sĩ hỏi. Hãy chuẩn bị sẵn con số." },
+        { "vi": "Từ hôm qua nó nặng hơn.", "when_to_use_vi": "Chiều hướng quan trọng hơn mức độ. Hãy nói nếu nó đang nặng lên." },
+        { "vi": "Nó đau liên tục.", "when_to_use_vi": "So với «ajoittain» (từng lúc). Họ sẽ hỏi là cái nào." },
+        { "vi": "Tôi bị buồn nôn và chóng mặt.", "when_to_use_vi": "Cả hai đều ở cách phân từ. Liệt kê triệu chứng dùng mẫu này xuyên suốt." },
+        { "vi": "Tôi không ngủ được.", "when_to_use_vi": "Bối cảnh liên quan mà bác sĩ thấy hữu ích." },
+        { "vi": "Thang từ một đến mười thì khoảng bảy.", "when_to_use_vi": "Bạn sẽ được yêu cầu chấm điểm cơn đau. Hãy chuẩn bị sẵn một con số." },
+        { "vi": "Để tôi chỉ chỗ.", "when_to_use_vi": "Rồi chỉ. Hoàn toàn chấp nhận được và được hiểu ngay lập tức." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mô tả triệu chứng",
+          "setting_vi": "Phòng khám. Bác sĩ đi theo một trình tự chuẩn.",
+          "note_vi": "Hãy để ý ba mẫu nói về đau xuất hiện: on kipeä, särkee, sattuu.",
+          "lines": [
+            { "vi": "Chào anh. Nào, vấn đề là gì ạ?" },
+            { "vi": "Chào bác sĩ. Tôi sốt ba ngày rồi, và họng rất đau." },
+            { "vi": "Sốt cao bao nhiêu ạ?" },
+            { "vi": "Cao nhất là 38,9." },
+            { "vi": "Vâng. Có nhức đầu không?" },
+            { "vi": "Có, tôi nhức đầu liên tục." },
+            { "vi": "Có ho hay khó thở không?" },
+            { "vi": "Ho một chút. Không khó thở." },
+            { "vi": "Tốt. Để xem họng nào. Anh há miệng… Chỗ này có đau không?" },
+            { "vi": "Có, chỗ đó đau lắm." },
+            { "vi": "Amidan bị viêm rồi. Mình làm xét nghiệm nhanh nhé." },
+            { "vi": "Vâng. Xét nghiệm đó cho biết gì ạ?" },
+            { "vi": "Xem có phải liên cầu khuẩn không. Nếu đúng thì tôi kê kháng sinh." }
+          ]
+        },
+        {
+          "title_vi": "Chỉ tay thay vì giải thích",
+          "setting_vi": "Một vấn đề khác, và từ vựng mà Duc không có.",
+          "note_vi": "Anh ấy không biết từ đó. Anh chỉ tay và mô tả cảm giác thay vào đó.",
+          "lines": [
+            { "vi": "Anh bị làm sao ạ?" },
+            { "vi": "Tôi đau ở chỗ này. Để tôi chỉ chỗ." },
+            { "vi": "À, sườn phải. Tôi ấn có đau không?" },
+            { "vi": "Có! Đau lắm." },
+            { "vi": "Nó bắt đầu khi nào?" },
+            { "vi": "Tối hôm qua. Và nó nặng hơn rồi." },
+            { "vi": "Thang từ một đến mười?" },
+            { "vi": "Khoảng bảy. Tám khi tôi cử động." },
+            { "vi": "Có sốt hay buồn nôn không?" },
+            { "vi": "Hơi buồn nôn. Không sốt." },
+            { "vi": "Vâng. Mình làm xét nghiệm máu rồi xem sao." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Mô tả bạn bị gì",
+          "scenario_vi": "Nêu triệu chứng, thời gian kéo dài, chiều hướng, và điểm số cơn đau.",
+          "your_role_vi": "Bạn, trong phòng khám",
+          "partner_role_vi": "Bác sĩ",
+          "turns": [
+            { "vi": "Chào anh. Vấn đề là gì ạ?" },
+            { "vi": "Tôi sốt ba ngày rồi, và họng rất đau.", "hint_vi": "Triệu chứng, thời gian, triệu chứng thứ hai. Một câu." },
+            { "vi": "Sốt cao bao nhiêu?" },
+            { "vi": "Cao nhất là 38,9.", "hint_vi": "Đưa con số thật — họ muốn biết chỉ số." },
+            { "vi": "Có nhức đầu không?" },
+            { "vi": "Có, tôi nhức đầu liên tục.", "hint_vi": "Mẫu särkee, cộng với liên tục hay từng lúc." },
+            { "vi": "Triệu chứng có nặng lên không?" },
+            { "vi": "Có, từ hôm qua nó nặng hơn.", "hint_vi": "Chiều hướng quan trọng hơn mức độ." },
+            { "vi": "Thang từ một đến mười?" },
+            { "vi": "Khoảng bảy.", "hint_vi": "Chuẩn bị sẵn một con số. Bao giờ bạn cũng sẽ bị hỏi." }
+          ]
+        }
+      ]
+    }
+  }
+}

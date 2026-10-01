@@ -1,0 +1,196 @@
+{
+  "lessons": {
+    "weekend-and-holiday-plans": {
+      "lesson": {
+        "title_vi": "Kế hoạch cuối tuần và ngày nghỉ",
+        "subtitle_vi": "Nhà gỗ, du lịch, về thăm gia đình",
+        "warmup_situation_vi": "Hôm nay là thứ Tư. Ai đó hỏi cuối tuần bạn làm gì, và bên dưới câu hỏi ấy có một câu hỏi ngầm rằng bạn có đi nhà gỗ, có về thăm gia đình, hay ở nhà.",
+        "warmup_question_vi": "Vì sao chữ «mökki» trả lời được nhiều câu hỏi cùng lúc đến thế?",
+        "rescue_vi": "Chưa có kế hoạch gì. Bạn có ý tưởng gì không?",
+        "rescue_note_vi": "Biến một câu trả lời trống rỗng thành một lời mời. Không có kế hoạch là chuyện hoàn toàn bình thường ở Phần Lan và chẳng bao giờ phải xin lỗi — nhưng đẩy câu hỏi lại giúp cuộc trò chuyện tiếp tục thay vì kết thúc."
+      },
+      "vocab": [
+        { "vi": "nhà gỗ nghỉ hè", "note_vi": "Trung tâm của văn hoá Phần Lan. Nói «me mennään mökille» là giải thích trọn một cuối tuần, không cần hỏi thêm." },
+        { "vi": "đi đến nhà gỗ" }, { "vi": "nhà gỗ mùa hè" }, { "vi": "phòng xông hơi sauna" },
+        { "vi": "hồ" }, { "vi": "cầu tàu, bến gỗ" }, { "vi": "bơi" }, { "vi": "nướng đồ ngoài trời" },
+        { "vi": "đi hái quả rừng", "note_vi": "Một hoạt động cuối tuần thật sự, không phải chuyện xưa cũ. Ai cũng làm." },
+        { "vi": "đi hái nấm" }, { "vi": "đi bộ đường dài" }, { "vi": "vườn quốc gia" },
+        { "vi": "chuyến đi", "note_vi": "Từ thân mật cho mọi chuyến đi, gần hay xa." },
+        { "vi": "hành trình, chuyến đi" }, { "vi": "chuyến du lịch nghỉ dưỡng" },
+        { "vi": "bay" }, { "vi": "đặt (vé, chỗ)" }, { "vi": "bố mẹ vợ/chồng" }, { "vi": "họ hàng" },
+        { "vi": "đi thăm nhà người khác" },
+        { "vi": "ghé thăm", "note_vi": "«Me käydään mummolassa» = nhà mình về thăm bà." },
+        { "vi": "nhà bà ngoại/bà nội", "note_vi": "Một từ chứa rất nhiều ấm áp." },
+        { "vi": "lễ Hạ chí", "note_vi": "Cuối tuần lớn nhất trong năm. Mọi thứ đóng cửa và ai cũng rời thành phố." },
+        { "vi": "Giáng sinh" }, { "vi": "lễ Phục sinh" }, { "vi": "ngày nghỉ" }, { "vi": "ngày lễ công" },
+        { "vi": "thư giãn" }, { "vi": "thong thả, nghỉ ngơi" },
+        { "vi": "ở nhà tận hưởng", "note_vi": "Một động từ thật sự để chỉ việc cố ý ở nhà. Ở đây đó là điều tích cực." }
+      ],
+      "phrases": [
+        { "vi": "Cuối tuần nhà bạn làm gì?", "when_to_use_vi": "Được hỏi từ thứ Tư trở đi, với tất cả mọi người." },
+        { "vi": "Nhà mình đi nhà gỗ.", "when_to_use_vi": "Một câu trả lời trọn vẹn. Không ai hỏi bạn sẽ làm gì ở đó." },
+        { "vi": "Chưa có kế hoạch gì.", "when_to_use_vi": "Hoàn toàn bình thường. Đừng bao giờ xin lỗi vì điều đó." },
+        { "vi": "Nhà mình cứ thong thả thôi.", "when_to_use_vi": "Nghỉ ngơi có chủ ý là một kế hoạch hợp lệ và được tôn trọng như vậy." },
+        { "vi": "Nhà mình về bên bố mẹ chồng/vợ.", "when_to_use_vi": "Giải thích trọn một cuối tuần, đôi khi kèm một chút ngữ điệu." },
+        { "vi": "Nhà mình đi từ tối thứ Sáu.", "when_to_use_vi": "Giờ khởi hành đi nhà gỗ chuẩn. Đường ra khỏi Helsinki tắc kinh khủng." },
+        { "vi": "Các bạn đi cùng không?", "when_to_use_vi": "Một lời mời. Ngắn gọn, và được hiểu đúng nghĩa đen." },
+        { "vi": "Lễ Hạ chí nhà mình ở nhà gỗ nhỉ?", "when_to_use_vi": "Hỏi sớm. Kế hoạch juhannus được chốt trước hàng tháng." },
+        { "vi": "Tôi đặt vé máy bay rồi.", "when_to_use_vi": "Các cặp đôi Phần Lan đặt sớm và bàn chuyện đó thẳng thắn." },
+        { "vi": "Nhà mình chỉ ở nhà thôi.", "when_to_use_vi": "«Kotoilla» ở đây là một động từ tích cực. Nói ra mà không cần ngượng." },
+        { "vi": "Nhà bạn có dự định gì hay ho không?", "when_to_use_vi": "Ấm hơn bản thông thường. Mở ra một cuộc trò chuyện thật." },
+        { "vi": "Nghe tuyệt quá!", "when_to_use_vi": "Phản ứng của bạn với kế hoạch của bất cứ ai. Chân thành và dễ nói." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Lên kế hoạch cuối tuần ở nhà gỗ",
+          "setting_vi": "Tối thứ Tư. Hai người và một cuốn lịch.",
+          "note_vi": "Để ý khi đã nói «mökki» rồi thì còn rất ít thứ cần giải thích.",
+          "lines": [
+            { "vi": "Này, cuối tuần này mình đi nhà gỗ nhé?" },
+            { "vi": "Ừ, sẵn lòng. Mình đi lúc nào?" },
+            { "vi": "Tối thứ Sáu, ngay khi bạn xong việc." },
+            { "vi": "Được. Tôi xong lúc bốn giờ. Trên đó có đồ ăn không?" },
+            { "vi": "Không có. Mình ghé cửa hàng trên đường." },
+            { "vi": "Vâng. Thứ Bảy mình nướng đồ nhé?" },
+            { "vi": "Tất nhiên rồi. Và sauna cả hai tối." },
+            { "vi": "Đương nhiên. Hồ đã đủ ấm chưa?" },
+            { "vi": "Chưa. Nhưng đằng nào bạn cũng nhảy xuống." },
+            { "vi": "Haha, ừ đúng. Bố mẹ bạn có lên không?" },
+            { "vi": "Lần này thì không. Lễ Hạ chí ông bà mới lên." },
+            { "vi": "Tốt. Vậy là một cuối tuần yên tĩnh." }
+          ]
+        },
+        {
+          "title_vi": "Không có kế hoạch, mà thế cũng ổn",
+          "setting_vi": "Bếp văn phòng, thứ Năm.",
+          "note_vi": "Không có kế hoạch gì ở đây không phải là thất bại. «Kotoilla» là một từ thật và tích cực.",
+          "lines": [
+            { "vi": "Cuối tuần nhà cậu làm gì?" },
+            { "vi": "Chưa có kế hoạch gì. Chắc nhà tôi chỉ ở nhà thôi." },
+            { "vi": "Thế cũng tốt mà. Nhà tôi dạo này bận quá." },
+            { "vi": "Ừ, giống thế. Còn nhà cậu?" },
+            { "vi": "Nhà tôi về bên mẹ vợ. Không phải ý tưởng của tôi đâu." },
+            { "vi": "Haha. Đường có xa không?" },
+            { "vi": "Ba tiếng. Đi với bọn trẻ thì bốn." },
+            { "vi": "Ôi tội. Thôi, dù sao cũng chúc cuối tuần vui vẻ!" },
+            { "vi": "Cảm ơn, cậu cũng vậy. Tận hưởng việc ở nhà nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Lên kế hoạch một cuối tuần đi xa",
+          "scenario_vi": "Thống nhất chuyến đi, giờ khởi hành, đồ ăn và chuyện sauna.",
+          "your_role_vi": "Bạn, ngồi ở bàn bếp",
+          "partner_role_vi": "Anni, với cuốn lịch",
+          "turns": [
+            { "vi": "Cuối tuần này mình đi nhà gỗ nhé?" },
+            { "vi": "Ừ, sẵn lòng. Mình đi lúc nào?", "hint_vi": "Đồng ý, rồi chốt ngay chi tiết thực tế." },
+            { "vi": "Tối thứ Sáu, khi bạn xong việc." },
+            { "vi": "Tôi xong lúc bốn giờ. Trên đó có đồ ăn không?", "hint_vi": "Nêu giờ của bạn, rồi hỏi câu thực tế tiếp theo." },
+            { "vi": "Không có. Mình ghé cửa hàng trên đường." },
+            { "vi": "Vâng. Thứ Bảy mình nướng đồ nhé?", "hint_vi": "Dùng thể bị động mennään/grillataan để đề xuất." },
+            { "vi": "Tất nhiên rồi. Và sauna cả hai tối." },
+            { "vi": "Đương nhiên. Bố mẹ bạn có lên không?", "hint_vi": "«Tietty» — đương nhiên — là câu trả lời đúng duy nhất về chuyện sauna." }
+          ]
+        }
+      ]
+    },
+    "disagreeing-and-apologising": {
+      "lesson": {
+        "title_vi": "Bất đồng một cách tử tế và xin lỗi",
+        "subtitle_vi": "Sori, en tarkottanu sitä niin.",
+        "warmup_situation_vi": "Bạn nói một câu và nó rơi xuống rất tệ. Bạn không có ý như cách nó bật ra — một phần vì bạn đang quờ quạng tìm chữ và vớ nhầm.",
+        "warmup_question_vi": "Làm sao xin lỗi cho một tai nạn ngôn ngữ mà không biến nó thành một cuộc trò chuyện to hơn?",
+        "rescue_vi": "Xin lỗi, câu đó tôi nói sai rồi. Ý tôi là…",
+        "rescue_note_vi": "«Se tuli väärin sanottua» đặt lỗi lên câu nói, không lên ai trong hai người — mà đó chính xác là điều đúng khi bạn đang vận hành bằng ngôn ngữ thứ hai. Rồi ngay lập tức cung cấp điều bạn thật sự muốn nói. Đừng để lại khoảng trống."
+      },
+      "vocab": [
+        { "vi": "xin lỗi (thân mật)", "note_vi": "Lời xin lỗi hằng ngày. «Anteeksi» nặng hơn và trang trọng hơn." },
+        { "vi": "xin lỗi, xin thứ lỗi", "note_vi": "Cho những lời xin lỗi thật sự. Dùng cho chuyện nhỏ nghe như làm quá." },
+        { "vi": "xin lỗi (cụm động từ)" }, { "vi": "có ý là" }, { "vi": "có ý là (khẩu ngữ)" },
+        { "vi": "sự hiểu lầm" }, { "vi": "sự bất đồng" }, { "vi": "cãi nhau" }, { "vi": "cuộc cãi vã" },
+        { "vi": "nổi giận" }, { "vi": "bị tổn thương, phật ý" },
+        { "vi": "lấy làm tiếc, ân hận", "note_vi": "«Mä oon pahoillani» = tôi rất tiếc. Chân thành và nặng hơn «sori»." },
+        { "vi": "lỗi, nguyên nhân", "note_vi": "«Se oli mun syy» = đó là lỗi của tôi." },
+        { "vi": "thừa nhận" },
+        { "vi": "khác ý kiến", "note_vi": "«Mä oon eri mieltä» = tôi không đồng ý. Trung tính, không gây hấn." },
+        { "vi": "cùng ý kiến" }, { "vi": "góc nhìn" }, { "vi": "hiểu sai" }, { "vi": "giải thích" },
+        { "vi": "bình tĩnh lại" }, { "vi": "nói cho ra nhẽ" },
+        { "vi": "làm lành, dàn xếp", "note_vi": "Cùng động từ với «thoả thuận». «Sovitaan» có thể nghĩa là mình làm lành nhé." },
+        { "vi": "cho qua đi" },
+        { "vi": "không sao đâu", "note_vi": "Cách chấp nhận một lời xin lỗi tiêu chuẩn." },
+        { "vi": "lỗi của tôi" }, { "vi": "cả hai" },
+        { "vi": "mệt", "note_vi": "«Mä oon vaan väsyny» giải thích được rất nhiều và thường là sự thật." }
+      ],
+      "phrases": [
+        { "vi": "Xin lỗi, tôi không có ý như thế.", "when_to_use_vi": "Câu sửa chữa cốt lõi. Ngắn và tức thì." },
+        { "vi": "Câu đó tôi nói sai rồi.", "when_to_use_vi": "Đổ lỗi cho câu nói, không cho con người. Lý tưởng khi dùng ngôn ngữ thứ hai." },
+        { "vi": "Tôi rất tiếc.", "when_to_use_vi": "Cho chuyện thật sự. Nặng hơn «sori» và được xem là nghiêm túc." },
+        { "vi": "Đó là lỗi của tôi.", "when_to_use_vi": "Người Phần Lan nhận lỗi thẳng thắn. Nó khép chuyện nhanh hơn là tự biện hộ." },
+        { "vi": "Tôi không đồng ý.", "when_to_use_vi": "Hoàn toàn trung tính trong tiếng Phần Lan. Không thô, không gây hấn." },
+        { "vi": "Tôi nhìn chuyện này hơi khác.", "when_to_use_vi": "Bản nhẹ nhàng hơn. Hữu ích khi chủ đề nhạy cảm." },
+        { "vi": "Mình nói cho ra nhẽ được không?", "when_to_use_vi": "Đề xuất một cuộc trò chuyện thay vì tiếp tục cãi nhau." },
+        { "vi": "Tôi chỉ mệt thôi, xin lỗi.", "when_to_use_vi": "Thường là thật, và được chấp nhận mà không bàn thêm." },
+        { "vi": "Mai mình nói chuyện này nhé?", "when_to_use_vi": "Hoãn lại là chính đáng. Không ai coi đó là né tránh." },
+        { "vi": "Không sao đâu.", "when_to_use_vi": "Cách bạn chấp nhận một lời xin lỗi. Ngắn, và nó thật sự khép lại chuyện." },
+        { "vi": "Cả hai đứa mình đều hơi mệt.", "when_to_use_vi": "Chia sẻ lỗi mà không quy lỗi. Rất hiệu quả." },
+        { "vi": "Làm lành nhé. Mình không nói chuyện này nữa.", "when_to_use_vi": "Cách khép lại kiểu Phần Lan: rõ ràng, rồi thật sự bỏ qua." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một câu nói rơi xuống sai chỗ",
+          "setting_vi": "Trong bếp, sau một đoạn trao đổi gay gắt về chuyện chẳng đâu vào đâu.",
+          "note_vi": "Duc sửa chữa ngôn ngữ, không chỉ sửa cảm xúc. Đó mới là nước đi.",
+          "lines": [
+            { "vi": "Câu đó nghe khá phũ đấy." },
+            { "vi": "Xin lỗi. Câu đó tôi nói sai rồi." },
+            { "vi": "Ý bạn là gì?" },
+            { "vi": "Ý tôi là tôi mệt — không phải là bạn làm quá ít." },
+            { "vi": "À. Vâng, nghe ra thì hoàn toàn khác." },
+            { "vi": "Ừ, tôi nhận ra. Xin lỗi." },
+            { "vi": "Không sao đâu. Hôm nay tôi cũng hơi căng." },
+            { "vi": "Cả hai đứa mình đều mệt. Mai mình nói chuyện này nhé?" },
+            { "vi": "Ừ, mai nói. Giờ tôi đi ngủ đây." },
+            { "vi": "Chúc ngủ ngon. Và xin lỗi lần nữa." },
+            { "vi": "Không cần nữa đâu. Xong rồi." }
+          ]
+        },
+        {
+          "title_vi": "Bất đồng về một chuyện thật sự",
+          "setting_vi": "Một quyết định về tiền bạc. Cả hai đều giữ quan điểm của mình.",
+          "note_vi": "Bất đồng kiểu Phần Lan thẳng thắn và không cảm tính. «Mä oon eri mieltä» không phải là leo thang.",
+          "lines": [
+            { "vi": "Tôi nghĩ nhà mình không cần xe mới." },
+            { "vi": "Tôi không đồng ý. Cái xe cũ đó hỏng suốt." },
+            { "vi": "Ừ, nhưng sửa vẫn rẻ hơn mua mới." },
+            { "vi": "Thế à? Tôi đã tính rồi, năm nay nó ngốn hai nghìn." },
+            { "vi": "Thật á? Tôi không biết đấy." },
+            { "vi": "Tôi cho bạn xem con số. Có thể bạn vẫn không đồng ý." },
+            { "vi": "Để xem đã. Nhưng hôm nay tôi không muốn quyết." },
+            { "vi": "Không cần. Tuần sau mình nói lại." },
+            { "vi": "Tốt. Cảm ơn bạn đã ngồi tính." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Sửa lại điều bạn nói vụng",
+          "scenario_vi": "Xin lỗi vì cách diễn đạt, đưa ra điều bạn thật sự muốn nói, và khép lại chuyện.",
+          "your_role_vi": "Bạn, vừa nói sai",
+          "partner_role_vi": "Anni, người nghe sai",
+          "turns": [
+            { "vi": "Câu đó nghe khá phũ đấy." },
+            { "vi": "Xin lỗi. Câu đó tôi nói sai rồi.", "hint_vi": "Đổ lỗi cho câu nói, không cho bạn hay họ." },
+            { "vi": "Ý bạn là gì?" },
+            { "vi": "Ý tôi là tôi mệt — không phải là bạn làm quá ít.", "hint_vi": "Nói cả điều bạn có ý VÀ điều bạn không có ý. Cả hai vế." },
+            { "vi": "À. Nghe ra thì hoàn toàn khác." },
+            { "vi": "Ừ, tôi nhận ra. Xin lỗi.", "hint_vi": "Giờ mới đến lời xin lỗi nặng hơn — «anteeks» chứ không phải «sori»." },
+            { "vi": "Không sao đâu. Tôi cũng hơi căng." },
+            { "vi": "Cả hai đứa mình đều mệt. Mai mình nói chuyện này nhé?", "hint_vi": "Chia sẻ trạng thái, rồi đề xuất một thời điểm tốt hơn. Hoãn lại là chính đáng." }
+          ]
+        }
+      ]
+    }
+  }
+}

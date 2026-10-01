@@ -1,0 +1,303 @@
+{
+  "lessons": {
+    "toasts-and-celebrations": {
+      "lesson": {
+        "title_vi": "Nâng ly, sinh nhật và lễ mừng",
+        "subtitle_vi": "Kippis! Paljon onnea!",
+        "warmup_situation_vi": "Ai đó đứng dậy và gõ nhẹ vào ly. Mọi người im lặng và quay lại. Ba mươi giây nữa là đến lượt bạn phải đáp lại điều gì đó.",
+        "warmup_question_vi": "Bạn cần bốn từ nào — và khi nào thì mọi người thật sự uống?",
+        "rescue_vi": "Cạn ly! Và chúc mừng nhé!",
+        "rescue_note_vi": "Hai cụm từ bao phủ gần như mọi dịp lễ mừng của người Phần Lan. Nói chúng với ly giơ lên và có giao tiếp bằng mắt, là bạn đã tham gia đúng nghi thức, bất kể bài phát biểu vừa rồi nói về cái gì."
+      },
+      "vocab": [
+        { "vi": "cạn ly, chúc sức khoẻ", "note_vi": "Lời nâng ly hằng ngày. Hãy nhìn vào mắt nhau — người Phần Lan có làm vậy, ngắn thôi." },
+        { "vi": "cạn ly (gốc Thuỵ Điển)", "note_vi": "Cũng phổ biến, nhất là ở vùng ven biển và vùng nói tiếng Thuỵ Điển." },
+        { "vi": "một lời nâng ly", "literal_vi": "cái ly chân cao", "note_vi": "«Kohotetaan malja» = ta cùng nâng ly. Bản trang trọng." },
+        { "vi": "nâng lên" }, { "vi": "bài phát biểu" }, { "vi": "phát biểu" },
+        { "vi": "chúc mừng (động từ)" }, { "vi": "lời chúc mừng" },
+        { "vi": "chúc mừng, chúc mừng sinh nhật", "literal_vi": "nhiều may mắn", "note_vi": "Dùng cho sinh nhật, đám cưới, việc làm mới, em bé. Cực kỳ đa năng." },
+        { "vi": "ngày sinh nhật" },
+        { "vi": "tiệc sinh nhật", "note_vi": "Từ mà mọi người thật sự dùng." },
+        { "vi": "nhân vật chính của ngày", "literal_vi": "người hùng của ngày", "note_vi": "Người có sinh nhật. Một từ rất đáng yêu." },
+        { "vi": "món quà" }, { "vi": "tấm thiệp" }, { "vi": "ăn mừng" },
+        { "vi": "tiệc tốt nghiệp" }, { "vi": "đám cưới" }, { "vi": "lễ đặt tên, lễ rửa tội" },
+        { "vi": "tiệc tân gia" }, { "vi": "năm mới" }, { "vi": "chúc mừng năm mới" }, { "vi": "chúc Giáng sinh vui vẻ" },
+        { "vi": "hát", "note_vi": "«Paljon onnea vaan» là bài hát sinh nhật. Hãy học câu đầu." },
+        { "vi": "giơ ly lên" },
+        { "vi": "giao tiếp bằng mắt", "note_vi": "Nhìn nhau thoáng qua khi nâng ly là điều được mong đợi. Rồi nhìn đi chỗ khác." },
+        { "vi": "chúc sức khoẻ" }, { "vi": "bài phát biểu mừng" }, { "vi": "bài phát biểu cảm ơn" }
+      ],
+      "phrases": [
+        { "vi": "Cạn ly!", "when_to_use_vi": "Giơ ly, nhìn nhau thoáng qua, nhấp một ngụm. Toàn bộ nghi thức là vậy." },
+        { "vi": "Chúc mừng nhé!", "when_to_use_vi": "Dùng cho sinh nhật, đám cưới, việc làm mới, em bé. Hãy học câu này trước tiên." },
+        { "vi": "Chúc mừng nhân vật chính của ngày hôm nay!", "when_to_use_vi": "Một lời nâng ly nho nhỏ của riêng bạn. Dễ nói và được đón nhận tốt." },
+        { "vi": "Chúng ta cùng nâng ly chúc Anni!", "when_to_use_vi": "Cấu trúc nâng ly trang trọng. Tên người cộng đuôi -lle." },
+        { "vi": "Mình muốn nói đôi lời.", "when_to_use_vi": "Cách bắt đầu một bài phát biểu ngắn. Không ai mong quá một phút." },
+        { "vi": "Cảm ơn đã cho chúng mình có mặt ở đây.", "when_to_use_vi": "Bản thân nó đã là một bài phát biểu ngắn trọn vẹn. Ấm áp và đủ." },
+        { "vi": "Chúc mừng công việc mới nhé!", "when_to_use_vi": "«Onnea» + đuôi -sta cho thứ được chúc mừng." },
+        { "vi": "Chúc mừng cả hai bạn!", "when_to_use_vi": "Đám cưới và các cặp vừa có con." },
+        { "vi": "Chúc Giáng sinh vui vẻ và năm mới hạnh phúc!", "when_to_use_vi": "Tháng Mười hai, với tất cả mọi người, kể cả bác tài xe buýt." },
+        { "vi": "Cái này tặng bạn.", "when_to_use_vi": "Lúc trao quà. Ngắn thôi — người Phần Lan không làm to chuyện." },
+        { "vi": "Bày vẽ làm gì!", "when_to_use_vi": "Câu bạn nói khi nhận quà. Nói ấm áp, ý nhẹ nhàng." },
+        { "vi": "Chúc sức khoẻ!", "when_to_use_vi": "Cũng là câu nói khi ai đó hắt hơi. Làm hai nhiệm vụ." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Một lời nâng ly sinh nhật",
+          "setting_vi": "Ai đó gõ ly. Duc có ba mươi giây để chuẩn bị.",
+          "note_vi": "Anh không cần một bài phát biểu. Hai cụm từ và một ly giơ lên đã là tham gia trọn vẹn.",
+          "lines": [
+            { "vi": "Chào mọi người! Mình muốn nói đôi lời." },
+            { "vi": "Anni là bạn mình hai mươi năm rồi. Cậu ấy là người tuyệt nhất mà mình biết." },
+            { "vi": "Chúng ta cùng nâng ly chúc Anni! Chúc mừng sinh nhật!" },
+            { "vi": "Cạn ly! Chúc mừng sinh nhật!" },
+            { "vi": "Cạn ly! Chúc mừng sinh nhật, Anni!" },
+            { "vi": "Cảm ơn tất cả mọi người! Và cảm ơn các bạn đã đến." },
+            { "vi": "Cảm ơn đã cho bọn mình có mặt ở đây. Cái này tặng bạn." },
+            { "vi": "Ôi, bày vẽ làm gì!" },
+            { "vi": "Chẳng có gì đặc biệt đâu. Hy vọng bạn thích." },
+            { "vi": "Chắc chắn rồi. Cảm ơn bạn nhiều lắm!" }
+          ]
+        },
+        {
+          "title_vi": "Chúc mừng, trong bốn tình huống",
+          "setting_vi": "Tin khác nhau, cùng một cấu trúc. Bốn đoạn trao đổi ngắn.",
+          "note_vi": "«Onnea» cộng với thứ đó ở đuôi -sta bao phủ gần như tất cả.",
+          "lines": [
+            { "vi": "Này, mình nhận được công việc mới rồi!" },
+            { "vi": "Không thể nào! Chúc mừng công việc mới nhé!" },
+            { "vi": "Bọn mình cưới vào mùa hè." },
+            { "vi": "Chà! Chúc mừng cả hai bạn!" },
+            { "vi": "Nhà mình sinh em bé vào tháng Mười một." },
+            { "vi": "Tin vui quá. Chúc mừng nhé!" },
+            { "vi": "Hôm qua mình tốt nghiệp." },
+            { "vi": "Chúc mừng! Bạn đã nỗ lực rất nhiều cho việc đó." },
+            { "vi": "Cảm ơn. Cạn ly mừng chuyện đó nào!" },
+            { "vi": "Cạn ly!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Nâng ly và chúc mừng",
+          "scenario_vi": "Tham gia nâng ly, tặng quà, và nói hai câu ấm áp.",
+          "your_role_vi": "Bạn, ở một bữa tiệc sinh nhật",
+          "partner_role_vi": "Anni, người có sinh nhật",
+          "turns": [
+            { "vi": "Chúng ta cùng nâng ly chúc Anni! Chúc mừng sinh nhật!" },
+            { "vi": "Cạn ly! Chúc mừng sinh nhật, Anni!", "hint_vi": "Giơ ly, nhìn nhau thoáng qua. Hai cụm từ là tham gia trọn vẹn." },
+            { "vi": "Cảm ơn tất cả mọi người!" },
+            { "vi": "Cảm ơn đã cho bọn mình có mặt ở đây.", "hint_vi": "Một bài phát biểu ngắn trọn vẹn trong một câu." },
+            { "vi": "Vui vì các bạn đã đến!" },
+            { "vi": "Cái này tặng bạn.", "hint_vi": "Lúc trao quà. Ngắn thôi — người Phần Lan không làm to chuyện." },
+            { "vi": "Ôi, bày vẽ làm gì!" },
+            { "vi": "Chẳng có gì đặc biệt đâu. Hy vọng bạn thích.", "hint_vi": "Hạ thấp món quà của chính mình mới là nước đi đúng ở đây." }
+          ]
+        }
+      ]
+    },
+    "sauna-talk": {
+      "lesson": {
+        "title_vi": "Chuyện trong phòng sauna",
+        "subtitle_vi": "Heitetäänks löylyä? Onks liian kuuma?",
+        "warmup_situation_vi": "Bạn đang ngồi trong sauna với bốn người bạn mới quen hai tiếng trước. Nhiệt độ 85 độ, chẳng ai mặc bao nhiêu, và chuyện đó hoàn toàn bình thường.",
+        "warmup_question_vi": "Trong đó bạn nói gì — và câu hỏi nào bạn không bao giờ nên ngại hỏi?",
+        "rescue_vi": "Mình đủ rồi, mình ra ngoài hạ nhiệt đây.",
+        "rescue_note_vi": "Rời phòng sauna bất cứ lúc nào bạn muốn là chuyện hoàn toàn bình thường và không ai bình luận gì. Không hề có cuộc thi sức bền nào cả, dù bạn có nghe gì đi nữa. Nói câu này, bước ra, và quay lại khi nào bạn thấy thích."
+      },
+      "vocab": [
+        { "vi": "phòng xông hơi sauna", "note_vi": "Từ tiếng Phần Lan duy nhất được cả thế giới dùng. Đọc là «SAU-na»." },
+        { "vi": "đi xông hơi", "note_vi": "Có hẳn một động từ riêng. «Mennään saunomaan» = mình đi xông hơi nào." },
+        { "vi": "hơi nước sauna", "note_vi": "Làn hơi bốc lên khi nước chạm đá nóng. Không có từ tương đương trong tiếng Việt hay tiếng Anh." },
+        { "vi": "dội nước lên đá nóng", "note_vi": "Hành động trung tâm của sauna. Hãy hỏi trước khi làm." },
+        { "vi": "lò sauna" }, { "vi": "những viên đá" }, { "vi": "cái gáo" },
+        { "vi": "ghế bậc trong sauna", "note_vi": "Càng cao càng nóng. Nếu mới thì ngồi bậc thấp." },
+        { "vi": "tấm lót ngồi", "note_vi": "Hãy ngồi lên một tấm. Luôn luôn, ở sauna công cộng." },
+        { "vi": "khăn tắm" },
+        { "vi": "hạ nhiệt, ra ngoài cho mát", "note_vi": "Bước ra ngoài giữa các lượt. Một phần thiết yếu của toàn bộ trải nghiệm." },
+        { "vi": "việc ra ngoài hạ nhiệt" },
+        { "vi": "hố băng", "note_vi": "Để bơi mùa đông. Tuỳ chọn. Thật sự là tuỳ chọn." },
+        { "vi": "bơi" },
+        { "vi": "bó cành bạch dương", "note_vi": "Vihta ở miền tây, vasta ở miền đông. Cùng một thứ, và là một cuộc tranh cãi vùng miền có thật." },
+        { "vi": "nóng" }, { "vi": "nóng hơn" }, { "vi": "nhiệt độ" },
+        { "vi": "độ (nhiệt độ)", "note_vi": "80–90 là bình thường. Trên 100 là khoe mẽ." },
+        { "vi": "đổ mồ hôi" }, { "vi": "thư giãn" },
+        { "vi": "đủ rồi", "note_vi": "«Mulle riittää» = với tôi thế là đủ. Câu rút lui của bạn." },
+        { "vi": "lượt, vòng", "note_vi": "«Toinen kierros» = lượt thứ hai. Hai hoặc ba lượt là bình thường." },
+        { "vi": "bia uống sau sauna", "note_vi": "Một định chế được công nhận. Ngày nay thường là loại không cồn." },
+        { "vi": "xúc xích", "note_vi": "Nướng sau khi xông hơi. Một phần của nghi thức." },
+        { "vi": "sauna chung nam nữ", "note_vi": "Đáng hỏi ở một bữa tiệc. Phong tục khác nhau tuỳ nhóm." },
+        { "vi": "đồ bơi", "note_vi": "Hãy hỏi xem nhóm làm thế nào. Không ai phiền vì câu hỏi đó." }
+      ],
+      "phrases": [
+        { "vi": "Mình dội nước lên đá nhé?", "when_to_use_vi": "Luôn hỏi trước khi làm. Ai cũng có ý kiến về độ nóng." },
+        { "vi": "Có nóng quá không?", "when_to_use_vi": "Được hỏi liên tục và trả lời thành thật. Nói có cũng chẳng sao." },
+        { "vi": "Mình dội thêm được không?", "when_to_use_vi": "Hỏi ý những người khác. Câu hỏi lịch sự trong sauna." },
+        { "vi": "Mình đủ rồi, mình ra ngoài hạ nhiệt.", "when_to_use_vi": "Rời đi lúc nào cũng được. Hoàn toàn bình thường." },
+        { "vi": "Hơi nước đẹp thật đấy.", "when_to_use_vi": "Lời khen đúng chuẩn trong sauna. Chủ nhà thật sự trân trọng." },
+        { "vi": "Trong này bao nhiêu độ vậy?", "when_to_use_vi": "Một chủ đề trò chuyện thật. Ai cũng sẽ có ý kiến." },
+        { "vi": "Bạn có xuống hố băng không?", "when_to_use_vi": "Thật sự là tuỳ chọn. «Ei kiitos» là một câu trả lời trọn vẹn." },
+        { "vi": "Thôi cảm ơn, mình chỉ đứng xem.", "when_to_use_vi": "Cho chuyện hố băng. Không ai ép bạn đâu." },
+        { "vi": "Đây là sauna chung nam nữ à?", "when_to_use_vi": "Hãy hỏi ở bữa tiệc. Phong tục khác nhau và hỏi là hoàn toàn ổn." },
+        { "vi": "Mặc đồ bơi hay không?", "when_to_use_vi": "Câu hỏi thực tế. Hãy hỏi, đừng đoán." },
+        { "vi": "Mình vào thêm một lượt nữa.", "when_to_use_vi": "Hai hoặc ba lượt là chuẩn." },
+        { "vi": "Giờ mà có bia sau sauna thì hợp quá.", "when_to_use_vi": "Sau lượt cuối. Một định chế được công nhận." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Trong phòng sauna",
+          "setting_vi": "85 độ, bốn người, ánh sáng mờ, và rất ít lời.",
+          "note_vi": "Để ý mọi thứ ngắn đến mức nào. Trò chuyện trong sauna nổi tiếng là thưa thớt và thế là ổn.",
+          "lines": [
+            { "vi": "Mình dội nước lên đá nhé?" },
+            { "vi": "Ừ, dội đi." },
+            { "vi": "…Đó." },
+            { "vi": "Aaa. Hơi nước đẹp thật đấy." },
+            { "vi": "Đúng thế. Trong này bao nhiêu độ vậy?" },
+            { "vi": "Tám mươi lăm." },
+            { "vi": "Cảm giác nóng hơn thế." },
+            { "vi": "Tại độ ẩm đấy." },
+            { "vi": "…", "note_vi": "Bốn mươi giây không gì cả. Hoàn toàn bình thường. Đừng lấp đầy nó." },
+            { "vi": "Dội thêm được không?" },
+            { "vi": "Mình đủ rồi, mình ra ngoài hạ nhiệt." },
+            { "vi": "Ừ, mình cũng ra ngay đây." }
+          ]
+        },
+        {
+          "title_vi": "Trước và sau",
+          "setting_vi": "Những câu hỏi thực tế, hỏi ở bên ngoài phòng sauna cho dễ.",
+          "note_vi": "Hãy hỏi những câu thực tế trước khi vào. Không ai phiền vì bất cứ câu nào.",
+          "lines": [
+            { "vi": "Này, đây là sauna chung nam nữ hay tách riêng?" },
+            { "vi": "Tách riêng. Nam trước, rồi đến nữ." },
+            { "vi": "Vâng. Mặc đồ bơi hay không?" },
+            { "vi": "Không mặc, nhưng nhớ mang khăn và tấm lót ngồi." },
+            { "vi": "Cảm ơn, may mà mình hỏi." },
+            { "vi": "Lúc nào cũng nên hỏi. Và hố băng ở đằng kia, nếu bạn dám." },
+            { "vi": "Thôi cảm ơn, mình chỉ đứng xem." },
+            { "vi": "Haha, không sao. Xúc xích đang nướng, lúc nào các bạn ra thì có." },
+            { "vi": "Giờ thì bạn nói đúng ngôn ngữ của mình rồi. Có cả bia sau sauna chứ?" },
+            { "vi": "Trong tủ lạnh. Có cả loại không cồn nữa." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Xử lý chuyện sauna cho đúng",
+          "scenario_vi": "Hỏi những câu thực tế, tham gia, và ra ngoài khi bạn muốn.",
+          "your_role_vi": "Bạn, được mời đi sauna",
+          "partner_role_vi": "Jussi và Anni",
+          "turns": [
+            { "vi": "Sauna nóng rồi đấy! Bạn vào không?" },
+            { "vi": "Có! Đây là sauna chung nam nữ hay tách riêng?", "hint_vi": "Hỏi câu thực tế trước khi vào. Không ai phiền đâu." },
+            { "vi": "Tách riêng. Nhớ mang khăn và tấm lót ngồi." },
+            { "vi": "Cảm ơn, may mà mình hỏi.", "hint_vi": "Ở đây hỏi bao giờ cũng tốt hơn đoán." },
+            { "vi": "Mình dội nước lên đá nhé?" },
+            { "vi": "Ừ, dội đi. Hơi nước đẹp thật đấy.", "hint_vi": "Lời khen đúng chuẩn trong sauna — chủ nhà sẽ vui." },
+            { "vi": "Dội thêm được không?" },
+            { "vi": "Mình đủ rồi, mình ra ngoài hạ nhiệt.", "hint_vi": "Ra ngoài lúc nào bạn muốn. Không hề có cuộc thi sức bền nào." },
+            { "vi": "Xúc xích đang nướng đấy. Và hố băng ở đằng kia!" },
+            { "vi": "Thôi cảm ơn, mình chỉ đứng xem. Nhưng xúc xích thì có!", "hint_vi": "Từ chối hố băng là chuyện hoàn toàn bình thường. Không ai ép." }
+          ]
+        }
+      ]
+    },
+    "leaving-well": {
+      "lesson": {
+        "title_vi": "Ra về cho đẹp",
+        "subtitle_vi": "Mun pitää lähtee. Kiitos illasta!",
+        "warmup_situation_vi": "23 giờ 15. Bạn muốn về. Ở một số nền văn hoá, việc ra về mất hai mươi phút và ba vòng chào tạm biệt. Bạn ngờ rằng ở đây không phải vậy.",
+        "warmup_question_vi": "Ra về khỏi một bữa tiệc Phần Lan thật sự nên mất bao lâu?",
+        "rescue_vi": "Mình phải về đây. Cảm ơn vì buổi tối nay!",
+        "rescue_note_vi": "Hai câu và bạn ra khỏi cửa. Việc chào tạm biệt kiểu Phần Lan thật sự rất ngắn: bạn thông báo, bạn cảm ơn chủ nhà, bạn đi. Nấn ná ở cửa mười lăm phút mới là hành vi lạ ở đây, chứ không phải việc về nhanh."
+      },
+      "vocab": [
+        { "vi": "rời đi" }, { "vi": "sự ra về" }, { "vi": "về nhà" },
+        { "vi": "muộn", "note_vi": "«Alkaa olla myöhä» = cũng muộn rồi. Câu mở đầu tiêu chuẩn cho việc ra về." },
+        { "vi": "mệt" },
+        { "vi": "sớm", "note_vi": "«Mulla on aikanen aamu» = mai tôi phải dậy sớm. Một lý do trọn vẹn." },
+        { "vi": "taxi" },
+        { "vi": "chuyến xe buýt cuối", "note_vi": "Một lý do ra về được chấp nhận phổ quát. Không ai tranh cãi với nó." },
+        { "vi": "tàu điện ngầm" }, { "vi": "tàu điện mặt đất" }, { "vi": "đi bộ" },
+        { "vi": "cho đi nhờ xe", "note_vi": "«Tarviitsä kyytiä?» = bạn có cần đi nhờ xe không?" },
+        { "vi": "lấy, đi lấy" }, { "vi": "áo khoác" }, { "vi": "cảm ơn (động từ)" },
+        { "vi": "cảm ơn vì buổi tối", "note_vi": "Câu chào ra về tiêu chuẩn. Lần nào cũng dùng." },
+        { "vi": "thật vui" }, { "vi": "một buổi tối tuyệt vời" }, { "vi": "hẹn gặp lại" },
+        { "vi": "giữ liên lạc nhé" }, { "vi": "nhắn tin cho mình nhé" },
+        { "vi": "tạm biệt" }, { "vi": "tạm biệt" }, { "vi": "chúc ngủ ngon" },
+        { "vi": "lái xe cẩn thận nhé", "note_vi": "Câu chủ nhà nói khi bạn ra về. Đáp lại bằng «kiitos»." },
+        { "vi": "đường về nhà" }, { "vi": "lần sau" },
+        { "vi": "tăng hai", "note_vi": "Cuộc vui tiếp tục ở chỗ khác. Bạn có thể được rủ. Từ chối cũng không sao." }
+      ],
+      "phrases": [
+        { "vi": "Cũng muộn rồi nhỉ.", "when_to_use_vi": "Tín hiệu mở đầu. Ai cũng hiểu điều gì sắp tới." },
+        { "vi": "Mình phải về đây.", "when_to_use_vi": "Thẳng thắn và trọn vẹn. Không cần biện minh." },
+        { "vi": "Mai mình phải dậy sớm.", "when_to_use_vi": "Một lý do trọn vẹn và không bao giờ bị hỏi lại." },
+        { "vi": "Mình phải kịp chuyến xe buýt cuối.", "when_to_use_vi": "Được chấp nhận phổ quát. Không ai tranh cãi với giao thông công cộng." },
+        { "vi": "Cảm ơn vì buổi tối nay!", "when_to_use_vi": "Nói với chủ nhà, ở cửa. Đừng bao giờ bỏ qua câu này." },
+        { "vi": "Buổi tối vui thật đấy.", "when_to_use_vi": "Thêm một câu ấm áp nữa. Thế là đủ." },
+        { "vi": "Cảm ơn bạn đã mời.", "when_to_use_vi": "Nhất là nếu bạn không quen nhiều người. Nó đáp xuống rất tốt." },
+        { "vi": "Rất vui được làm quen!", "when_to_use_vi": "Nói với những người mới quen, trên đường ra về." },
+        { "vi": "Mình giữ liên lạc nhé!", "when_to_use_vi": "Ở đây câu này thường là thật hơn bạn tưởng. Hãy theo sau bằng hành động." },
+        { "vi": "Lúc nào nhắn cho mình nhé.", "when_to_use_vi": "Một lời mời thật, không phải công thức xã giao. Họ nói thật lòng." },
+        { "vi": "Thôi cảm ơn, mình không đi tăng hai đâu.", "when_to_use_vi": "Từ chối là hoàn toàn ổn và không bao giờ bị hiểu lầm." },
+        { "vi": "Tạm biệt! Hẹn gặp lại!", "when_to_use_vi": "Lúc ra về. Rồi đi thật — đừng nấn ná ở cửa." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Ra về trong chín mươi giây",
+          "setting_vi": "23 giờ 15. Duc quyết định về và thực hiện gọn gàng.",
+          "note_vi": "Tín hiệu, lý do, cảm ơn, tạm biệt. Bốn nhịp và anh ra khỏi cửa.",
+          "lines": [
+            { "vi": "Này, cũng muộn rồi nhỉ. Mình phải về đây." },
+            { "vi": "Ơ về rồi à? Uống thêm một ly nữa đi!" },
+            { "vi": "Cảm ơn, nhưng mai mình phải dậy sớm." },
+            { "vi": "Vâng. Bạn có cần đi nhờ xe không?" },
+            { "vi": "Không cần đâu, mình vẫn kịp chuyến tàu điện." },
+            { "vi": "Tốt. Mình đi lấy áo khoác cho bạn." },
+            { "vi": "Cảm ơn. Cảm ơn vì buổi tối nay — vui thật đấy!" },
+            { "vi": "Mừng vì bạn đã đến. Hẹn sớm gặp lại!" },
+            { "vi": "Hẹn gặp lại. Sanna, Jussi — rất vui được làm quen!" },
+            { "vi": "Mình cũng vậy! Lúc nào nhắn cho mình nhé." },
+            { "vi": "Mình sẽ nhắn. Tạm biệt mọi người!" },
+            { "vi": "Tạm biệt! Chúc ngủ ngon!" }
+          ]
+        },
+        {
+          "title_vi": "Từ chối tăng hai",
+          "setting_vi": "Nửa đêm. Cả nhóm đang chuyển sang chỗ khác.",
+          "note_vi": "«Ei kiitos» mà không cần lý do cầu kỳ. Không ai hiểu lầm cả.",
+          "lines": [
+            { "vi": "Bọn mình đi tăng hai ở nhà Mikko. Bạn đi không?" },
+            { "vi": "Thôi cảm ơn, mình về nhà đây." },
+            { "vi": "Ôi tiếc! Chắc chưa?" },
+            { "vi": "Ừ, mình kiệt sức rồi. Nhưng cảm ơn đã rủ nhé!" },
+            { "vi": "Không có gì. Lần sau vậy." },
+            { "vi": "Chắc chắn rồi. Rất vui được gặp bạn." },
+            { "vi": "Mình cũng vậy. Giữ liên lạc nhé!" },
+            { "vi": "Giữ liên lạc. Tạm biệt!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Ra về khỏi một bữa tiệc cho đẹp",
+          "scenario_vi": "Ra tín hiệu, nêu lý do, cảm ơn chủ nhà, chào những người mới quen, rồi đi.",
+          "your_role_vi": "Bạn, đã sẵn sàng về nhà",
+          "partner_role_vi": "Anni, chủ nhà",
+          "turns": [
+            { "vi": "Này, cũng muộn rồi nhỉ. Mình phải về đây.", "hint_vi": "Ra tín hiệu rồi nói thẳng. Không cần rào đón dài." },
+            { "vi": "Ơ về rồi à? Uống thêm một ly nữa đi!" },
+            { "vi": "Cảm ơn, nhưng mai mình phải dậy sớm.", "hint_vi": "Một lý do trọn vẹn và không bao giờ bị hỏi lại." },
+            { "vi": "Vâng. Bạn có cần đi nhờ xe không?" },
+            { "vi": "Không cần đâu, mình vẫn kịp chuyến tàu điện.", "hint_vi": "Từ chối đơn giản rồi nói bạn về bằng cách nào." },
+            { "vi": "Tốt. Mình đi lấy áo khoác cho bạn." },
+            { "vi": "Cảm ơn. Cảm ơn vì buổi tối nay — vui thật đấy!", "hint_vi": "Đừng bao giờ bỏ qua «kiitos illasta». Đó là câu thiết yếu." },
+            { "vi": "Mừng vì bạn đã đến!" },
+            { "vi": "Sanna, Jussi — rất vui được làm quen! Tạm biệt!", "hint_vi": "Chào những người mới quen, rồi đi thật. Đừng nấn ná." }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2795 @@
+{
+  "slug": "gym",
+  "number": "07",
+  "emoji": "💪",
+  "title": "At the gym",
+  "subtitle": "Small talk that doesn't require a dictionary.",
+  "description": "The gym is the easiest place in Finland to practise speaking: the exchanges are short, the vocabulary is small and repeated, and nobody expects a conversation. This module covers membership questions at the desk, the two sentences you need to share equipment, following a group class by ear, the regulars who will eventually talk to you, and explaining goals and injuries to a trainer.",
+  "level": "A1–A2",
+  "lessons": [
+    {
+      "slug": "front-desk",
+      "number": "7.1",
+      "title": "Front desk and membership",
+      "subtitle": "Onks teillä kuukausikorttia?",
+      "warmup_situation": "You want to join a gym. There are four membership types on a poster in Finnish, a joining fee you don't understand, and a contract length you definitely want to check before signing.",
+      "warmup_question": "What are the three things you must ask before you sign anything?",
+      "rescue_fi": "Mä haluun lukee sopimuksen ennen kun allekirjotan.",
+      "rescue_en": "I want to read the contract before I sign.",
+      "rescue_note": "Entirely reasonable and nobody will push back. Finnish gym contracts often have a minimum term and a notice period, and both are worth understanding before you commit. Take it home if you want to.",
+      "vocab": [
+        {
+          "fi": "kuntosali",
+          "en": "gym",
+          "pos": "noun",
+          "note": "Usually shortened to 'sali'. 'Mä meen salille' = I'm going to the gym.",
+          "vi": "phòng gym",
+          "note_vi": "Thường rút thành «sali». «Mä meen salille» = tôi đi phòng gym."
+        },
+        {
+          "fi": "sali",
+          "en": "the gym (short)",
+          "pos": "noun",
+          "vi": "phòng gym (rút gọn)"
+        },
+        {
+          "fi": "jäsenyys",
+          "en": "membership",
+          "pos": "noun",
+          "vi": "tư cách thành viên"
+        },
+        {
+          "fi": "jäsenkortti",
+          "en": "membership card",
+          "pos": "noun",
+          "vi": "thẻ thành viên"
+        },
+        {
+          "fi": "kuukausikortti",
+          "en": "monthly pass",
+          "pos": "noun",
+          "vi": "thẻ tháng"
+        },
+        {
+          "fi": "vuosikortti",
+          "en": "annual pass",
+          "pos": "noun",
+          "vi": "thẻ năm"
+        },
+        {
+          "fi": "kertamaksu",
+          "en": "single-visit fee",
+          "pos": "noun",
+          "note": "Worth asking about if you're only visiting once.",
+          "vi": "phí vào một lần",
+          "note_vi": "Đáng hỏi nếu bạn chỉ đến một lần."
+        },
+        {
+          "fi": "liittymismaksu",
+          "en": "joining fee",
+          "pos": "noun",
+          "note": "Often waived in campaigns. Always ask if it can be.",
+          "vi": "phí gia nhập",
+          "note_vi": "Thường được miễn trong các chương trình khuyến mãi. Luôn hỏi xem có miễn được không."
+        },
+        {
+          "fi": "sopimus",
+          "en": "contract",
+          "pos": "noun",
+          "vi": "hợp đồng"
+        },
+        {
+          "fi": "määräaikainen",
+          "en": "fixed-term",
+          "pos": "adjective",
+          "note": "The important word. A fixed-term contract cannot usually be cancelled early.",
+          "vi": "có thời hạn cố định",
+          "note_vi": "Từ quan trọng. Hợp đồng có thời hạn thường không huỷ sớm được."
+        },
+        {
+          "fi": "toistaiseksi voimassa",
+          "en": "open-ended",
+          "pos": "phrase",
+          "vi": "không thời hạn, vô thời hạn"
+        },
+        {
+          "fi": "irtisanomisaika",
+          "en": "notice period",
+          "pos": "noun",
+          "note": "Usually one month. Check it before you sign.",
+          "vi": "thời gian báo trước khi huỷ",
+          "note_vi": "Thường là một tháng. Kiểm tra trước khi ký."
+        },
+        {
+          "fi": "irtisanoa",
+          "en": "to cancel, to terminate",
+          "pos": "verb",
+          "vi": "huỷ, chấm dứt"
+        },
+        {
+          "fi": "jäädyttää",
+          "en": "to freeze (a membership)",
+          "pos": "verb",
+          "note": "Common for holidays or injury. Ask whether it's possible.",
+          "vi": "tạm đóng băng (thẻ)",
+          "note_vi": "Thường dùng khi đi du lịch hoặc bị thương. Hãy hỏi xem có được không."
+        },
+        {
+          "fi": "tauko",
+          "en": "break, pause",
+          "pos": "noun",
+          "vi": "quãng nghỉ, tạm dừng"
+        },
+        {
+          "fi": "aukioloajat",
+          "en": "opening hours",
+          "pos": "noun",
+          "vi": "giờ mở cửa"
+        },
+        {
+          "fi": "ympärivuorokautinen",
+          "en": "24-hour",
+          "pos": "adjective",
+          "note": "Many Finnish gyms are. You get a key tag.",
+          "vi": "24 giờ, cả ngày đêm",
+          "note_vi": "Nhiều phòng gym Phần Lan mở 24 giờ. Bạn được cấp một thẻ từ."
+        },
+        {
+          "fi": "avaintunniste",
+          "en": "key tag",
+          "pos": "noun",
+          "vi": "thẻ từ, móc khoá điện tử"
+        },
+        {
+          "fi": "pukuhuone",
+          "en": "changing room",
+          "pos": "noun",
+          "vi": "phòng thay đồ"
+        },
+        {
+          "fi": "kaappi",
+          "en": "locker",
+          "pos": "noun",
+          "vi": "tủ khoá"
+        },
+        {
+          "fi": "lukko",
+          "en": "lock",
+          "pos": "noun",
+          "note": "Usually you bring your own padlock. Ask.",
+          "vi": "ổ khoá",
+          "note_vi": "Thường bạn phải tự mang khoá. Hãy hỏi."
+        },
+        {
+          "fi": "suihku",
+          "en": "shower",
+          "pos": "noun",
+          "vi": "vòi sen"
+        },
+        {
+          "fi": "opastus",
+          "en": "induction, guidance",
+          "pos": "noun",
+          "note": "A free first session showing you the machines. Ask for it.",
+          "vi": "buổi hướng dẫn nhập môn",
+          "note_vi": "Buổi đầu miễn phí chỉ bạn cách dùng máy. Hãy hỏi xin."
+        },
+        {
+          "fi": "esittely",
+          "en": "introduction, tour",
+          "pos": "noun",
+          "vi": "buổi giới thiệu, dẫn đi xem"
+        },
+        {
+          "fi": "kokeilukäynti",
+          "en": "trial visit",
+          "pos": "noun",
+          "note": "Most gyms offer one free. Always ask.",
+          "vi": "buổi tập thử",
+          "note_vi": "Phần lớn phòng gym cho một buổi miễn phí. Luôn hỏi."
+        },
+        {
+          "fi": "opiskelija-alennus",
+          "en": "student discount",
+          "pos": "noun",
+          "vi": "giảm giá sinh viên"
+        },
+        {
+          "fi": "tarjous",
+          "en": "offer",
+          "pos": "noun",
+          "vi": "chương trình ưu đãi"
+        },
+        {
+          "fi": "hinta",
+          "en": "price",
+          "pos": "noun",
+          "vi": "giá"
+        },
+        {
+          "fi": "kuussa",
+          "en": "per month",
+          "pos": "adverb",
+          "vi": "mỗi tháng"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä haluaisin liittyä.",
+          "en": "I'd like to join.",
+          "when_to_use": "Your opening sentence at the desk.",
+          "register": "neutral",
+          "vi": "Tôi muốn đăng ký thành viên.",
+          "when_to_use_vi": "Câu mở đầu của bạn ở quầy."
+        },
+        {
+          "fi": "Paljonko kuukausikortti maksaa?",
+          "en": "How much is a monthly pass?",
+          "when_to_use": "The first question. Then ask what else is on top.",
+          "register": "neutral",
+          "vi": "Thẻ tháng giá bao nhiêu ạ?",
+          "when_to_use_vi": "Câu hỏi đầu tiên. Rồi hỏi còn khoản nào nữa không."
+        },
+        {
+          "fi": "Onks siinä liittymismaksu?",
+          "en": "Is there a joining fee on top?",
+          "when_to_use": "There often is. Ask whether it can be waived — sometimes it can.",
+          "register": "neutral",
+          "vi": "Có thêm phí gia nhập không ạ?",
+          "when_to_use_vi": "Thường là có. Hãy hỏi xem có miễn được không — đôi khi được."
+        },
+        {
+          "fi": "Onks tää määräaikainen sopimus?",
+          "en": "Is this a fixed-term contract?",
+          "when_to_use": "The single most important question. Fixed-term often can't be cancelled.",
+          "register": "neutral",
+          "vi": "Đây là hợp đồng có thời hạn không ạ?",
+          "when_to_use_vi": "Câu hỏi quan trọng nhất. Loại có thời hạn thường không huỷ được."
+        },
+        {
+          "fi": "Mikä on irtisanomisaika?",
+          "en": "What's the notice period?",
+          "when_to_use": "Usually one month. Know it before you sign, not after.",
+          "register": "neutral",
+          "vi": "Thời gian báo trước khi huỷ là bao lâu ạ?",
+          "when_to_use_vi": "Thường một tháng. Biết trước khi ký, đừng biết sau."
+        },
+        {
+          "fi": "Voiko jäsenyyden jäädyttää?",
+          "en": "Can the membership be frozen?",
+          "when_to_use": "For holidays and injuries. Very worth knowing.",
+          "register": "neutral",
+          "vi": "Thẻ có tạm đóng băng được không ạ?",
+          "when_to_use_vi": "Dùng khi đi du lịch hay bị thương. Rất đáng biết."
+        },
+        {
+          "fi": "Onks teillä kokeilukäyntiä?",
+          "en": "Do you have a trial visit?",
+          "when_to_use": "Most gyms offer one free. Always ask before joining.",
+          "register": "casual",
+          "vi": "Ở đây có buổi tập thử không ạ?",
+          "when_to_use_vi": "Phần lớn phòng gym cho một buổi miễn phí. Luôn hỏi trước khi đăng ký."
+        },
+        {
+          "fi": "Saako tähän opastuksen?",
+          "en": "Is there an induction available?",
+          "when_to_use": "A free session showing you the machines. Usually included.",
+          "register": "neutral",
+          "vi": "Có buổi hướng dẫn nhập môn không ạ?",
+          "when_to_use_vi": "Một buổi chỉ bạn cách dùng máy. Thường đã bao gồm trong giá."
+        },
+        {
+          "fi": "Mihin aikaan te ootte auki?",
+          "en": "What times are you open?",
+          "when_to_use": "Many are 24h with a key tag, but staffed hours are shorter.",
+          "register": "neutral",
+          "vi": "Phòng mở cửa những giờ nào ạ?",
+          "when_to_use_vi": "Nhiều nơi mở 24 giờ bằng thẻ từ, nhưng giờ có nhân viên thì ngắn hơn."
+        },
+        {
+          "fi": "Tarviiks mä oman lukon?",
+          "en": "Do I need my own padlock?",
+          "when_to_use": "Usually yes. Worth knowing before your first visit.",
+          "register": "casual",
+          "vi": "Tôi có cần tự mang ổ khoá không ạ?",
+          "when_to_use_vi": "Thường là có. Đáng biết trước buổi đầu tiên."
+        },
+        {
+          "fi": "Onks opiskelija-alennusta?",
+          "en": "Is there a student discount?",
+          "when_to_use": "Ask. Also ask about pensioner and unemployed rates if relevant.",
+          "register": "casual",
+          "vi": "Có giảm giá sinh viên không ạ?",
+          "when_to_use_vi": "Hãy hỏi. Cũng hỏi về giá cho người nghỉ hưu và người thất nghiệp nếu phù hợp."
+        },
+        {
+          "fi": "Mä haluun lukee sopimuksen ensin.",
+          "en": "I want to read the contract first.",
+          "when_to_use": "Completely reasonable. Take it home if you want.",
+          "register": "neutral",
+          "vi": "Tôi muốn đọc hợp đồng trước.",
+          "when_to_use_vi": "Hoàn toàn hợp lý. Muốn mang về nhà đọc cũng được."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Joining a gym",
+          "setting": "The front desk. Duc asks everything before signing anything.",
+          "speed": "slow",
+          "note": "Four questions, in order: price, extras, contract, cancellation.",
+          "lines": [
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Moi! Miten voin auttaa?",
+              "en": "Hi! How can I help?",
+              "vi": "Chào anh! Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä haluaisin liittyä. Paljonko kuukausikortti maksaa?",
+              "en": "Hi! I'd like to join. How much is a monthly pass?",
+              "vi": "Chào chị! Tôi muốn đăng ký thành viên. Thẻ tháng giá bao nhiêu ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Kuukausikortti on 39,90 kuussa.",
+              "en": "The monthly pass is 39.90 per month.",
+              "vi": "Thẻ tháng là 39,90 mỗi tháng ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Onks siinä liittymismaksu?",
+              "en": "Right. Is there a joining fee on top?",
+              "vi": "Vâng. Có thêm phí gia nhập không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Normaalisti 49 euroa, mut nyt on kampanja, nii se on nolla.",
+              "en": "Normally 49 euros, but there's a campaign now, so it's zero.",
+              "vi": "Bình thường là 49 euro, nhưng hiện đang có khuyến mãi nên bằng không ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Onks tää määräaikainen sopimus?",
+              "en": "Good. Is this a fixed-term contract?",
+              "vi": "Tốt. Đây là hợp đồng có thời hạn không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Sä voit valita. Määräaikainen 12 kuukautta on halvempi, tai toistaiseksi voimassa.",
+              "en": "You can choose. Fixed-term for 12 months is cheaper, or open-ended.",
+              "vi": "Anh chọn được ạ. Loại có thời hạn 12 tháng thì rẻ hơn, hoặc loại vô thời hạn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mikä on irtisanomisaika siinä toistaiseksi voimassa olevassa?",
+              "en": "What's the notice period on the open-ended one?",
+              "vi": "Loại vô thời hạn thì thời gian báo trước khi huỷ là bao lâu ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Yks kuukausi.",
+              "en": "One month.",
+              "vi": "Một tháng ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Okei. Ja voiko jäsenyyden jäädyttää, jos mä oon reissussa?",
+              "en": "Okay. And can the membership be frozen if I'm travelling?",
+              "vi": "Vâng. Và nếu tôi đi công tác thì có tạm đóng băng thẻ được không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Voi, korkeintaan kaks kuukautta vuodessa.",
+              "en": "It can, up to two months a year.",
+              "vi": "Được ạ, tối đa hai tháng một năm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Mä otan sen toistaiseksi voimassa olevan. Mut mä haluun lukee sopimuksen ensin.",
+              "en": "Good. I'll take the open-ended one. But I want to read the contract first.",
+              "vi": "Tốt. Tôi lấy loại vô thời hạn. Nhưng tôi muốn đọc hợp đồng trước."
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Totta kai, tässä. Ota aikaa.",
+              "en": "Of course, here. Take your time.",
+              "vi": "Tất nhiên rồi, đây ạ. Anh cứ thong thả."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja saako tähän opastuksen?",
+              "en": "Thanks. And is there an induction available?",
+              "vi": "Cảm ơn chị. Và có buổi hướng dẫn nhập môn không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Joo, se kuuluu hintaan. Varaa aika netistä.",
+              "en": "Yeah, it's included in the price. Book a time online.",
+              "vi": "Có ạ, đã tính trong giá. Anh đặt lịch trên mạng nhé."
+            }
+          ],
+          "title_vi": "Đăng ký một phòng gym",
+          "setting_vi": "Quầy tiếp đón. Duc hỏi hết mọi thứ trước khi ký bất cứ gì.",
+          "note_vi": "Bốn câu hỏi, theo thứ tự: giá, phụ phí, hợp đồng, huỷ."
+        },
+        {
+          "title": "A trial visit, fast",
+          "setting": "Just passing by. Duc wants to see the place first.",
+          "speed": "natural",
+          "note": "Short, practical. He leaves without signing anything and that's fine.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Onks teillä kokeilukäyntiä?",
+              "en": "Hi! Do you have a trial visit?",
+              "vi": "Chào chị! Ở đây có buổi tập thử không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "On, yks ilmainen. Haluutsä kokeilla nyt?",
+              "en": "There is, one free one. Do you want to try now?",
+              "vi": "Có ạ, một buổi miễn phí. Anh muốn thử luôn bây giờ không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, jos se onnistuu. Tarviiks mä oman lukon?",
+              "en": "Yeah, if that's possible. Do I need my own padlock?",
+              "vi": "Vâng, nếu được. Tôi có cần tự mang ổ khoá không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Joo, mut mä voin lainata sulle yhden tänään.",
+              "en": "Yeah, but I can lend you one today.",
+              "vi": "Có ạ, nhưng hôm nay tôi cho anh mượn một cái được."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti. Ja onks pyyhkeet?",
+              "en": "Thanks. And are there towels?",
+              "vi": "Cảm ơn chị. Và ở đây có khăn không ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Ei, ota omat mukaan ens kerralla.",
+              "en": "No, bring your own next time.",
+              "vi": "Không ạ, lần sau anh mang khăn riêng nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Mihin aikaan te ootte auki?",
+              "en": "Right. What times are you open?",
+              "vi": "Vâng. Phòng mở cửa những giờ nào ạ?"
+            },
+            {
+              "speaker": "Vastaanotto",
+              "fi": "Sali on auki ympäri vuorokauden, mut henkilökuntaa on 8–20.",
+              "en": "The gym is open 24 hours, but there's staff from 8 to 20.",
+              "vi": "Phòng gym mở cả ngày đêm, nhưng có nhân viên từ 8 đến 20 giờ ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Täydellistä. Kiitos!",
+              "en": "Perfect. Thanks!",
+              "vi": "Tuyệt vời. Cảm ơn chị!"
+            }
+          ],
+          "title_vi": "Một buổi tập thử, thật nhanh",
+          "setting_vi": "Chỉ đi ngang qua. Duc muốn xem chỗ này trước.",
+          "note_vi": "Ngắn, thực tế. Anh ra về mà không ký gì và thế là ổn."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Join a gym without regretting it",
+          "scenario": "Ask about price, extras, contract type, notice period and freezing before you sign.",
+          "your_role": "You, at the front desk",
+          "partner_role": "The receptionist",
+          "turns": [
+            {
+              "speaker": "Vastaanotto",
+              "is_your_turn": false,
+              "fi": "Moi! Miten voin auttaa?",
+              "en": "Hi! How can I help?",
+              "vi": "Chào anh! Tôi giúp gì được ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Paljonko kuukausikortti maksaa?",
+              "en": "Hi! How much is a monthly pass?",
+              "hint": "Start with the price, then work outwards.",
+              "vi": "Chào chị! Thẻ tháng giá bao nhiêu ạ?",
+              "hint_vi": "Bắt đầu từ giá, rồi mở rộng dần ra."
+            },
+            {
+              "speaker": "Vastaanotto",
+              "is_your_turn": false,
+              "fi": "39,90 kuussa.",
+              "en": "39.90 per month.",
+              "vi": "39,90 mỗi tháng ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Onks siinä liittymismaksu?",
+              "en": "Is there a joining fee on top?",
+              "hint": "There often is. Ask whether it can be waived.",
+              "vi": "Có thêm phí gia nhập không ạ?",
+              "hint_vi": "Thường là có. Hãy hỏi xem có miễn được không."
+            },
+            {
+              "speaker": "Vastaanotto",
+              "is_your_turn": false,
+              "fi": "Normaalisti 49, mut nyt on kampanja.",
+              "en": "Normally 49, but there's a campaign now.",
+              "vi": "Bình thường là 49, nhưng đang có khuyến mãi ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvä. Onks tää määräaikainen sopimus?",
+              "en": "Good. Is this a fixed-term contract?",
+              "hint": "The single most important question. Fixed-term often can't be cancelled.",
+              "vi": "Tốt. Đây là hợp đồng có thời hạn không ạ?",
+              "hint_vi": "Câu hỏi quan trọng nhất. Loại có thời hạn thường không huỷ được."
+            },
+            {
+              "speaker": "Vastaanotto",
+              "is_your_turn": false,
+              "fi": "Sä voit valita. 12 kuukautta tai toistaiseksi.",
+              "en": "You can choose. 12 months or open-ended.",
+              "vi": "Anh chọn được ạ. 12 tháng hoặc vô thời hạn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mikä on irtisanomisaika?",
+              "en": "What's the notice period?",
+              "hint": "Know it before you sign, not after.",
+              "vi": "Thời gian báo trước khi huỷ là bao lâu ạ?",
+              "hint_vi": "Biết trước khi ký, đừng biết sau."
+            },
+            {
+              "speaker": "Vastaanotto",
+              "is_your_turn": false,
+              "fi": "Yks kuukausi.",
+              "en": "One month.",
+              "vi": "Một tháng ạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Mä haluun lukee sopimuksen ensin.",
+              "en": "Right. I want to read the contract first.",
+              "hint": "Entirely reasonable. Nobody will push back.",
+              "vi": "Vâng. Tôi muốn đọc hợp đồng trước.",
+              "hint_vi": "Hoàn toàn hợp lý. Không ai phản đối."
+            }
+          ],
+          "title_vi": "Đăng ký phòng gym mà không phải hối hận",
+          "scenario_vi": "Hỏi về giá, phụ phí, loại hợp đồng, thời gian báo huỷ và việc đóng băng trước khi ký.",
+          "your_role_vi": "Bạn, đang ở quầy tiếp đón",
+          "partner_role_vi": "Nhân viên tiếp đón"
+        }
+      ],
+      "title_vi": "Quầy tiếp đón và thẻ thành viên",
+      "subtitle_vi": "Onks teillä kuukausikorttia?",
+      "warmup_situation_vi": "Bạn muốn đăng ký một phòng gym. Trên áp phích có bốn loại thẻ bằng tiếng Phần Lan, một khoản phí gia nhập bạn không hiểu, và một thời hạn hợp đồng mà bạn chắc chắn muốn kiểm tra trước khi ký.",
+      "warmup_question_vi": "Ba điều nào bạn buộc phải hỏi trước khi ký bất cứ thứ gì?",
+      "rescue_vi": "Tôi muốn đọc hợp đồng trước khi ký.",
+      "rescue_note_vi": "Hoàn toàn hợp lý và không ai phản đối. Hợp đồng phòng gym ở Phần Lan thường có thời hạn tối thiểu và thời gian báo trước khi huỷ, cả hai đều đáng hiểu trước khi bạn cam kết. Muốn mang về nhà đọc cũng được."
+    },
+    {
+      "slug": "sharing-equipment",
+      "number": "7.2",
+      "title": "Sharing equipment",
+      "subtitle": "Onks tää vapaa? Voidaanko vuorotella?",
+      "warmup_situation": "Someone's towel is on the bench you want. They're twelve metres away looking at their phone. You've been standing here for ninety seconds.",
+      "warmup_question": "What are the two sentences that resolve every equipment situation in a Finnish gym?",
+      "rescue_fi": "Sori, mä oon vielä tässä.",
+      "rescue_en": "Sorry, I'm still using this.",
+      "rescue_note": "Said politely, with a small gesture at the equipment. Finns will apologise and move on immediately. There's no conflict in this exchange at all — it's simply information, and both sides treat it that way.",
+      "vocab": [
+        {
+          "fi": "vapaa",
+          "en": "free, available",
+          "pos": "adjective",
+          "note": "'Onks tää vapaa?' is the single most useful gym sentence.",
+          "vi": "trống, còn rảnh",
+          "note_vi": "«Onks tää vapaa?» là câu hữu dụng nhất trong phòng gym."
+        },
+        {
+          "fi": "varattu",
+          "en": "taken, reserved",
+          "pos": "adjective",
+          "vi": "đã có người, đã được giữ"
+        },
+        {
+          "fi": "käytössä",
+          "en": "in use",
+          "pos": "adverb",
+          "vi": "đang được dùng"
+        },
+        {
+          "fi": "vuorotella",
+          "en": "to take turns",
+          "pos": "verb",
+          "note": "'Voidaanko vuorotella?' = shall we take turns? Common and welcome.",
+          "vi": "thay phiên nhau",
+          "note_vi": "«Voidaanko vuorotella?» = mình thay phiên nhé? Phổ biến và được hoan nghênh."
+        },
+        {
+          "fi": "vuoro",
+          "en": "turn",
+          "pos": "noun",
+          "vi": "lượt"
+        },
+        {
+          "fi": "sarja",
+          "en": "set",
+          "pos": "noun",
+          "note": "'Mulla on kaks sarjaa jäljellä' = I have two sets left.",
+          "vi": "một set, một lượt tập",
+          "note_vi": "«Mulla on kaks sarjaa jäljellä» = mình còn hai set nữa."
+        },
+        {
+          "fi": "toisto",
+          "en": "repetition, rep",
+          "pos": "noun",
+          "vi": "một lần lặp (rep)"
+        },
+        {
+          "fi": "jäljellä",
+          "en": "left, remaining",
+          "pos": "adverb",
+          "vi": "còn lại"
+        },
+        {
+          "fi": "laite",
+          "en": "machine",
+          "pos": "noun",
+          "vi": "máy tập"
+        },
+        {
+          "fi": "penkki",
+          "en": "bench",
+          "pos": "noun",
+          "vi": "ghế tập"
+        },
+        {
+          "fi": "tanko",
+          "en": "barbell, bar",
+          "pos": "noun",
+          "vi": "thanh đòn, đòn tạ"
+        },
+        {
+          "fi": "levy",
+          "en": "weight plate",
+          "pos": "noun",
+          "vi": "bánh tạ"
+        },
+        {
+          "fi": "käsipaino",
+          "en": "dumbbell",
+          "pos": "noun",
+          "vi": "tạ tay"
+        },
+        {
+          "fi": "kahvakuula",
+          "en": "kettlebell",
+          "pos": "noun",
+          "vi": "tạ ấm"
+        },
+        {
+          "fi": "matto",
+          "en": "mat",
+          "pos": "noun",
+          "vi": "thảm tập"
+        },
+        {
+          "fi": "juoksumatto",
+          "en": "treadmill",
+          "pos": "noun",
+          "vi": "máy chạy bộ"
+        },
+        {
+          "fi": "kuntopyörä",
+          "en": "exercise bike",
+          "pos": "noun",
+          "vi": "xe đạp tập"
+        },
+        {
+          "fi": "paino",
+          "en": "weight",
+          "pos": "noun",
+          "vi": "trọng lượng, tạ"
+        },
+        {
+          "fi": "säätää",
+          "en": "to adjust",
+          "pos": "verb",
+          "vi": "điều chỉnh"
+        },
+        {
+          "fi": "korkeus",
+          "en": "height",
+          "pos": "noun",
+          "vi": "độ cao"
+        },
+        {
+          "fi": "lainata",
+          "en": "to borrow",
+          "pos": "verb",
+          "vi": "mượn"
+        },
+        {
+          "fi": "auttaa",
+          "en": "to help, to spot",
+          "pos": "verb",
+          "note": "'Voitsä auttaa?' can mean 'can you spot me?' in a gym.",
+          "vi": "giúp, đỡ tạ",
+          "note_vi": "«Voitsä auttaa?» trong phòng gym có thể nghĩa là «bạn đỡ tạ giúp mình được không?»"
+        },
+        {
+          "fi": "varmistaa",
+          "en": "to spot (safety)",
+          "pos": "verb",
+          "vi": "đỡ tạ (bảo hộ)"
+        },
+        {
+          "fi": "pyyhkiä",
+          "en": "to wipe down",
+          "pos": "verb",
+          "note": "Wipe the machine after use. Expected everywhere, no exceptions.",
+          "vi": "lau sạch",
+          "note_vi": "Lau máy sau khi dùng. Được mong đợi ở mọi nơi, không ngoại lệ."
+        },
+        {
+          "fi": "desinfiointiaine",
+          "en": "disinfectant",
+          "pos": "noun",
+          "vi": "dung dịch khử khuẩn"
+        },
+        {
+          "fi": "palauttaa paikalleen",
+          "en": "to put back",
+          "pos": "phrase",
+          "note": "Return weights to the rack. A real social rule here.",
+          "vi": "trả về chỗ cũ",
+          "note_vi": "Trả tạ về giá. Một quy tắc xã giao thật sự ở đây."
+        },
+        {
+          "fi": "teline",
+          "en": "rack",
+          "pos": "noun",
+          "vi": "giá đỡ tạ"
+        },
+        {
+          "fi": "odottaa",
+          "en": "to wait",
+          "pos": "verb",
+          "vi": "chờ đợi"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Onks tää vapaa?",
+          "en": "Is this free?",
+          "when_to_use": "The most useful sentence in any Finnish gym. Learn it first.",
+          "register": "casual",
+          "vi": "Cái này trống không?",
+          "when_to_use_vi": "Câu hữu dụng nhất trong mọi phòng gym Phần Lan. Hãy học nó trước tiên."
+        },
+        {
+          "fi": "Onks joku tässä?",
+          "en": "Is someone using this?",
+          "when_to_use": "When there's a towel but no person. Say it to the room.",
+          "register": "casual",
+          "vi": "Có ai đang dùng cái này không?",
+          "when_to_use_vi": "Khi có cái khăn mà không có người. Nói ra với cả phòng."
+        },
+        {
+          "fi": "Voidaanko vuorotella?",
+          "en": "Shall we take turns?",
+          "when_to_use": "Completely normal and usually welcomed. Saves both of you waiting.",
+          "register": "casual",
+          "vi": "Mình thay phiên nhau nhé?",
+          "when_to_use_vi": "Hoàn toàn bình thường và thường được hoan nghênh. Cả hai đỡ phải chờ."
+        },
+        {
+          "fi": "Mulla on kaks sarjaa jäljellä.",
+          "en": "I have two sets left.",
+          "when_to_use": "Tells them exactly how long. Much better than 'a moment'.",
+          "register": "casual",
+          "vi": "Mình còn hai set nữa.",
+          "when_to_use_vi": "Cho họ biết chính xác bao lâu. Tốt hơn nhiều so với «một lát»."
+        },
+        {
+          "fi": "Ota vaan, mä oon valmis.",
+          "en": "Go ahead, I'm done.",
+          "when_to_use": "Offering it up. Short and friendly.",
+          "register": "casual",
+          "vi": "Cứ dùng đi, mình xong rồi.",
+          "when_to_use_vi": "Nhường lại. Ngắn và thân thiện."
+        },
+        {
+          "fi": "Sori, mä oon vielä tässä.",
+          "en": "Sorry, I'm still using this.",
+          "when_to_use": "No conflict in this at all. They'll move on immediately.",
+          "register": "casual",
+          "vi": "Xin lỗi, mình vẫn đang dùng cái này.",
+          "when_to_use_vi": "Hoàn toàn không có xung đột gì. Họ sẽ đi ngay."
+        },
+        {
+          "fi": "Tarviitsä tätä?",
+          "en": "Do you need this?",
+          "when_to_use": "Offering to share or hand over. Easy and considerate.",
+          "register": "casual",
+          "vi": "Bạn có cần cái này không?",
+          "when_to_use_vi": "Ngỏ ý chia sẻ hoặc nhường. Dễ nói và biết nghĩ cho người khác."
+        },
+        {
+          "fi": "Voinks mä lainata noita levyjä?",
+          "en": "Can I borrow those plates?",
+          "when_to_use": "If they're sitting unused next to someone. Always ask.",
+          "register": "casual",
+          "vi": "Mình mượn mấy cái bánh tạ kia được không?",
+          "when_to_use_vi": "Nếu chúng đang để không cạnh ai đó. Luôn hỏi."
+        },
+        {
+          "fi": "Voitsä varmistaa mua?",
+          "en": "Could you spot me?",
+          "when_to_use": "Asking a stranger is completely normal at a gym. Nobody refuses.",
+          "register": "casual",
+          "vi": "Bạn đỡ tạ giúp mình được không?",
+          "when_to_use_vi": "Nhờ người lạ là chuyện hoàn toàn bình thường ở phòng gym. Không ai từ chối."
+        },
+        {
+          "fi": "Montako sä teet?",
+          "en": "How many are you doing?",
+          "when_to_use": "Estimating your wait. Friendly, not pushy.",
+          "register": "casual",
+          "vi": "Bạn làm mấy set?",
+          "when_to_use_vi": "Để ước lượng thời gian chờ. Thân thiện, không hối."
+        },
+        {
+          "fi": "Mä pyyhin sen.",
+          "en": "I'll wipe it down.",
+          "when_to_use": "Expected after every machine. There are no exceptions to this.",
+          "register": "casual",
+          "vi": "Mình lau máy nhé.",
+          "when_to_use_vi": "Được mong đợi sau mỗi máy. Không có ngoại lệ nào."
+        },
+        {
+          "fi": "Ei kiirettä, tee rauhassa.",
+          "en": "No rush, take your time.",
+          "when_to_use": "When someone apologises for being slow. Generous and easy.",
+          "register": "casual",
+          "vi": "Không gấp đâu, bạn cứ từ từ.",
+          "when_to_use_vi": "Khi ai đó xin lỗi vì chậm. Rộng lượng và dễ nói."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Sharing a bench",
+          "setting": "A busy gym at 17:30. One free bench, two people who want it.",
+          "speed": "slow",
+          "note": "Two sentences and it's resolved. Note how specific 'kaks sarjaa' is.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Onks tää vapaa?",
+              "en": "Hi! Is this free?",
+              "vi": "Chào! Cái này trống không?"
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Sori, mä oon vielä tässä. Mulla on kaks sarjaa jäljellä.",
+              "en": "Sorry, I'm still using this. I have two sets left.",
+              "vi": "Xin lỗi, mình vẫn đang dùng. Mình còn hai set nữa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei kiirettä. Voidaanko vuorotella?",
+              "en": "No rush. Shall we take turns?",
+              "vi": "Không gấp đâu. Mình thay phiên nhau nhé?"
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Joo, käy hyvin. Paljonko sä nostat?",
+              "en": "Yeah, that works well. How much are you lifting?",
+              "vi": "Ừ, được đấy. Bạn nâng bao nhiêu?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kuuskymmentä. Entä sä?",
+              "en": "Sixty. And you?",
+              "vi": "Sáu mươi. Còn bạn?"
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Kaheksankymmentä. Ei haittaa, vaihdetaan levyjä.",
+              "en": "Eighty. Doesn't matter, we'll swap plates.",
+              "vi": "Tám mươi. Không sao, mình đổi bánh tạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sopii. Mee vaan ensin.",
+              "en": "Works. You go first.",
+              "vi": "Được. Bạn làm trước đi."
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Kiitti. …Noin. Sun vuoro.",
+              "en": "Thanks. …There. Your turn.",
+              "vi": "Cảm ơn. …Đó. Đến lượt bạn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Voitsä muuten varmistaa mua?",
+              "en": "Thanks. Could you spot me, by the way?",
+              "vi": "Cảm ơn. Mà bạn đỡ tạ giúp mình được không?"
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Joo totta kai.",
+              "en": "Yeah, of course.",
+              "vi": "Ừ tất nhiên."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti. …Valmis. Mä pyyhin sen.",
+              "en": "Thanks. …Done. I'll wipe it down.",
+              "vi": "Cảm ơn. …Xong. Mình lau máy nhé."
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Hyvä. Mukavia treenejä!",
+              "en": "Good. Have a good workout!",
+              "vi": "Tốt. Chúc tập vui!"
+            }
+          ],
+          "title_vi": "Dùng chung một ghế tập",
+          "setting_vi": "Phòng gym đông lúc 17:30. Một ghế trống, hai người cùng muốn.",
+          "note_vi": "Hai câu là xong. Để ý «kaks sarjaa» cụ thể đến mức nào."
+        },
+        {
+          "title": "The unattended towel",
+          "setting": "A machine with a towel on it and nobody nearby.",
+          "speed": "natural",
+          "note": "Say it out loud to the room. Someone always answers.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks — onks joku tässä?",
+              "en": "Excuse me — is someone using this?",
+              "vi": "Xin lỗi — có ai đang dùng cái này không?"
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Joo, mä oon. Sori, mä kävin hakee vettä.",
+              "en": "Yeah, I am. Sorry, I went to get water.",
+              "vi": "Có, mình đây. Xin lỗi, mình đi lấy nước."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei mitään. Montako sä teet?",
+              "en": "No problem. How many are you doing?",
+              "vi": "Không sao. Bạn làm mấy set?"
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Kolme sarjaa vielä. Mut voidaan vuorotella jos haluut.",
+              "en": "Three more sets. But we can take turns if you like.",
+              "vi": "Ba set nữa. Mà mình thay phiên cũng được nếu bạn muốn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo kiitos, se olis hyvä.",
+              "en": "Yeah thanks, that would be good.",
+              "vi": "Ừ cảm ơn, thế thì tốt."
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Tarviitsä nämä levyt?",
+              "en": "Do you need these plates?",
+              "vi": "Bạn có cần mấy cái bánh tạ này không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "En, mä otan kevyemmät. Ota vaan.",
+              "en": "No, I'll take lighter ones. Go ahead.",
+              "vi": "Không, mình lấy loại nhẹ hơn. Bạn cứ dùng đi."
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Kiitti. Ei kiirettä, tee rauhassa.",
+              "en": "Thanks. No rush, take your time.",
+              "vi": "Cảm ơn. Không gấp đâu, bạn cứ từ từ."
+            }
+          ],
+          "title_vi": "Cái khăn không có chủ",
+          "setting_vi": "Một cái máy có khăn đặt trên đó mà không thấy ai gần.",
+          "note_vi": "Hãy nói to ra với cả phòng. Bao giờ cũng có người trả lời."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Share a machine",
+          "scenario": "Ask if it's free, propose taking turns, ask for a spot, and wipe down.",
+          "your_role": "You, wanting the bench",
+          "partner_role": "Another gym-goer",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Onks tää vapaa?",
+              "en": "Hi! Is this free?",
+              "hint": "The single most useful sentence in a Finnish gym.",
+              "vi": "Chào! Cái này trống không?",
+              "hint_vi": "Câu hữu dụng nhất trong một phòng gym Phần Lan."
+            },
+            {
+              "speaker": "Mies",
+              "is_your_turn": false,
+              "fi": "Sori, mä oon vielä tässä. Kaks sarjaa jäljellä.",
+              "en": "Sorry, I'm still here. Two sets left.",
+              "vi": "Xin lỗi, mình vẫn đang dùng. Còn hai set nữa."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei kiirettä. Voidaanko vuorotella?",
+              "en": "No rush. Shall we take turns?",
+              "hint": "Completely normal and usually welcomed.",
+              "vi": "Không gấp đâu. Mình thay phiên nhau nhé?",
+              "hint_vi": "Hoàn toàn bình thường và thường được hoan nghênh."
+            },
+            {
+              "speaker": "Mies",
+              "is_your_turn": false,
+              "fi": "Joo, käy hyvin. Paljonko sä nostat?",
+              "en": "Yeah, works well. How much are you lifting?",
+              "vi": "Ừ, được đấy. Bạn nâng bao nhiêu?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kuuskymmentä. Entä sä?",
+              "en": "Sixty. And you?",
+              "hint": "Answer and bounce it back — this is small talk now.",
+              "vi": "Sáu mươi. Còn bạn?",
+              "hint_vi": "Trả lời rồi đẩy lại — giờ thì đây là chuyện phiếm."
+            },
+            {
+              "speaker": "Mies",
+              "is_your_turn": false,
+              "fi": "Kaheksankymmentä. Vaihdetaan levyjä.",
+              "en": "Eighty. We'll swap plates.",
+              "vi": "Tám mươi. Mình đổi bánh tạ."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Sopii. Voitsä varmistaa mua?",
+              "en": "Works. Could you spot me?",
+              "hint": "Asking a stranger to spot is completely normal here.",
+              "vi": "Được. Bạn đỡ tạ giúp mình được không?",
+              "hint_vi": "Nhờ người lạ đỡ tạ là chuyện hoàn toàn bình thường ở đây."
+            },
+            {
+              "speaker": "Mies",
+              "is_your_turn": false,
+              "fi": "Joo totta kai.",
+              "en": "Yeah, of course.",
+              "vi": "Ừ tất nhiên."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitti. …Valmis, mä pyyhin sen.",
+              "en": "Thanks. …Done, I'll wipe it down.",
+              "hint": "Wiping down is expected. Say it and do it.",
+              "vi": "Cảm ơn. …Xong, mình lau máy nhé.",
+              "hint_vi": "Lau máy là điều được mong đợi. Nói rồi làm."
+            }
+          ],
+          "title_vi": "Dùng chung một máy tập",
+          "scenario_vi": "Hỏi xem có trống không, đề nghị thay phiên, nhờ đỡ tạ, và lau máy.",
+          "your_role_vi": "Bạn, muốn dùng cái ghế tập",
+          "partner_role_vi": "Một người tập khác"
+        }
+      ],
+      "title_vi": "Dùng chung thiết bị",
+      "subtitle_vi": "Onks tää vapaa? Voidaanko vuorotella?",
+      "warmup_situation_vi": "Khăn của ai đó đang đặt trên cái ghế tập mà bạn muốn dùng. Người đó đứng cách mười hai mét, đang xem điện thoại. Bạn đã đứng đây chín mươi giây.",
+      "warmup_question_vi": "Hai câu nào giải quyết được mọi tình huống tranh thiết bị trong một phòng gym Phần Lan?",
+      "rescue_vi": "Xin lỗi, mình vẫn đang dùng cái này.",
+      "rescue_note_vi": "Nói một cách lịch sự, kèm một cái chỉ tay nhỏ về phía thiết bị. Người Phần Lan sẽ xin lỗi và đi ngay. Trong đoạn trao đổi này hoàn toàn không có xung đột nào — nó chỉ là thông tin, và cả hai bên đều coi nó như vậy."
+    },
+    {
+      "slug": "group-class",
+      "number": "7.3",
+      "title": "Following a group class",
+      "subtitle": "Oikee, vasen, ylös, alas, vielä kerran!",
+      "warmup_situation": "A spin class. The instructor is shouting over loud music, everyone else knows exactly what to do, and you're half a beat behind on every single instruction.",
+      "warmup_question": "You can't catch full sentences. Which twelve words carry the whole class?",
+      "rescue_fi": "Mä oon ekaa kertaa — voinks mä olla takarivissä?",
+      "rescue_en": "It's my first time — can I be in the back row?",
+      "rescue_note": "Tell the instructor before the class starts. They will keep an eye on you, demonstrate more clearly, and often come over once to correct your form. Finnish instructors are genuinely good at this and being new is not embarrassing.",
+      "vocab": [
+        {
+          "fi": "ryhmäliikunta",
+          "en": "group exercise",
+          "pos": "noun",
+          "vi": "thể dục nhóm"
+        },
+        {
+          "fi": "tunti",
+          "en": "class, hour",
+          "pos": "noun",
+          "note": "'Spinning-tunti' = a spin class.",
+          "vi": "lớp học, tiết",
+          "note_vi": "«Spinning-tunti» = lớp đạp xe."
+        },
+        {
+          "fi": "ohjaaja",
+          "en": "instructor",
+          "pos": "noun",
+          "vi": "huấn luyện viên, người hướng dẫn"
+        },
+        {
+          "fi": "ilmoittautuminen",
+          "en": "booking",
+          "pos": "noun",
+          "note": "Popular classes fill up. Book online, often exactly a day ahead.",
+          "vi": "việc đăng ký",
+          "note_vi": "Lớp hot thì hết chỗ. Đăng ký trên mạng, thường trước đúng một ngày."
+        },
+        {
+          "fi": "oikee",
+          "fi_book": "oikea",
+          "en": "right",
+          "pos": "adjective",
+          "vi": "bên phải"
+        },
+        {
+          "fi": "vasen",
+          "en": "left",
+          "pos": "adjective",
+          "vi": "bên trái"
+        },
+        {
+          "fi": "ylös",
+          "en": "up",
+          "pos": "adverb",
+          "vi": "lên"
+        },
+        {
+          "fi": "alas",
+          "en": "down",
+          "pos": "adverb",
+          "vi": "xuống"
+        },
+        {
+          "fi": "eteen",
+          "en": "forward",
+          "pos": "adverb",
+          "vi": "ra trước"
+        },
+        {
+          "fi": "taakse",
+          "en": "back",
+          "pos": "adverb",
+          "vi": "ra sau"
+        },
+        {
+          "fi": "sivulle",
+          "en": "to the side",
+          "pos": "adverb",
+          "vi": "sang bên"
+        },
+        {
+          "fi": "vielä kerran",
+          "en": "one more time",
+          "pos": "phrase",
+          "note": "You will hear this constantly. It never means once.",
+          "vi": "một lần nữa",
+          "note_vi": "Bạn sẽ nghe câu này liên tục. Nó không bao giờ có nghĩa là một lần."
+        },
+        {
+          "fi": "vielä viisi",
+          "en": "five more",
+          "pos": "phrase",
+          "vi": "năm cái nữa"
+        },
+        {
+          "fi": "viimeinen",
+          "en": "last",
+          "pos": "adjective",
+          "note": "The word you're waiting for.",
+          "vi": "cuối cùng",
+          "note_vi": "Từ mà bạn đang mong chờ."
+        },
+        {
+          "fi": "nopeammin",
+          "en": "faster",
+          "pos": "adverb",
+          "vi": "nhanh hơn"
+        },
+        {
+          "fi": "hitaammin",
+          "en": "slower",
+          "pos": "adverb",
+          "vi": "chậm hơn"
+        },
+        {
+          "fi": "hengitä",
+          "en": "breathe",
+          "pos": "verb",
+          "vi": "hít thở đi"
+        },
+        {
+          "fi": "pidä",
+          "en": "hold",
+          "pos": "verb",
+          "vi": "giữ"
+        },
+        {
+          "fi": "rentona",
+          "en": "relaxed",
+          "pos": "adverb",
+          "vi": "thư giãn, buông lỏng"
+        },
+        {
+          "fi": "suorana",
+          "en": "straight",
+          "pos": "adverb",
+          "note": "'Selkä suorana' = back straight. You'll hear this a lot.",
+          "vi": "thẳng",
+          "note_vi": "«Selkä suorana» = lưng thẳng. Bạn sẽ nghe câu này nhiều."
+        },
+        {
+          "fi": "koukkuun",
+          "en": "bend",
+          "pos": "adverb",
+          "vi": "gập lại"
+        },
+        {
+          "fi": "puristus",
+          "en": "squeeze",
+          "pos": "noun",
+          "vi": "siết, ép"
+        },
+        {
+          "fi": "venyttely",
+          "en": "stretching",
+          "pos": "noun",
+          "note": "The last five minutes of every class.",
+          "vi": "giãn cơ",
+          "note_vi": "Năm phút cuối của mọi lớp học."
+        },
+        {
+          "fi": "alkuverryttely",
+          "en": "warm-up",
+          "pos": "noun",
+          "vi": "khởi động"
+        },
+        {
+          "fi": "loppuverryttely",
+          "en": "cool-down",
+          "pos": "noun",
+          "vi": "hạ nhiệt cuối buổi"
+        },
+        {
+          "fi": "tauko",
+          "en": "break",
+          "pos": "noun",
+          "vi": "quãng nghỉ"
+        },
+        {
+          "fi": "hyvä",
+          "en": "good",
+          "pos": "adjective",
+          "note": "Shouted at you as encouragement. Take it.",
+          "vi": "tốt, được lắm",
+          "note_vi": "Được hô vào mặt bạn như lời động viên. Hãy nhận lấy."
+        },
+        {
+          "fi": "jaksatko",
+          "en": "can you keep going?",
+          "pos": "verb",
+          "vi": "bạn còn trụ được không?"
+        },
+        {
+          "fi": "helpompi versio",
+          "en": "easier version",
+          "pos": "phrase",
+          "note": "Always offered. Take it without shame.",
+          "vi": "phiên bản dễ hơn",
+          "note_vi": "Lúc nào cũng được đề nghị. Hãy nhận mà không phải ngượng."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mä oon ekaa kertaa.",
+          "en": "It's my first time.",
+          "when_to_use": "Say it to the instructor before the class. Changes everything.",
+          "register": "casual",
+          "vi": "Em lần đầu đi lớp này.",
+          "when_to_use_vi": "Nói với huấn luyện viên trước lớp. Nó thay đổi mọi thứ."
+        },
+        {
+          "fi": "Voinks mä olla takarivissä?",
+          "en": "Can I be in the back row?",
+          "when_to_use": "You can see everyone else. Instructors understand instantly.",
+          "register": "casual",
+          "vi": "Em đứng hàng cuối được không ạ?",
+          "when_to_use_vi": "Bạn thấy được mọi người khác. Huấn luyện viên hiểu ngay."
+        },
+        {
+          "fi": "Tarviiks mä ilmoittautua etukäteen?",
+          "en": "Do I need to book in advance?",
+          "when_to_use": "Popular classes fill up. Usually you book online.",
+          "register": "neutral",
+          "vi": "Em có cần đăng ký trước không ạ?",
+          "when_to_use_vi": "Lớp hot thì hết chỗ. Thường đăng ký trên mạng."
+        },
+        {
+          "fi": "Mitä mä tarvitsen mukaan?",
+          "en": "What do I need to bring?",
+          "when_to_use": "Mat, towel, water, indoor shoes — depends on the class.",
+          "register": "casual",
+          "vi": "Em cần mang gì theo ạ?",
+          "when_to_use_vi": "Thảm, khăn, nước, giày trong nhà — tuỳ lớp."
+        },
+        {
+          "fi": "Onks tää kova tunti?",
+          "en": "Is this a hard class?",
+          "when_to_use": "Ask before, not during. You'll get an honest answer.",
+          "register": "casual",
+          "vi": "Lớp này có nặng không ạ?",
+          "when_to_use_vi": "Hỏi trước, đừng hỏi giữa lớp. Bạn sẽ được trả lời thật."
+        },
+        {
+          "fi": "Onks tästä helpompi versio?",
+          "en": "Is there an easier version of this?",
+          "when_to_use": "Always yes. Take it without any embarrassment.",
+          "register": "casual",
+          "vi": "Động tác này có phiên bản dễ hơn không ạ?",
+          "when_to_use_vi": "Lúc nào cũng có. Hãy nhận mà không ngượng ngùng gì."
+        },
+        {
+          "fi": "Mä otan vähän rauhallisemmin.",
+          "en": "I'll take it a bit easier.",
+          "when_to_use": "Announce it and nobody thinks anything of it.",
+          "register": "casual",
+          "vi": "Em tập nhẹ hơn một chút nhé.",
+          "when_to_use_vi": "Nói ra và không ai nghĩ gì cả."
+        },
+        {
+          "fi": "Teenks mä tän oikein?",
+          "en": "Am I doing this right?",
+          "when_to_use": "Ask the instructor. They'll come over and correct you properly.",
+          "register": "casual",
+          "vi": "Em làm thế này đúng không ạ?",
+          "when_to_use_vi": "Hỏi huấn luyện viên. Họ sẽ đến chỉnh tư thế cho bạn đàng hoàng."
+        },
+        {
+          "fi": "Missä lihaksessa tän pitäis tuntua?",
+          "en": "Which muscle should I feel this in?",
+          "when_to_use": "A good question and instructors like it.",
+          "register": "neutral",
+          "vi": "Động tác này phải cảm thấy ở cơ nào ạ?",
+          "when_to_use_vi": "Một câu hỏi hay và huấn luyện viên rất thích."
+        },
+        {
+          "fi": "Onks meillä tauko?",
+          "en": "Do we have a break?",
+          "when_to_use": "Asked hopefully, mid-class. Usually the answer is soon.",
+          "register": "casual",
+          "vi": "Mình có được nghỉ không ạ?",
+          "when_to_use_vi": "Hỏi trong hy vọng, giữa lớp. Thường câu trả lời là sắp rồi."
+        },
+        {
+          "fi": "Oliks toi viimeinen?",
+          "en": "Was that the last one?",
+          "when_to_use": "The most hopeful sentence in any group class.",
+          "register": "casual",
+          "vi": "Vừa rồi là cái cuối cùng ạ?",
+          "when_to_use_vi": "Câu nói đầy hy vọng nhất trong mọi lớp tập nhóm."
+        },
+        {
+          "fi": "Kiitos tunnista!",
+          "en": "Thanks for the class!",
+          "when_to_use": "Said to the instructor on the way out. Always appreciated.",
+          "register": "neutral",
+          "vi": "Cảm ơn buổi tập ạ!",
+          "when_to_use_vi": "Nói với huấn luyện viên lúc ra về. Luôn được trân trọng."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Before the class",
+          "setting": "Two minutes before a spin class. Duc talks to the instructor.",
+          "speed": "slow",
+          "note": "Thirty seconds of conversation makes the next forty-five minutes manageable.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä oon ekaa kertaa tällä tunnilla.",
+              "en": "Hi! It's my first time at this class.",
+              "vi": "Chào chị! Em lần đầu đi lớp này."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Moi, tervetuloa! Ootsä spinnannu ennen?",
+              "en": "Hi, welcome! Have you done spinning before?",
+              "vi": "Chào em, chào mừng! Em đạp xe kiểu này bao giờ chưa?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "En koskaan. Voinks mä olla takarivissä?",
+              "en": "Never. Can I be in the back row?",
+              "vi": "Chưa bao giờ. Em đứng hàng cuối được không ạ?"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Joo totta kai. Mä säädän sun pyörän, tuu tänne.",
+              "en": "Yeah of course. I'll adjust your bike, come here.",
+              "vi": "Được chứ. Chị điều chỉnh xe cho em, lại đây."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Onks tää kova tunti?",
+              "en": "Thanks. Is this a hard class?",
+              "vi": "Cảm ơn chị. Lớp này có nặng không ạ?"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Se on aika kova, mut sä säädät itse vastuksen. Ota rauhallisesti ekana kertana.",
+              "en": "It's fairly hard, but you set your own resistance. Take it easy the first time.",
+              "vi": "Khá nặng đấy, nhưng em tự điều chỉnh lực cản. Lần đầu thì tập nhẹ thôi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Mä en ehkä ymmärrä kaikkia ohjeita.",
+              "en": "Right. I might not understand all the instructions.",
+              "vi": "Vâng. Có thể em sẽ không hiểu hết các hiệu lệnh."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Ei haittaa. Katso vaan mua, mä näytän kaiken.",
+              "en": "Doesn't matter. Just watch me, I demonstrate everything.",
+              "vi": "Không sao. Em cứ nhìn chị, chị làm mẫu hết."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Se auttaa paljon. Kiitos!",
+              "en": "That helps a lot. Thanks!",
+              "vi": "Thế thì giúp em nhiều lắm. Cảm ơn chị!"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Ja jos on liian kovaa, ota helpompi versio. Sano vaan.",
+              "en": "And if it's too hard, take the easier version. Just say.",
+              "vi": "Và nếu nặng quá thì em lấy phiên bản dễ hơn. Cứ nói nhé."
+            }
+          ],
+          "title_vi": "Trước lớp học",
+          "setting_vi": "Hai phút trước một lớp đạp xe. Duc nói chuyện với huấn luyện viên.",
+          "note_vi": "Ba mươi giây trò chuyện làm cho bốn mươi lăm phút tiếp theo trở nên vừa sức."
+        },
+        {
+          "title": "During the class",
+          "setting": "Loud music, shouted instructions. These are the words that matter.",
+          "speed": "natural",
+          "note": "You won't catch sentences. Catch these twelve words and you can follow anything.",
+          "lines": [
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Ylös! Ja alas. Hyvä!",
+              "en": "Up! And down. Good!",
+              "vi": "Lên! Và xuống. Tốt!"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Oikee jalka eteen. Vasen taakse.",
+              "en": "Right leg forward. Left back.",
+              "vi": "Chân phải ra trước. Chân trái ra sau."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Selkä suorana! Hengitä!",
+              "en": "Back straight! Breathe!",
+              "vi": "Lưng thẳng! Hít thở!"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Vielä kymmenen. Nopeammin!",
+              "en": "Ten more. Faster!",
+              "vi": "Mười cái nữa. Nhanh hơn!"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Vielä viisi… neljä… kolme…",
+              "en": "Five more… four… three…",
+              "vi": "Năm cái nữa… bốn… ba…"
+            },
+            {
+              "speaker": "Ohjaaja",
+              "fi": "Ja viimeinen! Hyvä kaikki!",
+              "en": "And the last one! Well done everyone!",
+              "vi": "Và cái cuối! Cả lớp tốt lắm!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Oliks toi viimeinen?",
+              "en": "Was that the last one?",
+              "vi": "Vừa rồi là cái cuối cùng ạ?"
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Sen sarjan. Nyt tulee vielä kaks.",
+              "en": "Of that set. Two more to come now.",
+              "vi": "Của set đó. Giờ còn hai set nữa."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Voi ei. Mä otan vähän rauhallisemmin.",
+              "en": "Oh no. I'll take it a bit easier.",
+              "vi": "Ôi không. Em tập nhẹ hơn một chút nhé."
+            },
+            {
+              "speaker": "Nainen",
+              "fi": "Hyvä idea. Mäkin ekalla kerralla melkein kuolin.",
+              "en": "Good idea. I almost died my first time too.",
+              "vi": "Ý hay đấy. Lần đầu chị cũng gần chết."
+            }
+          ],
+          "title_vi": "Trong lớp học",
+          "setting_vi": "Nhạc lớn, hiệu lệnh hô to. Đây là những từ quan trọng.",
+          "note_vi": "Bạn sẽ không bắt được cả câu. Bắt mười hai từ này là bạn theo được bất cứ lớp nào."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Survive your first class",
+          "scenario": "Tell the instructor you're new, ask about difficulty, and ask for help during.",
+          "your_role": "You, first time at the class",
+          "partner_role": "The instructor",
+          "turns": [
+            {
+              "speaker": "Ohjaaja",
+              "is_your_turn": false,
+              "fi": "Moi! Tervetuloa tunnille.",
+              "en": "Hi! Welcome to the class.",
+              "vi": "Chào em! Chào mừng đến lớp."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Mä oon ekaa kertaa.",
+              "en": "Hi! It's my first time.",
+              "hint": "Say it before the class. It changes how they teach you.",
+              "vi": "Chào chị! Em lần đầu đi lớp này.",
+              "hint_vi": "Nói trước lớp. Nó thay đổi cách họ dạy bạn."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "is_your_turn": false,
+              "fi": "Kiva! Ootsä tehny tätä ennen?",
+              "en": "Nice! Have you done this before?",
+              "vi": "Hay quá! Em làm cái này bao giờ chưa?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "En koskaan. Voinks mä olla takarivissä?",
+              "en": "Never. Can I be in the back row?",
+              "hint": "You can see everyone else from there. Instructors understand.",
+              "vi": "Chưa bao giờ. Em đứng hàng cuối được không ạ?",
+              "hint_vi": "Từ đó bạn thấy được mọi người khác. Huấn luyện viên hiểu ngay."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "is_your_turn": false,
+              "fi": "Totta kai. Mä säädän sun paikan.",
+              "en": "Of course. I'll set up your spot.",
+              "vi": "Được chứ. Chị sắp chỗ cho em."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Onks tää kova tunti?",
+              "en": "Thanks. Is this a hard class?",
+              "hint": "Ask before, not during. You'll get an honest answer.",
+              "vi": "Cảm ơn chị. Lớp này có nặng không ạ?",
+              "hint_vi": "Hỏi trước, đừng hỏi giữa lớp. Bạn sẽ được trả lời thật."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "is_your_turn": false,
+              "fi": "Aika kova, mut sä säädät itse tahdin.",
+              "en": "Fairly hard, but you set your own pace.",
+              "vi": "Khá nặng, nhưng em tự điều chỉnh nhịp."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Mä en ehkä ymmärrä kaikkia ohjeita.",
+              "en": "Right. I might not understand all the instructions.",
+              "hint": "Naming it means they'll demonstrate more clearly.",
+              "vi": "Vâng. Có thể em sẽ không hiểu hết các hiệu lệnh.",
+              "hint_vi": "Nói ra nghĩa là họ sẽ làm mẫu rõ hơn."
+            },
+            {
+              "speaker": "Ohjaaja",
+              "is_your_turn": false,
+              "fi": "Katso vaan mua, mä näytän kaiken.",
+              "en": "Just watch me, I demonstrate everything.",
+              "vi": "Em cứ nhìn chị, chị làm mẫu hết."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Se auttaa paljon. Kiitos tunnista jo etukäteen!",
+              "en": "That helps a lot. Thanks for the class in advance!",
+              "hint": "Warm and slightly funny. Instructors remember you.",
+              "vi": "Thế thì giúp em nhiều lắm. Cảm ơn chị trước ạ!",
+              "hint_vi": "Ấm áp và hơi buồn cười. Huấn luyện viên sẽ nhớ bạn."
+            }
+          ],
+          "title_vi": "Sống sót qua lớp học đầu tiên",
+          "scenario_vi": "Nói với huấn luyện viên là bạn mới, hỏi về độ nặng, và xin giúp đỡ trong lúc tập.",
+          "your_role_vi": "Bạn, lần đầu đi lớp này",
+          "partner_role_vi": "Huấn luyện viên"
+        }
+      ],
+      "title_vi": "Theo một lớp tập nhóm",
+      "subtitle_vi": "Oikee, vasen, ylös, alas, vielä kerran!",
+      "warmup_situation_vi": "Một lớp đạp xe. Huấn luyện viên hô to trên tiếng nhạc lớn, mọi người khác đều biết chính xác phải làm gì, còn bạn thì chậm nửa nhịp ở mọi hiệu lệnh.",
+      "warmup_question_vi": "Bạn không bắt được cả câu. Mười hai từ nào gánh cả lớp học?",
+      "rescue_vi": "Em lần đầu đi lớp này — em đứng hàng cuối được không ạ?",
+      "rescue_note_vi": "Hãy nói với huấn luyện viên trước khi lớp bắt đầu. Họ sẽ để mắt đến bạn, làm mẫu rõ hơn, và thường sẽ đến chỉnh tư thế cho bạn một lần. Huấn luyện viên Phần Lan thật sự giỏi việc này và việc bạn mới không có gì đáng ngượng."
+    },
+    {
+      "slug": "chatting-with-regulars",
+      "number": "7.4",
+      "title": "Chatting with the regulars",
+      "subtitle": "Mitä sä treenaat?",
+      "warmup_situation": "The same four people are there every Tuesday and Thursday at 18:00. After three months, one of them nods at you. After five, one says something.",
+      "warmup_question": "What's the one question that opens every gym conversation in Finland?",
+      "rescue_fi": "Sori, mä oon vähän hengästyny.",
+      "rescue_en": "Sorry, I'm a bit out of breath.",
+      "rescue_note": "A completely legitimate reason to give a short answer or postpone a conversation, and it's often true. Nobody at a gym expects a long chat between sets — short exchanges are the whole social form here.",
+      "vocab": [
+        {
+          "fi": "treenata",
+          "en": "to train, to work out",
+          "pos": "verb",
+          "note": "'Mitä sä treenaat?' = what are you training? The standard opener.",
+          "vi": "tập luyện",
+          "note_vi": "«Mitä sä treenaat?» = hôm nay bạn tập gì? Câu mở đầu tiêu chuẩn."
+        },
+        {
+          "fi": "treeni",
+          "en": "workout",
+          "pos": "noun",
+          "vi": "buổi tập"
+        },
+        {
+          "fi": "treenit",
+          "en": "training session",
+          "pos": "noun",
+          "vi": "buổi tập (số nhiều)"
+        },
+        {
+          "fi": "kävijä",
+          "en": "regular, visitor",
+          "pos": "noun",
+          "vi": "người tập quen, khách thường"
+        },
+        {
+          "fi": "usein",
+          "en": "often",
+          "pos": "adverb",
+          "vi": "thường xuyên"
+        },
+        {
+          "fi": "monta kertaa viikossa",
+          "en": "how many times a week",
+          "pos": "phrase",
+          "vi": "mấy lần một tuần"
+        },
+        {
+          "fi": "rutiini",
+          "en": "routine",
+          "pos": "noun",
+          "vi": "lịch tập thường ngày"
+        },
+        {
+          "fi": "ohjelma",
+          "en": "programme",
+          "pos": "noun",
+          "vi": "chương trình tập"
+        },
+        {
+          "fi": "jalkapäivä",
+          "en": "leg day",
+          "pos": "noun",
+          "note": "A universal joke here as everywhere. Say it and you'll get sympathy.",
+          "vi": "ngày tập chân",
+          "note_vi": "Một câu đùa phổ quát ở đây cũng như mọi nơi. Nói ra là được thông cảm."
+        },
+        {
+          "fi": "yläkroppa",
+          "en": "upper body",
+          "pos": "noun",
+          "vi": "thân trên"
+        },
+        {
+          "fi": "alakroppa",
+          "en": "lower body",
+          "pos": "noun",
+          "vi": "thân dưới"
+        },
+        {
+          "fi": "selkä",
+          "en": "back",
+          "pos": "noun",
+          "vi": "lưng"
+        },
+        {
+          "fi": "rinta",
+          "en": "chest",
+          "pos": "noun",
+          "vi": "ngực"
+        },
+        {
+          "fi": "hauis",
+          "en": "biceps",
+          "pos": "noun",
+          "vi": "cơ tay trước"
+        },
+        {
+          "fi": "vatsa",
+          "en": "abs, stomach",
+          "pos": "noun",
+          "vi": "cơ bụng"
+        },
+        {
+          "fi": "penkkipunnerrus",
+          "en": "bench press",
+          "pos": "noun",
+          "vi": "đẩy ngực trên ghế"
+        },
+        {
+          "fi": "kyykky",
+          "en": "squat",
+          "pos": "noun",
+          "vi": "squat, gánh đùi"
+        },
+        {
+          "fi": "maastaveto",
+          "en": "deadlift",
+          "pos": "noun",
+          "vi": "deadlift, nâng tạ từ sàn"
+        },
+        {
+          "fi": "leuanveto",
+          "en": "pull-up",
+          "pos": "noun",
+          "vi": "hít đất kiểu treo (pull-up)"
+        },
+        {
+          "fi": "punttisali",
+          "en": "weights room",
+          "pos": "noun",
+          "vi": "khu tập tạ"
+        },
+        {
+          "fi": "kestävyys",
+          "en": "endurance",
+          "pos": "noun",
+          "vi": "sức bền"
+        },
+        {
+          "fi": "voima",
+          "en": "strength",
+          "pos": "noun",
+          "vi": "sức mạnh"
+        },
+        {
+          "fi": "lihaskunto",
+          "en": "muscular fitness",
+          "pos": "noun",
+          "vi": "thể lực cơ bắp"
+        },
+        {
+          "fi": "kunto",
+          "en": "fitness, condition",
+          "pos": "noun",
+          "note": "'Mun kunto on huono' = I'm out of shape. Said cheerfully.",
+          "vi": "thể lực, tình trạng",
+          "note_vi": "«Mun kunto on huono» = mình đang xuống thể lực. Nói một cách vui vẻ."
+        },
+        {
+          "fi": "hengästyä",
+          "en": "to get out of breath",
+          "pos": "verb",
+          "vi": "hụt hơi, thở dốc"
+        },
+        {
+          "fi": "lihaskipu",
+          "en": "muscle soreness",
+          "pos": "noun",
+          "vi": "đau cơ"
+        },
+        {
+          "fi": "jumissa",
+          "en": "stiff",
+          "pos": "adverb",
+          "vi": "cứng, bị kẹt"
+        },
+        {
+          "fi": "palautuminen",
+          "en": "recovery",
+          "pos": "noun",
+          "vi": "sự hồi phục"
+        },
+        {
+          "fi": "proteiini",
+          "en": "protein",
+          "pos": "noun",
+          "vi": "protein"
+        },
+        {
+          "fi": "edistyminen",
+          "en": "progress",
+          "pos": "noun",
+          "vi": "sự tiến bộ"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mitä sä treenaat tänään?",
+          "en": "What are you training today?",
+          "when_to_use": "The universal gym opener. Learn this one first.",
+          "register": "casual",
+          "vi": "Hôm nay bạn tập gì?",
+          "when_to_use_vi": "Câu mở đầu phổ quát ở phòng gym. Hãy học câu này trước tiên."
+        },
+        {
+          "fi": "Tänään on jalkapäivä.",
+          "en": "Today is leg day.",
+          "when_to_use": "Always gets a reaction. Universal joke, universally understood.",
+          "register": "casual",
+          "vi": "Hôm nay là ngày tập chân.",
+          "when_to_use_vi": "Lúc nào cũng gây phản ứng. Câu đùa phổ quát, ai cũng hiểu."
+        },
+        {
+          "fi": "Monta kertaa viikossa sä käyt?",
+          "en": "How many times a week do you come?",
+          "when_to_use": "The standard follow-up. Answer with the number.",
+          "register": "casual",
+          "vi": "Bạn đi tập mấy lần một tuần?",
+          "when_to_use_vi": "Câu hỏi tiếp theo tiêu chuẩn. Trả lời bằng con số."
+        },
+        {
+          "fi": "Mä käyn kolme kertaa viikossa.",
+          "en": "I come three times a week.",
+          "when_to_use": "Simple and enough. No need to justify it.",
+          "register": "casual",
+          "vi": "Mình đi ba lần một tuần.",
+          "when_to_use_vi": "Đơn giản và đủ. Không cần biện minh gì."
+        },
+        {
+          "fi": "Mä oon nähny sut täällä usein.",
+          "en": "I've seen you here often.",
+          "when_to_use": "How a Finnish gym friendship actually starts. Say it and mean it.",
+          "register": "casual",
+          "vi": "Mình thấy bạn ở đây thường xuyên.",
+          "when_to_use_vi": "Cách một tình bạn phòng gym kiểu Phần Lan thật sự bắt đầu. Nói và nói thật lòng."
+        },
+        {
+          "fi": "Mun kunto on tosi huono tällä hetkellä.",
+          "en": "I'm really out of shape at the moment.",
+          "when_to_use": "Said cheerfully. Everyone agrees about themselves and it bonds you.",
+          "register": "casual",
+          "vi": "Dạo này thể lực mình kém lắm.",
+          "when_to_use_vi": "Nói một cách vui vẻ. Ai cũng tự nhận thế và nó gắn kết hai người."
+        },
+        {
+          "fi": "Mulla on ihan kauhee lihaskipu.",
+          "en": "I have terrible muscle soreness.",
+          "when_to_use": "Universal common ground. Guaranteed sympathy.",
+          "register": "casual",
+          "vi": "Mình đau cơ kinh khủng luôn.",
+          "when_to_use_vi": "Điểm chung phổ quát. Chắc chắn được thông cảm."
+        },
+        {
+          "fi": "Onks sulla joku ohjelma?",
+          "en": "Do you follow a programme?",
+          "when_to_use": "A real question and people enjoy answering it.",
+          "register": "casual",
+          "vi": "Bạn có theo chương trình tập nào không?",
+          "when_to_use_vi": "Một câu hỏi thật và người ta thích trả lời nó."
+        },
+        {
+          "fi": "Miten sä oot edistyny?",
+          "en": "How have you progressed?",
+          "when_to_use": "Genuinely interested, and Finns answer honestly.",
+          "register": "casual",
+          "vi": "Bạn tiến bộ thế nào?",
+          "when_to_use_vi": "Quan tâm thật sự, và người Phần Lan trả lời thành thật."
+        },
+        {
+          "fi": "Sori, mä oon vähän hengästyny.",
+          "en": "Sorry, I'm a bit out of breath.",
+          "when_to_use": "Legitimate reason to keep it short. Often true.",
+          "register": "casual",
+          "vi": "Xin lỗi, mình hơi hụt hơi.",
+          "when_to_use_vi": "Lý do chính đáng để nói ngắn. Thường là thật."
+        },
+        {
+          "fi": "Mukavia treenejä!",
+          "en": "Have a good workout!",
+          "when_to_use": "The standard sign-off between gym-goers. Use it every time.",
+          "register": "casual",
+          "vi": "Chúc tập vui nhé!",
+          "when_to_use_vi": "Câu chia tay tiêu chuẩn giữa những người tập gym. Lần nào cũng dùng."
+        },
+        {
+          "fi": "Nähdään taas torstaina!",
+          "en": "See you again on Thursday!",
+          "when_to_use": "Names the pattern you both already have. Makes you regulars together.",
+          "register": "casual",
+          "vi": "Hẹn gặp thứ Năm nhé!",
+          "when_to_use_vi": "Gọi tên cái nhịp mà cả hai vốn đã có. Nó làm hai người thành «bạn tập quen»."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "The first real conversation",
+          "setting": "Between sets. Two people who have nodded at each other for months.",
+          "speed": "slow",
+          "note": "It takes three months to start and ninety seconds to happen.",
+          "lines": [
+            {
+              "speaker": "Mies",
+              "fi": "Moi. Mä oon nähny sut täällä usein.",
+              "en": "Hi. I've seen you here often.",
+              "vi": "Chào. Mình thấy bạn ở đây thường xuyên."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Nii mäki sut. Mä käyn tiistaisin ja torstaisin.",
+              "en": "Hi! Me too, you. I come on Tuesdays and Thursdays.",
+              "vi": "Chào! Mình cũng thấy bạn. Mình đi thứ Ba với thứ Năm."
+            },
+            {
+              "speaker": "Mies",
+              "fi": "Sama. Mä oon Jukka.",
+              "en": "Same. I'm Jukka.",
+              "vi": "Giống mình. Mình là Jukka."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Duc. Mitä sä treenaat tänään?",
+              "en": "Duc. What are you training today?",
+              "vi": "Duc. Hôm nay bạn tập gì?"
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Selkää ja hauista. Entä sä?",
+              "en": "Back and biceps. And you?",
+              "vi": "Lưng với tay trước. Còn bạn?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tänään on jalkapäivä. Sori jo etukäteen.",
+              "en": "Today's leg day. Sorry in advance.",
+              "vi": "Hôm nay là ngày tập chân. Xin lỗi trước nhé."
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Haha, huomenna sä et kävele.",
+              "en": "Haha, tomorrow you won't be walking.",
+              "vi": "Haha, mai bạn không đi nổi đâu."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nii just. Onks sulla joku ohjelma?",
+              "en": "Exactly. Do you follow a programme?",
+              "vi": "Đúng thế. Bạn có theo chương trình tập nào không?"
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Joo, valmentaja teki sen. Se toimii hyvin.",
+              "en": "Yeah, a trainer made it. It works well.",
+              "vi": "Có, huấn luyện viên soạn cho mình. Nó hiệu quả lắm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai jaa. Mä pitäis ehkä tehä samoin. Mun kunto on tosi huono.",
+              "en": "Oh really. Maybe I should do the same. I'm really out of shape.",
+              "vi": "Ồ thế à. Có lẽ mình cũng nên làm vậy. Thể lực mình kém lắm."
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "No sä näytät ihan hyvältä. Mut suosittelen.",
+              "en": "Well you look fine. But I'd recommend it.",
+              "vi": "Trông bạn ổn mà. Nhưng mình vẫn khuyên nên làm."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitti. No, mukavia treenejä!",
+              "en": "Thanks. Well, have a good workout!",
+              "vi": "Cảm ơn. Thôi, chúc tập vui nhé!"
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Samoin. Nähdään taas torstaina.",
+              "en": "Likewise. See you again on Thursday.",
+              "vi": "Bạn cũng vậy. Hẹn gặp thứ Năm."
+            }
+          ],
+          "title_vi": "Cuộc trò chuyện thật sự đầu tiên",
+          "setting_vi": "Giữa các set. Hai người đã gật đầu chào nhau suốt nhiều tháng.",
+          "note_vi": "Mất ba tháng để bắt đầu và chín mươi giây để diễn ra."
+        },
+        {
+          "title": "Short exchanges over a week",
+          "setting": "Four brief encounters. This is the whole form of gym friendship here.",
+          "speed": "natural",
+          "note": "Nothing longer than two lines. That's correct, not cold.",
+          "lines": [
+            {
+              "speaker": "Jukka",
+              "fi": "Moi Duc! Mitä tänään?",
+              "en": "Hi Duc! What today?",
+              "vi": "Chào Duc! Hôm nay gì đây?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Yläkroppa. Sä?",
+              "en": "Upper body. You?",
+              "vi": "Thân trên. Còn bạn?"
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Jalat. Vaihdettiin päittäin.",
+              "en": "Legs. We swapped days.",
+              "vi": "Chân. Mình đổi ngày cho nhau rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Haha, onnea siihen.",
+              "en": "Haha, good luck with that.",
+              "vi": "Haha, chúc may mắn nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mulla on ihan kauhee lihaskipu eilisestä.",
+              "en": "Hi! I have terrible soreness from yesterday.",
+              "vi": "Chào! Mình đau cơ kinh khủng từ hôm qua."
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Se on hyvä merkki. Teit jotain oikein.",
+              "en": "That's a good sign. You did something right.",
+              "vi": "Đó là dấu hiệu tốt. Bạn làm đúng cái gì đó rồi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei tunnu siltä!",
+              "en": "It doesn't feel like it!",
+              "vi": "Chẳng có cảm giác như thế đâu!"
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Haha. Mukavia treenejä!",
+              "en": "Haha. Have a good workout!",
+              "vi": "Haha. Chúc tập vui!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sori, mä oon vähän hengästyny. Puhutaan kohta.",
+              "en": "Sorry, I'm a bit out of breath. Let's talk in a bit.",
+              "vi": "Xin lỗi, mình hơi hụt hơi. Lát nói chuyện nhé."
+            },
+            {
+              "speaker": "Jukka",
+              "fi": "Joo joo, tee vaan.",
+              "en": "Yeah yeah, carry on.",
+              "vi": "Ừ ừ, bạn cứ tập đi."
+            }
+          ],
+          "title_vi": "Những đoạn trao đổi ngắn trong một tuần",
+          "setting_vi": "Bốn lần gặp ngắn. Đây là toàn bộ hình thức của tình bạn phòng gym ở đây.",
+          "note_vi": "Không đoạn nào dài hơn hai dòng. Như thế là đúng, không phải lạnh nhạt."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Talk to a regular",
+          "scenario": "Start a conversation between sets, keep it short, and name the pattern.",
+          "your_role": "You, a regular now",
+          "partner_role": "Jukka, another regular",
+          "turns": [
+            {
+              "speaker": "Jukka",
+              "is_your_turn": false,
+              "fi": "Moi. Mä oon nähny sut täällä usein.",
+              "en": "Hi. I've seen you here often.",
+              "vi": "Chào. Mình thấy bạn ở đây thường xuyên."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Nii mäki sut. Mä käyn tiistaisin ja torstaisin.",
+              "en": "Hi! Me too, you. I come on Tuesdays and Thursdays.",
+              "hint": "Confirm, then give the concrete pattern you share.",
+              "vi": "Chào! Mình cũng thấy bạn. Mình đi thứ Ba với thứ Năm.",
+              "hint_vi": "Xác nhận, rồi nêu cái nhịp cụ thể mà hai người chia sẻ."
+            },
+            {
+              "speaker": "Jukka",
+              "is_your_turn": false,
+              "fi": "Sama. Mä oon Jukka.",
+              "en": "Same. I'm Jukka.",
+              "vi": "Giống mình. Mình là Jukka."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Duc. Mitä sä treenaat tänään?",
+              "en": "Duc. What are you training today?",
+              "hint": "The universal gym opener. Use it immediately.",
+              "vi": "Duc. Hôm nay bạn tập gì?",
+              "hint_vi": "Câu mở đầu phổ quát ở phòng gym. Dùng ngay."
+            },
+            {
+              "speaker": "Jukka",
+              "is_your_turn": false,
+              "fi": "Selkää ja hauista. Entä sä?",
+              "en": "Back and biceps. And you?",
+              "vi": "Lưng với tay trước. Còn bạn?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Tänään on jalkapäivä. Sori jo etukäteen.",
+              "en": "Today's leg day. Sorry in advance.",
+              "hint": "The universal joke. It always lands.",
+              "vi": "Hôm nay là ngày tập chân. Xin lỗi trước nhé.",
+              "hint_vi": "Câu đùa phổ quát. Lần nào cũng trúng."
+            },
+            {
+              "speaker": "Jukka",
+              "is_your_turn": false,
+              "fi": "Haha, huomenna sä et kävele.",
+              "en": "Haha, tomorrow you won't be walking.",
+              "vi": "Haha, mai bạn không đi nổi đâu."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Nii just. No, mukavia treenejä!",
+              "en": "Exactly. Well, have a good workout!",
+              "hint": "Close it after ninety seconds. That's the right length.",
+              "vi": "Đúng thế. Thôi, chúc tập vui nhé!",
+              "hint_vi": "Kết lại sau chín mươi giây. Đó là độ dài đúng."
+            },
+            {
+              "speaker": "Jukka",
+              "is_your_turn": false,
+              "fi": "Samoin!",
+              "en": "Likewise!",
+              "vi": "Bạn cũng vậy!"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Nähdään taas torstaina.",
+              "en": "See you again on Thursday.",
+              "hint": "Naming the pattern makes you regulars together.",
+              "vi": "Hẹn gặp thứ Năm.",
+              "hint_vi": "Gọi tên cái nhịp chung làm hai người thành bạn tập quen."
+            }
+          ],
+          "title_vi": "Bắt chuyện với một người tập quen",
+          "scenario_vi": "Bắt đầu cuộc trò chuyện giữa các set, giữ cho nó ngắn, và gọi tên cái nhịp chung.",
+          "your_role_vi": "Bạn, giờ đã là người tập quen",
+          "partner_role_vi": "Jukka, một người tập quen khác"
+        }
+      ],
+      "title_vi": "Trò chuyện với những người tập quen",
+      "subtitle_vi": "Mitä sä treenaat?",
+      "warmup_situation_vi": "Vẫn bốn người đó, thứ Ba và thứ Năm nào cũng có mặt lúc 18 giờ. Sau ba tháng, một người gật đầu với bạn. Sau năm tháng, một người bắt chuyện.",
+      "warmup_question_vi": "Câu hỏi nào mở đầu mọi cuộc trò chuyện trong phòng gym ở Phần Lan?",
+      "rescue_vi": "Xin lỗi, mình hơi hụt hơi.",
+      "rescue_note_vi": "Một lý do hoàn toàn chính đáng để trả lời ngắn hoặc hoãn cuộc trò chuyện, và thường là thật. Ở phòng gym không ai mong một cuộc nói chuyện dài giữa các set — những đoạn trao đổi ngắn chính là toàn bộ hình thức xã giao ở đây."
+    },
+    {
+      "slug": "talking-to-a-trainer",
+      "number": "7.5",
+      "title": "Talking to a trainer",
+      "subtitle": "Goals, injuries and what actually hurts",
+      "warmup_situation": "You've booked a session with a personal trainer. They ask what your goals are and whether you have any injuries. Both answers matter and vague ones waste the session.",
+      "warmup_question": "How do you describe an old injury accurately when you don't know the anatomical word?",
+      "rescue_fi": "Mä näytän mistä — tähän sattuu kun mä teen näin.",
+      "rescue_en": "I'll show you where — it hurts here when I do this.",
+      "rescue_note": "Point and demonstrate the movement. A trainer will identify it immediately from the position and the motion, and this is far more useful than any word you might be missing. Show, then let them name it.",
+      "vocab": [
+        {
+          "fi": "valmentaja",
+          "en": "trainer, coach",
+          "pos": "noun",
+          "vi": "huấn luyện viên"
+        },
+        {
+          "fi": "personal trainer",
+          "en": "personal trainer",
+          "pos": "noun",
+          "note": "Usually just 'PT'. Universally understood.",
+          "vi": "huấn luyện viên cá nhân",
+          "note_vi": "Thường chỉ gọi là «PT». Ai cũng hiểu."
+        },
+        {
+          "fi": "tavoite",
+          "en": "goal",
+          "pos": "noun",
+          "vi": "mục tiêu"
+        },
+        {
+          "fi": "ohjelma",
+          "en": "programme",
+          "pos": "noun",
+          "vi": "chương trình tập"
+        },
+        {
+          "fi": "suunnitelma",
+          "en": "plan",
+          "pos": "noun",
+          "vi": "kế hoạch"
+        },
+        {
+          "fi": "laihtua",
+          "en": "to lose weight",
+          "pos": "verb",
+          "vi": "giảm cân"
+        },
+        {
+          "fi": "kasvattaa lihasta",
+          "en": "to build muscle",
+          "pos": "phrase",
+          "vi": "tăng cơ"
+        },
+        {
+          "fi": "vahvistua",
+          "en": "to get stronger",
+          "pos": "verb",
+          "vi": "trở nên khoẻ hơn"
+        },
+        {
+          "fi": "parantaa kuntoa",
+          "en": "to improve fitness",
+          "pos": "phrase",
+          "vi": "cải thiện thể lực"
+        },
+        {
+          "fi": "kestävyyskunto",
+          "en": "cardiovascular fitness",
+          "pos": "noun",
+          "vi": "thể lực tim mạch"
+        },
+        {
+          "fi": "liikkuvuus",
+          "en": "mobility",
+          "pos": "noun",
+          "vi": "khả năng vận động linh hoạt"
+        },
+        {
+          "fi": "tekniikka",
+          "en": "technique",
+          "pos": "noun",
+          "note": "The most valuable thing a trainer gives you. Ask about it.",
+          "vi": "kỹ thuật động tác",
+          "note_vi": "Thứ giá trị nhất mà huấn luyện viên mang lại cho bạn. Hãy hỏi về nó."
+        },
+        {
+          "fi": "vamma",
+          "en": "injury",
+          "pos": "noun",
+          "vi": "chấn thương"
+        },
+        {
+          "fi": "loukkaantuminen",
+          "en": "an injury",
+          "pos": "noun",
+          "vi": "một lần bị thương"
+        },
+        {
+          "fi": "vanha vamma",
+          "en": "old injury",
+          "pos": "phrase",
+          "vi": "chấn thương cũ"
+        },
+        {
+          "fi": "leikkaus",
+          "en": "surgery",
+          "pos": "noun",
+          "note": "Say if you've had one. It changes the whole programme.",
+          "vi": "ca phẫu thuật",
+          "note_vi": "Hãy nói nếu bạn từng mổ. Nó thay đổi cả chương trình tập."
+        },
+        {
+          "fi": "nivel",
+          "en": "joint",
+          "pos": "noun",
+          "vi": "khớp"
+        },
+        {
+          "fi": "jänne",
+          "en": "tendon",
+          "pos": "noun",
+          "vi": "gân"
+        },
+        {
+          "fi": "lihas",
+          "en": "muscle",
+          "pos": "noun",
+          "vi": "cơ"
+        },
+        {
+          "fi": "välilevy",
+          "en": "spinal disc",
+          "pos": "noun",
+          "vi": "đĩa đệm cột sống"
+        },
+        {
+          "fi": "rajoitus",
+          "en": "restriction, limitation",
+          "pos": "noun",
+          "vi": "giới hạn, hạn chế"
+        },
+        {
+          "fi": "välttää",
+          "en": "to avoid",
+          "pos": "verb",
+          "note": "'Mun pitää välttää kyykkyjä' = I need to avoid squats.",
+          "vi": "tránh",
+          "note_vi": "«Mun pitää välttää kyykkyjä» = em phải tránh động tác squat."
+        },
+        {
+          "fi": "sattuu",
+          "en": "it hurts",
+          "pos": "verb",
+          "vi": "bị đau"
+        },
+        {
+          "fi": "kipeytyy",
+          "en": "it becomes sore",
+          "pos": "verb",
+          "vi": "trở nên đau nhức"
+        },
+        {
+          "fi": "rasittaa",
+          "en": "to strain",
+          "pos": "verb",
+          "vi": "gây căng, gây áp lực"
+        },
+        {
+          "fi": "varovasti",
+          "en": "carefully",
+          "pos": "adverb",
+          "vi": "cẩn thận"
+        },
+        {
+          "fi": "vaihtoehtoinen liike",
+          "en": "alternative exercise",
+          "pos": "phrase",
+          "note": "What you want if something hurts. Ask for one.",
+          "vi": "động tác thay thế",
+          "note_vi": "Thứ bạn cần nếu một động tác gây đau. Hãy xin một cái."
+        },
+        {
+          "fi": "edistyä",
+          "en": "to progress",
+          "pos": "verb",
+          "vi": "tiến bộ"
+        },
+        {
+          "fi": "seuranta",
+          "en": "follow-up",
+          "pos": "noun",
+          "vi": "buổi theo dõi tiếp"
+        },
+        {
+          "fi": "realistinen",
+          "en": "realistic",
+          "pos": "adjective",
+          "vi": "thực tế, khả thi"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mun tavoite on vahvistua.",
+          "en": "My goal is to get stronger.",
+          "when_to_use": "One clear goal beats three vague ones. Pick one.",
+          "register": "neutral",
+          "vi": "Mục tiêu của em là khoẻ hơn.",
+          "when_to_use_vi": "Một mục tiêu rõ ràng tốt hơn ba mục tiêu mơ hồ. Hãy chọn một."
+        },
+        {
+          "fi": "Mä haluun parantaa kuntoa ja liikkuvuutta.",
+          "en": "I want to improve my fitness and mobility.",
+          "when_to_use": "A realistic, well-received answer for most people.",
+          "register": "neutral",
+          "vi": "Em muốn cải thiện thể lực và độ linh hoạt.",
+          "when_to_use_vi": "Một câu trả lời thực tế và được đón nhận tốt với phần lớn mọi người."
+        },
+        {
+          "fi": "Mulla on vanha vamma selässä.",
+          "en": "I have an old back injury.",
+          "when_to_use": "Say this at the start, not after something hurts.",
+          "register": "neutral",
+          "vi": "Em có một chấn thương cũ ở lưng.",
+          "when_to_use_vi": "Nói câu này ngay từ đầu, đừng đợi đến lúc đau mới nói."
+        },
+        {
+          "fi": "Mulle tehtiin leikkaus kolme vuotta sitten.",
+          "en": "I had surgery three years ago.",
+          "when_to_use": "Important context. It changes the whole programme.",
+          "register": "neutral",
+          "vi": "Em mổ cách đây ba năm.",
+          "when_to_use_vi": "Bối cảnh quan trọng. Nó thay đổi cả chương trình tập."
+        },
+        {
+          "fi": "Mä näytän mistä — tähän sattuu.",
+          "en": "I'll show you where — it hurts here.",
+          "when_to_use": "Point and demonstrate. Better than any missing word.",
+          "register": "casual",
+          "vi": "Em chỉ chỗ cho chị — chỗ này đau.",
+          "when_to_use_vi": "Chỉ tay và làm mẫu. Tốt hơn bất cứ từ nào đang thiếu."
+        },
+        {
+          "fi": "Se kipeytyy kun mä teen kyykkyjä.",
+          "en": "It gets sore when I do squats.",
+          "when_to_use": "Name the movement, not just the pain. That's what they need.",
+          "register": "neutral",
+          "vi": "Nó đau lên khi em tập squat.",
+          "when_to_use_vi": "Gọi tên động tác, không chỉ gọi tên cơn đau. Đó là thứ họ cần."
+        },
+        {
+          "fi": "Onks tästä vaihtoehtoista liikettä?",
+          "en": "Is there an alternative exercise for this?",
+          "when_to_use": "Always ask rather than pushing through pain.",
+          "register": "neutral",
+          "vi": "Động tác này có cái thay thế không ạ?",
+          "when_to_use_vi": "Luôn hỏi thay vì cố chịu đau mà tập tiếp."
+        },
+        {
+          "fi": "Teenks mä tän oikein?",
+          "en": "Am I doing this correctly?",
+          "when_to_use": "Technique is the most valuable thing you're paying for.",
+          "register": "casual",
+          "vi": "Em làm thế này đúng không ạ?",
+          "when_to_use_vi": "Kỹ thuật là thứ giá trị nhất mà bạn đang trả tiền để có."
+        },
+        {
+          "fi": "Onks tää realistinen tavoite?",
+          "en": "Is this a realistic goal?",
+          "when_to_use": "Finnish trainers answer this honestly. Useful honesty.",
+          "register": "neutral",
+          "vi": "Mục tiêu này có khả thi không ạ?",
+          "when_to_use_vi": "Huấn luyện viên Phần Lan trả lời câu này rất thật. Một sự thật hữu ích."
+        },
+        {
+          "fi": "Montako kertaa viikossa mun pitäis treenata?",
+          "en": "How many times a week should I train?",
+          "when_to_use": "Get a number you can actually keep to.",
+          "register": "neutral",
+          "vi": "Em nên tập mấy lần một tuần ạ?",
+          "when_to_use_vi": "Lấy một con số mà bạn thật sự giữ được."
+        },
+        {
+          "fi": "Voitsä kirjottaa mulle ohjelman?",
+          "en": "Could you write me a programme?",
+          "when_to_use": "Ask for it in writing so you can follow it alone afterwards.",
+          "register": "neutral",
+          "vi": "Chị soạn cho em một chương trình tập được không ạ?",
+          "when_to_use_vi": "Xin bản viết để sau này bạn tự theo được."
+        },
+        {
+          "fi": "Milloin me katotaan tätä uudestaan?",
+          "en": "When do we review this again?",
+          "when_to_use": "Sets up the follow-up before you leave.",
+          "register": "neutral",
+          "vi": "Khi nào mình xem lại cái này ạ?",
+          "when_to_use_vi": "Đặt buổi theo dõi tiếp trước khi bạn ra về."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "The first session",
+          "setting": "A trainer with a clipboard. Goals first, injuries second.",
+          "speed": "slow",
+          "note": "Duc gives one clear goal and one honest injury. That's all a good session needs.",
+          "lines": [
+            {
+              "speaker": "Valmentaja",
+              "fi": "Moi! No niin, mikä on sun tavoite?",
+              "en": "Hi! Right then, what's your goal?",
+              "vi": "Chào em! Nào, mục tiêu của em là gì?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä haluun vahvistua ja parantaa kuntoa.",
+              "en": "I want to get stronger and improve my fitness.",
+              "vi": "Em muốn khoẻ hơn và cải thiện thể lực."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Hyvä. Onks jotain tiettyä, vai yleisesti?",
+              "en": "Good. Anything specific, or generally?",
+              "vi": "Tốt. Có gì cụ thể không, hay chung chung?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Yleisesti. Mut varsinkin selkä — se on usein jumissa.",
+              "en": "Generally. But especially my back — it's often stiff.",
+              "vi": "Chung chung. Nhưng nhất là cái lưng — nó hay bị cứng."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Selvä. Onks sulla vammoja tai rajoituksia?",
+              "en": "Right. Do you have any injuries or restrictions?",
+              "vi": "Vâng. Em có chấn thương hay hạn chế nào không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, mulla on vanha vamma alaselässä. Se alko viis vuotta sitten.",
+              "en": "Yes, I have an old lower back injury. It started five years ago.",
+              "vi": "Có, em có chấn thương cũ ở thắt lưng. Bắt đầu từ năm năm trước."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Onks siihen tehty mitään? Leikkaus, fysioterapia?",
+              "en": "Has anything been done about it? Surgery, physiotherapy?",
+              "vi": "Đã điều trị gì chưa? Mổ hay vật lý trị liệu?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Fysioterapiaa, ei leikkausta. Se on paljon parempi nyt.",
+              "en": "Physiotherapy, no surgery. It's much better now.",
+              "vi": "Vật lý trị liệu, không mổ. Giờ đỡ nhiều rồi."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Hyvä. Milloin se kipeytyy?",
+              "en": "Good. When does it get sore?",
+              "vi": "Tốt. Khi nào nó đau lên?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Se kipeytyy kun mä teen kyykkyjä. Mä näytän mistä — tähän.",
+              "en": "It gets sore when I do squats. I'll show you where — here.",
+              "vi": "Nó đau lên khi em tập squat. Em chỉ chỗ cho chị — chỗ này."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Ahaa, siinä. Okei, me tehdään kyykyt kevyemmin ja katotaan tekniikka ensin.",
+              "en": "Ah, there. Okay, we'll do squats lighter and look at your technique first.",
+              "vi": "À, chỗ đó. Được, mình tập squat nhẹ hơn và xem kỹ thuật trước."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Onks siitä vaihtoehtoista liikettä?",
+              "en": "Good. Is there an alternative exercise for it?",
+              "vi": "Vâng. Động tác đó có cái thay thế không ạ?"
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "On monta. Mut kokeillaan ensin oikeaa tekniikkaa — usein se riittää.",
+              "en": "There are several. But let's try correct technique first — often that's enough.",
+              "vi": "Có nhiều lắm. Nhưng thử kỹ thuật đúng trước đã — thường thế là đủ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Voitsä kirjottaa mulle ohjelman?",
+              "en": "Right. Could you write me a programme?",
+              "vi": "Vâng. Chị soạn cho em một chương trình tập được không ạ?"
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Joo, mä laitan sen appiin tän jälkeen.",
+              "en": "Yeah, I'll put it in the app after this.",
+              "vi": "Được, sau buổi này chị đưa lên app cho em."
+            }
+          ],
+          "title_vi": "Buổi đầu tiên",
+          "setting_vi": "Một huấn luyện viên với cái bảng kẹp giấy. Mục tiêu trước, chấn thương sau.",
+          "note_vi": "Duc nêu một mục tiêu rõ ràng và một chấn thương trung thực. Một buổi tốt chỉ cần có vậy."
+        },
+        {
+          "title": "Mid-session, something hurts",
+          "setting": "Halfway through. Duc stops instead of pushing through.",
+          "speed": "natural",
+          "note": "Stopping and describing is the right move. Trainers want you to do exactly this.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Hei, odota. Tää tuntuu väärältä.",
+              "en": "Hey, wait. This feels wrong.",
+              "vi": "Này, chờ đã. Cái này cảm giác không đúng."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Hyvä että sanoit. Missä?",
+              "en": "Good that you said. Where?",
+              "vi": "May mà em nói. Chỗ nào?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tässä olkapäässä. Se sattuu kun mä nostan yli tän korkeuden.",
+              "en": "In this shoulder. It hurts when I lift above this height.",
+              "vi": "Ở khớp vai này. Nó đau khi em nâng cao hơn tầm này."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Näytä uudestaan… okei, mä näen. Kevennä painoa.",
+              "en": "Show me again… okay, I see. Reduce the weight.",
+              "vi": "Em làm lại xem… được, chị thấy rồi. Giảm tạ đi."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Näin?",
+              "en": "Like this?",
+              "vi": "Thế này ạ?"
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Joo. Tuntuuks se nyt paremmalta?",
+              "en": "Yeah. Does it feel better now?",
+              "vi": "Đúng. Giờ cảm giác đỡ hơn không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Paljon paremmalta. Missä lihaksessa tän pitäis tuntua?",
+              "en": "Much better. Which muscle should I feel this in?",
+              "vi": "Đỡ hơn nhiều. Động tác này phải cảm thấy ở cơ nào ạ?"
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Tässä takana, ei olkapäässä. Jos tuntuu olkapäässä, paino on liian iso.",
+              "en": "Here at the back, not the shoulder. If you feel it in the shoulder, the weight's too heavy.",
+              "vi": "Ở phía sau này, không phải ở vai. Nếu cảm thấy ở vai thì tạ quá nặng."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nyt mä ymmärrän. Kiitos.",
+              "en": "Now I understand. Thanks.",
+              "vi": "Giờ em hiểu rồi. Cảm ơn chị."
+            },
+            {
+              "speaker": "Valmentaja",
+              "fi": "Sano aina heti, jos jotain tuntuu väärältä.",
+              "en": "Always say straight away if something feels wrong.",
+              "vi": "Cứ nói ngay nếu có gì cảm giác không đúng nhé."
+            }
+          ],
+          "title_vi": "Giữa buổi, có chỗ đau",
+          "setting_vi": "Đang tập nửa buổi. Duc dừng lại thay vì cố chịu.",
+          "note_vi": "Dừng lại và mô tả là nước đi đúng. Huấn luyện viên muốn bạn làm đúng như vậy."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "First session with a trainer",
+          "scenario": "Give one clear goal, describe an old injury by demonstrating, and ask for a written programme.",
+          "your_role": "You, at your first PT session",
+          "partner_role": "The trainer",
+          "turns": [
+            {
+              "speaker": "Valmentaja",
+              "is_your_turn": false,
+              "fi": "Moi! Mikä on sun tavoite?",
+              "en": "Hi! What's your goal?",
+              "vi": "Chào em! Mục tiêu của em là gì?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä haluun vahvistua ja parantaa kuntoa.",
+              "en": "I want to get stronger and improve my fitness.",
+              "hint": "One clear goal beats three vague ones.",
+              "vi": "Em muốn khoẻ hơn và cải thiện thể lực.",
+              "hint_vi": "Một mục tiêu rõ ràng tốt hơn ba mục tiêu mơ hồ."
+            },
+            {
+              "speaker": "Valmentaja",
+              "is_your_turn": false,
+              "fi": "Hyvä. Onks sulla vammoja tai rajoituksia?",
+              "en": "Good. Do you have injuries or restrictions?",
+              "vi": "Tốt. Em có chấn thương hay hạn chế nào không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Joo, mulla on vanha vamma alaselässä.",
+              "en": "Yes, I have an old lower back injury.",
+              "hint": "Say it at the start, not after something hurts.",
+              "vi": "Có, em có chấn thương cũ ở thắt lưng.",
+              "hint_vi": "Nói ngay từ đầu, đừng đợi đến lúc đau mới nói."
+            },
+            {
+              "speaker": "Valmentaja",
+              "is_your_turn": false,
+              "fi": "Onks siihen tehty mitään?",
+              "en": "Has anything been done about it?",
+              "vi": "Đã điều trị gì chưa?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Fysioterapiaa, ei leikkausta. Se on parempi nyt.",
+              "en": "Physiotherapy, no surgery. It's better now.",
+              "hint": "Treatment history matters as much as the injury itself.",
+              "vi": "Vật lý trị liệu, không mổ. Giờ đỡ rồi.",
+              "hint_vi": "Tiền sử điều trị quan trọng không kém bản thân chấn thương."
+            },
+            {
+              "speaker": "Valmentaja",
+              "is_your_turn": false,
+              "fi": "Milloin se kipeytyy?",
+              "en": "When does it get sore?",
+              "vi": "Khi nào nó đau lên?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kun mä teen kyykkyjä. Mä näytän mistä — tähän.",
+              "en": "When I do squats. I'll show you where — here.",
+              "hint": "Name the movement and point. Better than any missing word.",
+              "vi": "Khi em tập squat. Em chỉ chỗ cho chị — chỗ này.",
+              "hint_vi": "Gọi tên động tác và chỉ tay. Tốt hơn bất cứ từ nào đang thiếu."
+            },
+            {
+              "speaker": "Valmentaja",
+              "is_your_turn": false,
+              "fi": "Ahaa. Me katotaan tekniikka ensin.",
+              "en": "Ah. We'll look at your technique first.",
+              "vi": "À. Mình xem kỹ thuật trước."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvä. Voitsä kirjottaa mulle ohjelman?",
+              "en": "Good. Could you write me a programme?",
+              "hint": "Get it in writing so you can follow it alone afterwards.",
+              "vi": "Vâng. Chị soạn cho em một chương trình tập được không ạ?",
+              "hint_vi": "Xin bản viết để sau này bạn tự theo được."
+            }
+          ],
+          "title_vi": "Buổi đầu với huấn luyện viên",
+          "scenario_vi": "Nêu một mục tiêu rõ ràng, mô tả chấn thương cũ bằng cách làm mẫu, và xin chương trình tập bằng văn bản.",
+          "your_role_vi": "Bạn, ở buổi PT đầu tiên",
+          "partner_role_vi": "Huấn luyện viên"
+        }
+      ],
+      "title_vi": "Nói chuyện với huấn luyện viên",
+      "subtitle_vi": "Mục tiêu, chấn thương, và chỗ nào thật sự đau",
+      "warmup_situation_vi": "Bạn đã đặt một buổi với huấn luyện viên cá nhân. Họ hỏi mục tiêu của bạn là gì và bạn có chấn thương nào không. Cả hai câu trả lời đều quan trọng và trả lời mơ hồ là phí cả buổi.",
+      "warmup_question_vi": "Làm sao mô tả chính xác một chấn thương cũ khi bạn không biết từ giải phẫu?",
+      "rescue_vi": "Em chỉ chỗ cho chị — chỗ này đau khi em làm thế này.",
+      "rescue_note_vi": "Hãy chỉ tay và làm mẫu động tác đó. Huấn luyện viên sẽ nhận ra ngay từ vị trí và chuyển động, và cách này hữu ích hơn nhiều so với bất cứ từ nào bạn đang thiếu. Hãy làm mẫu, rồi để họ gọi tên nó."
+    }
+  ],
+  "title_vi": "Ở phòng gym",
+  "subtitle_vi": "Chuyện phiếm không cần đến từ điển.",
+  "description_vi": "Phòng gym là nơi dễ luyện nói nhất ở Phần Lan: các đoạn trao đổi đều ngắn, vốn từ nhỏ và lặp lại, và không ai mong đợi một cuộc trò chuyện dài. Chương này bao gồm các câu hỏi về thẻ thành viên ở quầy, hai câu bạn cần để dùng chung thiết bị, cách theo một lớp tập nhóm bằng tai, những người tập quen mặt rồi cũng sẽ bắt chuyện với bạn, và cách trình bày mục tiêu cùng chấn thương với huấn luyện viên."
+}

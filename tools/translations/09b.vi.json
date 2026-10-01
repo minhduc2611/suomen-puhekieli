@@ -1,0 +1,317 @@
+{
+  "lessons": {
+    "counters": {
+      "lesson": {
+        "title_vi": "Quầy thực phẩm, quầy bánh và quầy cá",
+        "subtitle_vi": "Saisinko kaks siivua… Onks tää tuoretta?",
+        "warmup_situation_vi": "Có một máy nhả phiếu, một số thứ tự trên màn hình, một tủ kính đầy những thứ bạn không gọi được tên, và một người phía sau quầy đang đợi bạn nói cho cụ thể.",
+        "warmup_question_vi": "Bạn nói gì khi biết mình muốn gì nhưng không biết nó tên là gì?",
+        "rescue_vi": "Cái đó ở kia — cái thứ hai từ bên trái.",
+        "rescue_note_vi": "Chỉ tay kèm vị trí là hoàn toàn chính xác và hoàn toàn được chấp nhận. Nhân viên quầy làm việc với những người không đọc được nhãn suốt cả ngày, và «toinen vasemmalta» giúp bạn lấy đúng thứ mình muốn mọi lần."
+      },
+      "vocab": [
+        { "vi": "quầy phục vụ" }, { "vi": "quầy thịt" }, { "vi": "quầy cá" }, { "vi": "quầy phô mai" },
+        { "vi": "quầy bánh" },
+        { "vi": "số thứ tự", "note_vi": "Hãy lấy một tờ phiếu từ cái máy nhỏ. Luôn luôn. Không ai xếp hàng bằng cách đứng chờ." },
+        { "vi": "tờ phiếu số" }, { "vi": "lượt" },
+        { "vi": "lát (cắt mỏng)", "note_vi": "«Kaks siivua» = hai lát. Dùng cho phô mai và thịt nguội." },
+        { "vi": "miếng" }, { "vi": "suất, phần" },
+        { "vi": "gram", "note_vi": "Các quầy tính theo gram. «200 grammaa» là một đơn hàng bình thường." },
+        { "vi": "nửa kilo" }, { "vi": "mỏng" },
+        { "vi": "dày", "note_vi": "«Ohuempia siivuja» = lát mỏng hơn. Đáng để yêu cầu." },
+        { "vi": "tươi" },
+        { "vi": "tươi (cách phân từ)", "note_vi": "«Onks tää tuoretta?» — với loại đồ ăn này thì luôn dùng cách phân từ." },
+        { "vi": "xông khói" },
+        { "vi": "muối ướp (cá)", "note_vi": "Graavilohi — cá hồi muối. Rất Phần Lan và rất ngon." },
+        { "vi": "cá hồi vân" }, { "vi": "cá hồi" }, { "vi": "cá trích Baltic" },
+        { "vi": "cá vendace (cá nhỏ)", "note_vi": "Cá nhỏ chiên giòn. Một món đặc sản thật sự của Phần Lan." },
+        { "vi": "lọc xương, phi lê", "note_vi": "«Voitsä fileoida sen?» = anh phi lê giúp được không? Họ sẽ làm, miễn phí." },
+        { "vi": "làm sạch, mổ ruột" }, { "vi": "cắt, thái" },
+        { "vi": "miếng nếm thử", "note_vi": "«Saanks maistaa?» — ở quầy phô mai thường là được." },
+        { "vi": "hạn sử dụng tốt nhất trước" }, { "vi": "hạn dùng cuối" }, { "vi": "sản phẩm tươi" },
+        { "vi": "thế là đủ", "note_vi": "«Se riittää, kiitos» — cách bạn dừng họ lại khi đang cắt." }
+      ],
+      "phrases": [
+        { "vi": "Cho tôi hai lát phô mai đó được không ạ?", "when_to_use_vi": "Số lượng cộng «tota» cộng chỉ tay. Đơn hàng quầy hoàn chỉnh." },
+        { "vi": "Hai trăm gram ạ.", "when_to_use_vi": "Các quầy tính theo gram. Hãy chuẩn bị sẵn một con số." },
+        { "vi": "Cái đó ở kia — cái thứ hai từ bên trái.", "when_to_use_vi": "Chỉ tay cộng vị trí. Hoàn toàn chính xác, hoàn toàn bình thường." },
+        { "vi": "Cái này tươi không ạ?", "when_to_use_vi": "Hỏi ở quầy cá là bình thường và bạn sẽ được trả lời thật." },
+        { "vi": "Cái này về hôm nào ạ?", "when_to_use_vi": "Bản sắc hơn của cùng câu hỏi đó. Người bán cá tôn trọng câu này." },
+        { "vi": "Anh phi lê giúp được không ạ?", "when_to_use_vi": "Họ sẽ làm, không tính thêm tiền, và giỏi hơn bạn nhiều." },
+        { "vi": "Anh cắt lát mỏng hơn được không ạ?", "when_to_use_vi": "Yêu cầu hoàn toàn bình thường. Tốt nhất là nói trước khi họ bắt đầu cắt." },
+        { "vi": "Tôi nếm thử được không ạ?", "when_to_use_vi": "Ở quầy phô mai thường là được. Hãy hỏi lịch sự và sẵn sàng mua." },
+        { "vi": "Hôm nay anh gợi ý món gì ạ?", "when_to_use_vi": "Nhân viên quầy biết hôm nay hàng nào tươi. Câu hỏi thật sự hữu ích." },
+        { "vi": "Thế là đủ ạ, cảm ơn.", "when_to_use_vi": "Cách bạn dừng họ lại ở đúng lượng. Hãy nói sớm." },
+        { "vi": "Thêm một chút nữa ạ.", "when_to_use_vi": "Nếu họ cắt hơi dè dặt. Hoàn toàn ổn." },
+        { "vi": "Hạn sử dụng là ngày nào ạ?", "when_to_use_vi": "Với hàng ở quầy thì hạn thường được viết tay. Hãy hỏi." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Ở quầy cá",
+          "setting_vi": "Một máy nhả phiếu, màn hình hiện số 47, và Duc đang giữ số 51.",
+          "note_vi": "Anh xin một lời gợi ý và để người bán cá làm việc đó. Cách tiếp cận tốt nhất.",
+          "lines": [
+            { "vi": "Số năm mươi mốt!" },
+            { "vi": "Tôi đây. Chào anh!" },
+            { "vi": "Chào anh! Anh dùng gì ạ?" },
+            { "vi": "Hôm nay anh gợi ý món gì ạ?" },
+            { "vi": "Cá hồi vân mới về sáng nay. Ngon lắm ạ." },
+            { "vi": "Tốt. Lấy món đó đi. Nửa kilo nhé?" },
+            { "vi": "Vâng. Phi lê hay để nguyên con ạ?" },
+            { "vi": "Anh phi lê giúp được không ạ?" },
+            { "vi": "Tất nhiên rồi. Anh có bỏ da không ạ?" },
+            { "vi": "Để da lại nhé. Tôi nướng lò." },
+            { "vi": "Lựa chọn hay đấy. …Đây ạ. Còn gì nữa không?" },
+            { "vi": "Có, cá hồi muối kia — cái thứ hai từ bên trái. Hai trăm gram." },
+            { "vi": "…Đó, được 230 gram. Đủ chưa ạ?" },
+            { "vi": "Thế là đủ ạ, cảm ơn. Hạn sử dụng là ngày nào ạ?" },
+            { "vi": "Ba ngày, tức là đến thứ Năm. Có ghi trên nhãn ạ." }
+          ]
+        },
+        {
+          "title_vi": "Quầy phô mai và quầy bánh, thật nhanh",
+          "setting_vi": "Hai đoạn trao đổi ngắn. Việc chỉ tay làm gần hết công việc.",
+          "note_vi": "Để ý thật ra cần rất ít từ vựng khi bạn có thể chỉ tay chính xác.",
+          "lines": [
+            { "vi": "Chào anh, dùng gì ạ?" },
+            { "vi": "Cho tôi phô mai đó — cái thứ ba từ bên phải." },
+            { "vi": "Cái này ạ? Nó khá nồng đấy." },
+            { "vi": "Tôi nếm thử được không ạ?" },
+            { "vi": "Được, đây ạ. …Được không?" },
+            { "vi": "Ngon thật. Hai trăm gram, cắt lát mỏng nhé." },
+            { "vi": "Chào chị! Mấy cái bánh kia tươi không ạ?" },
+            { "vi": "Nướng sáng nay. Vẫn còn ấm ạ." },
+            { "vi": "Thế thì tôi lấy bốn cái. Và một ổ bánh mì đen lớn kia." },
+            { "vi": "Có cắt bánh mì không ạ?" },
+            { "vi": "Vâng cảm ơn, cắt lát mỏng nhé." }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Gọi hàng ở quầy phục vụ",
+          "scenario_vi": "Nhận lượt của bạn, xin một lời gợi ý, chỉ tay chính xác, và kiểm soát số lượng.",
+          "your_role_vi": "Bạn, đang giữ phiếu số 51",
+          "partner_role_vi": "Người bán cá",
+          "turns": [
+            { "vi": "Số năm mươi mốt!" },
+            { "vi": "Tôi đây. Chào anh!", "hint_vi": "Hãy lên tiếng nhận số của mình. Ở đây không ai xếp hàng bằng cách đứng chờ." },
+            { "vi": "Chào anh! Anh dùng gì ạ?" },
+            { "vi": "Hôm nay anh gợi ý món gì ạ?", "hint_vi": "Họ biết hôm nay hàng nào tươi. Hãy để họ làm việc đó." },
+            { "vi": "Cá hồi vân mới về sáng nay." },
+            { "vi": "Tốt. Nửa kilo — anh phi lê giúp được không ạ?", "hint_vi": "Số lượng và cách sơ chế trong một câu. Họ phi lê miễn phí." },
+            { "vi": "Tất nhiên rồi. Còn gì nữa không?" },
+            { "vi": "Có, cá hồi muối kia — cái thứ hai từ bên trái.", "hint_vi": "Chỉ tay cộng vị trí. Chính xác mà không cần biết tên." },
+            { "vi": "…Đó, 230 gram. Đủ chưa ạ?" },
+            { "vi": "Thế là đủ ạ, cảm ơn. Hạn sử dụng là ngày nào ạ?", "hint_vi": "Dừng họ ở đúng lượng, rồi hỏi về hạn dùng." }
+          ]
+        }
+      ]
+    },
+    "weighing-and-deposits": {
+      "lesson": {
+        "title_vi": "Cân đo, tiền cọc chai và khuyến mãi",
+        "subtitle_vi": "Punnitse, pantti, tarjous, parasta ennen",
+        "warmup_situation_vi": "Bạn đặt mấy quả táo rời lên băng chuyền. Nhân viên thu ngân nhìn bạn, rồi nhìn mấy quả táo, rồi nhìn lại bạn. Chúng chưa được cân và bạn không biết là phải cân.",
+        "warmup_question_vi": "Bạn phải tự cân những gì — và cái máy có băng chuyền ở gần cửa là cái gì?",
+        "rescue_vi": "Xin lỗi, tôi chưa cân mấy cái này. Tôi đi cân ngay.",
+        "rescue_note_vi": "Ai cũng từng làm thế. Nhân viên thu ngân sẽ hoặc chỉ bạn ra chỗ cân, hoặc cân luôn tại quầy, và hàng người phía sau sẽ kiên nhẫn. Nói câu đó, đi nhanh, và nó chẳng thành chuyện gì."
+      },
+      "vocab": [
+        { "vi": "cân (động từ)", "note_vi": "«Punnitse» = hãy cân. In trên máy cân." },
+        { "vi": "cái cân" },
+        { "vi": "cân trong siêu thị", "note_vi": "Ở khu trái cây. Bạn tự cân và tự in nhãn." },
+        { "vi": "nhãn dán" }, { "vi": "nhãn giá" },
+        { "vi": "số sản phẩm", "note_vi": "Nhập số này trên cân, hoặc bấm vào hình." },
+        { "vi": "hàng bán rời", "note_vi": "Trái cây, rau củ, bánh kẹo. Những thứ này cần cân." },
+        { "vi": "giá mỗi kilo" },
+        { "vi": "giá mỗi món", "note_vi": "Ghi «kpl» trên nhãn. Những món này không cần cân." },
+        { "vi": "cái, món (đơn vị)" },
+        { "vi": "tiền cọc", "note_vi": "10–40 xu mỗi chai hoặc lon. Bạn được lấy lại." },
+        { "vi": "việc trả chai lấy tiền cọc" },
+        { "vi": "máy nhận trả chai", "note_vi": "Cái máy có băng chuyền. Cho chai vào từng cái một." },
+        { "vi": "lon" }, { "vi": "chai nhựa" }, { "vi": "chai thuỷ tinh" },
+        { "vi": "phiếu đổi tiền", "note_vi": "Tờ phiếu máy in ra. Đổi ở quầy thu ngân hoặc quầy tự thanh toán." },
+        { "vi": "đổi lấy (tiền)" }, { "vi": "chương trình khuyến mãi" }, { "vi": "giảm giá" },
+        { "vi": "hai cái giá một cái" },
+        { "vi": "nhãn đỏ", "note_vi": "Giảm giá vì gần hết hạn. Đồ ăn hoàn toàn tốt, giá một nửa." },
+        { "vi": "tốt nhất trước ngày", "note_vi": "Một mốc về chất lượng. Sau ngày đó thường vẫn ăn được." },
+        { "vi": "hạn dùng cuối", "note_vi": "Một mốc về an toàn. Đừng ăn sau ngày này." },
+        { "vi": "ngày tháng ghi trên bao bì" }, { "vi": "đã hết hạn" }, { "vi": "đã giảm giá" },
+        { "vi": "thực phẩm bị lãng phí", "note_vi": "«Hävikkihylly» = kệ hàng giảm giá. Hãy tìm nó vào buổi tối." },
+        { "vi": "còn hiệu lực", "note_vi": "«Tarjous on voimassa sunnuntaihin» = khuyến mãi có hiệu lực đến Chủ nhật." }
+      ],
+      "phrases": [
+        { "vi": "Mấy cái này có cần cân không ạ?", "when_to_use_vi": "Hỏi trước khi ra quầy, đừng hỏi lúc đã ở quầy. Hàng bán rời thường cần." },
+        { "vi": "Cái cân ở đâu ạ?", "when_to_use_vi": "Thường ở khu trái cây. Đôi khi có hơn một cái." },
+        { "vi": "Cái cân này dùng thế nào ạ?", "when_to_use_vi": "Đặt món lên, tìm nó trên màn hình, bấm, lấy nhãn ra." },
+        { "vi": "Xin lỗi, tôi chưa cân mấy cái này.", "when_to_use_vi": "Ai cũng từng làm thế. Nói ra rồi đi nhanh." },
+        { "vi": "Đây là giá mỗi kilo hay giá mỗi món ạ?", "when_to_use_vi": "Rất quan trọng với hàng đắt. Hãy tìm chữ «kpl» hoặc «/kg»." },
+        { "vi": "Máy trả chai ở đâu ạ?", "when_to_use_vi": "Thường ngay bên trong cửa vào. Cứ đi theo tiếng ồn." },
+        { "vi": "Cái máy này không nhận chai của tôi.", "when_to_use_vi": "Thường do lon bị bóp méo hoặc mất nhãn. Nhân viên sẽ nhận bằng tay." },
+        { "vi": "Cái này có tiền cọc không ạ?", "when_to_use_vi": "Phần lớn vỏ đồ uống thì có, hàng nhập khẩu thì thường không." },
+        { "vi": "Tôi đổi tờ phiếu này ạ.", "when_to_use_vi": "Đưa nó ngay đầu giao dịch, đừng đưa lúc cuối." },
+        { "vi": "Chương trình khuyến mãi đó còn hiệu lực không ạ?", "when_to_use_vi": "Nhãn trên kệ đôi khi tồn tại lâu hơn chương trình. Đáng hỏi." },
+        { "vi": "Khuyến mãi có hiệu lực đến khi nào ạ?", "when_to_use_vi": "Thường in trên nhãn, nhưng không phải lúc nào cũng đọc được." },
+        { "vi": "Ở đây có kệ hàng giảm giá không ạ?", "when_to_use_vi": "Hãy hỏi. Mức giảm buổi tối cho đồ ăn hoàn toàn tốt là đáng kể." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mấy quả táo chưa cân",
+          "setting_vi": "Ở quầy thu ngân. Đã quá muộn rồi, và không sao cả.",
+          "note_vi": "Không ai khó chịu. Chuyện này xảy ra với người Phần Lan cũng liên tục.",
+          "lines": [
+            { "vi": "Mấy quả táo này chưa được cân ạ." },
+            { "vi": "Ôi không. Xin lỗi, tôi không biết." },
+            { "vi": "Không sao đâu, tôi cân ở đây được." },
+            { "vi": "Cảm ơn chị. Tất cả hàng bán rời đều phải cân ạ?" },
+            { "vi": "Phần lớn ạ. Nếu trên nhãn ghi giá mỗi kilo thì phải cân. Nếu ghi «kpl» thì không cần." },
+            { "vi": "À, giờ tôi hiểu rồi. Cảm ơn chị!" },
+            { "vi": "Cái cân ở khu trái cây, nếu lần sau anh cần ạ." },
+            { "vi": "Vâng. À này — tôi có tờ phiếu trả chai này." },
+            { "vi": "Anh đưa tôi luôn đi, tôi trừ vào." },
+            { "vi": "Đây ạ. Và chương trình khuyến mãi cà phê kia còn hiệu lực không ạ?" },
+            { "vi": "Nó hết hôm qua rồi, nhưng nhãn vẫn còn trên kệ. Tôi tính giá khuyến mãi cho anh." },
+            { "vi": "Cảm ơn chị, tốt bụng quá!" }
+          ]
+        },
+        {
+          "title_vi": "Máy nhận trả chai",
+          "setting_vi": "Ngay bên trong cửa vào. Một thùng chai và một cái bị kẹt.",
+          "note_vi": "Hệ thống tiền cọc trả lại tiền thật — một thùng có thể là hai mươi euro.",
+          "lines": [
+            { "vi": "Xin lỗi, cái máy này không nhận chai của tôi." },
+            { "vi": "Cho tôi xem… vâng, nó bị bóp méo. Máy không đọc được mã vạch." },
+            { "vi": "Thế là mất tiền cọc ạ?" },
+            { "vi": "Không, tôi nhận bằng tay. Anh có bao nhiêu cái?" },
+            { "vi": "Ba cái lon bị bóp méo." },
+            { "vi": "Anh đưa đây. Bốn mươi lăm xu. Phiếu đây ạ." },
+            { "vi": "Cảm ơn chị. Tờ phiếu lớn này được bao nhiêu ạ?" },
+            { "vi": "Mười sáu euro bốn mươi. Thu hoạch khá đấy!" },
+            { "vi": "Chai của ba tháng. Cảm ơn chị đã giúp!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Cân đo, tiền cọc và một khuyến mãi đã hết",
+          "scenario_vi": "Xử lý hàng chưa cân, học quy tắc «kpl», đổi phiếu tiền cọc và hỏi về khuyến mãi.",
+          "your_role_vi": "Bạn, ở quầy thu ngân",
+          "partner_role_vi": "Nhân viên thu ngân",
+          "turns": [
+            { "vi": "Mấy quả táo này chưa được cân ạ." },
+            { "vi": "Ôi không. Xin lỗi, tôi không biết.", "hint_vi": "Ai cũng từng làm thế. Xin lỗi ngắn rồi đi tiếp." },
+            { "vi": "Không sao đâu, tôi cân ở đây." },
+            { "vi": "Cảm ơn chị. Tất cả hàng bán rời đều phải cân ạ?", "hint_vi": "Học luôn quy tắc để lần sau không bị nữa." },
+            { "vi": "Nếu nhãn ghi giá mỗi kilo thì phải cân. Nếu ghi «kpl» thì không." },
+            { "vi": "À, giờ tôi hiểu rồi. Và tôi có tờ phiếu trả chai này.", "hint_vi": "Đưa phiếu trong lúc giao dịch, đừng đưa sau." },
+            { "vi": "Anh đưa tôi, tôi trừ vào." },
+            { "vi": "Đây ạ. Khuyến mãi cà phê kia còn hiệu lực không ạ?", "hint_vi": "Nhãn trên kệ đôi khi tồn tại lâu hơn chương trình. Đáng hỏi." },
+            { "vi": "Hết hôm qua rồi, nhưng tôi tính giá khuyến mãi cho anh." },
+            { "vi": "Cảm ơn chị, tốt bụng quá!", "hint_vi": "Họ đã làm một việc tốt cho bạn. Hãy ghi nhận nó." }
+          ]
+        }
+      ]
+    },
+    "clothes-and-fitting-room": {
+      "lesson": {
+        "title_vi": "Mua quần áo và phòng thử đồ",
+        "subtitle_vi": "Onks tätä isompana? Missä on sovituskoppi?",
+        "warmup_situation_vi": "Bạn đã tìm được cái áo khoác đúng ý nhưng sai cỡ. Có một nhân viên, bốn khách, và một phòng thử đồ đang có người chờ.",
+        "warmup_question_vi": "Ba câu hỏi nào bao phủ mọi tình huống mua quần áo?",
+        "rescue_vi": "Tôi suy nghĩ thêm một chút.",
+        "rescue_note_vi": "Kết thúc mọi cuộc trò chuyện bán hàng ngay lập tức và một cách lịch sự. Nhân viên bán hàng Phần Lan không hề nài — họ sẽ nói «ota rauhassa» rồi để bạn hoàn toàn yên, mà đó chính là điều bạn muốn."
+      },
+      "vocab": [
+        { "vi": "quần áo" }, { "vi": "cửa hàng quần áo" }, { "vi": "trung tâm thương mại" }, { "vi": "cỡ, kích thước" },
+        { "vi": "cỡ lớn hơn", "note_vi": "«Onks tätä isompana?» = cái này có cỡ lớn hơn không?" },
+        { "vi": "cỡ nhỏ hơn" }, { "vi": "phòng thử đồ" }, { "vi": "thử (quần áo)" }, { "vi": "thử, dùng thử" },
+        { "vi": "quần dài" }, { "vi": "áo sơ mi" }, { "vi": "áo khoác" },
+        { "vi": "áo phao mùa đông", "note_vi": "Bạn sẽ cần một cái. Hãy mua vào tháng Ba khi nó giảm nửa giá." },
+        { "vi": "áo len" }, { "vi": "giày" }, { "vi": "giày mùa đông" }, { "vi": "tất" },
+        { "vi": "vừa, phù hợp" }, { "vi": "vừa vặn lắm" }, { "vi": "quá chật" }, { "vi": "quá rộng" },
+        { "vi": "quá ngắn" }, { "vi": "quá dài" }, { "vi": "màu" }, { "vi": "màu khác" },
+        { "vi": "chất liệu" },
+        { "vi": "len lông cừu", "note_vi": "«Onks tää villaa?» quan trọng ở đây — len là thứ tạo nên khác biệt vào tháng Hai." },
+        { "vi": "vải cotton" }, { "vi": "có thể giặt được" }, { "vi": "giặt máy" },
+        { "vi": "đợt giảm giá", "note_vi": "Tháng Một và tháng Bảy. Áo khoác mùa đông vào tháng Ba mới là món hời thật." },
+        { "vi": "cứ thong thả", "note_vi": "Câu nhân viên nói để để bạn yên. Họ nói thật lòng." }
+      ],
+      "phrases": [
+        { "vi": "Cái này có cỡ lớn hơn không ạ?", "when_to_use_vi": "Câu hữu dụng nhất trong cửa hàng quần áo." },
+        { "vi": "Cái này có màu khác không ạ?", "when_to_use_vi": "Cùng cấu trúc. Chỉ đổi danh từ." },
+        { "vi": "Cái này cỡ gì ạ?", "when_to_use_vi": "Nhãn hay bị rơi. Nhân viên thường nhìn là biết." },
+        { "vi": "Phòng thử đồ ở đâu ạ?", "when_to_use_vi": "Thường ở phía trong. Đôi khi bạn cần lấy thẻ từ nhân viên." },
+        { "vi": "Tôi thử cái này được không ạ?", "when_to_use_vi": "Luôn được. Một số cửa hàng giới hạn số món mang vào." },
+        { "vi": "Cái này chật quá ở phần bụng.", "when_to_use_vi": "Hãy nói rõ chật ở đâu. Họ sẽ gợi ý một kiểu cắt khác." },
+        { "vi": "Tay áo dài quá.", "when_to_use_vi": "Rất thường gặp. Hãy hỏi xem có sửa ngắn được không." },
+        { "vi": "Cái này bằng len không ạ?", "when_to_use_vi": "Ở Phần Lan điều này thật sự quan trọng. Len thì được, đồ tổng hợp thì không." },
+        { "vi": "Cái này giặt máy được không ạ?", "when_to_use_vi": "Hỏi trước khi mua, nhất là với đồ len." },
+        { "vi": "Tôi suy nghĩ thêm một chút.", "when_to_use_vi": "Kết thúc mọi cuộc trò chuyện bán hàng một cách lịch sự. Họ sẽ để bạn yên." },
+        { "vi": "Cái này có vào đợt giảm giá không ạ?", "when_to_use_vi": "Nhân viên thường nói thật. Áo khoác mùa đông thì vào tháng Ba." },
+        { "vi": "Tôi lấy cái này. Cái này có đang giảm giá không ạ?", "when_to_use_vi": "Xác nhận ở quầy thay vì mặc định là biển trên giá áp dụng cho nó." }
+      ],
+      "dialogues": [
+        {
+          "title_vi": "Mua một cái áo khoác mùa đông",
+          "setting_vi": "Tháng Mười, một cửa hàng quần áo, một nhân viên thật sự hữu ích.",
+          "note_vi": "Anh hỏi về chất liệu trước khi hỏi cỡ. Ở Phần Lan đó là thứ tự đúng.",
+          "lines": [
+            { "vi": "Xin lỗi! Tôi đang tìm áo phao cho mùa đông." },
+            { "vi": "Vâng, chúng ở đằng kia. Anh cỡ nào ạ?" },
+            { "vi": "Tôi không chắc. Ở Phần Lan có lẽ là L?" },
+            { "vi": "Anh thử L đi, nhưng mấy cái này khá rộng. Có lẽ M là đủ." },
+            { "vi": "Vâng. Cái này chịu được đến bao nhiêu độ ạ?" },
+            { "vi": "Cái này đến âm hai mươi ạ. Nhồi lông vũ." },
+            { "vi": "Tốt. Cái này giặt máy được không ạ?" },
+            { "vi": "Được ạ, ba mươi độ. Hướng dẫn có trên nhãn." },
+            { "vi": "Phòng thử đồ ở đâu ạ?" },
+            { "vi": "Ở phía trong kia, bên phải ạ." },
+            { "vi": "Cảm ơn. …Tay áo hơi dài quá. Cái này có cỡ nhỏ hơn không ạ?" },
+            { "vi": "Có ạ, tôi lấy cỡ M. Chờ một chút." },
+            { "vi": "…Cái này vừa lắm. Tôi lấy cái này." },
+            { "vi": "Lựa chọn hay. Quầy thanh toán ở đằng kia ạ." }
+          ]
+        },
+        {
+          "title_vi": "Không mua, một cách lịch sự",
+          "setting_vi": "Cùng cửa hàng, một món khác, và Duc quyết định không mua.",
+          "note_vi": "«Mä mietin vielä» kết thúc chuyện đó ngay lập tức. Không ai nài nỉ.",
+          "lines": [
+            { "vi": "Anh tìm được hết chưa ạ?" },
+            { "vi": "Vâng cảm ơn. Tôi đang xem mấy cái quần này." },
+            { "vi": "Mấy cái đó tốt đấy. Anh muốn thử không ạ?" },
+            { "vi": "Tôi thử rồi. Chúng chật quá ở phần bụng." },
+            { "vi": "Anh lấy cỡ lớn chưa ạ? Bên tôi có kiểu rộng hơn một chút." },
+            { "vi": "Cảm ơn, nhưng tôi suy nghĩ thêm một chút." },
+            { "vi": "Anh cứ thong thả. Cần gì thì cứ nói ạ." },
+            { "vi": "Cảm ơn. Mấy cái này có vào đợt giảm giá không ạ?" },
+            { "vi": "Có lẽ vào tháng Một. Áo khoác mùa đông thì tháng Ba ạ." },
+            { "vi": "Biết vậy hay. Cảm ơn chị!" }
+          ]
+        }
+      ],
+      "roleplays": [
+        {
+          "title_vi": "Mua một cái áo khoác mùa đông",
+          "scenario_vi": "Hỏi về độ ấm và cách giặt, thử nó, đổi cỡ khác, rồi quyết định.",
+          "your_role_vi": "Bạn, vào tháng Mười",
+          "partner_role_vi": "Một nhân viên bán hàng",
+          "turns": [
+            { "vi": "Xin lỗi! Tôi đang tìm áo phao cho mùa đông.", "hint_vi": "Nói rõ nó để làm gì. Nó thu hẹp lựa chọn ngay lập tức." },
+            { "vi": "Chúng ở đằng kia. Anh cỡ nào ạ?" },
+            { "vi": "Tôi không chắc. Ở Phần Lan có lẽ là L?", "hint_vi": "Thừa nhận không chắc giúp bạn được tư vấn tốt hơn là đoán bừa." },
+            { "vi": "Anh thử L đi, nhưng mấy cái này khá rộng." },
+            { "vi": "Vâng. Cái này chịu được đến bao nhiêu độ ạ?", "hint_vi": "Câu hỏi thật sự quan trọng ở đây. Hỏi nó trước cả chuyện cỡ." },
+            { "vi": "Đến âm hai mươi ạ." },
+            { "vi": "Tốt. Cái này giặt máy được không ạ?", "hint_vi": "Hỏi trước khi mua, đừng đợi đến lần đổ bẩn đầu tiên." },
+            { "vi": "Được ạ, ba mươi độ." },
+            { "vi": "Phòng thử đồ ở đâu ạ?", "hint_vi": "Thường ở phía trong. Đôi khi cần lấy thẻ trước." },
+            { "vi": "Ở phía trong kia, bên phải ạ." },
+            { "vi": "Cảm ơn. …Tay áo dài quá. Cái này có cỡ nhỏ hơn không ạ?", "hint_vi": "Nói rõ chỗ nào không ổn. Họ sẽ giải quyết nhanh hơn." }
+          ]
+        }
+      ]
+    }
+  }
+}

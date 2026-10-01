@@ -1,0 +1,2890 @@
+{
+  "slug": "neighbours",
+  "number": "11",
+  "emoji": "🏢",
+  "title": "Neighbours and housing",
+  "subtitle": "Living in a taloyhtiö without awkward silences.",
+  "description": "A Finnish apartment building runs on written rules, shared rotas and a great deal of silence. This module covers the stairwell greeting — including when not to greet — the sauna and laundry rotas, reporting a fault to maintenance, raising noise and parking with a neighbour directly, and the paperwork of moving in and out. The recurring theme: almost every problem here is solved by one short message to the right person.",
+  "level": "A2–B1",
+  "lessons": [
+    {
+      "slug": "stairwell-greetings",
+      "number": "11.1",
+      "title": "Stairwell greetings",
+      "subtitle": "And when Finns don't greet",
+      "warmup_situation": "You meet a neighbour in the lift. You say 'moi'. They say 'moi'. Then eleven floors of complete silence, and you spend all of it wondering whether you did something wrong.",
+      "warmup_question": "Did you? What is the actual rule about greeting in a Finnish stairwell?",
+      "rescue_fi": "Moi! …Onpa hiljasta täällä tänään.",
+      "rescue_en": "Hi! …It's quiet in here today.",
+      "rescue_note": "If the silence genuinely bothers you, one light comment about the building or the weather is always available and always safe. But you are not obliged to fill it, and neither are they — the silence is not a verdict on you.",
+      "vocab": [
+        {
+          "fi": "taloyhtiö",
+          "en": "housing company",
+          "pos": "noun",
+          "note": "The legal body that owns the building. You'll hear it constantly.",
+          "vi": "công ty nhà ở (chủ sở hữu toà nhà)",
+          "note_vi": "Pháp nhân sở hữu toà nhà. Bạn sẽ nghe từ này liên tục."
+        },
+        {
+          "fi": "rappu",
+          "en": "stairwell",
+          "pos": "noun",
+          "vi": "lồng cầu thang"
+        },
+        {
+          "fi": "rappukäytävä",
+          "en": "stairwell corridor",
+          "pos": "noun",
+          "vi": "hành lang cầu thang"
+        },
+        {
+          "fi": "porraskäytävä",
+          "en": "stairwell",
+          "pos": "noun",
+          "vi": "lồng cầu thang"
+        },
+        {
+          "fi": "hissi",
+          "en": "lift",
+          "pos": "noun",
+          "vi": "thang máy"
+        },
+        {
+          "fi": "naapuri",
+          "en": "neighbour",
+          "pos": "noun",
+          "vi": "người hàng xóm"
+        },
+        {
+          "fi": "yläkerran naapuri",
+          "en": "upstairs neighbour",
+          "pos": "phrase",
+          "vi": "hàng xóm tầng trên"
+        },
+        {
+          "fi": "alakerran naapuri",
+          "en": "downstairs neighbour",
+          "pos": "phrase",
+          "vi": "hàng xóm tầng dưới"
+        },
+        {
+          "fi": "vastapäätä",
+          "en": "opposite",
+          "pos": "adverb",
+          "vi": "đối diện"
+        },
+        {
+          "fi": "tervehtiä",
+          "en": "to greet",
+          "pos": "verb",
+          "vi": "chào hỏi"
+        },
+        {
+          "fi": "nyökätä",
+          "en": "to nod",
+          "pos": "verb",
+          "note": "A nod is a complete greeting here. It is not rudeness.",
+          "vi": "gật đầu",
+          "note_vi": "Một cái gật đầu ở đây là một lời chào trọn vẹn. Nó không phải sự bất lịch sự."
+        },
+        {
+          "fi": "hiljaisuus",
+          "en": "silence",
+          "pos": "noun",
+          "vi": "sự im lặng"
+        },
+        {
+          "fi": "kohtelias",
+          "en": "polite",
+          "pos": "adjective",
+          "vi": "lịch sự"
+        },
+        {
+          "fi": "yksityisyys",
+          "en": "privacy",
+          "pos": "noun",
+          "note": "The value behind the silence. Not talking is respecting your space.",
+          "vi": "sự riêng tư",
+          "note_vi": "Giá trị nằm sau sự im lặng. Không bắt chuyện là đang tôn trọng không gian của bạn."
+        },
+        {
+          "fi": "pieni juttelu",
+          "en": "small talk",
+          "pos": "phrase",
+          "vi": "chuyện phiếm ngắn"
+        },
+        {
+          "fi": "tuttu naama",
+          "en": "a familiar face",
+          "pos": "phrase",
+          "vi": "một khuôn mặt quen"
+        },
+        {
+          "fi": "muuttaa taloon",
+          "en": "to move into the building",
+          "pos": "phrase",
+          "vi": "dọn vào toà nhà"
+        },
+        {
+          "fi": "asukas",
+          "en": "resident",
+          "pos": "noun",
+          "vi": "người ở, cư dân"
+        },
+        {
+          "fi": "kerros",
+          "en": "floor",
+          "pos": "noun",
+          "vi": "tầng"
+        },
+        {
+          "fi": "ovi",
+          "en": "door",
+          "pos": "noun",
+          "vi": "cửa"
+        },
+        {
+          "fi": "ovikello",
+          "en": "doorbell",
+          "pos": "noun",
+          "vi": "chuông cửa"
+        },
+        {
+          "fi": "nimikyltti",
+          "en": "name plate",
+          "pos": "noun",
+          "note": "On the door and the board downstairs. Ask the isännöitsijä to add yours.",
+          "vi": "bảng tên",
+          "note_vi": "Trên cửa và trên bảng ở dưới nhà. Hãy nhờ isännöitsijä thêm tên bạn."
+        },
+        {
+          "fi": "ilmoitustaulu",
+          "en": "notice board",
+          "pos": "noun",
+          "note": "In the stairwell. Read it — this is how the building talks to you.",
+          "vi": "bảng thông báo",
+          "note_vi": "Ở lồng cầu thang. Hãy đọc nó — đây là cách toà nhà nói chuyện với bạn."
+        },
+        {
+          "fi": "tiedote",
+          "en": "notice, bulletin",
+          "pos": "noun",
+          "vi": "thông báo"
+        },
+        {
+          "fi": "avustaa",
+          "en": "to help out",
+          "pos": "verb",
+          "vi": "giúp một tay"
+        },
+        {
+          "fi": "pitää ovea",
+          "en": "to hold the door",
+          "pos": "phrase",
+          "note": "Always do this. It's one of the few unambiguous courtesies here.",
+          "vi": "giữ cửa",
+          "note_vi": "Luôn làm việc này. Đây là một trong vài phép lịch sự rõ ràng không mơ hồ ở đây."
+        },
+        {
+          "fi": "kantaa",
+          "en": "to carry",
+          "pos": "verb",
+          "vi": "mang, xách"
+        },
+        {
+          "fi": "esitellä itsensä",
+          "en": "to introduce oneself",
+          "pos": "phrase",
+          "vi": "tự giới thiệu"
+        },
+        {
+          "fi": "pitkästä aikaa",
+          "en": "long time no see",
+          "pos": "phrase",
+          "vi": "lâu rồi mới gặp"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Moi!",
+          "en": "Hi!",
+          "when_to_use": "The complete stairwell greeting. Nothing more is required or expected.",
+          "register": "casual",
+          "vi": "Chào!",
+          "when_to_use_vi": "Lời chào trọn vẹn ở cầu thang. Không cần và không ai mong gì hơn."
+        },
+        {
+          "fi": "Päivää.",
+          "en": "Good day.",
+          "when_to_use": "Slightly more formal, common with older neighbours. Both are fine.",
+          "register": "neutral",
+          "vi": "Chào bác.",
+          "when_to_use_vi": "Trang trọng hơn một chút, hay dùng với hàng xóm lớn tuổi. Cả hai đều ổn."
+        },
+        {
+          "fi": "Moi, mä oon Duc, muutin tänne kolmanteen kerrokseen.",
+          "en": "Hi, I'm Duc, I moved in on the third floor.",
+          "when_to_use": "Worth saying once, to the neighbours you'll actually meet.",
+          "register": "casual",
+          "vi": "Chào bác, cháu là Duc, cháu mới dọn vào tầng ba.",
+          "when_to_use_vi": "Đáng nói một lần, với những hàng xóm bạn sẽ gặp thật."
+        },
+        {
+          "fi": "Onpa kylmä tänään!",
+          "en": "It's cold today!",
+          "when_to_use": "The safe lift comment if you want one. Nobody minds it.",
+          "register": "casual",
+          "vi": "Hôm nay lạnh thật đấy!",
+          "when_to_use_vi": "Câu nhận xét an toàn trong thang máy nếu bạn muốn nói gì. Không ai phiền."
+        },
+        {
+          "fi": "Mä pidän ovea.",
+          "en": "I'll hold the door.",
+          "when_to_use": "Always do this. One of the few unambiguous courtesies here.",
+          "register": "casual",
+          "vi": "Tôi giữ cửa cho.",
+          "when_to_use_vi": "Luôn làm việc này. Một trong vài phép lịch sự rõ ràng ở đây."
+        },
+        {
+          "fi": "Tarvitsetsä apua niiden kanssa?",
+          "en": "Do you need help with those?",
+          "when_to_use": "For someone struggling with shopping or furniture. Offer once.",
+          "register": "casual",
+          "vi": "Bác có cần giúp mấy thứ đó không?",
+          "when_to_use_vi": "Cho người đang vất vả với đồ mua hoặc đồ nội thất. Ngỏ ý một lần."
+        },
+        {
+          "fi": "Kiitos, mä pärjään.",
+          "en": "Thanks, I'm fine.",
+          "when_to_use": "How the offer is usually declined. Don't insist after this.",
+          "register": "casual",
+          "vi": "Cảm ơn, tôi xoay được.",
+          "when_to_use_vi": "Cách người ta thường từ chối. Đừng nài thêm sau câu này."
+        },
+        {
+          "fi": "Anteeks, ootsä täältä talosta?",
+          "en": "Sorry, are you from this building?",
+          "when_to_use": "For a stranger at the door. Politely checks before letting them in.",
+          "register": "neutral",
+          "vi": "Xin lỗi, anh ở toà nhà này không ạ?",
+          "when_to_use_vi": "Cho một người lạ ở cửa. Kiểm tra một cách lịch sự trước khi cho vào."
+        },
+        {
+          "fi": "Nähdään!",
+          "en": "See you!",
+          "when_to_use": "Exiting the lift. Two syllables and the interaction is complete.",
+          "register": "casual",
+          "vi": "Gặp lại nhé!",
+          "when_to_use_vi": "Lúc ra khỏi thang máy. Hai âm tiết và cuộc tương tác hoàn tất."
+        },
+        {
+          "fi": "Pitkästä aikaa!",
+          "en": "Long time no see!",
+          "when_to_use": "For a neighbour you haven't seen in months. Genuinely warm.",
+          "register": "casual",
+          "vi": "Lâu rồi mới gặp!",
+          "when_to_use_vi": "Cho một người hàng xóm mấy tháng không gặp. Thật sự ấm áp."
+        },
+        {
+          "fi": "Ootsä nähny sitä tiedotetta ilmoitustaululla?",
+          "en": "Have you seen that notice on the board?",
+          "when_to_use": "A real conversation opener between neighbours. Everyone reads the board.",
+          "register": "casual",
+          "vi": "Bác có thấy thông báo trên bảng chưa?",
+          "when_to_use_vi": "Một câu mở đầu thật giữa các hàng xóm. Ai cũng đọc cái bảng đó."
+        },
+        {
+          "fi": "Hyvää päivänjatkoa!",
+          "en": "Have a good rest of your day!",
+          "when_to_use": "The warmest available stairwell sign-off. Used a lot.",
+          "register": "neutral",
+          "vi": "Chúc bác một ngày tốt lành!",
+          "when_to_use_vi": "Câu chia tay ở cầu thang ấm áp nhất có sẵn. Được dùng nhiều."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Eleven floors of silence, and why it's fine",
+          "setting": "A lift. Two neighbours, one greeting each, and then nothing.",
+          "speed": "slow",
+          "note": "This is a completely successful social interaction in Finland. Nothing went wrong.",
+          "lines": [
+            {
+              "speaker": "Naapuri",
+              "fi": "Moi.",
+              "en": "Hi.",
+              "vi": "Chào."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi.",
+              "en": "Hi.",
+              "vi": "Chào."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "…",
+              "en": "(silence)",
+              "note": "Eleven floors. Nobody is uncomfortable except possibly you.",
+              "vi": "…",
+              "note_vi": "Mười một tầng. Không ai thấy khó chịu ngoại trừ có thể là bạn."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Nähdään.",
+              "en": "See you.",
+              "vi": "Gặp lại nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Nähdään!",
+              "en": "See you!",
+              "vi": "Gặp lại nhé!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Hei, mä oon Duc — mä muutin tänne kolmanteen kerrokseen.",
+              "en": "Hi! Hey, I'm Duc — I moved in on the third floor.",
+              "note": "A week later, he introduces himself properly. This is welcome.",
+              "vi": "Chào bác! À, cháu là Duc — cháu mới dọn vào tầng ba.",
+              "note_vi": "Một tuần sau, anh tự giới thiệu đàng hoàng. Điều này được hoan nghênh."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Ai kiva, tervetuloa! Mä oon Eeva, mä asun neljännessä.",
+              "en": "Oh nice, welcome! I'm Eeva, I live on the fourth.",
+              "vi": "Ồ hay quá, chào mừng cháu! Bác là Eeva, bác ở tầng bốn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hauska tutustua. Onks tää hyvä talo?",
+              "en": "Nice to meet you. Is this a good building?",
+              "vi": "Rất vui được làm quen. Toà nhà này có tốt không ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "On, tosi rauhallinen. Lue vaan ilmoitustaulu, siinä on kaikki tärkeä.",
+              "en": "It is, really quiet. Just read the notice board, everything important is on it.",
+              "vi": "Tốt, rất yên tĩnh. Cháu cứ đọc bảng thông báo, mọi thứ quan trọng đều ở trên đó."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä, kiitos vinkistä!",
+              "en": "Right, thanks for the tip!",
+              "vi": "Vâng, cảm ơn bác đã chỉ!"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Ja sano, jos tarvitset jotain. Mä oon yleensä kotona.",
+              "en": "And say if you need anything. I'm usually home.",
+              "vi": "Và cần gì thì cháu cứ nói. Bác thường ở nhà."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos, se on kilttiä. Hyvää päivänjatkoa!",
+              "en": "Thanks, that's kind. Have a good rest of your day!",
+              "vi": "Cảm ơn bác, bác tốt quá. Chúc bác một ngày tốt lành!"
+            }
+          ],
+          "title_vi": "Mười một tầng im lặng, và vì sao thế là ổn",
+          "setting_vi": "Một cái thang máy. Hai người hàng xóm, mỗi người một lời chào, rồi không gì cả.",
+          "note_vi": "Đây là một cuộc tương tác xã giao hoàn toàn thành công ở Phần Lan. Không có gì sai cả."
+        },
+        {
+          "title": "Doors, shopping and a stranger",
+          "setting": "Three short stairwell moments across a week.",
+          "speed": "natural",
+          "note": "Holding the door and offering help once are the two real courtesies. Both are brief.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä pidän ovea.",
+              "en": "Hi! I'll hold the door.",
+              "vi": "Chào bác! Cháu giữ cửa cho."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Kiitos!",
+              "en": "Thanks!",
+              "vi": "Cảm ơn cháu!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Tarvitsetsä apua niiden kassien kanssa?",
+              "en": "Do you need help with those bags?",
+              "vi": "Bác có cần giúp mấy cái túi đó không?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Kiitos, mä pärjään. Mut kilttiä kun kysyit.",
+              "en": "Thanks, I'm fine. But kind of you to ask.",
+              "vi": "Cảm ơn, bác xoay được. Nhưng cháu hỏi thế là tốt."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Nähdään!",
+              "en": "Right. See you!",
+              "vi": "Vâng. Gặp lại bác nhé!"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Anteeks, ootsä täältä talosta?",
+              "en": "Sorry, are you from this building?",
+              "vi": "Xin lỗi, anh ở toà nhà này không ạ?"
+            },
+            {
+              "speaker": "Tuntematon",
+              "fi": "Ei, mä tulin katsomaan Virtasia. Neljäs kerros.",
+              "en": "No, I've come to see the Virtanens. Fourth floor.",
+              "vi": "Không, tôi đến thăm nhà Virtanen. Tầng bốn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ahaa, selvä. Soita vaan ovikelloa, se on toi vasemmalla.",
+              "en": "Ah, right. Just ring the doorbell, it's the one on the left.",
+              "vi": "À, vâng. Anh cứ bấm chuông, cái bên trái ấy."
+            },
+            {
+              "speaker": "Tuntematon",
+              "fi": "Kiitos!",
+              "en": "Thanks!",
+              "vi": "Cảm ơn anh!"
+            }
+          ],
+          "title_vi": "Cửa, đồ mua và một người lạ",
+          "setting_vi": "Ba khoảnh khắc ngắn ở cầu thang trong một tuần.",
+          "note_vi": "Giữ cửa và ngỏ ý giúp một lần là hai phép lịch sự thật sự. Cả hai đều ngắn."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Introduce yourself to a neighbour",
+          "scenario": "Greet, introduce yourself properly once, and learn something useful about the building.",
+          "your_role": "You, new in the building",
+          "partner_role": "Eeva, from the fourth floor",
+          "turns": [
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Moi.",
+              "en": "Hi.",
+              "vi": "Chào."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Hei, mä oon Duc — mä muutin tänne kolmanteen kerrokseen.",
+              "en": "Hi! Hey, I'm Duc — I moved in on the third floor.",
+              "hint": "Worth doing once. Give your name and your floor.",
+              "vi": "Chào bác! À, cháu là Duc — cháu mới dọn vào tầng ba.",
+              "hint_vi": "Đáng làm một lần. Nói tên và tầng của bạn."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Ai kiva, tervetuloa! Mä oon Eeva, neljännestä.",
+              "en": "Oh nice, welcome! I'm Eeva, from the fourth.",
+              "vi": "Ồ hay quá, chào mừng! Bác là Eeva, tầng bốn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hauska tutustua. Onks tää hyvä talo?",
+              "en": "Nice to meet you. Is this a good building?",
+              "hint": "A real question, and you'll get a useful answer.",
+              "vi": "Rất vui được làm quen. Toà nhà này có tốt không ạ?",
+              "hint_vi": "Một câu hỏi thật, và bạn sẽ nhận được câu trả lời hữu ích."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "On, tosi rauhallinen. Lue vaan ilmoitustaulu.",
+              "en": "It is, really quiet. Just read the notice board.",
+              "vi": "Tốt, rất yên tĩnh. Cháu cứ đọc bảng thông báo."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä, kiitos vinkistä!",
+              "en": "Right, thanks for the tip!",
+              "hint": "The notice board genuinely is how the building talks to you.",
+              "vi": "Vâng, cảm ơn bác đã chỉ!",
+              "hint_vi": "Bảng thông báo thật sự là cách toà nhà nói chuyện với bạn."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Ja sano jos tarvitset jotain.",
+              "en": "And say if you need anything.",
+              "vi": "Và cần gì thì cháu cứ nói."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos, se on kilttiä. Hyvää päivänjatkoa!",
+              "en": "Thanks, that's kind. Have a good rest of your day!",
+              "hint": "Close warmly and briefly. That's the whole form.",
+              "vi": "Cảm ơn bác, bác tốt quá. Chúc bác một ngày tốt lành!",
+              "hint_vi": "Kết lại một cách ấm áp và ngắn gọn. Đó là toàn bộ hình thức."
+            }
+          ],
+          "title_vi": "Tự giới thiệu với một người hàng xóm",
+          "scenario_vi": "Chào, tự giới thiệu đàng hoàng một lần, và học được điều gì hữu ích về toà nhà.",
+          "your_role_vi": "Bạn, mới ở toà nhà",
+          "partner_role_vi": "Eeva, ở tầng bốn"
+        }
+      ],
+      "title_vi": "Chào hỏi ở cầu thang",
+      "subtitle_vi": "Và khi nào người Phần Lan không chào",
+      "warmup_situation_vi": "Bạn gặp một người hàng xóm trong thang máy. Bạn nói «moi». Họ nói «moi». Rồi mười một tầng im lặng hoàn toàn, và bạn dành suốt quãng đó để tự hỏi mình đã làm gì sai.",
+      "warmup_question_vi": "Bạn có làm gì sai không? Quy tắc thật sự về việc chào hỏi ở cầu thang Phần Lan là gì?",
+      "rescue_vi": "Chào! …Hôm nay ở đây yên tĩnh thật.",
+      "rescue_note_vi": "Nếu sự im lặng thật sự làm bạn khó chịu, một lời nhận xét nhẹ về toà nhà hoặc thời tiết lúc nào cũng có sẵn và lúc nào cũng an toàn. Nhưng bạn không có nghĩa vụ phải lấp nó, và họ cũng vậy — sự im lặng không phải một lời phán xét về bạn."
+    },
+    {
+      "slug": "shared-spaces",
+      "number": "11.2",
+      "title": "Sauna turns, laundry and shared spaces",
+      "subtitle": "Vuorolistat, pesutupa ja varaukset",
+      "warmup_situation": "There's a sauna in the basement, a laundry room next to it, and a sign-up sheet on a wall with a system you don't recognise. Everyone else has a slot. You do not.",
+      "warmup_question": "How do you get a slot — and who owns the sheet?",
+      "rescue_fi": "Miten nää vuorot varataan?",
+      "rescue_en": "How do you book these slots?",
+      "rescue_note": "Ask any neighbour rather than puzzling over the sheet. Every building does this slightly differently — a paper list, a phone call to the isännöitsijä, or an app — and a neighbour will explain the local system in one sentence.",
+      "vocab": [
+        {
+          "fi": "pesutupa",
+          "en": "laundry room",
+          "pos": "noun",
+          "note": "Shared, bookable, and much cheaper than a machine of your own.",
+          "vi": "phòng giặt chung",
+          "note_vi": "Dùng chung, phải đặt lượt, và rẻ hơn nhiều so với tự mua máy."
+        },
+        {
+          "fi": "pyykkituvan vuoro",
+          "en": "laundry room slot",
+          "pos": "phrase",
+          "vi": "lượt dùng phòng giặt"
+        },
+        {
+          "fi": "kuivaushuone",
+          "en": "drying room",
+          "pos": "noun",
+          "vi": "phòng sấy"
+        },
+        {
+          "fi": "mankeli",
+          "en": "mangle, ironing press",
+          "pos": "noun",
+          "note": "Still common in Finnish laundry rooms. For sheets.",
+          "vi": "máy là ép, máy cán",
+          "note_vi": "Vẫn phổ biến trong phòng giặt Phần Lan. Dùng cho ga giường."
+        },
+        {
+          "fi": "taloyhtiön sauna",
+          "en": "the building's sauna",
+          "pos": "phrase",
+          "note": "Most buildings have one. Often free or a few euros a month.",
+          "vi": "phòng sauna của toà nhà",
+          "note_vi": "Phần lớn toà nhà đều có. Thường miễn phí hoặc vài euro một tháng."
+        },
+        {
+          "fi": "saunavuoro",
+          "en": "sauna slot",
+          "pos": "noun",
+          "vi": "lượt sauna"
+        },
+        {
+          "fi": "vuorolista",
+          "en": "rota, booking list",
+          "pos": "noun",
+          "vi": "danh sách phân lượt"
+        },
+        {
+          "fi": "varata",
+          "en": "to book",
+          "pos": "verb",
+          "vi": "đặt lượt"
+        },
+        {
+          "fi": "varaus",
+          "en": "booking",
+          "pos": "noun",
+          "vi": "lượt đã đặt"
+        },
+        {
+          "fi": "peruuttaa",
+          "en": "to cancel",
+          "pos": "verb",
+          "vi": "huỷ"
+        },
+        {
+          "fi": "vapaa vuoro",
+          "en": "free slot",
+          "pos": "phrase",
+          "vi": "lượt còn trống"
+        },
+        {
+          "fi": "vakiovuoro",
+          "en": "regular weekly slot",
+          "pos": "noun",
+          "note": "Some residents have a permanent slot. Ask whether any are free.",
+          "vi": "lượt cố định hằng tuần",
+          "note_vi": "Một số cư dân có lượt cố định. Hãy hỏi xem còn lượt nào trống."
+        },
+        {
+          "fi": "kellotaulu",
+          "en": "the booking clock",
+          "pos": "noun",
+          "note": "An old-fashioned dial on the wall. Some buildings still use one.",
+          "vi": "mặt đồng hồ đặt lượt",
+          "note_vi": "Một cái núm xoay kiểu cũ trên tường. Một số toà nhà vẫn dùng."
+        },
+        {
+          "fi": "isännöitsijä",
+          "en": "property manager",
+          "pos": "noun",
+          "note": "The person who runs the building's administration. Learn who this is.",
+          "vi": "người quản lý toà nhà",
+          "note_vi": "Người điều hành phần hành chính của toà nhà. Hãy biết đó là ai."
+        },
+        {
+          "fi": "huoltoyhtiö",
+          "en": "maintenance company",
+          "pos": "noun",
+          "vi": "công ty bảo trì"
+        },
+        {
+          "fi": "kellari",
+          "en": "basement",
+          "pos": "noun",
+          "vi": "tầng hầm"
+        },
+        {
+          "fi": "varasto",
+          "en": "storage room",
+          "pos": "noun",
+          "note": "Each flat has one. Yours is numbered to match your flat.",
+          "vi": "phòng kho",
+          "note_vi": "Mỗi căn hộ có một phòng. Phòng của bạn được đánh số trùng với số căn hộ."
+        },
+        {
+          "fi": "häkkivarasto",
+          "en": "cage storage",
+          "pos": "noun",
+          "vi": "kho dạng lồng lưới"
+        },
+        {
+          "fi": "pyörävarasto",
+          "en": "bike storage",
+          "pos": "noun",
+          "vi": "kho để xe đạp"
+        },
+        {
+          "fi": "ulkoiluvälinevarasto",
+          "en": "outdoor equipment store",
+          "pos": "noun",
+          "vi": "kho đồ ngoài trời"
+        },
+        {
+          "fi": "jätekatos",
+          "en": "waste shelter",
+          "pos": "noun",
+          "vi": "nhà để rác"
+        },
+        {
+          "fi": "lajittelu",
+          "en": "waste sorting",
+          "pos": "noun",
+          "note": "Bio, paper, cardboard, glass, metal, plastic, mixed. Take it seriously.",
+          "vi": "việc phân loại rác",
+          "note_vi": "Hữu cơ, giấy, bìa, thuỷ tinh, kim loại, nhựa, rác chung. Hãy làm nghiêm túc."
+        },
+        {
+          "fi": "biojäte",
+          "en": "bio waste",
+          "pos": "noun",
+          "vi": "rác hữu cơ"
+        },
+        {
+          "fi": "pahvi",
+          "en": "cardboard",
+          "pos": "noun",
+          "vi": "bìa carton"
+        },
+        {
+          "fi": "sekajäte",
+          "en": "mixed waste",
+          "pos": "noun",
+          "vi": "rác chung"
+        },
+        {
+          "fi": "pihatalkoot",
+          "en": "communal yard work day",
+          "pos": "noun",
+          "note": "Once or twice a year. Turn up once and you're a known quantity.",
+          "vi": "ngày lao động chung ở sân",
+          "note_vi": "Một hoặc hai lần một năm. Đến một lần là bạn thành người được biết mặt."
+        },
+        {
+          "fi": "yhtiökokous",
+          "en": "annual general meeting",
+          "pos": "noun",
+          "note": "Where decisions about the building are made. Worth attending once.",
+          "vi": "đại hội thường niên của toà nhà",
+          "note_vi": "Nơi các quyết định về toà nhà được đưa ra. Đáng dự một lần."
+        },
+        {
+          "fi": "järjestyssäännöt",
+          "en": "house rules",
+          "pos": "noun",
+          "note": "Posted in the stairwell. Read them once, properly.",
+          "vi": "nội quy toà nhà",
+          "note_vi": "Dán ở lồng cầu thang. Hãy đọc một lần, đọc đàng hoàng."
+        },
+        {
+          "fi": "hiljaisuus alkaa",
+          "en": "quiet hours begin",
+          "pos": "phrase",
+          "note": "Usually 22:00. This one is genuinely enforced.",
+          "vi": "giờ yên tĩnh bắt đầu",
+          "note_vi": "Thường là 22:00. Điều này thật sự được thực thi."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Miten nää vuorot varataan?",
+          "en": "How do you book these slots?",
+          "when_to_use": "Ask a neighbour. Every building does it slightly differently.",
+          "register": "casual",
+          "vi": "Mấy lượt này đặt thế nào ạ?",
+          "when_to_use_vi": "Hỏi một người hàng xóm. Mỗi toà nhà làm hơi khác nhau."
+        },
+        {
+          "fi": "Onks pyykkituvassa vapaita vuoroja?",
+          "en": "Are there free laundry slots?",
+          "when_to_use": "Sometimes the list is full for two weeks. Worth knowing early.",
+          "register": "casual",
+          "vi": "Phòng giặt còn lượt trống không ạ?",
+          "when_to_use_vi": "Đôi khi danh sách đầy hai tuần. Đáng biết sớm."
+        },
+        {
+          "fi": "Mä varasin lauantain kello kaks.",
+          "en": "I booked Saturday at two.",
+          "when_to_use": "Write your name and flat number on the sheet.",
+          "register": "casual",
+          "vi": "Tôi đặt thứ Bảy hai giờ.",
+          "when_to_use_vi": "Ghi tên và số căn hộ của bạn lên tờ giấy."
+        },
+        {
+          "fi": "Onks taloyhtiöllä sauna?",
+          "en": "Does the building have a sauna?",
+          "when_to_use": "Most do. Often free or a small monthly fee.",
+          "register": "neutral",
+          "vi": "Toà nhà có phòng sauna không ạ?",
+          "when_to_use_vi": "Phần lớn đều có. Thường miễn phí hoặc một khoản phí tháng nhỏ."
+        },
+        {
+          "fi": "Paljonko saunavuoro maksaa kuussa?",
+          "en": "How much is a sauna slot per month?",
+          "when_to_use": "Usually 5–15 euros. Ask the isännöitsijä.",
+          "register": "neutral",
+          "vi": "Một lượt sauna một tháng bao nhiêu ạ?",
+          "when_to_use_vi": "Thường 5–15 euro. Hãy hỏi isännöitsijä."
+        },
+        {
+          "fi": "Kuka on meidän isännöitsijä?",
+          "en": "Who is our property manager?",
+          "when_to_use": "Learn this early. They solve most building problems.",
+          "register": "neutral",
+          "vi": "Người quản lý toà nhà của mình là ai ạ?",
+          "when_to_use_vi": "Hãy biết điều này sớm. Họ giải quyết phần lớn vấn đề của toà nhà."
+        },
+        {
+          "fi": "Missä on mun varasto?",
+          "en": "Where's my storage room?",
+          "when_to_use": "It's numbered to match your flat. Ask if you can't find it.",
+          "register": "casual",
+          "vi": "Phòng kho của tôi ở đâu ạ?",
+          "when_to_use_vi": "Nó được đánh số trùng với căn hộ của bạn. Hỏi nếu không tìm được."
+        },
+        {
+          "fi": "Mihin pahvit laitetaan?",
+          "en": "Where does the cardboard go?",
+          "when_to_use": "Waste sorting is taken seriously here. Ask rather than guess.",
+          "register": "casual",
+          "vi": "Bìa carton bỏ ở đâu ạ?",
+          "when_to_use_vi": "Việc phân loại rác ở đây được coi trọng. Hãy hỏi thay vì đoán."
+        },
+        {
+          "fi": "Mihin aikaan hiljaisuus alkaa?",
+          "en": "What time do quiet hours start?",
+          "when_to_use": "Usually 22:00, and it's genuinely enforced. Know it.",
+          "register": "neutral",
+          "vi": "Giờ yên tĩnh bắt đầu lúc mấy giờ ạ?",
+          "when_to_use_vi": "Thường 22:00, và nó thật sự được thực thi. Hãy biết nó."
+        },
+        {
+          "fi": "Milloin on pihatalkoot?",
+          "en": "When is the yard work day?",
+          "when_to_use": "Turn up once a year. It makes you a known, trusted resident.",
+          "register": "casual",
+          "vi": "Ngày lao động ở sân là khi nào ạ?",
+          "when_to_use_vi": "Đến một lần mỗi năm. Nó làm bạn thành một cư dân được biết và được tin."
+        },
+        {
+          "fi": "Mä en pääse mun vuorolle — voitsä ottaa sen?",
+          "en": "I can't make my slot — do you want it?",
+          "when_to_use": "Offering an unused slot to a neighbour. Always appreciated.",
+          "register": "casual",
+          "vi": "Tôi không dùng được lượt của tôi — bạn lấy nhé?",
+          "when_to_use_vi": "Nhường lượt không dùng cho hàng xóm. Luôn được trân trọng."
+        },
+        {
+          "fi": "Missä järjestyssäännöt on?",
+          "en": "Where are the house rules?",
+          "when_to_use": "On the stairwell board. Read them once, properly.",
+          "register": "neutral",
+          "vi": "Nội quy toà nhà ở đâu ạ?",
+          "when_to_use_vi": "Trên bảng ở cầu thang. Hãy đọc một lần, đọc đàng hoàng."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Working out the booking system",
+          "setting": "The basement. A paper list, a dial on the wall, and a neighbour who knows.",
+          "speed": "slow",
+          "note": "One question to a neighbour replaces twenty minutes of staring at a sheet.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Anteeks — miten nää vuorot varataan?",
+              "en": "Hi! Sorry — how do you book these slots?",
+              "vi": "Chào bác! Xin lỗi — mấy lượt này đặt thế nào ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Moi! Pyykkitupa on tuolla listalla. Kirjota vaan nimi ja asunnon numero.",
+              "en": "Hi! The laundry room is on that list. Just write your name and flat number.",
+              "vi": "Chào cháu! Phòng giặt thì ở danh sách kia. Cháu chỉ cần ghi tên và số căn hộ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä, helppo. Onks vapaita vuoroja?",
+              "en": "Right, easy. Are there free slots?",
+              "vi": "Vâng, dễ. Còn lượt trống không ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Lauantai aamu on vapaa. Iltapäivät menee nopeesti.",
+              "en": "Saturday morning is free. Afternoons go quickly.",
+              "vi": "Sáng thứ Bảy còn trống. Buổi chiều thì hết nhanh."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä otan lauantai aamun. Entä sauna?",
+              "en": "I'll take Saturday morning. And the sauna?",
+              "vi": "Cháu lấy sáng thứ Bảy. Còn sauna thì sao ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Sauna on eri juttu. Sen vuoro varataan isännöitsijältä, ja se on vakiovuoro.",
+              "en": "The sauna is different. You book that slot from the property manager, and it's a regular weekly slot.",
+              "vi": "Sauna là chuyện khác. Lượt đó đặt với người quản lý toà nhà, và là lượt cố định."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ai, vakiovuoro. Paljonko se maksaa kuussa?",
+              "en": "Oh, a regular slot. How much is it a month?",
+              "vi": "À, lượt cố định. Một tháng bao nhiêu ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Kymmenen euroa. Se tulee vastikkeen mukana.",
+              "en": "Ten euros. It comes with the maintenance charge.",
+              "vi": "Mười euro. Nó tính kèm vào phí bảo trì."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Kuka on meidän isännöitsijä?",
+              "en": "Right. Who is our property manager?",
+              "vi": "Vâng. Người quản lý toà nhà của mình là ai ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Kiinteistö-Palvelu, numero on ilmoitustaululla.",
+              "en": "Kiinteistö-Palvelu, the number's on the notice board.",
+              "vi": "Kiinteistö-Palvelu, số điện thoại ở trên bảng thông báo."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos! Ja vielä yks — missä on mun varasto?",
+              "en": "Thanks! And one more — where's my storage room?",
+              "vi": "Cảm ơn bác! Và còn một câu nữa — phòng kho của cháu ở đâu ạ?"
+            },
+            {
+              "speaker": "Eeva",
+              "fi": "Kellarissa, sama numero kun sun asunto. Häkki 12.",
+              "en": "In the basement, same number as your flat. Cage 12.",
+              "vi": "Ở tầng hầm, cùng số với căn hộ cháu. Lồng số 12."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Täydellistä. Kiitos tosi paljon!",
+              "en": "Perfect. Thanks so much!",
+              "vi": "Tuyệt vời. Cảm ơn bác nhiều!"
+            }
+          ],
+          "title_vi": "Tìm hiểu hệ thống đặt lượt",
+          "setting_vi": "Tầng hầm. Một tờ giấy, một cái núm trên tường, và một người hàng xóm biết chuyện.",
+          "note_vi": "Một câu hỏi với người hàng xóm thay thế hai mươi phút nhìn tờ giấy."
+        },
+        {
+          "title": "Waste, quiet hours and the yard day",
+          "setting": "By the waste shelter. Three practical questions.",
+          "speed": "natural",
+          "note": "Sorting and quiet hours are the two rules that genuinely matter here.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mihin pahvit laitetaan?",
+              "en": "Hi! Where does the cardboard go?",
+              "vi": "Chào bác! Bìa carton bỏ ở đâu ạ?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Tuohon isoon, missä lukee 'kartonki'. Ja litistä ne.",
+              "en": "In that big one marked 'kartonki'. And flatten them.",
+              "vi": "Vào cái thùng to có chữ «kartonki». Và nhớ gấp dẹp lại."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Entä biojäte?",
+              "en": "Right. And bio waste?",
+              "vi": "Vâng. Còn rác hữu cơ ạ?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Ruskea astia, vasemmalla. Käytä biopussia.",
+              "en": "The brown bin, on the left. Use a bio bag.",
+              "vi": "Thùng nâu, bên trái. Dùng túi phân huỷ nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Ja mihin aikaan hiljaisuus alkaa?",
+              "en": "Thanks. And what time do quiet hours start?",
+              "vi": "Cảm ơn bác. Và giờ yên tĩnh bắt đầu lúc mấy giờ ạ?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Kymmeneltä. Sitä kannattaa noudattaa, täällä kuuluu kaikki.",
+              "en": "At ten. Worth following, everything carries in this building.",
+              "vi": "Mười giờ. Nên tuân theo đấy, ở toà này cái gì cũng nghe thấy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä tietää. Milloin muuten on pihatalkoot?",
+              "en": "Good to know. When's the yard work day, by the way?",
+              "vi": "Biết vậy hay. Mà ngày lao động ở sân là khi nào ạ?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Toukokuussa, tiedote tulee ilmoitustaululle.",
+              "en": "In May, a notice goes up on the board.",
+              "vi": "Tháng Năm, thông báo sẽ dán lên bảng."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä tulen. Kiitos avusta!",
+              "en": "I'll come. Thanks for the help!",
+              "vi": "Cháu sẽ đến. Cảm ơn bác đã chỉ!"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Hyvä! Siellä on aina kahvia ja makkaraa.",
+              "en": "Good! There's always coffee and sausage there.",
+              "vi": "Tốt! Ở đó lúc nào cũng có cà phê và xúc xích."
+            }
+          ],
+          "title_vi": "Rác, giờ yên tĩnh và ngày lao động ở sân",
+          "setting_vi": "Cạnh nhà để rác. Ba câu hỏi thực tế.",
+          "note_vi": "Phân loại rác và giờ yên tĩnh là hai quy định thật sự quan trọng ở đây."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Work out the building's systems",
+          "scenario": "Ask how booking works, get a slot, and find out about the sauna and your storage.",
+          "your_role": "You, in the basement",
+          "partner_role": "Eeva, a neighbour who knows",
+          "turns": [
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Anteeks — miten nää vuorot varataan?",
+              "en": "Hi! Sorry — how do you book these slots?",
+              "hint": "Ask a neighbour. Every building does this differently.",
+              "vi": "Chào bác! Xin lỗi — mấy lượt này đặt thế nào ạ?",
+              "hint_vi": "Hỏi một người hàng xóm. Mỗi toà nhà làm khác nhau."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Kirjota vaan nimi ja asunnon numero tuohon listaan.",
+              "en": "Just write your name and flat number on that list.",
+              "vi": "Cháu chỉ cần ghi tên và số căn hộ lên danh sách kia."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Onks vapaita vuoroja?",
+              "en": "Right. Are there free slots?",
+              "hint": "Lists can be full for two weeks. Worth knowing early.",
+              "vi": "Vâng. Còn lượt trống không ạ?",
+              "hint_vi": "Danh sách có thể đầy hai tuần. Đáng biết sớm."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Lauantai aamu on vapaa.",
+              "en": "Saturday morning is free.",
+              "vi": "Sáng thứ Bảy còn trống."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä otan sen. Entä sauna?",
+              "en": "I'll take that. And the sauna?",
+              "hint": "The sauna is usually a separate system entirely.",
+              "vi": "Cháu lấy suất đó. Còn sauna thì sao ạ?",
+              "hint_vi": "Sauna thường là một hệ thống hoàn toàn riêng."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Se varataan isännöitsijältä, ja se on vakiovuoro.",
+              "en": "You book that from the property manager, and it's a regular slot.",
+              "vi": "Cái đó đặt với người quản lý toà nhà, và là lượt cố định."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kuka on meidän isännöitsijä?",
+              "en": "Who is our property manager?",
+              "hint": "Learn this early. They solve most building problems.",
+              "vi": "Người quản lý toà nhà của mình là ai ạ?",
+              "hint_vi": "Hãy biết sớm. Họ giải quyết phần lớn vấn đề của toà nhà."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Kiinteistö-Palvelu, numero on ilmoitustaululla.",
+              "en": "Kiinteistö-Palvelu, the number's on the notice board.",
+              "vi": "Kiinteistö-Palvelu, số ở trên bảng thông báo."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos! Ja missä on mun varasto?",
+              "en": "Thanks! And where's my storage room?",
+              "hint": "It's numbered to match your flat.",
+              "vi": "Cảm ơn bác! Và phòng kho của cháu ở đâu ạ?",
+              "hint_vi": "Nó được đánh số trùng với căn hộ của bạn."
+            },
+            {
+              "speaker": "Eeva",
+              "is_your_turn": false,
+              "fi": "Kellarissa, häkki 12.",
+              "en": "In the basement, cage 12.",
+              "vi": "Ở tầng hầm, lồng số 12."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Täydellistä. Kiitos tosi paljon!",
+              "en": "Perfect. Thanks so much!",
+              "hint": "They just saved you an hour. Say so.",
+              "vi": "Tuyệt vời. Cảm ơn bác nhiều!",
+              "hint_vi": "Họ vừa tiết kiệm cho bạn một tiếng. Hãy nói ra."
+            }
+          ],
+          "title_vi": "Tìm hiểu các hệ thống của toà nhà",
+          "scenario_vi": "Hỏi cách đặt lượt, lấy một suất, và tìm hiểu về sauna cùng phòng kho của bạn.",
+          "your_role_vi": "Bạn, ở tầng hầm",
+          "partner_role_vi": "Eeva, một người hàng xóm biết chuyện"
+        }
+      ],
+      "title_vi": "Lượt sauna, phòng giặt và không gian chung",
+      "subtitle_vi": "Vuorolistat, pesutupa ja varaukset",
+      "warmup_situation_vi": "Có một phòng sauna ở tầng hầm, một phòng giặt bên cạnh, và một tờ đăng ký trên tường với một hệ thống bạn không nhận ra. Mọi người khác đều có suất. Bạn thì không.",
+      "warmup_question_vi": "Bạn lấy suất thế nào — và ai quản tờ giấy đó?",
+      "rescue_vi": "Mấy lượt này đặt thế nào ạ?",
+      "rescue_note_vi": "Hãy hỏi bất cứ người hàng xóm nào thay vì nghiên cứu tờ giấy. Mỗi toà nhà làm hơi khác nhau — một tờ giấy, một cuộc gọi cho isännöitsijä, hoặc một cái app — và một người hàng xóm sẽ giải thích hệ thống địa phương trong một câu."
+    },
+    {
+      "slug": "reporting-a-fault",
+      "number": "11.3",
+      "title": "Reporting a problem to maintenance",
+      "subtitle": "Meillä vuotaa hana.",
+      "warmup_situation": "Water is coming through your bathroom ceiling. It is 21:40. You have a maintenance number on the notice board and no idea whether this counts as an emergency.",
+      "warmup_question": "What counts as urgent — and what do you say in the first sentence?",
+      "rescue_fi": "Meillä tulee vettä katosta. Onks tää kiireellinen?",
+      "rescue_en": "We've got water coming through the ceiling. Is this urgent?",
+      "rescue_note": "Describe the situation and let them classify it. Water is almost always urgent in Finland because of how fast it damages a building, and asking the question directly gets you a clear answer instead of a guess.",
+      "vocab": [
+        {
+          "fi": "huoltoyhtiö",
+          "en": "maintenance company",
+          "pos": "noun",
+          "note": "Number on the stairwell board. Save it in your phone now.",
+          "vi": "công ty bảo trì",
+          "note_vi": "Số điện thoại trên bảng ở cầu thang. Hãy lưu vào máy ngay bây giờ."
+        },
+        {
+          "fi": "huoltomies",
+          "en": "maintenance man",
+          "pos": "noun",
+          "vi": "nhân viên bảo trì"
+        },
+        {
+          "fi": "päivystys",
+          "en": "on-call service",
+          "pos": "noun",
+          "note": "For out-of-hours emergencies. Usually a more expensive number.",
+          "vi": "dịch vụ trực ngoài giờ",
+          "note_vi": "Cho trường hợp khẩn ngoài giờ. Thường là số đắt hơn."
+        },
+        {
+          "fi": "vikailmoitus",
+          "en": "fault report",
+          "pos": "noun",
+          "note": "Often filed online now. Ask which channel your building uses.",
+          "vi": "phiếu báo sự cố",
+          "note_vi": "Giờ thường khai trên mạng. Hãy hỏi toà nhà bạn dùng kênh nào."
+        },
+        {
+          "fi": "ilmoittaa viasta",
+          "en": "to report a fault",
+          "pos": "phrase",
+          "vi": "báo sự cố"
+        },
+        {
+          "fi": "kiireellinen",
+          "en": "urgent",
+          "pos": "adjective",
+          "vi": "cấp bách, gấp"
+        },
+        {
+          "fi": "vuotaa",
+          "en": "to leak",
+          "pos": "verb",
+          "note": "Any leak is urgent here. Report it the moment you see it.",
+          "vi": "chảy, rò rỉ",
+          "note_vi": "Ở đây mọi vụ rò đều là cấp bách. Báo ngay khi bạn thấy."
+        },
+        {
+          "fi": "vesivahinko",
+          "en": "water damage",
+          "pos": "noun",
+          "note": "The word that makes everyone move fast. Use it if it applies.",
+          "vi": "hư hại do nước",
+          "note_vi": "Từ khiến mọi người di chuyển nhanh. Hãy dùng nó nếu đúng vậy."
+        },
+        {
+          "fi": "kosteus",
+          "en": "damp",
+          "pos": "noun",
+          "vi": "hơi ẩm"
+        },
+        {
+          "fi": "home",
+          "en": "mould",
+          "pos": "noun",
+          "note": "Report immediately and in writing. This is taken very seriously.",
+          "vi": "nấm mốc",
+          "note_vi": "Báo ngay và bằng văn bản. Chuyện này được coi rất nghiêm trọng."
+        },
+        {
+          "fi": "katto",
+          "en": "ceiling, roof",
+          "pos": "noun",
+          "vi": "trần, mái"
+        },
+        {
+          "fi": "lattia",
+          "en": "floor",
+          "pos": "noun",
+          "vi": "sàn"
+        },
+        {
+          "fi": "seinä",
+          "en": "wall",
+          "pos": "noun",
+          "vi": "tường"
+        },
+        {
+          "fi": "putki",
+          "en": "pipe",
+          "pos": "noun",
+          "vi": "đường ống"
+        },
+        {
+          "fi": "lämmitys ei toimi",
+          "en": "the heating isn't working",
+          "pos": "phrase",
+          "vi": "hệ thống sưởi không chạy"
+        },
+        {
+          "fi": "patteri on kylmä",
+          "en": "the radiator is cold",
+          "pos": "phrase",
+          "vi": "lò sưởi bị lạnh"
+        },
+        {
+          "fi": "ilmanvaihto",
+          "en": "ventilation",
+          "pos": "noun",
+          "vi": "hệ thống thông gió"
+        },
+        {
+          "fi": "hissi jumissa",
+          "en": "lift stuck",
+          "pos": "phrase",
+          "vi": "thang máy bị kẹt"
+        },
+        {
+          "fi": "valo ei toimi",
+          "en": "the light doesn't work",
+          "pos": "phrase",
+          "vi": "đèn không sáng"
+        },
+        {
+          "fi": "lukko",
+          "en": "lock",
+          "pos": "noun",
+          "vi": "ổ khoá"
+        },
+        {
+          "fi": "ovi ei aukea",
+          "en": "the door won't open",
+          "pos": "phrase",
+          "vi": "cửa không mở được"
+        },
+        {
+          "fi": "asunto",
+          "en": "flat",
+          "pos": "noun",
+          "vi": "căn hộ"
+        },
+        {
+          "fi": "asunnon numero",
+          "en": "flat number",
+          "pos": "noun",
+          "note": "They will ask first. Have it and the address ready.",
+          "vi": "số căn hộ",
+          "note_vi": "Họ sẽ hỏi trước tiên. Hãy chuẩn bị sẵn nó cùng địa chỉ."
+        },
+        {
+          "fi": "osoite",
+          "en": "address",
+          "pos": "noun",
+          "vi": "địa chỉ"
+        },
+        {
+          "fi": "milloin se alkoi",
+          "en": "when did it start",
+          "pos": "phrase",
+          "vi": "nó bắt đầu khi nào"
+        },
+        {
+          "fi": "pahenee",
+          "en": "is getting worse",
+          "pos": "verb",
+          "vi": "đang nặng hơn"
+        },
+        {
+          "fi": "tulossa",
+          "en": "on the way",
+          "pos": "adverb",
+          "note": "'Huoltomies on tulossa' = the maintenance man is on his way.",
+          "vi": "đang trên đường đến",
+          "note_vi": "«Huoltomies on tulossa» = nhân viên bảo trì đang trên đường."
+        },
+        {
+          "fi": "milloin te tulette",
+          "en": "when are you coming",
+          "pos": "phrase",
+          "vi": "khi nào các anh đến"
+        },
+        {
+          "fi": "oletko kotona",
+          "en": "are you home",
+          "pos": "phrase",
+          "vi": "bạn có ở nhà không"
+        },
+        {
+          "fi": "yleisavain",
+          "en": "master key",
+          "pos": "noun",
+          "note": "Maintenance usually has one. You may not need to be present.",
+          "vi": "chìa khoá tổng",
+          "note_vi": "Bên bảo trì thường có một cái. Có thể bạn không cần phải có mặt."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Meillä vuotaa hana kylpyhuoneessa.",
+          "en": "Our bathroom tap is leaking.",
+          "when_to_use": "Location plus fault. The complete first sentence.",
+          "register": "neutral",
+          "vi": "Nhà tôi vòi nước trong nhà tắm bị rò.",
+          "when_to_use_vi": "Vị trí cộng sự cố. Câu đầu tiên trọn vẹn."
+        },
+        {
+          "fi": "Meillä tulee vettä katosta.",
+          "en": "We've got water coming through the ceiling.",
+          "when_to_use": "Always urgent. Report it immediately, whatever the hour.",
+          "register": "neutral",
+          "vi": "Nhà tôi có nước chảy qua trần.",
+          "when_to_use_vi": "Luôn là cấp bách. Báo ngay lập tức, bất kể mấy giờ."
+        },
+        {
+          "fi": "Onks tää kiireellinen?",
+          "en": "Is this urgent?",
+          "when_to_use": "Let them classify it. You'll get a clear answer.",
+          "register": "neutral",
+          "vi": "Chuyện này có cấp bách không ạ?",
+          "when_to_use_vi": "Để họ xếp loại nó. Bạn sẽ có câu trả lời rõ ràng."
+        },
+        {
+          "fi": "Osoite on Mäkikatu 4, asunto 12.",
+          "en": "The address is Mäkikatu 4, flat 12.",
+          "when_to_use": "They ask this first, every time. Have it ready.",
+          "register": "neutral",
+          "vi": "Địa chỉ là Mäkikatu 4, căn hộ 12.",
+          "when_to_use_vi": "Họ hỏi câu này trước tiên, lần nào cũng vậy. Hãy chuẩn bị sẵn."
+        },
+        {
+          "fi": "Se alkoi tänään iltapäivällä ja se pahenee.",
+          "en": "It started this afternoon and it's getting worse.",
+          "when_to_use": "Timeline plus direction. Both affect how fast they come.",
+          "register": "neutral",
+          "vi": "Nó bắt đầu chiều nay và đang nặng hơn.",
+          "when_to_use_vi": "Mốc thời gian cộng chiều hướng. Cả hai ảnh hưởng đến việc họ đến nhanh cỡ nào."
+        },
+        {
+          "fi": "Patteri on ihan kylmä.",
+          "en": "The radiator is completely cold.",
+          "when_to_use": "In winter this is treated as urgent. Report it the same day.",
+          "register": "neutral",
+          "vi": "Lò sưởi lạnh hẳn.",
+          "when_to_use_vi": "Vào mùa đông chuyện này được coi là cấp bách. Báo trong cùng ngày."
+        },
+        {
+          "fi": "Lämmitys ei toimi ollenkaan.",
+          "en": "The heating isn't working at all.",
+          "when_to_use": "In a Finnish winter this is a real emergency.",
+          "register": "neutral",
+          "vi": "Hệ thống sưởi không chạy chút nào.",
+          "when_to_use_vi": "Trong mùa đông Phần Lan đây là một tình huống khẩn cấp thật sự."
+        },
+        {
+          "fi": "Milloin te pääsette tulemaan?",
+          "en": "When can you come?",
+          "when_to_use": "Get a time window, not 'soon'.",
+          "register": "neutral",
+          "vi": "Khi nào các anh đến được ạ?",
+          "when_to_use_vi": "Hãy lấy một khung giờ, đừng nhận «sắp tới»."
+        },
+        {
+          "fi": "Pitääks mä olla kotona?",
+          "en": "Do I need to be home?",
+          "when_to_use": "Often not — maintenance usually has a master key. Ask.",
+          "register": "neutral",
+          "vi": "Tôi có cần ở nhà không ạ?",
+          "when_to_use_vi": "Thường là không — bên bảo trì thường có chìa khoá tổng. Hãy hỏi."
+        },
+        {
+          "fi": "Mä lähetin vikailmoituksen netissä.",
+          "en": "I filed a fault report online.",
+          "when_to_use": "Many buildings prefer this. Then call if it's urgent.",
+          "register": "neutral",
+          "vi": "Tôi đã gửi phiếu báo sự cố trên mạng.",
+          "when_to_use_vi": "Nhiều toà nhà thích cách này hơn. Rồi gọi nếu gấp."
+        },
+        {
+          "fi": "Mä otan valokuvan ja lähetän sen.",
+          "en": "I'll take a photo and send it.",
+          "when_to_use": "Enormously helpful for anything visible. Offer it.",
+          "register": "neutral",
+          "vi": "Tôi chụp ảnh rồi gửi cho anh.",
+          "when_to_use_vi": "Cực kỳ hữu ích với bất cứ thứ gì nhìn thấy được. Hãy chủ động đề nghị."
+        },
+        {
+          "fi": "Kiitos, että tulitte näin nopeasti.",
+          "en": "Thanks for coming so quickly.",
+          "when_to_use": "Say it. Maintenance staff are rarely thanked.",
+          "register": "neutral",
+          "vi": "Cảm ơn các anh đã đến nhanh như vậy.",
+          "when_to_use_vi": "Hãy nói ra. Nhân viên bảo trì ít khi được cảm ơn."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Water through the ceiling at 21:40",
+          "setting": "The on-call maintenance number. Duc describes it and lets them classify it.",
+          "speed": "slow",
+          "note": "Address, fault, timeline, then the urgency question. That order.",
+          "lines": [
+            {
+              "speaker": "Päivystys",
+              "fi": "Huoltopäivystys, Nieminen.",
+              "en": "Maintenance on-call, Nieminen.",
+              "vi": "Trực bảo trì, Nieminen xin nghe."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvää iltaa! Meillä tulee vettä katosta kylpyhuoneessa.",
+              "en": "Good evening! We've got water coming through the bathroom ceiling.",
+              "vi": "Chào anh, buổi tối tốt lành! Nhà tôi có nước chảy qua trần nhà tắm."
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Selvä. Mikä osoite ja asunnon numero?",
+              "en": "Right. What address and flat number?",
+              "vi": "Vâng. Địa chỉ và số căn hộ là gì ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mäkikatu 4, asunto 12, kolmas kerros.",
+              "en": "Mäkikatu 4, flat 12, third floor.",
+              "vi": "Mäkikatu 4, căn hộ 12, tầng ba."
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Kiitos. Milloin se alkoi?",
+              "en": "Thanks. When did it start?",
+              "vi": "Cảm ơn anh. Nó bắt đầu khi nào ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Noin tunti sitten. Ja se pahenee.",
+              "en": "About an hour ago. And it's getting worse.",
+              "vi": "Khoảng một tiếng trước. Và đang nặng hơn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Onks tää kiireellinen?",
+              "en": "Is this urgent?",
+              "vi": "Chuyện này có cấp bách không ạ?"
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "On kyllä. Vesi on aina kiireellinen. Mä lähetän miehen heti.",
+              "en": "It is, yes. Water is always urgent. I'll send someone right away.",
+              "vi": "Có ạ. Nước thì lúc nào cũng cấp bách. Tôi cử người đến ngay."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Kauanko siinä menee?",
+              "en": "Thanks. How long will that take?",
+              "vi": "Cảm ơn anh. Mất bao lâu ạ?"
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Puolituntia, korkeintaan tunti.",
+              "en": "Half an hour, at most an hour.",
+              "vi": "Nửa tiếng, nhiều nhất là một tiếng ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Pitääks mä olla kotona?",
+              "en": "Right. Do I need to be home?",
+              "vi": "Vâng. Tôi có cần ở nhà không ạ?"
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Ois hyvä, koska hän tarvii päästä sisään.",
+              "en": "It would be good, because he needs to get in.",
+              "vi": "Sẽ tốt nếu anh ở nhà, vì anh ấy cần vào được bên trong."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä oon kotona. Ja mä otan valokuvan ja lähetän sen, jos se auttaa.",
+              "en": "I'll be home. And I'll take a photo and send it, if that helps.",
+              "vi": "Tôi ở nhà. Và tôi chụp ảnh gửi cho anh, nếu như thế giúp được."
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Kiitos, se auttaa. Laita se tähän numeroon.",
+              "en": "Thanks, that helps. Send it to this number.",
+              "vi": "Cảm ơn, có giúp ạ. Anh gửi vào số này nhé."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Ja pitäiskö mä ilmottaa yläkerran naapurille?",
+              "en": "Right. And should I tell the upstairs neighbour?",
+              "vi": "Vâng. Và tôi có nên báo cho hàng xóm tầng trên không ạ?"
+            },
+            {
+              "speaker": "Päivystys",
+              "fi": "Ois hyvä, jos voit. Vika on luultavasti siellä.",
+              "en": "It would be good if you can. The fault is probably up there.",
+              "vi": "Sẽ tốt nếu anh làm được. Sự cố có lẽ nằm ở trên đó ạ."
+            }
+          ],
+          "title_vi": "Nước chảy qua trần lúc 21:40",
+          "setting_vi": "Số trực bảo trì ngoài giờ. Duc mô tả và để họ xếp loại nó.",
+          "note_vi": "Địa chỉ, sự cố, mốc thời gian, rồi mới hỏi về mức cấp bách. Theo thứ tự đó."
+        },
+        {
+          "title": "A cold radiator and a broken light",
+          "setting": "Two non-emergencies, filed properly.",
+          "speed": "natural",
+          "note": "In a Finnish winter a cold radiator is treated much more seriously than you'd expect.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Meillä on patteri ihan kylmä olohuoneessa.",
+              "en": "Hi! Our living room radiator is completely cold.",
+              "vi": "Chào anh! Nhà tôi lò sưởi ở phòng khách lạnh hẳn."
+            },
+            {
+              "speaker": "Huolto",
+              "fi": "Selvä, se on kiireellinen näin talvella. Osoite?",
+              "en": "Right, that's urgent in winter like this. Address?",
+              "vi": "Vâng, mùa đông thế này thì đó là chuyện cấp bách. Địa chỉ ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mäkikatu 4, asunto 12.",
+              "en": "Mäkikatu 4, flat 12.",
+              "vi": "Mäkikatu 4, căn hộ 12."
+            },
+            {
+              "speaker": "Huolto",
+              "fi": "Onks muut patterit lämpimiä?",
+              "en": "Are the other radiators warm?",
+              "vi": "Các lò sưởi khác có ấm không ạ?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, vaan tää yks on kylmä.",
+              "en": "Yeah, only this one is cold.",
+              "vi": "Có, chỉ có cái này lạnh."
+            },
+            {
+              "speaker": "Huolto",
+              "fi": "Kuulostaa ilmalta patterissa. Mies käy huomenna aamupäivällä.",
+              "en": "Sounds like air in the radiator. Someone will come tomorrow morning.",
+              "vi": "Nghe như có khí trong lò sưởi. Sáng mai sẽ có người đến ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja rappukäytävässä ei toimi valo, toisessa kerroksessa.",
+              "en": "Good. And the stairwell light isn't working, on the second floor.",
+              "vi": "Tốt. Và ở cầu thang tầng hai đèn không sáng."
+            },
+            {
+              "speaker": "Huolto",
+              "fi": "Kiitos ilmoituksesta, se vaihdetaan samalla.",
+              "en": "Thanks for reporting it, we'll change that at the same time.",
+              "vi": "Cảm ơn anh đã báo, bên tôi thay luôn cùng lúc ạ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos! Tarviiks mä tehdä vikailmoituksen netissä kans?",
+              "en": "Thanks! Do I need to file an online fault report too?",
+              "vi": "Cảm ơn anh! Tôi có cần khai phiếu báo sự cố trên mạng nữa không ạ?"
+            },
+            {
+              "speaker": "Huolto",
+              "fi": "Ei tarvii, mä kirjasin ne. Kiitos soitosta.",
+              "en": "No need, I've logged them. Thanks for calling.",
+              "vi": "Không cần, tôi đã ghi lại rồi. Cảm ơn anh đã gọi."
+            }
+          ],
+          "title_vi": "Một lò sưởi lạnh và một cái đèn hỏng",
+          "setting_vi": "Hai chuyện không khẩn cấp, được báo đúng cách.",
+          "note_vi": "Trong mùa đông Phần Lan, một lò sưởi lạnh được coi trọng hơn bạn tưởng nhiều."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Report an urgent fault",
+          "scenario": "Describe water damage, give the address, let them classify the urgency, and offer a photo.",
+          "your_role": "You, at 21:40",
+          "partner_role": "The on-call maintenance line",
+          "turns": [
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "Huoltopäivystys, Nieminen.",
+              "en": "Maintenance on-call, Nieminen.",
+              "vi": "Trực bảo trì, Nieminen xin nghe."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvää iltaa! Meillä tulee vettä katosta kylpyhuoneessa.",
+              "en": "Good evening! We've got water coming through the bathroom ceiling.",
+              "hint": "Location plus fault in the first sentence. Nothing else yet.",
+              "vi": "Chào anh! Nhà tôi có nước chảy qua trần nhà tắm.",
+              "hint_vi": "Vị trí cộng sự cố trong câu đầu tiên. Chưa cần gì khác."
+            },
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "Mikä osoite ja asunnon numero?",
+              "en": "What address and flat number?",
+              "vi": "Địa chỉ và số căn hộ là gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mäkikatu 4, asunto 12, kolmas kerros.",
+              "en": "Mäkikatu 4, flat 12, third floor.",
+              "hint": "They ask this first every time. Have it ready.",
+              "vi": "Mäkikatu 4, căn hộ 12, tầng ba.",
+              "hint_vi": "Lần nào họ cũng hỏi câu này trước. Hãy chuẩn bị sẵn."
+            },
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "Kiitos. Milloin se alkoi?",
+              "en": "Thanks. When did it start?",
+              "vi": "Cảm ơn. Nó bắt đầu khi nào ạ?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Noin tunti sitten, ja se pahenee.",
+              "en": "About an hour ago, and it's getting worse.",
+              "hint": "Timeline plus direction. Both affect how fast they come.",
+              "vi": "Khoảng một tiếng trước, và đang nặng hơn.",
+              "hint_vi": "Mốc thời gian cộng chiều hướng. Cả hai ảnh hưởng đến tốc độ họ đến."
+            },
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "Selvä.",
+              "en": "Right.",
+              "vi": "Vâng."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Onks tää kiireellinen?",
+              "en": "Is this urgent?",
+              "hint": "Let them classify it. You get a clear answer instead of a guess.",
+              "vi": "Chuyện này có cấp bách không ạ?",
+              "hint_vi": "Để họ xếp loại. Bạn có câu trả lời rõ thay vì một phỏng đoán."
+            },
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "On. Vesi on aina kiireellinen. Mä lähetän miehen.",
+              "en": "It is. Water is always urgent. I'll send someone.",
+              "vi": "Có. Nước lúc nào cũng cấp bách. Tôi cử người đến."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Pitääks mä olla kotona?",
+              "en": "Thanks. Do I need to be home?",
+              "hint": "Often not — maintenance usually has a master key.",
+              "vi": "Cảm ơn anh. Tôi có cần ở nhà không ạ?",
+              "hint_vi": "Thường là không — bên bảo trì thường có chìa khoá tổng."
+            },
+            {
+              "speaker": "Päivystys",
+              "is_your_turn": false,
+              "fi": "Ois hyvä, hän tarvii päästä sisään.",
+              "en": "It would be good, he needs to get in.",
+              "vi": "Sẽ tốt, anh ấy cần vào được bên trong."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Mä oon kotona. Ja mä otan valokuvan ja lähetän sen.",
+              "en": "I'll be home. And I'll take a photo and send it.",
+              "hint": "Enormously helpful for anything visible. Offer it unprompted.",
+              "vi": "Tôi ở nhà. Và tôi chụp ảnh rồi gửi cho anh.",
+              "hint_vi": "Cực kỳ hữu ích với thứ nhìn thấy được. Hãy chủ động đề nghị."
+            }
+          ],
+          "title_vi": "Báo một sự cố cấp bách",
+          "scenario_vi": "Mô tả hư hại do nước, cho địa chỉ, để họ xếp loại mức cấp bách, và đề nghị gửi ảnh.",
+          "your_role_vi": "Bạn, lúc 21:40",
+          "partner_role_vi": "Đường dây trực bảo trì"
+        }
+      ],
+      "title_vi": "Báo sự cố cho bên bảo trì",
+      "subtitle_vi": "Meillä vuotaa hana.",
+      "warmup_situation_vi": "Nước đang chảy qua trần nhà tắm của bạn. Lúc đó là 21:40. Bạn có số điện thoại bảo trì trên bảng thông báo và không biết chuyện này có tính là cấp bách hay không.",
+      "warmup_question_vi": "Thế nào thì tính là cấp bách — và bạn nói gì trong câu đầu tiên?",
+      "rescue_vi": "Nhà tôi có nước chảy qua trần. Chuyện này có cấp bách không ạ?",
+      "rescue_note_vi": "Hãy mô tả tình huống và để họ xếp loại nó. Ở Phần Lan nước gần như luôn là cấp bách vì nó phá hoại toà nhà rất nhanh, và hỏi thẳng câu đó giúp bạn có câu trả lời rõ ràng thay vì một phỏng đoán."
+    },
+    {
+      "slug": "talking-to-the-neighbour",
+      "number": "11.4",
+      "title": "Talking to the neighbour",
+      "subtitle": "Noise, parking and small favours",
+      "warmup_situation": "The upstairs neighbour has had music on until half past midnight three nights running. You can either write an anonymous note, complain to the housing company, or knock on their door.",
+      "warmup_question": "Which of those three actually works — and how do you phrase it?",
+      "rescue_fi": "Sori, mä en halua olla hankala, mut…",
+      "rescue_en": "Sorry, I don't want to be difficult, but…",
+      "rescue_note": "This opener disarms almost completely. It signals that you'd rather solve it than escalate it, which is exactly the Finnish preference — and it means the conversation stays between the two of you instead of becoming a matter for the housing company.",
+      "vocab": [
+        {
+          "fi": "meteli",
+          "en": "noise",
+          "pos": "noun",
+          "vi": "tiếng ồn"
+        },
+        {
+          "fi": "melu",
+          "en": "noise",
+          "pos": "noun",
+          "vi": "tiếng ồn ào"
+        },
+        {
+          "fi": "kolina",
+          "en": "banging, clattering",
+          "pos": "noun",
+          "vi": "tiếng đập, tiếng loảng xoảng"
+        },
+        {
+          "fi": "musiikki",
+          "en": "music",
+          "pos": "noun",
+          "vi": "âm nhạc"
+        },
+        {
+          "fi": "kuuluu",
+          "en": "can be heard",
+          "pos": "verb",
+          "note": "'Se kuuluu meille asti' = we can hear it all the way in ours.",
+          "vi": "nghe thấy được",
+          "note_vi": "«Se kuuluu meille asti» = nhà tôi nghe thấy đến tận bên này."
+        },
+        {
+          "fi": "läpi",
+          "en": "through",
+          "pos": "adverb",
+          "vi": "xuyên qua"
+        },
+        {
+          "fi": "yöllä",
+          "en": "at night",
+          "pos": "adverb",
+          "vi": "vào ban đêm"
+        },
+        {
+          "fi": "hiljaisuus",
+          "en": "quiet hours",
+          "pos": "noun",
+          "note": "Usually 22:00–07:00 and written in the house rules.",
+          "vi": "giờ yên tĩnh",
+          "note_vi": "Thường 22:00–07:00 và được ghi trong nội quy toà nhà."
+        },
+        {
+          "fi": "järjestyssäännöt",
+          "en": "house rules",
+          "pos": "noun",
+          "vi": "nội quy toà nhà"
+        },
+        {
+          "fi": "häiritsee",
+          "en": "it disturbs",
+          "pos": "verb",
+          "vi": "nó gây khó chịu"
+        },
+        {
+          "fi": "remontti",
+          "en": "renovation",
+          "pos": "noun",
+          "note": "Allowed at certain hours. Neighbours usually post a warning notice.",
+          "vi": "việc sửa chữa cải tạo",
+          "note_vi": "Được phép trong một số giờ nhất định. Hàng xóm thường dán thông báo trước."
+        },
+        {
+          "fi": "poraaminen",
+          "en": "drilling",
+          "pos": "noun",
+          "vi": "việc khoan tường"
+        },
+        {
+          "fi": "autopaikka",
+          "en": "parking space",
+          "pos": "noun",
+          "note": "Usually numbered and rented from the housing company.",
+          "vi": "chỗ đỗ xe",
+          "note_vi": "Thường được đánh số và thuê từ công ty nhà ở."
+        },
+        {
+          "fi": "pysäköinti",
+          "en": "parking",
+          "pos": "noun",
+          "vi": "việc đỗ xe"
+        },
+        {
+          "fi": "vieraspaikka",
+          "en": "visitor space",
+          "pos": "noun",
+          "vi": "chỗ cho khách"
+        },
+        {
+          "fi": "mun paikka",
+          "en": "my space",
+          "pos": "phrase",
+          "vi": "chỗ của tôi"
+        },
+        {
+          "fi": "väärässä paikassa",
+          "en": "in the wrong space",
+          "pos": "phrase",
+          "vi": "đỗ sai chỗ"
+        },
+        {
+          "fi": "lämmitystolppa",
+          "en": "engine heater post",
+          "pos": "noun",
+          "note": "For pre-heating your car in winter. Genuinely necessary.",
+          "vi": "cột sưởi máy xe",
+          "note_vi": "Để sưởi máy xe trước khi chạy vào mùa đông. Thật sự cần thiết."
+        },
+        {
+          "fi": "siirtää auto",
+          "en": "to move the car",
+          "pos": "phrase",
+          "vi": "dời xe đi"
+        },
+        {
+          "fi": "palvelus",
+          "en": "favour",
+          "pos": "noun",
+          "vi": "việc nhờ vả"
+        },
+        {
+          "fi": "kastella kukat",
+          "en": "to water the plants",
+          "pos": "phrase",
+          "note": "The classic neighbour favour. Ask and offer.",
+          "vi": "tưới cây",
+          "note_vi": "Việc nhờ hàng xóm kinh điển. Hãy nhờ và cũng hãy ngỏ ý giúp."
+        },
+        {
+          "fi": "hakea posti",
+          "en": "to collect the post",
+          "pos": "phrase",
+          "vi": "lấy thư"
+        },
+        {
+          "fi": "avain",
+          "en": "key",
+          "pos": "noun",
+          "vi": "chìa khoá"
+        },
+        {
+          "fi": "vahtia",
+          "en": "to keep an eye on",
+          "pos": "verb",
+          "vi": "trông giúp, để mắt giúp"
+        },
+        {
+          "fi": "reissussa",
+          "en": "away travelling",
+          "pos": "adverb",
+          "vi": "đang đi vắng"
+        },
+        {
+          "fi": "hankala",
+          "en": "difficult, awkward",
+          "pos": "adjective",
+          "vi": "khó, gây khó xử"
+        },
+        {
+          "fi": "sopia asia",
+          "en": "to settle a matter",
+          "pos": "phrase",
+          "vi": "dàn xếp một việc"
+        },
+        {
+          "fi": "puhua suoraan",
+          "en": "to speak directly",
+          "pos": "phrase",
+          "note": "The preferred route here. Direct beats anonymous every time.",
+          "vi": "nói thẳng",
+          "note_vi": "Cách được ưa hơn ở đây. Nói thẳng luôn hơn nặc danh."
+        },
+        {
+          "fi": "lappu ovessa",
+          "en": "a note on the door",
+          "pos": "phrase",
+          "note": "The passive-aggressive option. Knocking works far better.",
+          "vi": "một tờ giấy dán cửa",
+          "note_vi": "Phương án ngấm ngầm. Gõ cửa hiệu quả hơn nhiều."
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Sori, mä en halua olla hankala, mut…",
+          "en": "Sorry, I don't want to be difficult, but…",
+          "when_to_use": "The disarming opener. It keeps the matter between the two of you.",
+          "register": "casual",
+          "vi": "Xin lỗi, tôi không muốn làm khó, nhưng…",
+          "when_to_use_vi": "Câu mở đầu giải toả. Nó giữ chuyện này ở giữa hai người."
+        },
+        {
+          "fi": "Se musiikki kuuluu meille asti.",
+          "en": "That music carries all the way into ours.",
+          "when_to_use": "State the fact without accusing. Often they had no idea.",
+          "register": "neutral",
+          "vi": "Tiếng nhạc đó vang đến tận nhà tôi.",
+          "when_to_use_vi": "Nêu sự việc mà không buộc tội. Thường họ hoàn toàn không biết."
+        },
+        {
+          "fi": "Meillä on pieni lapsi, joka nukkuu.",
+          "en": "We have a small child who's sleeping.",
+          "when_to_use": "Enormously effective and completely fair. Use it if it's true.",
+          "register": "neutral",
+          "vi": "Nhà tôi có em bé nhỏ đang ngủ.",
+          "when_to_use_vi": "Cực kỳ hiệu quả và hoàn toàn công bằng. Hãy dùng nếu đúng vậy."
+        },
+        {
+          "fi": "Voitsä laittaa sen vähän hiljemmalle kymmenen jälkeen?",
+          "en": "Could you turn it down a bit after ten?",
+          "when_to_use": "A specific, reasonable request. Much better than 'be quieter'.",
+          "register": "neutral",
+          "vi": "Sau mười giờ bạn để nhỏ hơn một chút được không?",
+          "when_to_use_vi": "Một yêu cầu cụ thể, hợp lý. Tốt hơn nhiều so với «bớt ồn đi»."
+        },
+        {
+          "fi": "Mä en tienny, että se kuuluu noin hyvin.",
+          "en": "I didn't know it carried that well.",
+          "when_to_use": "What you say if you're the one making the noise. Usually true.",
+          "register": "casual",
+          "vi": "Tôi không biết là nó vang đến thế.",
+          "when_to_use_vi": "Câu bạn nói nếu bạn là người gây ồn. Thường là thật."
+        },
+        {
+          "fi": "Meillä on remontti ens viikolla — anteeks melusta jo etukäteen.",
+          "en": "We're renovating next week — apologies for the noise in advance.",
+          "when_to_use": "Warn your neighbours. Put a note on the board too.",
+          "register": "neutral",
+          "vi": "Tuần sau nhà tôi sửa nhà — xin lỗi trước về tiếng ồn nhé.",
+          "when_to_use_vi": "Hãy báo trước cho hàng xóm. Dán cả một tờ lên bảng thông báo."
+        },
+        {
+          "fi": "Toi auto on mun paikalla.",
+          "en": "That car is in my space.",
+          "when_to_use": "Spaces are numbered and rented. Say it plainly.",
+          "register": "neutral",
+          "vi": "Xe đó đang đỗ ở chỗ của tôi.",
+          "when_to_use_vi": "Chỗ đỗ được đánh số và cho thuê. Hãy nói thẳng."
+        },
+        {
+          "fi": "Voitsä siirtää auton? Se on mun paikka.",
+          "en": "Could you move the car? That's my space.",
+          "when_to_use": "Direct and unemotional. Usually an honest mistake.",
+          "register": "neutral",
+          "vi": "Bạn dời xe được không? Đó là chỗ của tôi.",
+          "when_to_use_vi": "Thẳng thắn và không cảm tính. Thường là một sự nhầm lẫn thật thà."
+        },
+        {
+          "fi": "Voitsä kastella meidän kukat kun me ollaan reissussa?",
+          "en": "Could you water our plants while we're away?",
+          "when_to_use": "The classic neighbour favour. Offer to reciprocate.",
+          "register": "casual",
+          "vi": "Nhà tôi đi vắng, bạn tưới cây giúp được không?",
+          "when_to_use_vi": "Việc nhờ hàng xóm kinh điển. Hãy ngỏ ý làm lại cho họ."
+        },
+        {
+          "fi": "Mä voin hakee sun postit, jos haluut.",
+          "en": "I can collect your post, if you like.",
+          "when_to_use": "Offering first is how a neighbour relationship actually starts.",
+          "register": "casual",
+          "vi": "Tôi lấy thư giúp bạn được, nếu bạn muốn.",
+          "when_to_use_vi": "Ngỏ ý trước là cách một quan hệ hàng xóm thật sự bắt đầu."
+        },
+        {
+          "fi": "Sano vaan, jos me häiritään.",
+          "en": "Just say if we're disturbing you.",
+          "when_to_use": "Say this early to a new neighbour. It opens the channel.",
+          "register": "casual",
+          "vi": "Cứ nói nhé, nếu nhà tôi gây ồn.",
+          "when_to_use_vi": "Hãy nói câu này sớm với hàng xóm mới. Nó mở ra một kênh liên lạc."
+        },
+        {
+          "fi": "Kiitos, että sanoit suoraan.",
+          "en": "Thanks for saying it directly.",
+          "when_to_use": "If someone raises something with you. It really is appreciated here.",
+          "register": "neutral",
+          "vi": "Cảm ơn bạn đã nói thẳng.",
+          "when_to_use_vi": "Nếu có ai nêu vấn đề với bạn. Ở đây điều đó thật sự được trân trọng."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Knocking instead of writing a note",
+          "setting": "The upstairs door. Third night of music. Duc knocks.",
+          "speed": "slow",
+          "note": "Disarming opener, factual statement, specific request. The whole conversation is ninety seconds.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Mä oon Duc alakerrasta, asunto 12.",
+              "en": "Hi! I'm Duc from downstairs, flat 12.",
+              "vi": "Chào bạn! Mình là Duc ở tầng dưới, căn hộ 12."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Moi! Onks jotain?",
+              "en": "Hi! Is something wrong?",
+              "vi": "Chào bạn! Có chuyện gì không?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sori, mä en halua olla hankala, mut se musiikki kuuluu meille asti aika hyvin.",
+              "en": "Sorry, I don't want to be difficult, but that music carries into ours quite well.",
+              "vi": "Xin lỗi, mình không muốn làm khó, nhưng tiếng nhạc vang đến nhà mình khá rõ."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Ai voi ei. Mä en tienny, että se kuuluu noin hyvin.",
+              "en": "Oh no. I didn't know it carried that well.",
+              "vi": "Ôi không. Mình không biết là nó vang đến thế."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei se päivällä haittaa yhtään. Mut meillä on pieni lapsi, joka nukkuu.",
+              "en": "It doesn't matter at all during the day. But we have a small child who's sleeping.",
+              "vi": "Ban ngày thì chẳng sao cả. Nhưng nhà mình có em bé nhỏ đang ngủ."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Totta kai, anteeks. Mä laitan sen hiljemmalle.",
+              "en": "Of course, sorry. I'll turn it down.",
+              "vi": "Tất nhiên rồi, xin lỗi bạn. Mình để nhỏ lại."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Voitsä laittaa sen vähän hiljemmalle kymmenen jälkeen? Muuten ihan sama.",
+              "en": "Thanks. Could you turn it down a bit after ten? Otherwise it's completely fine.",
+              "vi": "Cảm ơn bạn. Sau mười giờ để nhỏ hơn một chút được không? Ngoài ra thì hoàn toàn không sao."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Joo, ehdottomasti. Ja sano vaan, jos me häiritään muuten.",
+              "en": "Yeah, definitely. And just say if we disturb you otherwise.",
+              "vi": "Ừ, chắc chắn. Và cứ nói nhé nếu nhà mình có gây ồn gì khác."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Sanon. Ja sama toisin päin — sano jos me ollaan liian kovaäänisiä.",
+              "en": "I will. And the same the other way — say if we're too loud.",
+              "vi": "Mình sẽ nói. Và ngược lại cũng vậy — cứ nói nếu nhà mình ồn quá."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Sovittu. Kiitos, että tulit sanomaan suoraan.",
+              "en": "Agreed. Thanks for coming to say it directly.",
+              "vi": "Chốt. Cảm ơn bạn đã sang nói thẳng."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei mitään. Parempi näin kun lappu ovessa!",
+              "en": "No problem. Better this way than a note on the door!",
+              "vi": "Không có gì. Thế này hơn là dán giấy lên cửa!"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Haha, ehdottomasti.",
+              "en": "Haha, absolutely.",
+              "vi": "Haha, chắc chắn rồi."
+            }
+          ],
+          "title_vi": "Gõ cửa thay vì viết giấy",
+          "setting_vi": "Cửa tầng trên. Tối thứ ba có nhạc. Duc gõ cửa.",
+          "note_vi": "Câu mở đầu giải toả, nêu sự việc, yêu cầu cụ thể. Cả cuộc trò chuyện chín mươi giây."
+        },
+        {
+          "title": "Parking, and a favour in both directions",
+          "setting": "The yard. A car in the wrong space, then a holiday request.",
+          "speed": "natural",
+          "note": "Notice he offers a favour before asking for one. That's the sequence that works.",
+          "lines": [
+            {
+              "speaker": "Duc",
+              "fi": "Moi! Anteeks — onks toi teidän auto?",
+              "en": "Hi! Sorry — is that your car?",
+              "vi": "Chào bạn! Xin lỗi — xe kia có phải của nhà bạn không?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Joo, miten niin?",
+              "en": "Yeah, why?",
+              "vi": "Phải, sao thế?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Se on mun paikalla, numero 12. Voitsä siirtää sen?",
+              "en": "It's in my space, number 12. Could you move it?",
+              "vi": "Nó đang đỗ ở chỗ của mình, số 12. Bạn dời được không?"
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Ai hitsi, sori! Mä luulin et se on vapaa.",
+              "en": "Oh damn, sorry! I thought it was free.",
+              "vi": "Ôi chết, xin lỗi! Mình tưởng chỗ đó trống."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Ei mitään, helppo sekaannus. Vieraspaikat on tuolla portin vieressä.",
+              "en": "No problem, easy mix-up. The visitor spaces are over by the gate.",
+              "vi": "Không sao, dễ nhầm mà. Chỗ cho khách ở đằng kia cạnh cổng ấy."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Kiitos, mä siirrän sen heti.",
+              "en": "Thanks, I'll move it right away.",
+              "vi": "Cảm ơn bạn, mình dời ngay."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hei muuten — mä voin hakee teidän postit, jos te ootte joskus reissussa.",
+              "en": "Hey by the way — I can collect your post, if you're ever away.",
+              "vi": "À này — mình lấy thư giúp nhà bạn được, nếu có lúc nào nhà bạn đi vắng."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Ai kiitos, se olis kiva! Me ollaan Espanjassa heinäkuussa.",
+              "en": "Oh thanks, that would be nice! We're in Spain in July.",
+              "vi": "Ồ cảm ơn, thế thì hay quá! Nhà mình đi Tây Ban Nha vào tháng Bảy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä hoidan sen. Ja voitsä kastella meidän kukat elokuussa? Me ollaan pois kaks viikkoa.",
+              "en": "I'll take care of it. And could you water our plants in August? We're away two weeks.",
+              "vi": "Mình lo việc đó. Và tháng Tám bạn tưới cây giúp nhà mình được không? Nhà mình đi hai tuần."
+            },
+            {
+              "speaker": "Naapuri",
+              "fi": "Totta kai. Vaihdetaanks avaimet siihen aikaan?",
+              "en": "Of course. Shall we swap keys around then?",
+              "vi": "Tất nhiên rồi. Đến lúc đó mình đổi chìa khoá nhé?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, hyvä idea. Kiitos!",
+              "en": "Yeah, good idea. Thanks!",
+              "vi": "Ừ, ý hay. Cảm ơn bạn!"
+            }
+          ],
+          "title_vi": "Chỗ đỗ xe, và một việc nhờ theo cả hai chiều",
+          "setting_vi": "Ngoài sân. Một cái xe đỗ sai chỗ, rồi một lời nhờ trước kỳ nghỉ.",
+          "note_vi": "Để ý anh ngỏ ý giúp trước khi nhờ. Đó là trình tự có hiệu quả."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Raise a noise problem well",
+          "scenario": "Knock, disarm, state the fact, make a specific request, and open the channel both ways.",
+          "your_role": "You, three nights of music in",
+          "partner_role": "The upstairs neighbour",
+          "turns": [
+            {
+              "speaker": "Naapuri",
+              "is_your_turn": false,
+              "fi": "Moi! Onks jotain?",
+              "en": "Hi! Is something wrong?",
+              "vi": "Chào bạn! Có chuyện gì không?"
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Moi! Mä oon Duc alakerrasta. Sori, mä en halua olla hankala, mut…",
+              "en": "Hi! I'm Duc from downstairs. Sorry, I don't want to be difficult, but…",
+              "hint": "The disarming opener. It keeps this between the two of you.",
+              "vi": "Chào bạn! Mình là Duc ở tầng dưới. Xin lỗi, mình không muốn làm khó, nhưng…",
+              "hint_vi": "Câu mở đầu giải toả. Nó giữ chuyện này ở giữa hai người."
+            },
+            {
+              "speaker": "Naapuri",
+              "is_your_turn": false,
+              "fi": "Joo, kerro vaan.",
+              "en": "Yeah, go ahead.",
+              "vi": "Ừ, bạn nói đi."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Se musiikki kuuluu meille asti aika hyvin.",
+              "en": "That music carries into ours quite well.",
+              "hint": "State the fact without accusing. Often they had no idea.",
+              "vi": "Tiếng nhạc vang đến nhà mình khá rõ.",
+              "hint_vi": "Nêu sự việc mà không buộc tội. Thường họ không hề biết."
+            },
+            {
+              "speaker": "Naapuri",
+              "is_your_turn": false,
+              "fi": "Ai voi ei, mä en tienny.",
+              "en": "Oh no, I didn't know.",
+              "vi": "Ôi không, mình không biết."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Ei se päivällä haittaa. Mut meillä on pieni lapsi, joka nukkuu.",
+              "en": "It doesn't matter during the day. But we have a small child who's sleeping.",
+              "hint": "Concede what's fine, then give the real reason.",
+              "vi": "Ban ngày thì chẳng sao. Nhưng nhà mình có em bé nhỏ đang ngủ.",
+              "hint_vi": "Nhượng bộ phần không sao, rồi nêu lý do thật."
+            },
+            {
+              "speaker": "Naapuri",
+              "is_your_turn": false,
+              "fi": "Totta kai, anteeks.",
+              "en": "Of course, sorry.",
+              "vi": "Tất nhiên rồi, xin lỗi bạn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Voitsä laittaa sen hiljemmalle kymmenen jälkeen? Muuten ihan sama.",
+              "en": "Could you turn it down after ten? Otherwise it's completely fine.",
+              "hint": "A specific request beats 'be quieter' every time.",
+              "vi": "Sau mười giờ để nhỏ hơn được không? Ngoài ra thì hoàn toàn không sao.",
+              "hint_vi": "Một yêu cầu cụ thể luôn hơn «bớt ồn đi»."
+            },
+            {
+              "speaker": "Naapuri",
+              "is_your_turn": false,
+              "fi": "Joo, ehdottomasti.",
+              "en": "Yeah, definitely.",
+              "vi": "Ừ, chắc chắn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Ja sano vaan, jos me ollaan joskus liian kovaäänisiä.",
+              "en": "Thanks. And just say if we're ever too loud.",
+              "hint": "Open the channel both ways. It makes you easy to live near.",
+              "vi": "Cảm ơn bạn. Và cứ nói nhé nếu có lúc nào nhà mình ồn quá.",
+              "hint_vi": "Mở kênh cả hai chiều. Nó làm bạn thành người dễ sống cạnh."
+            }
+          ],
+          "title_vi": "Nêu vấn đề tiếng ồn cho đúng cách",
+          "scenario_vi": "Gõ cửa, giải toả, nêu sự việc, đưa ra yêu cầu cụ thể, và mở kênh liên lạc cả hai chiều.",
+          "your_role_vi": "Bạn, sau ba tối nghe nhạc",
+          "partner_role_vi": "Người hàng xóm tầng trên"
+        }
+      ],
+      "title_vi": "Nói chuyện với người hàng xóm",
+      "subtitle_vi": "Tiếng ồn, chỗ đỗ xe và những việc nhờ nhỏ",
+      "warmup_situation_vi": "Người hàng xóm tầng trên bật nhạc đến mười hai giờ rưỡi đêm suốt ba tối liền. Bạn có thể viết một tờ giấy nặc danh, khiếu nại với công ty nhà ở, hoặc gõ cửa họ.",
+      "warmup_question_vi": "Cách nào trong ba cách đó thật sự hiệu quả — và bạn diễn đạt thế nào?",
+      "rescue_vi": "Xin lỗi, tôi không muốn làm khó, nhưng…",
+      "rescue_note_vi": "Câu mở đầu này giải toả gần như hoàn toàn. Nó cho thấy bạn muốn giải quyết chứ không muốn làm to chuyện, mà đó chính là điều người Phần Lan ưu tiên — và nó giữ cho cuộc trò chuyện ở giữa hai người thay vì trở thành việc của công ty nhà ở."
+    },
+    {
+      "slug": "moving-in-and-out",
+      "number": "11.5",
+      "title": "Moving in and moving out",
+      "subtitle": "Taloyhtiö, isännöitsijä, vuokranantaja",
+      "warmup_situation": "You've signed a lease. There's a deposit, a handover inspection, an address change to file, a name plate to order and an electricity contract to open — all in the same week.",
+      "warmup_question": "What has to happen before you get the keys, and what has to happen before you get the deposit back?",
+      "rescue_fi": "Mikä on seuraava askel?",
+      "rescue_en": "What's the next step?",
+      "rescue_note": "Moving involves five or six organisations that don't talk to each other, and asking this at the end of every conversation keeps you moving through the list. Landlords and property managers answer it precisely because they've done it a thousand times.",
+      "vocab": [
+        {
+          "fi": "vuokranantaja",
+          "en": "landlord",
+          "pos": "noun",
+          "vi": "chủ nhà cho thuê"
+        },
+        {
+          "fi": "vuokralainen",
+          "en": "tenant",
+          "pos": "noun",
+          "vi": "người thuê nhà"
+        },
+        {
+          "fi": "vuokrasopimus",
+          "en": "lease agreement",
+          "pos": "noun",
+          "vi": "hợp đồng thuê nhà"
+        },
+        {
+          "fi": "toistaiseksi voimassa",
+          "en": "open-ended",
+          "pos": "phrase",
+          "note": "Better than määräaikainen for a tenant. Check which you're signing.",
+          "vi": "không thời hạn",
+          "note_vi": "Tốt hơn määräaikainen với người thuê. Hãy kiểm tra bạn đang ký loại nào."
+        },
+        {
+          "fi": "määräaikainen",
+          "en": "fixed-term",
+          "pos": "adjective",
+          "vi": "có thời hạn cố định"
+        },
+        {
+          "fi": "irtisanomisaika",
+          "en": "notice period",
+          "pos": "noun",
+          "note": "One month for the tenant, three for the landlord. Know this.",
+          "vi": "thời gian báo trước khi chấm dứt",
+          "note_vi": "Một tháng với người thuê, ba tháng với chủ nhà. Hãy biết điều này."
+        },
+        {
+          "fi": "vakuus",
+          "en": "deposit",
+          "pos": "noun",
+          "note": "Usually one to two months' rent. You get it back if the flat is clean.",
+          "vi": "tiền cọc",
+          "note_vi": "Thường một đến hai tháng tiền thuê. Bạn được nhận lại nếu căn hộ sạch sẽ."
+        },
+        {
+          "fi": "takuuvuokra",
+          "en": "rental deposit",
+          "pos": "noun",
+          "vi": "tiền cọc thuê nhà"
+        },
+        {
+          "fi": "vuokra",
+          "en": "rent",
+          "pos": "noun",
+          "vi": "tiền thuê nhà"
+        },
+        {
+          "fi": "vastike",
+          "en": "maintenance charge",
+          "pos": "noun",
+          "note": "For owners. Covers building upkeep, often water and sometimes heating.",
+          "vi": "phí bảo trì (cho chủ sở hữu)",
+          "note_vi": "Dành cho chủ sở hữu. Bao gồm việc duy tu toà nhà, thường cả nước và có khi cả sưởi."
+        },
+        {
+          "fi": "vesimaksu",
+          "en": "water charge",
+          "pos": "noun",
+          "vi": "phí nước"
+        },
+        {
+          "fi": "sähkösopimus",
+          "en": "electricity contract",
+          "pos": "noun",
+          "note": "You open this yourself. Do it before you move in.",
+          "vi": "hợp đồng điện",
+          "note_vi": "Bạn tự mở cái này. Hãy làm trước khi dọn vào."
+        },
+        {
+          "fi": "muuttoilmoitus",
+          "en": "notification of move",
+          "pos": "noun",
+          "note": "File it with DVV. Legally required, and it updates everything.",
+          "vi": "tờ khai chuyển chỗ ở",
+          "note_vi": "Khai với DVV. Bắt buộc theo luật, và nó cập nhật mọi thứ khác."
+        },
+        {
+          "fi": "osoitteenmuutos",
+          "en": "change of address",
+          "pos": "noun",
+          "vi": "việc đổi địa chỉ"
+        },
+        {
+          "fi": "muuttopäivä",
+          "en": "moving day",
+          "pos": "noun",
+          "vi": "ngày dọn nhà"
+        },
+        {
+          "fi": "avaimet",
+          "en": "keys",
+          "pos": "noun",
+          "vi": "chìa khoá"
+        },
+        {
+          "fi": "avainten luovutus",
+          "en": "key handover",
+          "pos": "noun",
+          "vi": "việc giao chìa khoá"
+        },
+        {
+          "fi": "tarkastus",
+          "en": "inspection",
+          "pos": "noun",
+          "note": "Walk through with the landlord and photograph everything. Both ends.",
+          "vi": "buổi kiểm tra",
+          "note_vi": "Đi một vòng cùng chủ nhà và chụp ảnh mọi thứ. Cả hai đầu."
+        },
+        {
+          "fi": "kuntotarkastus",
+          "en": "condition inspection",
+          "pos": "noun",
+          "vi": "kiểm tra tình trạng"
+        },
+        {
+          "fi": "pöytäkirja",
+          "en": "written record",
+          "pos": "noun",
+          "note": "Get the inspection in writing and signed. It protects your deposit.",
+          "vi": "biên bản",
+          "note_vi": "Hãy lấy biên bản kiểm tra bằng văn bản và có ký. Nó bảo vệ tiền cọc của bạn."
+        },
+        {
+          "fi": "normaali kuluminen",
+          "en": "normal wear and tear",
+          "pos": "phrase",
+          "note": "You're not liable for this. Know the phrase.",
+          "vi": "hao mòn bình thường",
+          "note_vi": "Bạn không chịu trách nhiệm về điều này. Hãy học cụm từ này."
+        },
+        {
+          "fi": "siivous",
+          "en": "cleaning",
+          "pos": "noun",
+          "note": "Leave it properly clean. This is the main deposit dispute.",
+          "vi": "việc dọn dẹp",
+          "note_vi": "Hãy để lại căn hộ thật sạch. Đây là tranh chấp tiền cọc chính."
+        },
+        {
+          "fi": "loppusiivous",
+          "en": "final cleaning",
+          "pos": "noun",
+          "vi": "dọn dẹp lần cuối"
+        },
+        {
+          "fi": "isännöitsijä",
+          "en": "property manager",
+          "pos": "noun",
+          "vi": "người quản lý toà nhà"
+        },
+        {
+          "fi": "isännöitsijäntodistus",
+          "en": "property manager's certificate",
+          "pos": "noun",
+          "note": "Needed when buying. Full of information about the building's finances.",
+          "vi": "giấy chứng nhận của người quản lý toà nhà",
+          "note_vi": "Cần khi mua nhà. Đầy thông tin về tình hình tài chính của toà nhà."
+        },
+        {
+          "fi": "nimikyltti",
+          "en": "name plate",
+          "pos": "noun",
+          "note": "Order it from the isännöitsijä so post reaches you.",
+          "vi": "bảng tên",
+          "note_vi": "Đặt từ isännöitsijä để thư đến được với bạn."
+        },
+        {
+          "fi": "muuttoilmoitus taloyhtiöön",
+          "en": "notifying the housing company",
+          "pos": "phrase",
+          "vi": "việc thông báo cho công ty nhà ở"
+        },
+        {
+          "fi": "seuraava askel",
+          "en": "the next step",
+          "pos": "phrase",
+          "vi": "bước tiếp theo"
+        }
+      ],
+      "phrases": [
+        {
+          "fi": "Mikä on seuraava askel?",
+          "en": "What's the next step?",
+          "when_to_use": "Ask at the end of every conversation. Moving is a long list.",
+          "register": "neutral",
+          "vi": "Bước tiếp theo là gì ạ?",
+          "when_to_use_vi": "Hỏi ở cuối mỗi cuộc trò chuyện. Dọn nhà là một danh sách dài."
+        },
+        {
+          "fi": "Onks tää toistaiseksi voimassa vai määräaikainen?",
+          "en": "Is this open-ended or fixed-term?",
+          "when_to_use": "Ask before signing. It determines whether you can leave.",
+          "register": "neutral",
+          "vi": "Cái này là không thời hạn hay có thời hạn cố định ạ?",
+          "when_to_use_vi": "Hỏi trước khi ký. Nó quyết định bạn có rời đi được hay không."
+        },
+        {
+          "fi": "Mikä on irtisanomisaika?",
+          "en": "What's the notice period?",
+          "when_to_use": "One month for you, three for the landlord. Confirm it's stated.",
+          "register": "neutral",
+          "vi": "Thời gian báo trước là bao lâu ạ?",
+          "when_to_use_vi": "Một tháng với bạn, ba tháng với chủ nhà. Xác nhận là nó có ghi."
+        },
+        {
+          "fi": "Paljonko vakuus on?",
+          "en": "How much is the deposit?",
+          "when_to_use": "Usually one to two months' rent. Get a receipt for it.",
+          "register": "neutral",
+          "vi": "Tiền cọc là bao nhiêu ạ?",
+          "when_to_use_vi": "Thường một đến hai tháng tiền thuê. Hãy lấy biên nhận."
+        },
+        {
+          "fi": "Milloin mä saan vakuuden takaisin?",
+          "en": "When do I get the deposit back?",
+          "when_to_use": "Usually within a month of moving out, after the inspection.",
+          "register": "neutral",
+          "vi": "Khi nào tôi được nhận lại tiền cọc ạ?",
+          "when_to_use_vi": "Thường trong vòng một tháng sau khi dọn ra, sau buổi kiểm tra."
+        },
+        {
+          "fi": "Kuuluuks vesi vuokraan?",
+          "en": "Is water included in the rent?",
+          "when_to_use": "Often a fixed monthly charge per person. Ask explicitly.",
+          "register": "neutral",
+          "vi": "Tiền nước có tính trong tiền thuê không ạ?",
+          "when_to_use_vi": "Thường là một khoản cố định mỗi tháng mỗi người. Hãy hỏi rõ."
+        },
+        {
+          "fi": "Pitääks mä tehdä sähkösopimus itse?",
+          "en": "Do I need to arrange the electricity contract myself?",
+          "when_to_use": "Almost always yes. Do it before you move in, not after.",
+          "register": "neutral",
+          "vi": "Tôi có phải tự làm hợp đồng điện không ạ?",
+          "when_to_use_vi": "Hầu như luôn là có. Làm trước khi dọn vào, không phải sau."
+        },
+        {
+          "fi": "Tehdäänks tarkastus ennen muuttoa?",
+          "en": "Do we do an inspection before the move?",
+          "when_to_use": "Insist on one at both ends, and photograph everything yourself.",
+          "register": "neutral",
+          "vi": "Mình có làm buổi kiểm tra trước khi dọn vào không ạ?",
+          "when_to_use_vi": "Hãy yêu cầu ở cả hai đầu, và tự chụp ảnh mọi thứ."
+        },
+        {
+          "fi": "Voinks mä saada pöytäkirjan kirjallisena?",
+          "en": "Could I get the inspection record in writing?",
+          "when_to_use": "This is what protects your deposit. Ask for it signed.",
+          "register": "polite",
+          "vi": "Tôi xin biên bản bằng văn bản được không ạ?",
+          "when_to_use_vi": "Đây là thứ bảo vệ tiền cọc của bạn. Hãy xin bản có ký."
+        },
+        {
+          "fi": "Toi on normaalia kulumista.",
+          "en": "That's normal wear and tear.",
+          "when_to_use": "You aren't liable for it. Know the phrase for the final inspection.",
+          "register": "neutral",
+          "vi": "Cái đó là hao mòn bình thường.",
+          "when_to_use_vi": "Bạn không chịu trách nhiệm về nó. Hãy biết cụm này cho buổi kiểm tra cuối."
+        },
+        {
+          "fi": "Mä teen muuttoilmoituksen netissä.",
+          "en": "I'll file the change of address online.",
+          "when_to_use": "At DVV. Legally required and it updates most other registers.",
+          "register": "neutral",
+          "vi": "Tôi sẽ khai đổi địa chỉ trên mạng.",
+          "when_to_use_vi": "Ở DVV. Bắt buộc theo luật và nó cập nhật phần lớn các sổ đăng ký khác."
+        },
+        {
+          "fi": "Voitsä tilata nimikyltin oveen?",
+          "en": "Could you order a name plate for the door?",
+          "when_to_use": "Ask the isännöitsijä. Otherwise your post may not arrive.",
+          "register": "neutral",
+          "vi": "Anh đặt giúp một cái bảng tên cho cửa được không ạ?",
+          "when_to_use_vi": "Nhờ isännöitsijä. Nếu không thư của bạn có thể không đến được."
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Signing a lease properly",
+          "setting": "A landlord's kitchen table, contract in front of them.",
+          "speed": "slow",
+          "note": "Six questions before signing. All of them save money or trouble later.",
+          "lines": [
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "No niin, tässä on sopimus. Katso se läpi rauhassa.",
+              "en": "Right then, here's the contract. Look through it at your own pace.",
+              "vi": "Nào, hợp đồng đây. Anh cứ đọc thong thả."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Onks tää toistaiseksi voimassa vai määräaikainen?",
+              "en": "Thanks. Is this open-ended or fixed-term?",
+              "vi": "Cảm ơn anh. Cái này là không thời hạn hay có thời hạn cố định ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Toistaiseksi voimassa. Ei määräaikaa.",
+              "en": "Open-ended. No fixed term.",
+              "vi": "Không thời hạn. Không có kỳ hạn cố định."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Ja mikä on irtisanomisaika?",
+              "en": "Good. And what's the notice period?",
+              "vi": "Tốt. Và thời gian báo trước là bao lâu ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Sulle yks kuukausi, mulle kolme. Se on laissa.",
+              "en": "One month for you, three for me. That's the law.",
+              "vi": "Anh một tháng, tôi ba tháng. Luật quy định vậy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä. Paljonko vakuus on, ja milloin mä saan sen takaisin?",
+              "en": "Right. How much is the deposit, and when do I get it back?",
+              "vi": "Vâng. Tiền cọc là bao nhiêu, và khi nào tôi nhận lại ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Kaks kuukauden vuokra. Takaisin kuukauden sisällä, jos asunto on kunnossa.",
+              "en": "Two months' rent. Back within a month, if the flat is in order.",
+              "vi": "Hai tháng tiền thuê. Nhận lại trong vòng một tháng, nếu căn hộ ổn."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kuuluuks vesi vuokraan?",
+              "en": "Is water included in the rent?",
+              "vi": "Tiền nước có tính trong tiền thuê không ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Vesi on 20 euroa kuussa per henkilö, erikseen. Sähkö sun pitää hoitaa itse.",
+              "en": "Water is 20 euros a month per person, separately. You arrange electricity yourself.",
+              "vi": "Nước là 20 euro một tháng mỗi người, tính riêng. Điện anh tự lo."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Selvä, mä teen sähkösopimuksen ennen muuttoa. Tehdäänks tarkastus ennen kun mä muutan sisään?",
+              "en": "Right, I'll arrange the electricity before moving. Do we do an inspection before I move in?",
+              "vi": "Vâng, tôi làm hợp đồng điện trước khi dọn vào. Mình có làm buổi kiểm tra trước khi tôi dọn vào không ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Joo, käydään asunto läpi yhdessä avainten luovutuksessa.",
+              "en": "Yes, we'll go through the flat together at the key handover.",
+              "vi": "Có, mình đi một vòng căn hộ cùng nhau lúc giao chìa khoá."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Voinks mä saada pöytäkirjan kirjallisena, ja mä otan kuvat kans?",
+              "en": "Good. Could I get the record in writing, and I'll take photos too?",
+              "vi": "Tốt. Tôi xin biên bản bằng văn bản được không, và tôi cũng chụp ảnh nhé?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Totta kai, se on molempien etu.",
+              "en": "Of course, it's in both our interests.",
+              "vi": "Tất nhiên rồi, cái đó có lợi cho cả hai bên."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Mikä on seuraava askel?",
+              "en": "Thanks. What's the next step?",
+              "vi": "Cảm ơn anh. Bước tiếp theo là gì ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Allekirjoitus, vakuus tilille, ja sitten avaimet ensimmäisenä päivänä.",
+              "en": "Signature, deposit to the account, and then keys on the first day.",
+              "vi": "Ký tên, chuyển tiền cọc vào tài khoản, rồi nhận chìa khoá ngày đầu tháng."
+            }
+          ],
+          "title_vi": "Ký hợp đồng thuê cho đúng cách",
+          "setting_vi": "Bàn bếp nhà chủ, hợp đồng đặt trước mặt.",
+          "note_vi": "Sáu câu hỏi trước khi ký. Tất cả đều giúp tiết kiệm tiền hoặc tránh rắc rối về sau."
+        },
+        {
+          "title": "The final inspection",
+          "setting": "Moving out. The deposit depends on the next ten minutes.",
+          "speed": "natural",
+          "note": "'Normaalia kulumista' is the phrase that matters. You aren't liable for it.",
+          "lines": [
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "No niin, katsotaan läpi. Asunto näyttää hyvältä.",
+              "en": "Right then, let's look through. The flat looks good.",
+              "vi": "Nào, mình xem qua. Căn hộ trông tốt đấy."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Mä tein loppusiivouksen viikonloppuna.",
+              "en": "Thanks. I did the final cleaning at the weekend.",
+              "vi": "Cảm ơn anh. Tôi đã dọn dẹp lần cuối vào cuối tuần."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Näkyy. …Tässä seinässä on pieni naarmu.",
+              "en": "It shows. …There's a small scratch on this wall.",
+              "vi": "Thấy rõ. …Trên cái tường này có một vết xước nhỏ."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Joo, se tuli sohvasta. Mun mielestä toi on normaalia kulumista.",
+              "en": "Yeah, that came from the sofa. I'd say that's normal wear and tear.",
+              "vi": "Vâng, do cái sofa. Theo tôi thì đó là hao mòn bình thường."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Nii on. Ei vaikuta vakuuteen.",
+              "en": "It is. Doesn't affect the deposit.",
+              "vi": "Đúng vậy. Không ảnh hưởng đến tiền cọc."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Hyvä. Mulla on kuvat muuttopäivästä, jos tarvitaan.",
+              "en": "Good. I have photos from moving-in day, if needed.",
+              "vi": "Tốt. Tôi có ảnh từ ngày dọn vào, nếu cần."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Ei tarvita, kaikki on kunnossa. Mä palautan vakuuden ens viikolla.",
+              "en": "Not needed, everything's in order. I'll return the deposit next week.",
+              "vi": "Không cần, mọi thứ đều ổn. Tôi trả lại tiền cọc tuần sau."
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Kiitos. Voitsä laittaa pöytäkirjan sähköpostilla?",
+              "en": "Thanks. Could you send the record by email?",
+              "vi": "Cảm ơn anh. Anh gửi biên bản qua email được không ạ?"
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "fi": "Laitan tänään. Ja muistatsä tehdä muuttoilmoituksen?",
+              "en": "I'll send it today. And do you remember to file the change of address?",
+              "vi": "Tôi gửi hôm nay. Và anh có nhớ khai đổi địa chỉ chưa?"
+            },
+            {
+              "speaker": "Duc",
+              "fi": "Mä tein sen jo netissä. Kiitos kaikesta!",
+              "en": "I did it online already. Thanks for everything!",
+              "vi": "Tôi khai trên mạng rồi. Cảm ơn anh về mọi thứ!"
+            }
+          ],
+          "title_vi": "Buổi kiểm tra cuối cùng",
+          "setting_vi": "Lúc dọn ra. Tiền cọc phụ thuộc vào mười phút tới.",
+          "note_vi": "«Normaalia kulumista» là cụm từ quan trọng. Bạn không chịu trách nhiệm về nó."
+        }
+      ],
+      "roleplays": [
+        {
+          "title": "Sign a lease without losing money",
+          "scenario": "Check the contract type, notice period, deposit, bills and inspection before signing.",
+          "your_role": "You, about to sign",
+          "partner_role": "The landlord",
+          "turns": [
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Tässä on sopimus. Katso se läpi rauhassa.",
+              "en": "Here's the contract. Look through it at your own pace.",
+              "vi": "Hợp đồng đây. Anh cứ đọc thong thả."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kiitos. Onks tää toistaiseksi voimassa vai määräaikainen?",
+              "en": "Thanks. Is this open-ended or fixed-term?",
+              "hint": "It determines whether you can leave. Ask before signing.",
+              "vi": "Cảm ơn anh. Cái này là không thời hạn hay có thời hạn cố định ạ?",
+              "hint_vi": "Nó quyết định bạn có rời đi được hay không. Hỏi trước khi ký."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Toistaiseksi voimassa.",
+              "en": "Open-ended.",
+              "vi": "Không thời hạn."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Hyvä. Mikä on irtisanomisaika?",
+              "en": "Good. What's the notice period?",
+              "hint": "One month for you, three for the landlord. Confirm it's written.",
+              "vi": "Tốt. Thời gian báo trước là bao lâu ạ?",
+              "hint_vi": "Một tháng với bạn, ba tháng với chủ nhà. Xác nhận là có ghi."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Sulle yks kuukausi, mulle kolme.",
+              "en": "One month for you, three for me.",
+              "vi": "Anh một tháng, tôi ba tháng."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Paljonko vakuus on, ja milloin mä saan sen takaisin?",
+              "en": "How much is the deposit, and when do I get it back?",
+              "hint": "Ask both halves in one question. Get a receipt for the payment.",
+              "vi": "Tiền cọc là bao nhiêu, và khi nào tôi nhận lại ạ?",
+              "hint_vi": "Hỏi cả hai nửa trong một câu. Hãy lấy biên nhận khi trả."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Kaks kuukauden vuokra, takaisin kuukauden sisällä.",
+              "en": "Two months' rent, back within a month.",
+              "vi": "Hai tháng tiền thuê, nhận lại trong vòng một tháng."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Kuuluuks vesi vuokraan? Ja pitääks mä tehdä sähkösopimus itse?",
+              "en": "Is water included? And do I arrange the electricity myself?",
+              "hint": "Both are usually separate. Sort the electricity before you move in.",
+              "vi": "Tiền nước có tính trong tiền thuê không? Và tôi có phải tự làm hợp đồng điện ạ?",
+              "hint_vi": "Cả hai thường tính riêng. Lo hợp đồng điện trước khi dọn vào."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Vesi erikseen, sähkö sun pitää hoitaa itse.",
+              "en": "Water separately, electricity is yours to arrange.",
+              "vi": "Nước tính riêng, điện anh tự lo."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Selvä. Tehdäänks tarkastus ennen kun mä muutan sisään?",
+              "en": "Right. Do we do an inspection before I move in?",
+              "hint": "Insist at both ends. Photograph everything yourself.",
+              "vi": "Vâng. Mình có làm buổi kiểm tra trước khi tôi dọn vào không ạ?",
+              "hint_vi": "Hãy yêu cầu ở cả hai đầu. Tự chụp ảnh mọi thứ."
+            },
+            {
+              "speaker": "Vuokranantaja",
+              "is_your_turn": false,
+              "fi": "Joo, avainten luovutuksessa.",
+              "en": "Yes, at the key handover.",
+              "vi": "Có, lúc giao chìa khoá."
+            },
+            {
+              "speaker": "You",
+              "is_your_turn": true,
+              "fi": "Voinks mä saada pöytäkirjan kirjallisena? Ja mikä on seuraava askel?",
+              "en": "Could I get the record in writing? And what's the next step?",
+              "hint": "The written record protects your deposit. Then get the next action.",
+              "vi": "Tôi xin biên bản bằng văn bản được không? Và bước tiếp theo là gì ạ?",
+              "hint_vi": "Biên bản bảo vệ tiền cọc của bạn. Rồi lấy việc cần làm tiếp theo."
+            }
+          ],
+          "title_vi": "Ký hợp đồng thuê mà không mất tiền",
+          "scenario_vi": "Kiểm tra loại hợp đồng, thời gian báo trước, tiền cọc, các khoản phí và buổi kiểm tra trước khi ký.",
+          "your_role_vi": "Bạn, sắp ký",
+          "partner_role_vi": "Chủ nhà"
+        }
+      ],
+      "title_vi": "Dọn vào và dọn ra",
+      "subtitle_vi": "Taloyhtiö, isännöitsijä, vuokranantaja",
+      "warmup_situation_vi": "Bạn đã ký hợp đồng thuê. Có tiền cọc, một buổi kiểm tra bàn giao, một tờ khai đổi địa chỉ, một bảng tên phải đặt và một hợp đồng điện phải mở — tất cả trong cùng một tuần.",
+      "warmup_question_vi": "Những gì phải xong trước khi bạn nhận chìa khoá, và những gì phải xong trước khi bạn lấy lại tiền cọc?",
+      "rescue_vi": "Bước tiếp theo là gì ạ?",
+      "rescue_note_vi": "Việc dọn nhà liên quan đến năm sáu tổ chức không nói chuyện với nhau, và hỏi câu này ở cuối mỗi cuộc trò chuyện giúp bạn đi hết danh sách. Chủ nhà và người quản lý toà nhà trả lời rất chính xác vì họ đã làm việc này cả nghìn lần."
+    }
+  ],
+  "title_vi": "Hàng xóm và chuyện nhà ở",
+  "subtitle_vi": "Sống trong một taloyhtiö mà không có những khoảng lặng khó xử.",
+  "description_vi": "Một toà nhà chung cư Phần Lan vận hành bằng quy định viết ra, lịch phân công chung và rất nhiều sự im lặng. Chương này bao gồm lời chào ở cầu thang — kể cả khi nào thì không chào — lịch sauna và phòng giặt, báo sự cố cho bên bảo trì, nói thẳng với hàng xóm về tiếng ồn và chỗ đỗ xe, và giấy tờ khi dọn vào và dọn ra. Chủ đề xuyên suốt: gần như mọi vấn đề ở đây đều được giải quyết bằng một tin nhắn ngắn gửi đúng người."
+}
