@@ -1,5 +1,6 @@
 import { StrictMode, useEffect, useState } from 'react';
 import { createRoot } from 'react-dom/client';
+import './lib/debug';
 import ModuleList from './components/ModuleList';
 import Lesson from './components/Lesson';
 import AppStatus from './components/AppStatus';

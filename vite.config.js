@@ -59,7 +59,11 @@ export default defineConfig({
       devOptions: { enabled: false },
     }),
   ],
-  define: { __AUDIO_PACK__: JSON.stringify(audioPack) },
+  define: {
+    __AUDIO_PACK__: JSON.stringify(audioPack),
+    // Logged at startup: tells a stale service worker apart from a real bug.
+    __BUILD_ID__: JSON.stringify(new Date().toISOString().slice(0, 19).replace('T', ' ')),
+  },
   root: 'client',
   build: { outDir: '../dist', emptyOutDir: true },
   server: { port: 5173 },

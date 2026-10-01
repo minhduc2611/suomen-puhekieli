@@ -10,6 +10,7 @@
 //
 // One <audio> element is shared for the whole app, so starting a clip stops the old one.
 import { audioUrl } from './content';
+import { log, warn } from './debug';
 
 let el = null;
 let detach = null;      // removes the current clip's listeners from the shared element
@@ -139,17 +140,19 @@ function speak(text, speed) {
       clearTimeout(watchdog);
       fn(arg);
     };
-    utterance.onstart = () => { started = true; setProblem(null); };
-    utterance.onend = () => finish(resolve);
+    utterance.onstart = () => { started = true; setProblem(null); log('speech started'); };
+    utterance.onend = () => { log('speech ended'); finish(resolve); };
     utterance.onerror = (event) => {
       // 'interrupted'/'canceled' are our own stop(), not a fault.
       const reason = event?.error ?? 'failed';
-      if (reason !== 'interrupted' && reason !== 'canceled') setProblem(reason);
+      if (reason !== 'interrupted' && reason !== 'canceled') { setProblem(reason); warn('speech error:', reason); }
       finish(reject, new Error(`Speech ${reason}`));
     };
 
     const watchdog = setTimeout(() => {
       if (started) return;
+      warn('speech never started after 2s —', fi ? `voice ${fi.name}` : 'no Finnish voice',
+        '· speaking:', synth.speaking, 'pending:', synth.pending, 'paused:', synth.paused);
       synth.cancel();
       setProblem(fi ? 'silent' : 'no-voice');
       reject(new Error('Speech did not start'));
@@ -158,6 +161,8 @@ function speak(text, speed) {
     const start = () => {
       if (synth.paused) synth.resume();
       synth.speak(utterance);
+      log('speak() called ·', `"${text.slice(0, 40)}"`, '· voice:', utterance.voice?.name ?? '(engine default)',
+        '· lang:', utterance.lang || '(unset)', '· rate:', utterance.rate);
     };
     if (synth.speaking || synth.pending) {
       synth.cancel();
@@ -188,7 +193,11 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
   };
 
   // No pack served, no id, or a clip already known to be missing: the device speaks.
-  if (!audioPackAvailable() || !aid || missing.has(aid)) return fallback();
+  if (!audioPackAvailable() || !aid || missing.has(aid)) {
+    log('play →', audioPackAvailable() ? 'device voice (no file for this line)' : 'device voice (no pack in this build)');
+    return fallback();
+  }
+  log('play → file', audioUrl(aid, speed));
 
   // Drop the previous clip's listeners first: the element is shared, so otherwise
   // this clip's 'ended' would also resolve the last clip's promise, and its 'error'
@@ -215,6 +224,7 @@ export function play(text, { speed = 'normal', key = text, aid = null } = {}) {
     };
     const onErr = () => {
       // No file for this clip: remember it and let the device voice take over.
+      warn('audio file failed, falling back to the device voice:', audioUrl(aid, speed));
       cleanup();
       if (superseded()) return reject(new Error('Superseded'));
       missing.add(aid);
