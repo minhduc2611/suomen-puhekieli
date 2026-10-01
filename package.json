@@ -12,7 +12,8 @@
     "dev": "npm run content && vite",
     "build": "npm run content && vite build",
     "preview": "vite preview",
-    "deploy": "VITE_NO_AUDIO_PACK=1 npm run build && rm -rf dist/audio && npx netlify-cli deploy --prod --dir=dist"
+    "deploy": "VITE_NO_AUDIO_PACK=1 npm run build && rm -rf dist/audio && npx netlify-cli deploy --prod --dir=dist",
+    "deploy:with-audio": "npm run build && npx netlify-cli deploy --prod --dir=dist"
   },
   "dependencies": {},
   "devDependencies": {

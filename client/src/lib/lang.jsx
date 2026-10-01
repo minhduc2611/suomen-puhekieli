@@ -54,6 +54,13 @@ const UI = {
     audioSaved: '✓ Available offline',
     audioMissing: 'No audio files — using the device voice',
     noFinnishVoice: '⚠ No Finnish voice on this device — tap for how to add one',
+    speechFailed: '⚠ Audio did not play — tap for why',
+    speechUnsupported: 'This browser has no speech support, so it cannot read the Finnish aloud. '
+      + 'Try Safari or Chrome.',
+    speechSilent: 'The speech engine accepted the line but played nothing. Tap play once more — '
+      + 'if it keeps happening, the installed Finnish voice may need re-downloading.',
+    voicesSeen: (n, name) => `This device reports ${n} voice${n === 1 ? '' : 's'}`
+      + (name ? `, Finnish: ${name}.` : ', none of them Finnish.'),
     installVoice: 'iOS: Settings → Accessibility → Spoken Content → Voices → Finnish. '
       + 'Android: Settings → System → Languages → Text-to-speech output → install Finnish. '
       + 'Without it the Finnish is read by another language\u2019s voice and comes out wrong.',
@@ -85,6 +92,13 @@ const UI = {
     audioSaved: '✓ Dùng được ngoại tuyến',
     audioMissing: 'Chưa có tệp âm thanh — đang dùng giọng của máy',
     noFinnishVoice: '⚠ Máy chưa có giọng tiếng Phần Lan — bấm để xem cách cài',
+    speechFailed: '⚠ Không phát được âm thanh — bấm để xem vì sao',
+    speechUnsupported: 'Trình duyệt này không hỗ trợ đọc thành tiếng nên không đọc được tiếng Phần Lan. '
+      + 'Hãy thử Safari hoặc Chrome.',
+    speechSilent: 'Bộ đọc đã nhận câu nhưng không phát ra gì. Hãy bấm phát thêm một lần — '
+      + 'nếu vẫn vậy thì có thể cần tải lại giọng tiếng Phần Lan đã cài.',
+    voicesSeen: (n, name) => `Máy này báo có ${n} giọng`
+      + (name ? `, tiếng Phần Lan: ${name}.` : ', không có giọng tiếng Phần Lan nào.'),
     installVoice: 'iOS: Cài đặt → Trợ năng → Nội dung đọc → Giọng nói → Tiếng Phần Lan. '
       + 'Android: Cài đặt → Hệ thống → Ngôn ngữ → Đầu ra chuyển văn bản thành lời nói → cài tiếng Phần Lan. '
       + 'Không có nó thì tiếng Phần Lan sẽ bị đọc bằng giọng của ngôn ngữ khác và sai hoàn toàn.',

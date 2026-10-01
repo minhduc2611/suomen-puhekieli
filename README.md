@@ -28,7 +28,8 @@ see [Audio](#audio).
 | `npm run build` | Compile content, then build `dist/` |
 | `npm run preview` | Serve the built `dist/` — the only way to exercise the service worker |
 | `npm run verify` | Check every spoken line has an audio id and a file, and that prev/next is intact |
-| `npm run deploy` | Build and upload `dist/` to Netlify |
+| `npm run deploy` | Build without the MP3 pack and upload `dist/` to Netlify |
+| `npm run deploy:with-audio` | Same, but ships the generated pack (~290 MB) |
 
 `dist/` is plain static files: copy it to any static host (Netlify, GitHub Pages, a folder behind
 nginx). Nothing server-side runs.
@@ -40,8 +41,12 @@ involved, so any static host works and a git-driven build needs nothing special;
 builds with `npm run content && npm run build`.
 
 ```bash
-npm run deploy      # build without the MP3 pack, then netlify deploy --prod
+npm run deploy             # build without the MP3 pack, then netlify deploy --prod
+npm run deploy:with-audio  # ~290 MB: ships the pack, so every device sounds the same
 ```
+
+`deploy:with-audio` is the answer if the device voice disappoints — a phone with no Finnish voice
+installed can't speak Finnish at all, and the pack sidesteps that without putting 280 MB in git.
 
 If you ever *do* want to serve the pre-generated pack, build with it present (`npm run audio` first,
 then `npm run build`) and upload the result — it's ~290 MB — or host the clips separately and point
